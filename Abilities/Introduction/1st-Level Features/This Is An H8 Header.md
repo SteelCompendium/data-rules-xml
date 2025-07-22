@@ -16,6 +16,7 @@
     <cost_resource>Energy</cost_resource>
     <level>1</level>
     <name>This Is An H8 Header</name>
+    <taxonomy>introduction/1st-level-features/this-is-an-h8-header</taxonomy>
     <type>ability</type>
   </metadata>
   <effects>
