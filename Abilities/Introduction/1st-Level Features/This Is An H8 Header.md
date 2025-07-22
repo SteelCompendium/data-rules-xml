@@ -12,6 +12,8 @@
   <metadata>
     <class>introduction</class>
     <cost>8 Energy</cost>
+    <cost_amount>8</cost_amount>
+    <cost_resource>Energy</cost_resource>
     <level>1</level>
     <name>This Is An H8 Header</name>
     <type>ability</type>
