@@ -10,13 +10,15 @@
   <distance>Ranged 10</distance>
   <target>One creature or object</target>
   <metadata>
-    <class>introduction</class>
+    <file_dpath>Introduction/1st-Level Features</file_dpath>
+    <header_name>This is an H8 Header (8 Energy)</header_name>
+    <name>This is an H8 Header</name>
+    <taxonomy>heroes/introduction/1st-level-features/this-is-an-h8-header</taxonomy>
     <cost>8 Energy</cost>
     <cost_amount>8</cost_amount>
     <cost_resource>Energy</cost_resource>
     <level>1</level>
-    <name>This Is An H8 Header</name>
-    <taxonomy>introduction/1st-level-features/this-is-an-h8-header</taxonomy>
+    <class>Introduction</class>
     <type>ability</type>
   </metadata>
   <effects>
