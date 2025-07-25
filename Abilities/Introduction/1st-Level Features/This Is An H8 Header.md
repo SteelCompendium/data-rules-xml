@@ -10,15 +10,18 @@
   <distance>Ranged 10</distance>
   <target>One creature or object</target>
   <metadata>
-    <file_dpath>Introduction/1st-Level Features</file_dpath>
-    <header_name>This is an H8 Header (8 Energy)</header_name>
-    <name>This is an H8 Header</name>
-    <taxonomy>heroes/introduction/1st-level-features/this-is-an-h8-header</taxonomy>
+    <class>introduction</class>
     <cost>8 Energy</cost>
     <cost_amount>8</cost_amount>
     <cost_resource>Energy</cost_resource>
+    <file_dpath>Introduction/1st-Level Features</file_dpath>
+    <header_name>This is an H8 Header (8 Energy)</header_name>
     <level>1</level>
-    <class>introduction</class>
+    <name>This is an H8 Header</name>
+    <scc>mcdm.heroes.v1:feature/ability/introduction/1st-level-feature:01</scc>
+    <scdc>1.1.1:1.1.1.1:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <taxonomy>mcdm/heroes/v1/introduction/1st-level-features/this-is-an-h8-header</taxonomy>
     <type>feature/ability/introduction/1st-level-feature</type>
   </metadata>
   <effects>
