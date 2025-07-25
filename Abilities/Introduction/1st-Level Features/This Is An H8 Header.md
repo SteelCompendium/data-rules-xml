@@ -19,10 +19,9 @@
     <item_name>This is an H8 Header (8 Energy)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.introduction.1st-level-feature:this-is-an-h8-header-8-energy</scc>
-    <scdc>1.1.1:3.1.1.1:17</scdc>
+    <scdc>1.1.1:3.1.1.1:01</scdc>
     <section_name>TODO-ability section name</section_name>
     <source>mcdm.heroes.v1</source>
-    <taxonomy>introduction/1st-level-features/this-is-an-h8-header-8-energy</taxonomy>
     <type>feature/ability/introduction/1st-level-feature</type>
   </metadata>
   <effects>

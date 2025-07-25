@@ -7,10 +7,9 @@
     <item_name>This is a Feature</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.introduction.1st-level-feature:this-is-a-feature</scc>
-    <scdc>1.1.1:3.2.1.1:17</scdc>
+    <scdc>1.1.1:3.2.1.1:01</scdc>
     <section_name>TODO-ability section name</section_name>
     <source>mcdm.heroes.v1</source>
-    <taxonomy>introduction/1st-level-features/this-is-a-feature</taxonomy>
     <type>feature/trait/introduction/1st-level-feature</type>
   </metadata>
   <effects>
