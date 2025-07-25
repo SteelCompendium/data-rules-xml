@@ -19,7 +19,7 @@
     <item_name>This is an H8 Header (8 Energy)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.introduction.1st-level-feature:this-is-an-h8-header-8-energy</scc>
-    <scdc>1.1.1:3.1.1.1:03</scdc>
+    <scdc>1.1.1:3.1.1.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/introduction/1st-level-feature</type>
   </metadata>
