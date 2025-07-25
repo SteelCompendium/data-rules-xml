@@ -7,7 +7,7 @@
     <item_name>This is a Feature</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.introduction.1st-level-feature:this-is-a-feature</scc>
-    <scdc>1.1.1:3.2.1.1:02</scdc>
+    <scdc>1.1.1:3.2.1.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/introduction/1st-level-feature</type>
   </metadata>
