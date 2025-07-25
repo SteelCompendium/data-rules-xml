@@ -6,8 +6,8 @@
     <name>This is a Feature</name>
     <taxonomy>introduction/1st-level-features/this-is-a-feature</taxonomy>
     <level>1</level>
-    <class>Introduction</class>
-    <type>feature</type>
+    <class>introduction</class>
+    <type>feature/introduction/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.</effect>

@@ -18,8 +18,8 @@
     <cost_amount>8</cost_amount>
     <cost_resource>Energy</cost_resource>
     <level>1</level>
-    <class>Introduction</class>
-    <type>ability</type>
+    <class>introduction</class>
+    <type>feature/ability/introduction/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">
