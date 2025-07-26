@@ -16,6 +16,7 @@
     <cost_resource>Energy</cost_resource>
     <file_dpath>Introduction/1st-Level Features</file_dpath>
     <item_id>this-is-an-h8-header-8-energy</item_id>
+    <item_index>01</item_index>
     <item_name>This is an H8 Header (8 Energy)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.introduction.1st-level-feature:this-is-an-h8-header-8-energy</scc>

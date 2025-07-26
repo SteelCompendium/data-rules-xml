@@ -4,6 +4,7 @@
     <class>introduction</class>
     <file_dpath>Introduction/1st-Level Features</file_dpath>
     <item_id>this-is-a-feature</item_id>
+    <item_index>01</item_index>
     <item_name>This is a Feature</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.introduction.1st-level-feature:this-is-a-feature</scc>
