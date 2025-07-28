@@ -14,6 +14,7 @@
     <cost>8 Energy</cost>
     <cost_amount>8</cost_amount>
     <cost_resource>Energy</cost_resource>
+    <feature_type>ability</feature_type>
     <file_dpath>Introduction/1st-Level Features</file_dpath>
     <item_id>this-is-an-h8-header-8-energy</item_id>
     <item_index>01</item_index>

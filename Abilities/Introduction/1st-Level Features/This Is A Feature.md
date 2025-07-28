@@ -2,6 +2,7 @@
   <name>This is a Feature</name>
   <metadata>
     <class>introduction</class>
+    <feature_type>trait</feature_type>
     <file_dpath>Introduction/1st-Level Features</file_dpath>
     <item_id>this-is-a-feature</item_id>
     <item_index>01</item_index>
