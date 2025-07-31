@@ -8,7 +8,7 @@
     <item_name>Perk</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:perk</scc>
-    <scdc>1.1.1:5.1.13.6:01</scdc>
+    <scdc>1.1.1:5.1.4.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/2nd-level-feature</type>
   </metadata>

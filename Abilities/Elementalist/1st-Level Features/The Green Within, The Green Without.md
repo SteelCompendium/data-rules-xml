@@ -19,7 +19,7 @@
     <item_name>The Green Within, the Green Without</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:the-green-within-the-green-without</scc>
-    <scdc>1.1.1:5.1.13.1:29</scdc>
+    <scdc>1.1.1:5.1.4.1:29</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

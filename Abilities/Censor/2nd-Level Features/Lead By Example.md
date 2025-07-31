@@ -8,7 +8,7 @@
     <item_name>Lead by Example</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example</scc>
-    <scdc>1.1.1:5.1.11.6:08</scdc>
+    <scdc>1.1.1:5.1.2.6:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/2nd-level-feature</type>
   </metadata>

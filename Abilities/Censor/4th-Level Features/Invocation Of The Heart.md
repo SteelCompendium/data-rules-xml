@@ -8,7 +8,7 @@
     <item_name>Invocation of the Heart</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:invocation-of-the-heart</scc>
-    <scdc>1.1.1:5.1.11.10:05</scdc>
+    <scdc>1.1.1:5.1.2.10:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

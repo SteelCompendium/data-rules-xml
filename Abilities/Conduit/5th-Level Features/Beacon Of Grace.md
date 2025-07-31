@@ -22,7 +22,7 @@
     <item_name>Beacon of Grace (9 Piety)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:beacon-of-grace-9-piety</scc>
-    <scdc>1.1.1:5.2.8.4:01</scdc>
+    <scdc>1.1.1:5.2.3.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/5th-level-feature</type>
   </metadata>

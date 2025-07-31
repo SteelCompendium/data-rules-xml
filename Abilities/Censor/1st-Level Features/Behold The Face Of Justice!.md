@@ -24,7 +24,7 @@
     <item_name>Behold the Face of Justice! (5 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-the-face-of-justice-5-wrath</scc>
-    <scdc>1.1.1:5.2.7.1:04</scdc>
+    <scdc>1.1.1:5.2.2.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

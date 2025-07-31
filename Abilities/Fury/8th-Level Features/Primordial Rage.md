@@ -1,0 +1,29 @@
+<ability>
+  <name>Primordial Rage</name>
+  <cost>11 Ferocity</cost>
+  <keywords>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Self</distance>
+  <target>Self</target>
+  <metadata>
+    <class>fury</class>
+    <cost>11 Ferocity</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Ferocity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Fury/8th-Level Features</file_dpath>
+    <item_id>primordial-rage-11-ferocity</item_id>
+    <item_index>03</item_index>
+    <item_name>Primordial Rage (11 Ferocity)</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.ability.fury.8th-level-feature:primordial-rage-11-ferocity</scc>
+    <scdc>1.1.1:5.2.1.2:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/fury/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, you can choose one target of any ability you use, with that target taking an extra 15 damage of the chosen type. Additionally, whenever you gain ferocity from taking damage, the source of the damage takes 5 damage of the chosen type.</effect>
+  </effects>
+</ability>

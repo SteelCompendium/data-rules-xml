@@ -15,7 +15,7 @@
     <item_name>5th-Level Order Features Table</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.5th-level-feature:5th-level-order-features-table</scc>
-    <scdc>1.1.1:5.1.11.5:03</scdc>
+    <scdc>1.1.1:5.1.2.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/5th-level-feature</type>
   </metadata>

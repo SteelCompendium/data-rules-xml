@@ -22,7 +22,7 @@
     <item_name>Violence Will Not Aid Thee (3 Piety)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee-3-piety</scc>
-    <scdc>1.1.1:5.2.8.1:06</scdc>
+    <scdc>1.1.1:5.2.3.1:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>

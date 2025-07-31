@@ -8,7 +8,7 @@
     <item_name>Stalwart Icon</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:stalwart-icon</scc>
-    <scdc>1.1.1:5.1.11.6:07</scdc>
+    <scdc>1.1.1:5.1.2.6:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/2nd-level-feature</type>
   </metadata>

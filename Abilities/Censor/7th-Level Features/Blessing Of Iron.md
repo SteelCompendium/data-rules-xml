@@ -8,7 +8,7 @@
     <item_name>Blessing of Iron</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:blessing-of-iron</scc>
-    <scdc>1.1.1:5.1.11.9:06</scdc>
+    <scdc>1.1.1:5.1.2.9:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>

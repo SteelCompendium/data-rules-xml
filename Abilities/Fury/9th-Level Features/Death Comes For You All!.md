@@ -1,0 +1,39 @@
+<ability>
+  <name>Death Comes for You All!</name>
+  <cost>11 Ferocity</cost>
+  <flavor>You use your weapon to create a destructive shockwave.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>3 burst</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>fury</class>
+    <cost>11 Ferocity</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Ferocity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Fury/9th-Level Features</file_dpath>
+    <item_id>death-comes-for-you-all-11-ferocity</item_id>
+    <item_index>01</item_index>
+    <item_name>Death Comes for You All! (11 Ferocity)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all-11-ferocity</scc>
+    <scdc>1.1.1:5.2.1.6:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/fury/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>7 damage; push 3</t1>
+      <t2>10 damage; push 5</t2>
+      <t3>15 damage; push 7</t3>
+    </effect>
+    <effect type="mundane">If this forced movement causes a target to be hurled through an object, that target takes an extra 10 damage.</effect>
+  </effects>
+</ability>

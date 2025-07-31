@@ -8,7 +8,7 @@
     <item_name>Enchantment of Distance</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-distance</scc>
-    <scdc>1.1.1:5.1.13.1:22</scdc>
+    <scdc>1.1.1:5.1.4.1:22</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

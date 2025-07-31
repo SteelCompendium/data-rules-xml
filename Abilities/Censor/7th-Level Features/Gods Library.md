@@ -8,7 +8,7 @@
     <item_name>Gods&apos; Library</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:gods-library</scc>
-    <scdc>1.1.1:5.1.11.9:04</scdc>
+    <scdc>1.1.1:5.1.2.9:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>

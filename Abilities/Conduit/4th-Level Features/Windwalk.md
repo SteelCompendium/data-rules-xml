@@ -9,7 +9,7 @@
     <item_name>Windwalk</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk</scc>
-    <scdc>1.1.1:5.1.12.10:17</scdc>
+    <scdc>1.1.1:5.1.3.10:17</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/4th-level-feature</type>
   </metadata>

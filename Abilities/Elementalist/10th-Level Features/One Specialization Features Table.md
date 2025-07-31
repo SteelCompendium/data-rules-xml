@@ -15,7 +15,7 @@
     <item_name>One Specialization Features Table</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:one-specialization-features-table</scc>
-    <scdc>1.1.1:5.1.13.4:02</scdc>
+    <scdc>1.1.1:5.1.4.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/10th-level-feature</type>
   </metadata>

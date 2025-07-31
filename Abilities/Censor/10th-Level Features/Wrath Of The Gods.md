@@ -8,7 +8,7 @@
     <item_name>Wrath of the Gods</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.10th-level-feature:wrath-of-the-gods</scc>
-    <scdc>1.1.1:5.1.11.4:05</scdc>
+    <scdc>1.1.1:5.1.2.4:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/10th-level-feature</type>
   </metadata>

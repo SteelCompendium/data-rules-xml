@@ -8,7 +8,7 @@
     <item_name>Blessing of Compassion</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:blessing-of-compassion</scc>
-    <scdc>1.1.1:5.1.11.1:17</scdc>
+    <scdc>1.1.1:5.1.2.1:17</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/1st-level-feature</type>
   </metadata>
