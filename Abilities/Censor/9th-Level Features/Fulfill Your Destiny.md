@@ -1,0 +1,32 @@
+<ability>
+  <name>Fulfill Your Destiny</name>
+  <cost>11 Wrath</cost>
+  <flavor>You have looked at various futures, and only this one works.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Triggered</type>
+  <distance>Ranged 10</distance>
+  <target>One ally</target>
+  <trigger>You or another hero ends their turn.</trigger>
+  <metadata>
+    <class>censor</class>
+    <cost>11 Wrath</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Wrath</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Censor/9th-Level Features</file_dpath>
+    <item_id>fulfill-your-destiny-11-wrath</item_id>
+    <item_index>02</item_index>
+    <item_name>Fulfill Your Destiny (11 Wrath)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.censor.9th-level-feature:fulfill-your-destiny-11-wrath</scc>
+    <scdc>1.1.1:5.1.1.7:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/censor/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on poºwer rolls.</effect>
+  </effects>
+</ability>

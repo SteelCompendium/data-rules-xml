@@ -1,0 +1,27 @@
+<ability>
+  <name>Earth Accepts Me</name>
+  <flavor>You can slip into the stone.</flavor>
+  <keywords>
+    <keyword>Earth</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Self</distance>
+  <target>Self</target>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/3rd-Level Features</file_dpath>
+    <item_id>earth-accepts-me</item_id>
+    <item_index>04</item_index>
+    <item_name>Earth Accepts Me</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:earth-accepts-me</scc>
+    <scdc>1.1.1:5.2.3.7:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside it, but you don&apos;t have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.</effect>
+  </effects>
+</ability>

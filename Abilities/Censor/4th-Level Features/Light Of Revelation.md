@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>censor</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Censor/4th-Level Features</file_dpath>
+    <item_id>light-of-revelation</item_id>
+    <item_index>16</item_index>
+    <item_name>Light of Revelation</item_name>
+    <level>4</level>
+    <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:light-of-revelation</scc>
+    <scdc>1.1.1:5.2.1.10:16</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/censor/4th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares until you dismiss the light (no action required). This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&apos;t hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.</effect>
+  </effects>
+</ability>

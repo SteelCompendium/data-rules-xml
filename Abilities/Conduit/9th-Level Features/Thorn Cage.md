@@ -1,0 +1,38 @@
+<ability>
+  <name>Thorn Cage</name>
+  <cost>11 Piety</cost>
+  <flavor>Vines burst forth from the ground and bind your foe, slowly closing around them.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>conduit</class>
+    <cost>11 Piety</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Piety</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Conduit/9th-Level Features</file_dpath>
+    <item_id>thorn-cage-11-piety</item_id>
+    <item_index>11</item_index>
+    <item_name>Thorn Cage (11 Piety)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:thorn-cage-11-piety</scc>
+    <scdc>1.1.1:5.1.2.7:11</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/conduit/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Intuition</roll>
+      <t1>10 + I damage; A &lt; WEAK, restrained (save ends)</t1>
+      <t2>15 + I damage; A &lt; AVERAGE, restrained (save ends)</t2>
+      <t3>21 + I damage; A &lt; STRONG, restrained (save ends)</t3>
+    </effect>
+    <effect type="mundane">While restrained this way, the target takes 10 damage at the start of each of your turns.</effect>
+  </effects>
+</ability>

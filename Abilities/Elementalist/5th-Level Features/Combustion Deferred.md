@@ -1,0 +1,39 @@
+<ability>
+  <name>Combustion Deferred</name>
+  <cost>9 Essence</cost>
+  <flavor>Your flames dance from kindling to kindling to kindling.</flavor>
+  <keywords>
+    <keyword>Fire</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>elementalist</class>
+    <cost>9 Essence</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Essence</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Elementalist/5th-Level Features</file_dpath>
+    <item_id>combustion-deferred-9-essence</item_id>
+    <item_index>02</item_index>
+    <item_name>Combustion Deferred (9 Essence)</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:combustion-deferred-9-essence</scc>
+    <scdc>1.1.1:5.1.3.4:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/elementalist/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>8 + R fire damage</t1>
+      <t2>13 + R fire damage</t2>
+      <t3>17 + R fire damage</t3>
+    </effect>
+    <effect type="mundane">When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</effect>
+  </effects>
+</ability>

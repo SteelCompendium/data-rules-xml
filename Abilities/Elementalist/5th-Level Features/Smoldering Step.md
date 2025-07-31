@@ -1,0 +1,19 @@
+<ability>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/5th-Level Features</file_dpath>
+    <item_id>smoldering-step</item_id>
+    <item_index>02</item_index>
+    <item_name>Smoldering Step</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step</scc>
+    <scdc>1.1.1:5.2.3.5:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You can use 1 square of movement to walk into an area of fire your size or larger and teleport to any other area of fire your size or larger within 10 squares of the first area.
+Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.</effect>
+  </effects>
+</ability>

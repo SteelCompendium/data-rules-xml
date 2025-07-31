@@ -1,0 +1,39 @@
+<ability>
+  <name>Maw of Earth</name>
+  <cost>7 Essence</cost>
+  <flavor>You open up the ground, spewing out shrapnel of stone and debris.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Earth</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>3 cube within 10</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>elementalist</class>
+    <cost>7 Essence</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Essence</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Elementalist/3rd-Level Features</file_dpath>
+    <item_id>maw-of-earth-7-essence</item_id>
+    <item_index>04</item_index>
+    <item_name>Maw of Earth (7 Essence)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:maw-of-earth-7-essence</scc>
+    <scdc>1.1.1:5.1.3.6:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/elementalist/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>5 damage</t1>
+      <t2>9 damage</t2>
+      <t3>12 damage</t3>
+    </effect>
+    <effect type="mundane">The ground in or directly beneath the area drops 3 squares.</effect>
+  </effects>
+</ability>

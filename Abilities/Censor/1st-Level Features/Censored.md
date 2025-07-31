@@ -1,0 +1,38 @@
+<ability>
+  <name>Censored</name>
+  <cost>5 Wrath</cost>
+  <flavor>Judged and sentenced.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main Action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>censor</class>
+    <cost>5 Wrath</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Wrath</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Censor/1st-Level Features</file_dpath>
+    <item_id>censored-5-wrath</item_id>
+    <item_index>05</item_index>
+    <item_name>Censored (5 Wrath)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:censored-5-wrath</scc>
+    <scdc>1.1.1:5.1.1.1:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/censor/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>2 + M holy damage</t1>
+      <t2>3 + M holy damage</t2>
+      <t3>5 + M holy damage</t3>
+    </effect>
+    <effect type="mundane">When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</effect>
+  </effects>
+</ability>

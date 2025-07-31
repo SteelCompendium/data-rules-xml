@@ -1,0 +1,19 @@
+<ability>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/5th-Level Features</file_dpath>
+    <item_id>the-mountain-does-not-move</item_id>
+    <item_index>01</item_index>
+    <item_name>The Mountain Does Not Move</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move</scc>
+    <scdc>1.1.1:5.2.3.5:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You stand firm and magnetize your allies to stay grounded. Your stability increases by your level.
+Additionally, whenever an ally within distance of your Hurl Element ability is force moved, you can use a free triggered action to decrease your stability down to a minimum of 0, then increase the ally&apos;s stability by an amount equal to the stability you lost. This change lasts until the end of the round.</effect>
+  </effects>
+</ability>

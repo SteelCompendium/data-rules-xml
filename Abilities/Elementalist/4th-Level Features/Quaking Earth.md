@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/4th-Level Features</file_dpath>
+    <item_id>quaking-earth</item_id>
+    <item_index>01</item_index>
+    <item_name>Quaking Earth</item_name>
+    <level>4</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:quaking-earth</scc>
+    <scdc>1.1.1:5.2.3.10:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/4th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">At the end of each of your turns, you can push each enemy in the area up to a number of squares equal to your Reason score.</effect>
+  </effects>
+</ability>

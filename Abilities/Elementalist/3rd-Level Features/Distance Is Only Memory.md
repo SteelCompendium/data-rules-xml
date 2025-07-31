@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/3rd-Level Features</file_dpath>
+    <item_id>distance-is-only-memory</item_id>
+    <item_index>01</item_index>
+    <item_name>Distance Is Only Memory</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:distance-is-only-memory</scc>
+    <scdc>1.1.1:5.2.3.7:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each time you finish a respite, you can open a two-way portal that leads to any place you have previously been. You and your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as a main action.</effect>
+  </effects>
+</ability>

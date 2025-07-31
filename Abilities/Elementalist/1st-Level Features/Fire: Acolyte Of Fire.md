@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <item_id>fire-acolyte-of-fire</item_id>
+    <item_index>17</item_index>
+    <item_name>Fire: Acolyte of Fire</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:fire-acolyte-of-fire</scc>
+    <scdc>1.1.1:5.2.3.1:17</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You become an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 bonus to rolled damage. Your Hurl Element ability (see below) also gains this bonus when you use it to deal fire damage.</effect>
+  </effects>
+</ability>

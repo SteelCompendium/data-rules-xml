@@ -1,0 +1,34 @@
+<ability>
+  <name>Wall of Fire</name>
+  <cost>7 Essence</cost>
+  <flavor>A blazing, beautifully organized inferno erupts at your command.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Fire</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>10 wall within 10</distance>
+  <target>Special</target>
+  <metadata>
+    <class>elementalist</class>
+    <cost>7 Essence</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Essence</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Elementalist/3rd-Level Features</file_dpath>
+    <item_id>wall-of-fire-7-essence</item_id>
+    <item_index>03</item_index>
+    <item_name>Wall of Fire (7 Essence)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:wall-of-fire-7-essence</scc>
+    <scdc>1.1.1:5.1.3.6:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/elementalist/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.</effect>
+    <effect type="mundane" name="Persistent 1">The wall lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.</effect>
+  </effects>
+</ability>

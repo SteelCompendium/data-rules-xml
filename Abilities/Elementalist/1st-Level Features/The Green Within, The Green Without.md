@@ -1,0 +1,35 @@
+<ability>
+  <name>The Green Within, the Green Without</name>
+  <flavor>Whipping vines erupt from a foe&apos;s body to grasp at another close by.</flavor>
+  <keywords>
+    <keyword>Green</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <item_id>the-green-within-the-green-without</item_id>
+    <item_index>29</item_index>
+    <item_name>The Green Within, the Green Without</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:the-green-within-the-green-without</scc>
+    <scdc>1.1.1:5.2.3.1:29</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>2 + R damage</t1>
+      <t2>5 + R damage</t2>
+      <t3>7 + Rdamage</t3>
+    </effect>
+    <effect type="mundane">You slide one creature within 10 squares of the target up to 2 squares.</effect>
+  </effects>
+</ability>

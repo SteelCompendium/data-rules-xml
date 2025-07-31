@@ -1,0 +1,38 @@
+<ability>
+  <name>Soul Siphon</name>
+  <cost>7 Piety</cost>
+  <flavor>A beam of energy connects a foe to a friend, draining life from one to heal the other.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One enemy</target>
+  <metadata>
+    <class>conduit</class>
+    <cost>7 Piety</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Piety</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Conduit/3rd-Level Features</file_dpath>
+    <item_id>soul-siphon-7-piety</item_id>
+    <item_index>01</item_index>
+    <item_name>Soul Siphon (7 Piety)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:soul-siphon-7-piety</scc>
+    <scdc>1.1.1:5.1.2.6:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/conduit/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Intuition</roll>
+      <t1>7 + I corruption damage</t1>
+      <t2>10 + I corruption damage</t2>
+      <t3>15 + I corruption damage</t3>
+    </effect>
+    <effect type="mundane">One ally within distance can spend any number of Recoveries.</effect>
+  </effects>
+</ability>

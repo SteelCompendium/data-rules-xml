@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>censor</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Censor/2nd-Level Features</file_dpath>
+    <item_id>lead-by-example</item_id>
+    <item_index>8</item_index>
+    <item_name>Lead by Example</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example</scc>
+    <scdc>1.1.1:5.2.1.6:08</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/censor/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. While you are adjacent to a creature, your allies gain the benefits of flanking against that creature. Additionally, your allies gain an edge on tests made to aid other creatures with their tests.</effect>
+  </effects>
+</ability>

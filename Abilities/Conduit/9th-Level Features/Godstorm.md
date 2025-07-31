@@ -1,0 +1,38 @@
+<ability>
+  <name>Godstorm</name>
+  <cost>11 Piety</cost>
+  <flavor>You summon a divine storm that remains under your control.</flavor>
+  <keywords>
+    <keyword>\\\\Area</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged\\\\</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>5 cube within 5</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>conduit</class>
+    <cost>11 Piety</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Piety</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Conduit/9th-Level Features</file_dpath>
+    <item_id>godstorm-11-piety</item_id>
+    <item_index>07</item_index>
+    <item_name>Godstorm (11 Piety)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:godstorm-11-piety</scc>
+    <scdc>1.1.1:5.1.2.7:07</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/conduit/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Intuition</roll>
+      <t1>2 lightning damage, 2 sonic damage</t1>
+      <t2>3 lightning damage, 3 sonic damage</t2>
+      <t3>5 lightning damage, 5 sonic damage</t3>
+    </effect>
+    <effect type="mundane">A raging storm fills the area until the end of the encounter or until you are dying. At the start of each of your turns, you can move the storm up to 5 squares (no action required). On subsequent turns while the storm is active, you can use a maneuver to make its power roll.</effect>
+  </effects>
+</ability>

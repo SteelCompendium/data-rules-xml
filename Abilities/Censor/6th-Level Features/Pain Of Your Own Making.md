@@ -1,0 +1,32 @@
+<ability>
+  <name>Pain of Your Own Making</name>
+  <cost>9 Wrath</cost>
+  <flavor>You reverse the effects from an evildoer.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Free Triggered</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one ally</target>
+  <trigger>The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.</trigger>
+  <metadata>
+    <class>censor</class>
+    <cost>9 Wrath</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Wrath</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Censor/6th-Level Features</file_dpath>
+    <item_id>pain-of-your-own-making-9-wrath</item_id>
+    <item_index>01</item_index>
+    <item_name>Pain of Your Own Making (9 Wrath)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.censor.6th-level-feature:pain-of-your-own-making-9-wrath</scc>
+    <scdc>1.1.1:5.1.1.3:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/censor/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.</effect>
+  </effects>
+</ability>
