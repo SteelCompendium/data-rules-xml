@@ -8,7 +8,7 @@
     <item_name>Their Past Revealed</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed</scc>
-    <scdc>1.1.1:5.1.2.2:05</scdc>
+    <scdc>1.1.1:5.1.3.2:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/8th-level-feature</type>
   </metadata>

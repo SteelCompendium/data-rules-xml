@@ -8,7 +8,7 @@
     <item_name>Nature&apos;s Bounty</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty</scc>
-    <scdc>1.1.1:5.1.2.9:15</scdc>
+    <scdc>1.1.1:5.1.3.9:15</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>

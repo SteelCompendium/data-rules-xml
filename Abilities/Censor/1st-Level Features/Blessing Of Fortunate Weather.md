@@ -8,7 +8,7 @@
     <item_name>Blessing of Fortunate Weather</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:blessing-of-fortunate-weather</scc>
-    <scdc>1.1.1:5.1.2.1:25</scdc>
+    <scdc>1.1.1:5.1.3.1:25</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/1st-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Prayer of Soldier&apos;s Skill</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-soldiers-skill</scc>
-    <scdc>1.1.1:5.1.3.1:38</scdc>
+    <scdc>1.1.1:5.1.4.1:38</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

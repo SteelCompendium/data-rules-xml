@@ -18,7 +18,7 @@
     <item_name>Wither</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:wither</scc>
-    <scdc>1.1.1:5.1.3.1:12</scdc>
+    <scdc>1.1.1:5.1.4.1:12</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

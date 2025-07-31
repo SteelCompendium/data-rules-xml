@@ -8,7 +8,7 @@
     <item_name>Protective Circle</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle</scc>
-    <scdc>1.1.1:5.1.3.1:18</scdc>
+    <scdc>1.1.1:5.1.4.1:18</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

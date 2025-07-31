@@ -8,7 +8,7 @@
     <item_name>Wode Road</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:wode-road</scc>
-    <scdc>1.1.1:5.1.2.10:03</scdc>
+    <scdc>1.1.1:5.1.3.10:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

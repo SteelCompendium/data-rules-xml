@@ -8,7 +8,7 @@
     <item_name>Faith&apos;s Sword</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.9th-level-feature:faiths-sword</scc>
-    <scdc>1.1.1:5.1.3.8:01</scdc>
+    <scdc>1.1.1:5.1.4.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/9th-level-feature</type>
   </metadata>
