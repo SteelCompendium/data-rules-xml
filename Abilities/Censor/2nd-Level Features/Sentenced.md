@@ -23,7 +23,7 @@
     <item_name>Sentenced (5 Wrath)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:sentenced-5-wrath</scc>
-    <scdc>1.1.1:5.1.1.5:02</scdc>
+    <scdc>1.1.1:5.2.7.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Blessing of Comprehension</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension</scc>
-    <scdc>1.1.1:5.2.2.1:43</scdc>
+    <scdc>1.1.1:5.1.12.1:43</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

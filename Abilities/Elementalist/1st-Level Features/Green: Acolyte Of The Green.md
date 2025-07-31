@@ -8,7 +8,7 @@
     <item_name>Green: Acolyte of the Green</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:green-acolyte-of-the-green</scc>
-    <scdc>1.1.1:5.2.3.1:03</scdc>
+    <scdc>1.1.1:5.1.13.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

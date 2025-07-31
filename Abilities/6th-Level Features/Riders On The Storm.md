@@ -1,0 +1,32 @@
+<ability>
+  <name>Riders on the Storm</name>
+  <cost>9 Ferocity</cost>
+  <flavor>You focus your connection to the Primordial Chaos into a seething storm.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>3 aura</distance>
+  <target>Each creature in the area</target>
+  <metadata>
+    <class>6th-level-features</class>
+    <cost>9 Ferocity</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Ferocity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>6th-Level Features</file_dpath>
+    <item_id>riders-on-the-storm-9-ferocity</item_id>
+    <item_index>03</item_index>
+    <item_name>Riders on the Storm (9 Ferocity)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.6th-level-features.6th-level-feature:riders-on-the-storm-9-ferocity</scc>
+    <scdc>1.1.1:5.2.3.1:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/6th-level-features/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can fly while the aura is active. Each ally target who starts or ends their turn in the area can also fly until the start of their next turn or until the effect ends.</effect>
+    <effect type="mundane" name="Special">When you use this ability outside of combat without spending ferocity, you must spend 1 uninterrupted minute summoning a primordial storm that fills the area, and you take 1d6 damage before the ability takes effect. The storm lasts for 1 hour or until a combat encounter begins.</effect>
+  </effects>
+</ability>

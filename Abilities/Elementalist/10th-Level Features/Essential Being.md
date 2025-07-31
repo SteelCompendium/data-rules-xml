@@ -8,7 +8,7 @@
     <item_name>Essential Being</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:essential-being</scc>
-    <scdc>1.1.1:5.2.3.4:04</scdc>
+    <scdc>1.1.1:5.1.13.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/10th-level-feature</type>
   </metadata>

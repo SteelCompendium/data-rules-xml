@@ -22,7 +22,7 @@
     <item_name>Soul Siphon (7 Piety)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:soul-siphon-7-piety</scc>
-    <scdc>1.1.1:5.1.2.6:01</scdc>
+    <scdc>1.1.1:5.2.8.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/3rd-level-feature</type>
   </metadata>

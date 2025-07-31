@@ -21,7 +21,7 @@
     <item_name>Trinity of Trickery (9 Piety)</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:trinity-of-trickery-9-piety</scc>
-    <scdc>1.1.1:5.1.2.8:01</scdc>
+    <scdc>1.1.1:5.2.8.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/7th-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Hide of Tenfold Shields</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields</scc>
-    <scdc>1.1.1:5.2.3.5:03</scdc>
+    <scdc>1.1.1:5.1.13.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/5th-level-feature</type>
   </metadata>

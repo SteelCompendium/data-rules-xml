@@ -21,7 +21,7 @@
     <item_name>Font of Wrath (3 Piety)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:font-of-wrath-3-piety</scc>
-    <scdc>1.1.1:5.1.2.1:08</scdc>
+    <scdc>1.1.1:5.2.8.1:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>

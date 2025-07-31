@@ -8,7 +8,7 @@
     <item_name>Pierce the Veil of Substance</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance</scc>
-    <scdc>1.1.1:5.2.3.5:04</scdc>
+    <scdc>1.1.1:5.1.13.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/5th-level-feature</type>
   </metadata>

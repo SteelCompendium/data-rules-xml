@@ -8,7 +8,7 @@
     <item_name>Your Triumphs Are Remembered</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:your-triumphs-are-remembered</scc>
-    <scdc>1.1.1:5.2.2.9:03</scdc>
+    <scdc>1.1.1:5.1.12.9:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/7th-level-feature</type>
   </metadata>

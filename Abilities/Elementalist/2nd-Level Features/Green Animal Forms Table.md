@@ -9,7 +9,7 @@
     <item_name>Green Animal Forms Table</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:green-animal-forms-table</scc>
-    <scdc>1.1.1:5.2.3.6:06</scdc>
+    <scdc>1.1.1:5.1.13.6:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/2nd-level-feature</type>
   </metadata>

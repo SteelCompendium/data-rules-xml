@@ -1,0 +1,26 @@
+<ability>
+  <name>8th-Level Aspect Features Table</name>
+  <keywords>
+    <keyword>Aspect</keyword>
+  </keywords>
+  <type>Feature</type>
+  <distance>Berserker</distance>
+  <target>Strongest There Is</target>
+  <metadata>
+    <class>5th-level-features</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>5th-Level Features</file_dpath>
+    <item_id>5th-level-aspect-features-table</item_id>
+    <item_index>01</item_index>
+    <item_name>5th-Level Aspect Features Table</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.trait.5th-level-features.5th-level-feature:5th-level-aspect-features-table</scc>
+    <scdc>1.1.1:5.1.5.1:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/5th-level-features/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">| Reaver     | A Step Ahead       |
+| Stormwight | Menagerie          |</effect>
+  </effects>
+</ability>

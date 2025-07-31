@@ -1,0 +1,39 @@
+<ability>
+  <name>To Stone!</name>
+  <cost>9 Ferocity</cost>
+  <flavor>You channel the Primordial Chaos into blows that petrify your foe … literally.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>5th-level-features</class>
+    <cost>9 Ferocity</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Ferocity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>5th-Level Features</file_dpath>
+    <item_id>to-stone-9-ferocity</item_id>
+    <item_index>01</item_index>
+    <item_name>To Stone! (9 Ferocity)</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.ability.5th-level-features.5th-level-feature:to-stone-9-ferocity</scc>
+    <scdc>1.1.1:5.2.4.1:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/5th-level-features/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>9 + M damage; M &lt; WEAK, slowed (save ends)</t1>
+      <t2>13 + M damage; M &lt; AVERAGE, slowed (save ends)</t2>
+      <t3>18 + M damage; M &lt; STRONG, restrained (save ends)</t3>
+    </effect>
+    <effect type="mundane">While the target is slowed this way, any other effect that would make the target slowed instead makes them restrained by this ability. Additionally, a creature who fails the saving throw while restrained this way is petrified until they are given a supernatural cure or you choose to reverse the effect (no action required).</effect>
+  </effects>
+</ability>
