@@ -9,7 +9,7 @@
     <item_name>Blessing of Life</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-life</scc>
-    <scdc>1.1.1:5.1.7.10:13</scdc>
+    <scdc>1.1.1:5.1.8.10:13</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/4th-level-feature</type>
   </metadata>

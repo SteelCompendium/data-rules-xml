@@ -19,7 +19,7 @@
     <item_name>Floodgates Open (11 Focus)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:floodgates-open-11-focus</scc>
-    <scdc>1.1.1:5.2.3.2:03</scdc>
+    <scdc>1.1.1:5.2.4.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>

@@ -1,0 +1,37 @@
+<ability>
+  <name>Extensive Rewrites</name>
+  <cost>7 Drama</cost>
+  <flavor>No, this isn&apos;t right. That foe was over there!</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>No action</type>
+  <distance>4 burst</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>7 Drama</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/3rd-Level Features</file_dpath>
+    <item_id>extensive-rewrites-7-drama</item_id>
+    <item_index>04</item_index>
+    <item_name>Extensive Rewrites (7 Drama)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:extensive-rewrites-7-drama</scc>
+    <scdc>1.1.1:5.2.3.6:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>Slide 3; P &lt; WEAK, this slide ignores the target&apos;s stability</t1>
+      <t2>Slide 5; P &lt; AVERAGE, this slide ignores the target&apos;s stability</t2>
+      <t3>Slide 7; P &lt; STRONG, this slide ignores the target&apos;s stability</t3>
+    </effect>
+    <effect type="mundane">Instead of sliding a target, you can swap their location with another target as long as each can fit into the other&apos;s space. You can&apos;t slide targets into other creatures or objects using this ability.</effect>
+  </effects>
+</ability>

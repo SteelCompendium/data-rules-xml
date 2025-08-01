@@ -22,7 +22,7 @@
     <item_name>Arrestor Cycle (11 Discipline)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle-11-discipline</scc>
-    <scdc>1.1.1:5.2.5.6:03</scdc>
+    <scdc>1.1.1:5.2.6.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/9th-level-feature</type>
   </metadata>

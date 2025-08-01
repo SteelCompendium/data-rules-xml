@@ -1,0 +1,28 @@
+<ability>
+  <name>&quot;Fire Up the Night&quot;</name>
+  <flavor>Maybe you and I 𝅘𝅥𝅮 We can still bring the light! 𝅘𝅥𝅮</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Performance</keyword>
+  </keywords>
+  <type>No action</type>
+  <distance>5 aura</distance>
+  <target>Self and each ally in the area</target>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/3rd-Level Features</file_dpath>
+    <item_id>fire-up-the-night</item_id>
+    <item_index>01</item_index>
+    <item_name>&quot;Fire Up the Night&quot;</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:fire-up-the-night</scc>
+    <scdc>1.1.1:5.1.3.7:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">While this performance is active, each target who starts their turn in the area doesn&apos;t take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).</effect>
+  </effects>
+</ability>

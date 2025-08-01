@@ -8,7 +8,7 @@
     <item_name>Skill</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.7th-level-feature:skill</scc>
-    <scdc>1.1.1:5.1.8.9:02</scdc>
+    <scdc>1.1.1:5.1.9.9:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/7th-level-feature</type>
   </metadata>

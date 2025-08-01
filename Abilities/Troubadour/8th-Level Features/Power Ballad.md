@@ -1,0 +1,31 @@
+<ability>
+  <name>Power Ballad</name>
+  <cost>11 Drama</cost>
+  <flavor>A song for the brokenhearted wraps itself around the target and blossoms into a ward of thorns.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one ally</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>11 Drama</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/8th-Level Features</file_dpath>
+    <item_id>power-ballad-11-drama</item_id>
+    <item_index>03</item_index>
+    <item_name>Power Ballad (11 Drama)</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:power-ballad-11-drama</scc>
+    <scdc>1.1.1:5.2.3.2:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Until the end of the encounter, whenever the target takes damage while winded, they can use a free triggered action to deal half the damage they took to the source of the damage.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,36 @@
+<ability>
+  <name>Patter Song</name>
+  <cost>9 Drama</cost>
+  <flavor>Dazzle them with your fancy patter and they forget where they were.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Special</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>9 Drama</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/5th-Level Features</file_dpath>
+    <item_id>patter-song-9-drama</item_id>
+    <item_index>02</item_index>
+    <item_name>Patter Song (9 Drama)</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:patter-song-9-drama</scc>
+    <scdc>1.1.1:5.2.3.4:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>One ally within distance can take their turn immediately after yours.</t1>
+      <t2>Two allies within distance can take their turns immediately after yours in any order.</t2>
+      <t3>Three allies within distance can take their turns immediately after yours in any order. One of those allies can have already taken a turn this combat round.</t3>
+    </effect>
+  </effects>
+</ability>

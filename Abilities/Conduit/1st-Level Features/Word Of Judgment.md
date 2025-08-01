@@ -18,7 +18,7 @@
     <item_name>Word of Judgment</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:word-of-judgment</scc>
-    <scdc>1.1.1:5.1.7.1:46</scdc>
+    <scdc>1.1.1:5.1.8.1:46</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

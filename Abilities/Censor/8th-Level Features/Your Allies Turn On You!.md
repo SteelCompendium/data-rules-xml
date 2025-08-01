@@ -22,7 +22,7 @@
     <item_name>Your Allies Turn on You! (11 Wrath)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.8th-level-feature:your-allies-turn-on-you-11-wrath</scc>
-    <scdc>1.1.1:5.2.6.2:01</scdc>
+    <scdc>1.1.1:5.2.7.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/8th-level-feature</type>
   </metadata>

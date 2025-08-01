@@ -23,7 +23,7 @@
     <item_name>That One Is Mine! (11 Focus)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:that-one-is-mine-11-focus</scc>
-    <scdc>1.1.1:5.2.3.7:02</scdc>
+    <scdc>1.1.1:5.2.4.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/9th-level-feature</type>
   </metadata>

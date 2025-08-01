@@ -20,7 +20,7 @@
     <item_name>Orison of Victory (9 Wrath)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.5th-level-feature:orison-of-victory-9-wrath</scc>
-    <scdc>1.1.1:5.2.6.4:01</scdc>
+    <scdc>1.1.1:5.2.7.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/5th-level-feature</type>
   </metadata>

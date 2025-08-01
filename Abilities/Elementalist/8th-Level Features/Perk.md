@@ -8,7 +8,7 @@
     <item_name>Perk</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:perk</scc>
-    <scdc>1.1.1:5.1.8.2:01</scdc>
+    <scdc>1.1.1:5.1.9.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/8th-level-feature</type>
   </metadata>

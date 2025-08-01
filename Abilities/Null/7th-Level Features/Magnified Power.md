@@ -11,7 +11,7 @@
     <item_name>Magnified Power (5 Discipline)</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.null.7th-level-feature:magnified-power-5-discipline</scc>
-    <scdc>1.1.1:5.2.5.7:05</scdc>
+    <scdc>1.1.1:5.2.6.7:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/7th-level-feature</type>
   </metadata>

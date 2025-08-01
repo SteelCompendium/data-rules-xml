@@ -1,0 +1,38 @@
+<ability>
+  <name>Method Acting</name>
+  <cost>5 Drama</cost>
+  <flavor>They&apos;re so hurt by your performance, you start to believe it yourself.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>5 Drama</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <item_id>method-acting-5-drama</item_id>
+    <item_index>07</item_index>
+    <item_name>Method Acting (5 Drama)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:method-acting-5-drama</scc>
+    <scdc>1.1.1:5.2.3.1:07</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>6 + A damage; P &lt; WEAK, weakened (save ends)</t1>
+      <t2>10 + A damage; P &lt; AVERAGE, weakened (save ends)</t2>
+      <t3>14 + A damage; P &lt; STRONG, weakened (save ends)</t3>
+    </effect>
+    <effect type="mundane">You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</effect>
+  </effects>
+</ability>

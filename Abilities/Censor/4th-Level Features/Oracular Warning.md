@@ -8,7 +8,7 @@
     <item_name>Oracular Warning</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:oracular-warning</scc>
-    <scdc>1.1.1:5.1.6.10:01</scdc>
+    <scdc>1.1.1:5.1.7.10:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

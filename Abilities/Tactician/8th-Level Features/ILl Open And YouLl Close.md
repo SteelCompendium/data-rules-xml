@@ -23,7 +23,7 @@
     <item_name>I&apos;ll Open and You&apos;ll Close (11 Focus)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:ill-open-and-youll-close-11-focus</scc>
-    <scdc>1.1.1:5.2.3.2:01</scdc>
+    <scdc>1.1.1:5.2.4.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>

@@ -23,7 +23,7 @@
     <item_name>Force Redirected (5 Discipline)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:force-redirected-5-discipline</scc>
-    <scdc>1.1.1:5.2.5.4:06</scdc>
+    <scdc>1.1.1:5.2.6.4:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/2nd-level-feature</type>
   </metadata>

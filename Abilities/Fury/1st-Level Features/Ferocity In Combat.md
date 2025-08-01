@@ -8,7 +8,7 @@
     <item_name>Ferocity in Combat</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-in-combat</scc>
-    <scdc>1.1.1:5.1.4.1:20</scdc>
+    <scdc>1.1.1:5.1.5.1:20</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/1st-level-feature</type>
   </metadata>

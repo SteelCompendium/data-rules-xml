@@ -1,0 +1,39 @@
+<ability>
+  <name>Expert Fencer</name>
+  <cost>11 Drama</cost>
+  <flavor>If you can land the strike, the crowd goes wild.</flavor>
+  <keywords>
+    <keyword>Charge</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 3</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>11 Drama</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/9th-Level Features</file_dpath>
+    <item_id>expert-fencer-11-drama</item_id>
+    <item_index>02</item_index>
+    <item_name>Expert Fencer (11 Drama)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:expert-fencer-11-drama</scc>
+    <scdc>1.1.1:5.2.3.7:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>15 + A damage</t1>
+      <t2>21 + A damage</t2>
+      <t3>28 + A damage; M &lt; STRONG, bleeding (save ends)</t3>
+    </effect>
+    <effect type="mundane">This ability can&apos;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.</effect>
+  </effects>
+</ability>

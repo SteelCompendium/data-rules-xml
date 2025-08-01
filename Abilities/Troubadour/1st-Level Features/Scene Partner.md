@@ -1,0 +1,19 @@
+<ability>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <item_id>scene-partner</item_id>
+    <item_index>17</item_index>
+    <item_name>Scene Partner</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:scene-partner</scc>
+    <scdc>1.1.1:5.1.3.1:17</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Whenever you obtain a success on a test to interact with an NPC using a skill from the interpersonal group, you can form a bond with that NPC. When you enter into a negotiation with a bonded NPC, their patience increases by 1 (to a maximum of 5). Additionally, the first time during a negotiation that you personally make an argument that would increase a bonded NPC&apos;s interest by 1, you instead increase their interest by 2 (to a maximum of 5).
+You can have a number of bonds active equal to your level. When you form a bond with a new NPC that would exceed the limit, you must choose which of your active bonds to lose.</effect>
+  </effects>
+</ability>

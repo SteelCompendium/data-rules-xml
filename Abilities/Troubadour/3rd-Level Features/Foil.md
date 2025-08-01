@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/3rd-Level Features</file_dpath>
+    <item_id>foil</item_id>
+    <item_index>02</item_index>
+    <item_name>Foil</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:foil</scc>
+    <scdc>1.1.1:5.1.3.7:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">At the start of an encounter, choose one creature within your line of effect. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the chosen creature is reduced to 0 Stamina, you can choose a new foil at the start of the next combat round.</effect>
+  </effects>
+</ability>

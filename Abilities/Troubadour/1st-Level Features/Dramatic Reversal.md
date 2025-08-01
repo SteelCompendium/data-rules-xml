@@ -1,0 +1,36 @@
+<ability>
+  <name>Dramatic Reversal</name>
+  <cost>5 Drama</cost>
+  <flavor>Give the audience a surprise.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>3 burst</distance>
+  <target>Self and each ally in the area</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>5 Drama</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <item_id>dramatic-reversal-5-drama</item_id>
+    <item_index>04</item_index>
+    <item_name>Dramatic Reversal (5 Drama)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-reversal-5-drama</scc>
+    <scdc>1.1.1:5.2.3.1:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>The target can shift 1 square and make a free strike.</t1>
+      <t2>The target can shift up to 2 squares and make a free strike that gains an edge.</t2>
+      <t3>The target can shift up to 3 squares and make a free strike that gains an edge, then can spend a Recovery.</t3>
+    </effect>
+  </effects>
+</ability>

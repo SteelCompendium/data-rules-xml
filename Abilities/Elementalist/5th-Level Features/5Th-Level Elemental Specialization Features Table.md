@@ -15,7 +15,7 @@
     <item_name>5th-Level Elemental Specialization Features Table</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:5th-level-elemental-specialization-features-table</scc>
-    <scdc>1.1.1:5.1.8.5:05</scdc>
+    <scdc>1.1.1:5.1.9.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/5th-level-feature</type>
   </metadata>

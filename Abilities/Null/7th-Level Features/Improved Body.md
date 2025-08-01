@@ -8,7 +8,7 @@
     <item_name>Improved Body</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.null.7th-level-feature:improved-body</scc>
-    <scdc>1.1.1:5.1.5.8:04</scdc>
+    <scdc>1.1.1:5.1.6.8:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/7th-level-feature</type>
   </metadata>

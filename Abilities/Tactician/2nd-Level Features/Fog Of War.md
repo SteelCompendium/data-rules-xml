@@ -20,7 +20,7 @@
     <item_name>Fog of War (5 Focus)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war-5-focus</scc>
-    <scdc>1.1.1:5.2.3.5:05</scdc>
+    <scdc>1.1.1:5.2.4.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/2nd-level-feature</type>
   </metadata>

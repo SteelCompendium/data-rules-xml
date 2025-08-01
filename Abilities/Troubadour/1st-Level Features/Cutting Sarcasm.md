@@ -1,0 +1,34 @@
+<ability>
+  <name>Cutting Sarcasm</name>
+  <flavor>There you are, radiating your usual charisma.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <item_id>cutting-sarcasm</item_id>
+    <item_index>02</item_index>
+    <item_name>Cutting Sarcasm</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:cutting-sarcasm</scc>
+    <scdc>1.1.1:5.1.3.1:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>2 + P psychic damage; P &lt; WEAK, bleeding (save ends)</t1>
+      <t2>5 + P psychic damage; P &lt; AVERAGE, bleeding (save ends)</t2>
+      <t3>7 + P psychic damage; P &lt; STRONG, bleeding (save ends)</t3>
+    </effect>
+  </effects>
+</ability>

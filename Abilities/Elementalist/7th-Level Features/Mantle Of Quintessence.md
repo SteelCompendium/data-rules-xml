@@ -8,7 +8,7 @@
     <item_name>Mantle of Quintessence</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.7th-level-feature:mantle-of-quintessence</scc>
-    <scdc>1.1.1:5.1.8.9:01</scdc>
+    <scdc>1.1.1:5.1.9.9:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/7th-level-feature</type>
   </metadata>

@@ -1,0 +1,37 @@
+<ability>
+  <name>Jam Session</name>
+  <cost>11 Drama</cost>
+  <flavor>Your jam session creates new genres that compel everyone to get up and move.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>5 burst</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>11 Drama</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/9th-Level Features</file_dpath>
+    <item_id>jam-session-11-drama</item_id>
+    <item_index>01</item_index>
+    <item_name>Jam Session (11 Drama)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:jam-session-11-drama</scc>
+    <scdc>1.1.1:5.2.3.7:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>8 sonic damage</t1>
+      <t2>11 sonic damage</t2>
+      <t3>15 sonic damage</t3>
+    </effect>
+    <effect type="mundane">Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.</effect>
+  </effects>
+</ability>

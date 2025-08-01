@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/8th-Level Features</file_dpath>
+    <item_id>deleted-scene</item_id>
+    <item_index>06</item_index>
+    <item_name>Deleted Scene</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene</scc>
+    <scdc>1.1.1:5.1.3.2:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Whenever a creature within distance of your Dramatic Monologue ability makes a power roll, you can spend 1 drama as a free triggered action to use Dramatic Monologue, targeting only one creature.</effect>
+  </effects>
+</ability>

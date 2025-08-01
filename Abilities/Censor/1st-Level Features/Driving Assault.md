@@ -22,7 +22,7 @@
     <item_name>Driving Assault (3 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:driving-assault-3-wrath</scc>
-    <scdc>1.1.1:5.2.6.1:07</scdc>
+    <scdc>1.1.1:5.2.7.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

@@ -1,0 +1,32 @@
+<ability>
+  <name>Power Chord</name>
+  <flavor>Your instrument rings true and your music blows everyone away.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>2 burst</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <item_id>power-chord</item_id>
+    <item_index>8</item_index>
+    <item_name>Power Chord</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:power-chord</scc>
+    <scdc>1.1.1:5.1.3.1:08</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>Push 1</t1>
+      <t2>Push 2</t2>
+      <t3>Push 3</t3>
+    </effect>
+  </effects>
+</ability>

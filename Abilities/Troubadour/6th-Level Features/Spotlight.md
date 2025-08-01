@@ -1,0 +1,28 @@
+<ability>
+  <name>Spotlight</name>
+  <flavor>The audience is watching, so you&apos;d better give them a show.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Performance</keyword>
+  </keywords>
+  <type>No action</type>
+  <distance>5 aura</distance>
+  <target>Self and each ally in the area</target>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/6th-Level Features</file_dpath>
+    <item_id>spotlight</item_id>
+    <item_index>01</item_index>
+    <item_name>Spotlight</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.6th-level-feature:spotlight</scc>
+    <scdc>1.1.1:5.1.3.3:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">While this performance is active, each target who starts their turn in the area gains 1 of their Heroic Resource. This Heroic Resource disappears at the end of the target&apos;s turn if they don&apos;t spend it.</effect>
+  </effects>
+</ability>

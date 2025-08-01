@@ -1,0 +1,19 @@
+<ability>
+  <name>Verbal Duel</name>
+  <metadata>
+    <class>troubadour</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Troubadour/5th-Level Features</file_dpath>
+    <item_id>verbal-duel</item_id>
+    <item_index>06</item_index>
+    <item_name>Verbal Duel</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:verbal-duel</scc>
+    <scdc>1.1.1:5.1.3.5:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/troubadour/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Once on each of your turns while the target of your Foil feature is adjacent to you, you can use a free maneuver to exchange words with them. Make an opposed Presence test with the target. Whoever gets the higher result can make a free strike, which deals psychic damage instead of its usual damage.</effect>
+  </effects>
+</ability>

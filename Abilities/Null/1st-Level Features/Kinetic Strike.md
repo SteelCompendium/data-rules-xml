@@ -19,7 +19,7 @@
     <item_name>Kinetic Strike</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:kinetic-strike</scc>
-    <scdc>1.1.1:5.1.5.1:04</scdc>
+    <scdc>1.1.1:5.1.6.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

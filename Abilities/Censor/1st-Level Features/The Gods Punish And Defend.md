@@ -23,7 +23,7 @@
     <item_name>The Gods Punish and Defend (3 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:the-gods-punish-and-defend-3-wrath</scc>
-    <scdc>1.1.1:5.2.6.1:08</scdc>
+    <scdc>1.1.1:5.2.7.1:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

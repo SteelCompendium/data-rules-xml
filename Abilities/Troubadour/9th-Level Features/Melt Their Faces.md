@@ -1,0 +1,39 @@
+<ability>
+  <name>Melt Their Faces</name>
+  <cost>11 Drama</cost>
+  <flavor>The power of music rips through the reality around the target and blows them away.</flavor>
+  <keywords>
+    <keyword>\\\\Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike\\</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1 or ranged 10</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>troubadour</class>
+    <cost>11 Drama</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Drama</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Troubadour/9th-Level Features</file_dpath>
+    <item_id>melt-their-faces-11-drama</item_id>
+    <item_index>04</item_index>
+    <item_name>Melt Their Faces (11 Drama)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:melt-their-faces-11-drama</scc>
+    <scdc>1.1.1:5.2.3.7:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/troubadour/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>12 + P sonic damage; push 5</t1>
+      <t2>16 + P sonic damage; push 10</t2>
+      <t3>22 + P sonic damage; push 15</t3>
+    </effect>
+    <effect type="mundane">Forced movement from this ability ignores stability.</effect>
+  </effects>
+</ability>
