@@ -11,11 +11,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Shadow/8th-Level Features</file_dpath>
     <item_id>8th-level-college-features-table</item_id>
-    <item_index>02</item_index>
+    <item_index>03</item_index>
     <item_name>8th-Level College Features Table</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:8th-level-college-features-table</scc>
-    <scdc>1.1.1:5.2.2.2:02</scdc>
+    <scdc>1.1.1:5.2.1.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/8th-level-feature</type>
   </metadata>

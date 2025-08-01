@@ -8,11 +8,11 @@
     <item_name>Careful Observation Improvement</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:careful-observation-improvement</scc>
-    <scdc>1.1.1:5.2.2.7:03</scdc>
+    <scdc>1.1.1:5.2.1.9:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/7th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can target two creatures simultaneously with your Careful Observation ability, observing both simultaneously. Making a strike against one target doesn&apos;t end your observation of the other target.</effect>
+    <effect type="mundane">You can target three creatures simultaneously with your Careful Observation ability.</effect>
   </effects>
 </ability>

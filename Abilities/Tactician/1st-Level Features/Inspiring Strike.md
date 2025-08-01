@@ -1,0 +1,38 @@
+<ability>
+  <name>Inspiring Strike</name>
+  <cost>3 Focus</cost>
+  <flavor>Your attack gives an ally hope.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1 or ranged 5</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>3 Focus</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <item_id>inspiring-strike-3-focus</item_id>
+    <item_index>01</item_index>
+    <item_name>Inspiring Strike (3 Focus)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:inspiring-strike-3-focus</scc>
+    <scdc>1.1.1:5.1.2.1:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>3\\+\\ M damage; you or one ally within 10 squares of you can spend a Recovery</t1>
+      <t2>5 + M damage; you or one ally within 10 squares of you can spend a Recovery</t2>
+      <t3>8\\+\\ M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter</t3>
+    </effect>
+  </effects>
+</ability>

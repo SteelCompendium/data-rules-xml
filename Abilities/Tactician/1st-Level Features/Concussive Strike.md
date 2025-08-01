@@ -1,0 +1,38 @@
+<ability>
+  <name>Concussive Strike</name>
+  <cost>3 Focus</cost>
+  <flavor>Your precise strike leaves your foe struggling to respond.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1 or ranged 5</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>3 Focus</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <item_id>concussive-strike-3-focus</item_id>
+    <item_index>07</item_index>
+    <item_name>Concussive Strike (3 Focus)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:concussive-strike-3-focus</scc>
+    <scdc>1.1.1:5.1.2.1:07</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>3\\+\\ M damage; M &lt; WEAK, dazed (save ends)</t1>
+      <t2>5 + M damage; M &lt; AVERAGE, dazed (save ends)</t2>
+      <t3>8\\+\\ M damage; M &lt; STRONG, dazed (save ends)</t3>
+    </effect>
+  </effects>
+</ability>

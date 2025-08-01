@@ -1,0 +1,30 @@
+<ability>
+  <name>Counterstrategy</name>
+  <cost>11 Focus</cost>
+  <flavor>I&apos;ve identified a way to negate their strengths.</flavor>
+  <keywords>
+    <keyword>—</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Self</distance>
+  <target>Self</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>11 Focus</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/9th-Level Features</file_dpath>
+    <item_id>counterstrategy-11-focus</item_id>
+    <item_index>01</item_index>
+    <item_name>Counterstrategy (11 Focus)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:counterstrategy-11-focus</scc>
+    <scdc>1.1.1:5.1.2.7:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</effect>
+  </effects>
+</ability>

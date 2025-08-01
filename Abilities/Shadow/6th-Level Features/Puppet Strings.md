@@ -23,7 +23,7 @@
     <item_name>Puppet Strings (9 Insight)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:puppet-strings-9-insight</scc>
-    <scdc>1.1.1:5.1.2.2:04</scdc>
+    <scdc>1.1.1:5.1.1.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/6th-level-feature</type>
   </metadata>

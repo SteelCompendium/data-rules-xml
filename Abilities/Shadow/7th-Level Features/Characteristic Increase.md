@@ -8,11 +8,11 @@
     <item_name>Characteristic Increase</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:characteristic-increase</scc>
-    <scdc>1.1.1:5.2.2.7:02</scdc>
+    <scdc>1.1.1:5.2.1.9:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/7th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
+    <effect type="mundane">Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
   </effects>
 </ability>

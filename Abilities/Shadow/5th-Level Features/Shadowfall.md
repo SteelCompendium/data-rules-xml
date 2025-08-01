@@ -22,7 +22,7 @@
     <item_name>Shadowfall (9 Insight)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:shadowfall-9-insight</scc>
-    <scdc>1.1.1:5.1.2.3:01</scdc>
+    <scdc>1.1.1:5.1.1.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/5th-level-feature</type>
   </metadata>

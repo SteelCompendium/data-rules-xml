@@ -1,0 +1,38 @@
+<ability>
+  <name>I&apos;ve Got Your Back</name>
+  <cost>5 Focus</cost>
+  <flavor>Your enemy will think twice about attacking your friend.</flavor>
+  <keywords>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 5</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>5 Focus</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <item_id>ive-got-your-back-5-focus</item_id>
+    <item_index>02</item_index>
+    <item_name>I&apos;ve Got Your Back (5 Focus)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:ive-got-your-back-5-focus</scc>
+    <scdc>1.1.1:5.1.2.5:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>5 + R damage; taunted (EoT)</t1>
+      <t2>9 + R damage; taunted (EoT)</t2>
+      <t3>12 + Rdamage; taunted (EoT)</t3>
+    </effect>
+    <effect type="mundane">One ally adjacent to the target can spend a Recovery.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,31 @@
+<ability>
+  <name>Battle Plan</name>
+  <cost>9 Focus</cost>
+  <flavor>With new understanding of your foes, you create the perfect plan to win the battle.</flavor>
+  <keywords>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Three creatures</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>9 Focus</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/6th-Level Features</file_dpath>
+    <item_id>battle-plan-9-focus</item_id>
+    <item_index>02</item_index>
+    <item_name>Battle Plan (9 Focus)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:battle-plan-9-focus</scc>
+    <scdc>1.1.1:5.1.2.3:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each target is marked by you. Immediately and until the end of the encounter, the Director tells you if any creatures marked by you have damage immunity or weakness and the value of that immunity or weakness. Additionally, you and each ally within 3 squares of you gains 2 surges.</effect>
+    <effect type="mundane" name="Mark Benefit">Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to make the strike ignore damage immunity and deal extra damage equal to three times your Reason score.</effect>
+  </effects>
+</ability>

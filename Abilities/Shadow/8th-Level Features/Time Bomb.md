@@ -1,0 +1,28 @@
+<ability>
+  <name>Time Bomb</name>
+  <flavor>The longer it cooks, the bigger the boom.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Free maneuver</type>
+  <distance>2 cube within 10</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>shadow</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Shadow/8th-Level Features</file_dpath>
+    <item_id>time-bomb</item_id>
+    <item_index>02</item_index>
+    <item_name>Time Bomb</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:time-bomb</scc>
+    <scdc>1.1.1:5.2.1.2:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/shadow/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each target takes acid, fire, or poison damage (your choice) equal to your Agility score. For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.</effect>
+    <effect type="mundane">**Spend 2+ Insight**: For every 2 insight spent, you increase the cube&apos;s size by 1 and gain 1 surge that can be used only with this ability.</effect>
+  </effects>
+</ability>

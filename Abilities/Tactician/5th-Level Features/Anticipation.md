@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>tactician</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Tactician/5th-Level Features</file_dpath>
+    <item_id>anticipation</item_id>
+    <item_index>04</item_index>
+    <item_name>Anticipation</item_name>
+    <level>5</level>
+    <scc>mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:anticipation</scc>
+    <scdc>1.1.1:5.2.2.5:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/tactician/5th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You have learned to be more preemptive on the battlefield, thinking more steps ahead than your opponents. You can target two creatures with your Mark ability.</effect>
+  </effects>
+</ability>

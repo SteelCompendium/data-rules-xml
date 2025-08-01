@@ -8,7 +8,7 @@
     <item_name>Harlequin Gambit</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit</scc>
-    <scdc>1.1.1:5.2.2.4:04</scdc>
+    <scdc>1.1.1:5.2.1.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/5th-level-feature</type>
   </metadata>

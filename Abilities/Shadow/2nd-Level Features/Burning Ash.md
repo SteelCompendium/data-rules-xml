@@ -8,7 +8,7 @@
     <item_name>Burning Ash</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:burning-ash</scc>
-    <scdc>1.1.1:5.2.2.5:03</scdc>
+    <scdc>1.1.1:5.2.1.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/2nd-level-feature</type>
   </metadata>

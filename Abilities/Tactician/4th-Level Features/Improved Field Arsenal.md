@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>tactician</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Tactician/4th-Level Features</file_dpath>
+    <item_id>improved-field-arsenal</item_id>
+    <item_index>02</item_index>
+    <item_name>Improved Field Arsenal</item_name>
+    <level>4</level>
+    <scc>mcdm.heroes.v1:feature.trait.tactician.4th-level-feature:improved-field-arsenal</scc>
+    <scdc>1.1.1:5.2.2.10:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/tactician/4th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Your expertise with weapons has grown. Whenever you use a signature ability from one of your equipped kits or make a free strike using a weapon from one of your equipped kits, you gain an edge.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,19 @@
+<ability>
+  <metadata>
+    <class>tactician</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <item_id>melee-superiority</item_id>
+    <item_index>05</item_index>
+    <item_name>Melee Superiority</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority</scc>
+    <scdc>1.1.1:5.2.2.6:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/tactician/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">After constant drills, you can more accurately anticipate an enemy&apos;s plan and thwart their attempts to move across the battlefield. Whenever you make an opportunity attack, the target&apos;s speed is reduced to 0 until the end of the current turn.</effect>
+    <effect type="mundane" name="Mark Benefit">When a creature marked by you attempts to move or shift within distance of your melee free strike, you can use a free triggered action and spend 2 focus to make a melee free strike against that creature.</effect>
+  </effects>
+</ability>

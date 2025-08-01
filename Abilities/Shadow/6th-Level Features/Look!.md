@@ -21,7 +21,7 @@
     <item_name>Look! (9 Insight)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:look-9-insight</scc>
-    <scdc>1.1.1:5.1.2.2:01</scdc>
+    <scdc>1.1.1:5.1.1.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/6th-level-feature</type>
   </metadata>

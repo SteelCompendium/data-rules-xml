@@ -4,11 +4,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Shadow/8th-Level Features</file_dpath>
     <item_id>perk</item_id>
-    <item_index>03</item_index>
+    <item_index>04</item_index>
     <item_name>Perk</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:perk</scc>
-    <scdc>1.1.1:5.2.2.2:03</scdc>
+    <scdc>1.1.1:5.2.1.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/8th-level-feature</type>
   </metadata>

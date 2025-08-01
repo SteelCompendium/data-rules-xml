@@ -1,0 +1,20 @@
+<ability>
+  <metadata>
+    <class>tactician</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Tactician/10th-Level Features</file_dpath>
+    <item_id>command</item_id>
+    <item_index>01</item_index>
+    <item_name>Command</item_name>
+    <level>10</level>
+    <scc>mcdm.heroes.v1:feature.trait.tactician.10th-level-feature:command</scc>
+    <scdc>1.1.1:5.2.2.4:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/tactician/10th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You have an epic resource called command. Each time you finish a respite, you gain command equal to the XP you gain. You can spend command on your abilities as if it were focus.
+Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 command as a free triggered action to increase the power roll outcome for that target by one tier. Whenever an enemy marked by you makes an ability roll, you can spend 1 command as a free triggered action to decrease the power roll outcome by one tier.
+Command remains until you spend it.</effect>
+  </effects>
+</ability>

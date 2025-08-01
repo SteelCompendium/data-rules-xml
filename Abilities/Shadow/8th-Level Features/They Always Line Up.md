@@ -1,0 +1,37 @@
+<ability>
+  <name>They Always Line Up</name>
+  <cost>11 Insight</cost>
+  <flavor>You fire a projectile so fast that it passes through a line of foes, hamstringing them.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>5 × 1 line within 5</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>shadow</class>
+    <cost>11 Insight</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Shadow/8th-Level Features</file_dpath>
+    <item_id>they-always-line-up-11-insight</item_id>
+    <item_index>02</item_index>
+    <item_name>They Always Line Up (11 Insight)</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:they-always-line-up-11-insight</scc>
+    <scdc>1.1.1:5.1.1.2:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>12 damage; M &lt; WEAK, slowed (save ends)</t1>
+      <t2>18 damage; M &lt; AVERAGE, slowed (save ends)</t2>
+      <t3>24 damage; M &lt; STRONG, slowed (save ends)</t3>
+    </effect>
+  </effects>
+</ability>

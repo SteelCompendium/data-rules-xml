@@ -1,0 +1,35 @@
+<ability>
+  <name>Battle Cry</name>
+  <cost>3 Focus</cost>
+  <flavor>You shout a phrase that galvanizes your team.</flavor>
+  <keywords>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Three allies</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>3 Focus</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <item_id>battle-cry-3-focus</item_id>
+    <item_index>04</item_index>
+    <item_name>Battle Cry (3 Focus)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:battle-cry-3-focus</scc>
+    <scdc>1.1.1:5.1.2.1:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>Each target gains 1 surge.</t1>
+      <t2>Each target gains 2 surges.</t2>
+      <t3>Each target gains 3 surges.</t3>
+    </effect>
+  </effects>
+</ability>

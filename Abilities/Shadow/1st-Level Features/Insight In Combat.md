@@ -8,7 +8,7 @@
     <item_name>Insight in Combat</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-in-combat</scc>
-    <scdc>1.1.1:5.2.2.1:14</scdc>
+    <scdc>1.1.1:5.2.1.1:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/1st-level-feature</type>
   </metadata>

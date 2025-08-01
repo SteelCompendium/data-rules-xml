@@ -23,7 +23,7 @@
     <item_name>Misdirecting Strike (7 Insight)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:misdirecting-strike-7-insight</scc>
-    <scdc>1.1.1:5.1.2.5:03</scdc>
+    <scdc>1.1.1:5.1.1.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/3rd-level-feature</type>
   </metadata>

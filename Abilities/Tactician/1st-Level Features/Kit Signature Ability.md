@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>tactician</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <item_id>kit-signature-ability</item_id>
+    <item_index>14</item_index>
+    <item_name>Kit Signature Ability</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:kit-signature-ability</scc>
+    <scdc>1.1.1:5.2.2.1:14</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/tactician/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each kit from your Field Arsenal feature grants you a signature ability. Signature abilities can be used at will.</effect>
+  </effects>
+</ability>

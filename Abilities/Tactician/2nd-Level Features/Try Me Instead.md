@@ -1,0 +1,38 @@
+<ability>
+  <name>Try Me Instead</name>
+  <cost>5 Focus</cost>
+  <flavor>&quot;Try picking on someone my size.&quot;</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Self; see below</distance>
+  <target>Self</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>5 Focus</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <item_id>try-me-instead-5-focus</item_id>
+    <item_index>01</item_index>
+    <item_name>Try Me Instead (5 Focus)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:try-me-instead-5-focus</scc>
+    <scdc>1.1.1:5.1.2.5:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&apos;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</effect>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>2 + R damage; R &lt; WEAK, frightened (save ends)</t1>
+      <t2>3 + R damage; R &lt; AVERAGE, frightened (save ends)</t2>
+      <t3>4 + Rdamage; R &lt; STRONG, frightened (save ends)</t3>
+    </effect>
+  </effects>
+</ability>

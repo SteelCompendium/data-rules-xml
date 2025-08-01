@@ -1,0 +1,39 @@
+<ability>
+  <name>Hammer and Anvil</name>
+  <cost>5 Focus</cost>
+  <flavor>&quot;Let&apos;s not argue about who&apos;s the hammer and who&apos;s the anvil!&quot;</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1 or ranged 5</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>5 Focus</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <item_id>hammer-and-anvil-5-focus</item_id>
+    <item_index>06</item_index>
+    <item_name>Hammer and Anvil (5 Focus)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:hammer-and-anvil-5-focus</scc>
+    <scdc>1.1.1:5.1.2.1:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>5\\+\\ M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action</t1>
+      <t2>9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action</t2>
+      <t3>12\\+\\ M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action</t3>
+    </effect>
+    <effect type="mundane">If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.</effect>
+  </effects>
+</ability>

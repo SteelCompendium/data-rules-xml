@@ -20,7 +20,7 @@
     <item_name>Sticky Bomb (5 Insight)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:sticky-bomb-5-insight</scc>
-    <scdc>1.1.1:5.1.2.4:02</scdc>
+    <scdc>1.1.1:5.1.1.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/2nd-level-feature</type>
   </metadata>
