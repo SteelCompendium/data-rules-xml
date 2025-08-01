@@ -1,6 +1,6 @@
 <ability>
   <name>&quot;Fire Up the Night&quot;</name>
-  <flavor>Maybe you and I 𝅘𝅥𝅮 We can still bring the light! 𝅘𝅥𝅮</flavor>
+  <flavor>Maybe you and I ♪ We can still bring the light!♪</flavor>
   <keywords>
     <keyword>Area</keyword>
     <keyword>Magic</keyword>

@@ -30,8 +30,8 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
-      <t1>6 + Pdamage; P &lt; WEAK, dazed (save ends)</t1>
-      <t2>10 + Pdamage; P &lt; AVERAGE, dazed (save ends)</t2>
+      <t1>6 + P damage; P &lt; WEAK, dazed (save ends)</t1>
+      <t2>10 + P damage; P &lt; AVERAGE, dazed (save ends)</t2>
       <t3>14 + P damage; P &lt; STRONG, dazed (save ends)</t3>
     </effect>
     <effect type="mundane">The target takes a bane on Presence tests until the end of the encounter.</effect>

@@ -1,6 +1,6 @@
 <ability>
   <name>Radical Fantasia</name>
-  <flavor>𝅘𝅥𝅮 Viras, my Viras, will you hold their hands as they cryyy-aaaiigh? 𝅘𝅥𝅮</flavor>
+  <flavor>𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪</flavor>
   <keywords>
     <keyword>Area</keyword>
     <keyword>Magic</keyword>

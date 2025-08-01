@@ -29,8 +29,8 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
-      <t1>6damage; P &lt; WEAK, the target can&apos;t willingly leave the area (EoT)</t1>
-      <t2>8damage; P &lt; AVERAGE, the target can&apos;t willingly leave the area (save ends)</t2>
+      <t1>6 damage; P &lt; WEAK, the target can&apos;t willingly leave the area (EoT)</t1>
+      <t2>8 damage; P &lt; AVERAGE, the target can&apos;t willingly leave the area (save ends)</t2>
       <t3>12 damage; the target can&apos;t willingly leave the area (EoT); if P &lt; STRONG, they can&apos;t willingly leave the area (save ends)</t3>
     </effect>
     <effect type="mundane">Each ally within distance can&apos;t obtain lower than a tier 2 outcome on the next test they make before the start of your next turn.</effect>

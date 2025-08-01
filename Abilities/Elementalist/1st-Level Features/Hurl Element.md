@@ -27,7 +27,7 @@
       <roll>Power Roll + Reason</roll>
       <t1>2 + R damage</t1>
       <t2>4 + R damage</t2>
-      <t3>6 + Rdamage</t3>
+      <t3>6 + R damage</t3>
     </effect>
     <effect type="mundane">When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.</effect>
   </effects>

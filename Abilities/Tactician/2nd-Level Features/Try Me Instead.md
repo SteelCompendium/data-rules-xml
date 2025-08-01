@@ -32,7 +32,7 @@
       <roll>Power Roll + Reason</roll>
       <t1>2 + R damage; R &lt; WEAK, frightened (save ends)</t1>
       <t2>3 + R damage; R &lt; AVERAGE, frightened (save ends)</t2>
-      <t3>4 + Rdamage; R &lt; STRONG, frightened (save ends)</t3>
+      <t3>4 + R damage; R &lt; STRONG, frightened (save ends)</t3>
     </effect>
   </effects>
 </ability>

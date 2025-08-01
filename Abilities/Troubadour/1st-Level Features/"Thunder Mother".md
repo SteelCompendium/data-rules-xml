@@ -1,6 +1,6 @@
 <ability>
   <name>&quot;Thunder Mother&quot;</name>
-  <flavor>All for thunder motherrr! N \Run and hide for coverrr!\N</flavor>
+  <flavor>All for thunder motherrr! ♪ Run and hide for coverrr!♪</flavor>
   <keywords>
     <keyword>Magic</keyword>
     <keyword>Performance</keyword>

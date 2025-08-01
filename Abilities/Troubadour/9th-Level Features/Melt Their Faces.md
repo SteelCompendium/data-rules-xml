@@ -3,10 +3,10 @@
   <cost>11 Drama</cost>
   <flavor>The power of music rips through the reality around the target and blows them away.</flavor>
   <keywords>
-    <keyword>\\\\Magic</keyword>
+    <keyword>Magic</keyword>
     <keyword>Melee</keyword>
     <keyword>Ranged</keyword>
-    <keyword>Strike\\</keyword>
+    <keyword>Strike</keyword>
   </keywords>
   <type>Main action</type>
   <distance>Melee 1 or ranged 10</distance>

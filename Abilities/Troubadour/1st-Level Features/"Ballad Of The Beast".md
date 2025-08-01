@@ -1,5 +1,5 @@
 <ability>
-  <flavor>Teeth are bare! 𝅘𝅥𝅮 Eyes black! 𝅘𝅥𝅮 No escaping the beast! 𝅘𝅥𝅮</flavor>
+  <flavor>Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪</flavor>
   <keywords>
     <keyword>Area</keyword>
     <keyword>Magic</keyword>

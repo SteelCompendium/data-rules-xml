@@ -28,7 +28,7 @@
       <roll>Power Roll + Reason</roll>
       <t1>2 + R damage</t1>
       <t2>5 + R damage</t2>
-      <t3>7 + Rdamage</t3>
+      <t3>7 + R damage</t3>
     </effect>
     <effect type="mundane">You slide one creature within 10 squares of the target up to 2 squares.</effect>
   </effects>

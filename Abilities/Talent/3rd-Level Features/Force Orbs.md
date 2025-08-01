@@ -29,10 +29,12 @@
   </metadata>
   <effects>
     <effect type="mundane">You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb. Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.</effect>
-    <effect type="mundane">**Power Roll + Reason**:
-- **≤11:** 2 damage
-- **12-16:** 3 damage
-- **17+:** 5 damage</effect>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>2 damage</t1>
+      <t2>3 damage</t2>
+      <t3>5 damage</t3>
+    </effect>
     <effect type="mundane" name="Strained">You create five orbs, and you are weakened while you have any orbs active.</effect>
   </effects>
 </ability>

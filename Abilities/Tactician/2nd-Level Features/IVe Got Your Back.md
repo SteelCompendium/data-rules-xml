@@ -31,7 +31,7 @@
       <roll>Power Roll + Reason</roll>
       <t1>5 + R damage; taunted (EoT)</t1>
       <t2>9 + R damage; taunted (EoT)</t2>
-      <t3>12 + Rdamage; taunted (EoT)</t3>
+      <t3>12 + R damage; taunted (EoT)</t3>
     </effect>
     <effect type="mundane">One ally adjacent to the target can spend a Recovery.</effect>
   </effects>

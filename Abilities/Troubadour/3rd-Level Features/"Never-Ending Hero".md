@@ -1,5 +1,5 @@
 <ability>
-  <flavor>And toniiight we can truly say 𝅘𝅥𝅮 They will alllways find a way! 𝅘𝅥𝅮</flavor>
+  <flavor>And toniiight we can truly say ♪ They will alllways find a way!♪</flavor>
   <keywords>
     <keyword>Area</keyword>
     <keyword>Magic</keyword>

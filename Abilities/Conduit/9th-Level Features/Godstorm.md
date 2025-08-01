@@ -3,9 +3,9 @@
   <cost>11 Piety</cost>
   <flavor>You summon a divine storm that remains under your control.</flavor>
   <keywords>
-    <keyword>\\\\Area</keyword>
+    <keyword>Area</keyword>
     <keyword>Magic</keyword>
-    <keyword>Ranged\\\\</keyword>
+    <keyword>Ranged</keyword>
   </keywords>
   <type>Main action</type>
   <distance>5 cube within 5</distance>
