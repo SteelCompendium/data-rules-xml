@@ -8,7 +8,7 @@
     <item_name>Light of the Burning Sun</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:light-of-the-burning-sun</scc>
-    <scdc>1.1.1:10.1.7.9:01</scdc>
+    <scdc>1.1.1:13.1.7.9:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>

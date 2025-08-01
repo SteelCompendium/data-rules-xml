@@ -1,0 +1,16 @@
+<ability>
+  <metadata>
+    <class>combat</class>
+    <file_dpath>Abilities</file_dpath>
+    <item_id>stand-up</item_id>
+    <item_index>04</item_index>
+    <item_name>Stand Up</item_name>
+    <scc>mcdm.heroes.v1:common\_ability.maneuver:stand-up</scc>
+    <scdc>1.1.1:7.3:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>common\_ability/maneuver</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">A creature can use the Stand Up maneuver to stand up if they are prone, ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.</effect>
+  </effects>
+</ability>

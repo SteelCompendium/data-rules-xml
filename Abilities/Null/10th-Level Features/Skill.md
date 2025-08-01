@@ -8,7 +8,7 @@
     <item_name>Skill</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.null.10th-level-feature:skill</scc>
-    <scdc>1.1.1:10.1.6.4:04</scdc>
+    <scdc>1.1.1:13.1.6.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/10th-level-feature</type>
   </metadata>

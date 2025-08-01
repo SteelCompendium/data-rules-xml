@@ -23,7 +23,7 @@
     <item_name>Hypersonic (9 Clarity)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.5th-level-feature:hypersonic-9-clarity</scc>
-    <scdc>1.1.1:10.2.1.4:04</scdc>
+    <scdc>1.1.1:13.2.1.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/5th-level-feature</type>
   </metadata>

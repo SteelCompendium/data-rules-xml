@@ -20,7 +20,7 @@
     <item_name>This Is What We Planned For (5 Focus)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:this-is-what-we-planned-for-5-focus</scc>
-    <scdc>1.1.1:10.2.4.1:03</scdc>
+    <scdc>1.1.1:13.2.4.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>

@@ -22,7 +22,7 @@
     <item_name>Behold a Shield of Faith! (3 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-a-shield-of-faith-3-wrath</scc>
-    <scdc>1.1.1:10.2.7.1:02</scdc>
+    <scdc>1.1.1:13.2.7.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

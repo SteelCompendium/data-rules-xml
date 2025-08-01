@@ -15,7 +15,7 @@
     <item_name>8th-Level College Features Table</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:8th-level-college-features-table</scc>
-    <scdc>1.1.1:10.1.2.2:05</scdc>
+    <scdc>1.1.1:13.1.2.2:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/8th-level-feature</type>
   </metadata>

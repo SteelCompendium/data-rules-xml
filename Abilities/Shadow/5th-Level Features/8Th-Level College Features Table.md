@@ -15,7 +15,7 @@
     <item_name>5th-Level College Features Table</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:5th-level-college-features-table</scc>
-    <scdc>1.1.1:10.1.2.5:01</scdc>
+    <scdc>1.1.1:13.1.2.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/5th-level-feature</type>
   </metadata>

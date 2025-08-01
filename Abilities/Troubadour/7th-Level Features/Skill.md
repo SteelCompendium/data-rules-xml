@@ -8,7 +8,7 @@
     <item_name>Skill</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.7th-level-feature:skill</scc>
-    <scdc>1.1.1:10.1.3.9:01</scdc>
+    <scdc>1.1.1:13.1.3.9:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/7th-level-feature</type>
   </metadata>

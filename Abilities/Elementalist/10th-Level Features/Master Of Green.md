@@ -8,7 +8,7 @@
     <item_name>Master of Green</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-green</scc>
-    <scdc>1.1.1:10.1.9.4:10</scdc>
+    <scdc>1.1.1:13.1.9.4:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/10th-level-feature</type>
   </metadata>

@@ -17,7 +17,7 @@
     <item_name>&quot;Never-Ending Hero&quot;</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:never-ending-hero</scc>
-    <scdc>1.1.1:10.1.3.7:04</scdc>
+    <scdc>1.1.1:13.1.3.7:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/3rd-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Skill</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:skill</scc>
-    <scdc>1.1.1:10.1.4.9:05</scdc>
+    <scdc>1.1.1:13.1.4.9:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/7th-level-feature</type>
   </metadata>

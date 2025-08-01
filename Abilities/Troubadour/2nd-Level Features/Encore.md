@@ -21,7 +21,7 @@
     <item_name>Encore (5 Drama)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:encore-5-drama</scc>
-    <scdc>1.1.1:10.2.3.5:04</scdc>
+    <scdc>1.1.1:13.2.3.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>

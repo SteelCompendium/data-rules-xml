@@ -8,7 +8,7 @@
     <item_name>Troubadour Class Act</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:troubadour-class-act</scc>
-    <scdc>1.1.1:10.1.3.1:13</scdc>
+    <scdc>1.1.1:13.1.3.1:13</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/1st-level-feature</type>
   </metadata>

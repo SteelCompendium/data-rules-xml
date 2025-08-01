@@ -8,7 +8,7 @@
     <item_name>Mind Recovery</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.4th-level-feature:mind-recovery</scc>
-    <scdc>1.1.1:10.1.1.10:03</scdc>
+    <scdc>1.1.1:13.1.1.10:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/4th-level-feature</type>
   </metadata>

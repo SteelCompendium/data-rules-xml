@@ -8,7 +8,7 @@
     <item_name>Psionic Leap</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.null.3rd-level-feature:psionic-leap</scc>
-    <scdc>1.1.1:10.1.6.6:01</scdc>
+    <scdc>1.1.1:13.1.6.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/3rd-level-feature</type>
   </metadata>

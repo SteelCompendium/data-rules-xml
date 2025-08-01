@@ -22,7 +22,7 @@
     <item_name>Synaptic Terror (11 Clarity)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.9th-level-feature:synaptic-terror-11-clarity</scc>
-    <scdc>1.1.1:10.2.1.7:01</scdc>
+    <scdc>1.1.1:13.2.1.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>

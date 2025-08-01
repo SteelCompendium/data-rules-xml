@@ -23,7 +23,7 @@
     <item_name>Return to Oblivion (11 Essence)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:return-to-oblivion-11-essence</scc>
-    <scdc>1.1.1:10.2.9.2:04</scdc>
+    <scdc>1.1.1:13.2.9.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/8th-level-feature</type>
   </metadata>

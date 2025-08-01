@@ -9,7 +9,7 @@
     <item_name>Bolstering Banter</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:bolstering-banter</scc>
-    <scdc>1.1.1:10.1.3.5:01</scdc>
+    <scdc>1.1.1:13.1.3.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/5th-level-feature</type>
   </metadata>

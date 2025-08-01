@@ -21,7 +21,7 @@
     <item_name>Tide of Death (3 Ferocity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:tide-of-death-3-ferocity</scc>
-    <scdc>1.1.1:10.2.5.1:05</scdc>
+    <scdc>1.1.1:13.2.5.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>

@@ -23,7 +23,7 @@
     <item_name>Wall of Fire (7 Essence)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:wall-of-fire-7-essence</scc>
-    <scdc>1.1.1:10.2.9.6:03</scdc>
+    <scdc>1.1.1:13.2.9.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/3rd-level-feature</type>
   </metadata>

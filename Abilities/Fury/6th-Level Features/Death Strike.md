@@ -23,7 +23,7 @@
     <item_name>Death Strike (9 Ferocity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.6th-level-feature:death-strike-9-ferocity</scc>
-    <scdc>1.1.1:10.2.5.3:02</scdc>
+    <scdc>1.1.1:13.2.5.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>

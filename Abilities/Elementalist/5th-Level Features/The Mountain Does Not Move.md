@@ -8,7 +8,7 @@
     <item_name>The Mountain Does Not Move</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move</scc>
-    <scdc>1.1.1:10.1.9.5:01</scdc>
+    <scdc>1.1.1:13.1.9.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/5th-level-feature</type>
   </metadata>

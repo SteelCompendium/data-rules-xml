@@ -8,7 +8,7 @@
     <item_name>Studied Commander</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander</scc>
-    <scdc>1.1.1:10.1.4.1:15</scdc>
+    <scdc>1.1.1:13.1.4.1:15</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/1st-level-feature</type>
   </metadata>

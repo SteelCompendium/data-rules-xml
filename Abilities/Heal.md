@@ -1,0 +1,16 @@
+<ability>
+  <metadata>
+    <class>combat</class>
+    <file_dpath>Abilities</file_dpath>
+    <item_id>heal</item_id>
+    <item_index>02</item_index>
+    <item_name>Heal</item_name>
+    <scc>mcdm.heroes.v1:common\_ability.main\_action:heal</scc>
+    <scdc>1.1.1:7.1:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>common\_ability/main\_action</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.</effect>
+  </effects>
+</ability>

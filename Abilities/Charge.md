@@ -1,0 +1,17 @@
+<ability>
+  <metadata>
+    <class>combat</class>
+    <file_dpath>Abilities</file_dpath>
+    <item_id>charge</item_id>
+    <item_index>03</item_index>
+    <item_name>Charge</item_name>
+    <scc>mcdm.heroes.v1:common\_ability.main\_action:charge</scc>
+    <scdc>1.1.1:7.1:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>common\_ability/main\_action</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
+A creature can&apos;t move through difficult terrain or shift when they charge. They can fly or burrow as part of the Charge main action if they have that movement available to them, but they can&apos;t climb or swim while charging unless they can automatically use that movement at full speed.</effect>
+  </effects>
+</ability>

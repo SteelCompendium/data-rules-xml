@@ -20,7 +20,7 @@
     <item_name>Targets of Opportunity (5 Focus)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:targets-of-opportunity-5-focus</scc>
-    <scdc>1.1.1:10.2.4.5:06</scdc>
+    <scdc>1.1.1:13.2.4.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/2nd-level-feature</type>
   </metadata>

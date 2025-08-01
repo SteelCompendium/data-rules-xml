@@ -23,7 +23,7 @@
     <item_name>Hammer and Anvil (5 Focus)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:hammer-and-anvil-5-focus</scc>
-    <scdc>1.1.1:10.2.4.1:06</scdc>
+    <scdc>1.1.1:13.2.4.1:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>

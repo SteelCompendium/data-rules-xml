@@ -1,0 +1,27 @@
+<ability>
+  <metadata>
+    <class>combat</class>
+    <file_dpath>Abilities</file_dpath>
+    <item_id>knockback</item_id>
+    <item_index>05</item_index>
+    <item_name>Knockback</item_name>
+    <scc>mcdm.heroes.v1:common\_ability.maneuver:knockback</scc>
+    <scdc>1.1.1:7.3:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>common\_ability/maneuver</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
+###### Knockback
+| **Melee, Weapon** |        **Maneuver** |
+| ----------------- | ------------------: |
+| **📏 Melee 1**    | **🎯 One creature** |</effect>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>Push 1</t1>
+      <t2>Push 2</t2>
+      <t3>Push 3</t3>
+    </effect>
+    <effect type="mundane">You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.</effect>
+  </effects>
+</ability>

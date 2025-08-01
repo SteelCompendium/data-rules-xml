@@ -8,7 +8,7 @@
     <item_name>Allow Me to Introduce Tonight&apos;s Players</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:allow-me-to-introduce-tonights-players</scc>
-    <scdc>1.1.1:10.1.3.6:02</scdc>
+    <scdc>1.1.1:13.1.3.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/2nd-level-feature</type>
   </metadata>

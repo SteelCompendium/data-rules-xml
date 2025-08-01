@@ -18,7 +18,7 @@
     <item_name>Take Two!</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:take-two</scc>
-    <scdc>1.1.1:10.1.3.5:05</scdc>
+    <scdc>1.1.1:13.1.3.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/5th-level-feature</type>
   </metadata>

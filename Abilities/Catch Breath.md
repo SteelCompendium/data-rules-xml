@@ -1,0 +1,17 @@
+<ability>
+  <metadata>
+    <class>combat</class>
+    <file_dpath>Abilities</file_dpath>
+    <item_id>catch-breath</item_id>
+    <item_index>01</item_index>
+    <item_name>Catch Breath</item_name>
+    <scc>mcdm.heroes.v1:common\_ability.maneuver:catch-breath</scc>
+    <scdc>1.1.1:7.3:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>common\_ability/maneuver</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">A creature who uses the Catch Breath maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
+A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can&apos;t use the Catch Breath maneuver, but other creatures can help them spend Recoveries in other ways.</effect>
+  </effects>
+</ability>

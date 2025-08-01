@@ -21,7 +21,7 @@
     <item_name>Ice Pillars (9 Discipline)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.null.6th-level-feature:ice-pillars-9-discipline</scc>
-    <scdc>1.1.1:10.2.6.3:01</scdc>
+    <scdc>1.1.1:13.2.6.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/6th-level-feature</type>
   </metadata>

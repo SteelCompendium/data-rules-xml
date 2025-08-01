@@ -15,7 +15,7 @@
     <item_name>3rd-Level Elemental Specialization Features Table</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:3rd-level-elemental-specialization-features-table</scc>
-    <scdc>1.1.1:10.1.9.7:02</scdc>
+    <scdc>1.1.1:13.1.9.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/3rd-level-feature</type>
   </metadata>

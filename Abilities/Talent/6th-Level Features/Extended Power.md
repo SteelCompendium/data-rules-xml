@@ -11,7 +11,7 @@
     <item_name>Extended Power (1 Clarity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.6th-level-feature:extended-power-1-clarity</scc>
-    <scdc>1.1.1:10.2.1.3:05</scdc>
+    <scdc>1.1.1:13.2.1.3:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/6th-level-feature</type>
   </metadata>
