@@ -23,7 +23,7 @@
     <item_name>Chronal Spike (3 Discipline)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:chronal-spike-3-discipline</scc>
-    <scdc>1.1.1:6.2.6.1:04</scdc>
+    <scdc>1.1.1:7.2.6.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/1st-level-feature</type>
   </metadata>

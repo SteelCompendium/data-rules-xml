@@ -8,7 +8,7 @@
     <item_name>A Sense for Truth</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth</scc>
-    <scdc>1.1.1:6.1.7.6:04</scdc>
+    <scdc>1.1.1:7.1.7.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/2nd-level-feature</type>
   </metadata>

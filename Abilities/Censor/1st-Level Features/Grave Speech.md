@@ -16,7 +16,7 @@
     <item_name>Grave Speech</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:grave-speech</scc>
-    <scdc>1.1.1:6.1.7.1:18</scdc>
+    <scdc>1.1.1:7.1.7.1:18</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/1st-level-feature</type>
   </metadata>

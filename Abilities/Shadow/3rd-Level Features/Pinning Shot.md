@@ -22,7 +22,7 @@
     <item_name>Pinning Shot (7 Insight)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:pinning-shot-7-insight</scc>
-    <scdc>1.1.1:6.2.2.6:02</scdc>
+    <scdc>1.1.1:7.2.2.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/3rd-level-feature</type>
   </metadata>

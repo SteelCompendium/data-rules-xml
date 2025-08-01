@@ -8,7 +8,7 @@
     <item_name>Umbral Form</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.6th-level-feature:umbral-form</scc>
-    <scdc>1.1.1:6.1.2.3:02</scdc>
+    <scdc>1.1.1:7.1.2.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/6th-level-feature</type>
   </metadata>

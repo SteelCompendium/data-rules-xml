@@ -8,7 +8,7 @@
     <item_name>Psion</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.10th-level-feature:psion</scc>
-    <scdc>1.1.1:6.1.1.4:05</scdc>
+    <scdc>1.1.1:7.1.1.4:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/10th-level-feature</type>
   </metadata>

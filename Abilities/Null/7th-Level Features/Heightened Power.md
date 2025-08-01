@@ -11,7 +11,7 @@
     <item_name>Heightened Power (1 Discipline)</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.null.7th-level-feature:heightened-power-1-discipline</scc>
-    <scdc>1.1.1:6.2.6.7:04</scdc>
+    <scdc>1.1.1:7.2.6.7:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/7th-level-feature</type>
   </metadata>

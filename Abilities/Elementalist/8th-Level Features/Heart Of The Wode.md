@@ -22,7 +22,7 @@
     <item_name>Heart of the Wode (11 Essence)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:heart-of-the-wode-11-essence</scc>
-    <scdc>1.1.1:6.2.9.2:01</scdc>
+    <scdc>1.1.1:7.2.9.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/8th-level-feature</type>
   </metadata>

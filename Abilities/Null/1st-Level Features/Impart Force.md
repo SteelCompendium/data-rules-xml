@@ -23,7 +23,7 @@
     <item_name>Impart Force (5 Discipline)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:impart-force-5-discipline</scc>
-    <scdc>1.1.1:6.2.6.1:05</scdc>
+    <scdc>1.1.1:7.2.6.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/1st-level-feature</type>
   </metadata>

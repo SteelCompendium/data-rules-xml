@@ -22,7 +22,7 @@
     <item_name>Get In Get Out (3 Insight)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:get-in-get-out-3-insight</scc>
-    <scdc>1.1.1:6.2.2.1:07</scdc>
+    <scdc>1.1.1:7.2.2.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>

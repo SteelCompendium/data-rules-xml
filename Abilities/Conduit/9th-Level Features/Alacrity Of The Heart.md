@@ -21,7 +21,7 @@
     <item_name>Alacrity of the Heart (11 Piety)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:alacrity-of-the-heart-11-piety</scc>
-    <scdc>1.1.1:6.2.8.7:01</scdc>
+    <scdc>1.1.1:7.2.8.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>

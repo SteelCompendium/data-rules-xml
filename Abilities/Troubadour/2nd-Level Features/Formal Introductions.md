@@ -8,7 +8,7 @@
     <item_name>Formal Introductions</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:formal-introductions</scc>
-    <scdc>1.1.1:6.1.3.6:05</scdc>
+    <scdc>1.1.1:7.1.3.6:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/2nd-level-feature</type>
   </metadata>

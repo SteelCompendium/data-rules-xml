@@ -23,7 +23,7 @@
     <item_name>Coup de Grace (5 Insight)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:coup-de-grace-5-insight</scc>
-    <scdc>1.1.1:6.2.2.1:04</scdc>
+    <scdc>1.1.1:7.2.2.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>

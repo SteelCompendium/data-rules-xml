@@ -21,7 +21,7 @@
     <item_name>Revitalizing Grace (9 Piety)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:revitalizing-grace-9-piety</scc>
-    <scdc>1.1.1:6.2.8.3:10</scdc>
+    <scdc>1.1.1:7.2.8.3:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>

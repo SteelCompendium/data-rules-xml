@@ -21,7 +21,7 @@
     <item_name>Edict of Unyielding Resolve (11 Wrath)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.9th-level-feature:edict-of-unyielding-resolve-11-wrath</scc>
-    <scdc>1.1.1:6.2.7.7:06</scdc>
+    <scdc>1.1.1:7.2.7.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/9th-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Doubling the Hours</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.8th-level-feature:doubling-the-hours</scc>
-    <scdc>1.1.1:6.1.1.2:03</scdc>
+    <scdc>1.1.1:7.1.1.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/8th-level-feature</type>
   </metadata>

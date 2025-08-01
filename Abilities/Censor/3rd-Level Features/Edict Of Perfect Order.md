@@ -21,7 +21,7 @@
     <item_name>Edict of Perfect Order (7 Wrath)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-perfect-order-7-wrath</scc>
-    <scdc>1.1.1:6.2.7.6:03</scdc>
+    <scdc>1.1.1:7.2.7.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/3rd-level-feature</type>
   </metadata>

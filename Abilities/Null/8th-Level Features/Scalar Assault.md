@@ -21,7 +21,7 @@
     <item_name>Scalar Assault (11 Discipline)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.null.8th-level-feature:scalar-assault-11-discipline</scc>
-    <scdc>1.1.1:6.2.6.2:02</scdc>
+    <scdc>1.1.1:7.2.6.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/8th-level-feature</type>
   </metadata>

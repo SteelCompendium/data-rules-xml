@@ -22,7 +22,7 @@
     <item_name>Gravitic Nova (11 Clarity)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.9th-level-feature:gravitic-nova-11-clarity</scc>
-    <scdc>1.1.1:6.2.1.7:04</scdc>
+    <scdc>1.1.1:7.2.1.7:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>

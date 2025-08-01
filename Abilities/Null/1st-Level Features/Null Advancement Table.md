@@ -15,7 +15,7 @@
     <item_name>Null Advancement Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-advancement-table</scc>
-    <scdc>1.1.1:6.1.6.1:21</scdc>
+    <scdc>1.1.1:7.1.6.1:21</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

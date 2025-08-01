@@ -8,7 +8,7 @@
     <item_name>Light of Revelation</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:light-of-revelation</scc>
-    <scdc>1.1.1:6.1.7.10:16</scdc>
+    <scdc>1.1.1:7.1.7.10:16</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

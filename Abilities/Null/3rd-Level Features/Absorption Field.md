@@ -20,7 +20,7 @@
     <item_name>Absorption Field (7 Discipline)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:absorption-field-7-discipline</scc>
-    <scdc>1.1.1:6.2.6.5:01</scdc>
+    <scdc>1.1.1:7.2.6.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/3rd-level-feature</type>
   </metadata>

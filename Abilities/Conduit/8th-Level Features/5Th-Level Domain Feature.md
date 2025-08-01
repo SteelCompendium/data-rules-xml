@@ -8,7 +8,7 @@
     <item_name>8th-Level Domain Feature</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:8th-level-domain-feature</scc>
-    <scdc>1.1.1:6.1.8.2:01</scdc>
+    <scdc>1.1.1:7.1.8.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/8th-level-feature</type>
   </metadata>

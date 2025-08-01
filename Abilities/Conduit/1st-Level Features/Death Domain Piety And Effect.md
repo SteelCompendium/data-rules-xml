@@ -9,7 +9,7 @@
     <item_name>Death Domain Piety and Effect</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:death-domain-piety-and-effect</scc>
-    <scdc>1.1.1:6.1.8.1:09</scdc>
+    <scdc>1.1.1:7.1.8.1:09</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

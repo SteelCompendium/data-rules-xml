@@ -21,7 +21,7 @@
     <item_name>Continuity Error (9 Drama)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:continuity-error-9-drama</scc>
-    <scdc>1.1.1:6.2.3.4:04</scdc>
+    <scdc>1.1.1:7.2.3.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/5th-level-feature</type>
   </metadata>

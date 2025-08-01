@@ -21,7 +21,7 @@
     <item_name>Power Ballad (11 Drama)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:power-ballad-11-drama</scc>
-    <scdc>1.1.1:6.2.3.2:03</scdc>
+    <scdc>1.1.1:7.2.3.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/8th-level-feature</type>
   </metadata>

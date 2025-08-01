@@ -17,7 +17,7 @@
     <item_name>Remote Assistance</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:remote-assistance</scc>
-    <scdc>1.1.1:6.1.1.1:24</scdc>
+    <scdc>1.1.1:7.1.1.1:24</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/1st-level-feature</type>
   </metadata>
