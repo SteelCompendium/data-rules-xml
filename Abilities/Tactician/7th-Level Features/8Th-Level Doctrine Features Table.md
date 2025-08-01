@@ -15,7 +15,7 @@
     <item_name>7th-Level Doctrine Features Table</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:7th-level-doctrine-features-table</scc>
-    <scdc>1.1.1:5.1.4.9:02</scdc>
+    <scdc>1.1.1:6.1.4.9:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/7th-level-feature</type>
   </metadata>

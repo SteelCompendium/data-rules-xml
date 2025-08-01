@@ -23,7 +23,7 @@
     <item_name>Maw of Earth (7 Essence)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:maw-of-earth-7-essence</scc>
-    <scdc>1.1.1:5.2.9.6:04</scdc>
+    <scdc>1.1.1:6.2.9.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/3rd-level-feature</type>
   </metadata>

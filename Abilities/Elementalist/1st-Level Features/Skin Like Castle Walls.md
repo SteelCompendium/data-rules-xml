@@ -19,7 +19,7 @@
     <item_name>Skin Like Castle Walls</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:skin-like-castle-walls</scc>
-    <scdc>1.1.1:5.1.9.1:14</scdc>
+    <scdc>1.1.1:6.1.9.1:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

@@ -20,7 +20,7 @@
     <item_name>You&apos;ve Still Got Something Left (9 Focus)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:youve-still-got-something-left-9-focus</scc>
-    <scdc>1.1.1:5.2.4.4:02</scdc>
+    <scdc>1.1.1:6.2.4.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/5th-level-feature</type>
   </metadata>

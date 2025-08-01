@@ -8,7 +8,7 @@
     <item_name>Mindlink</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.8th-level-feature:mindlink</scc>
-    <scdc>1.1.1:5.1.1.2:05</scdc>
+    <scdc>1.1.1:6.1.1.2:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/8th-level-feature</type>
   </metadata>

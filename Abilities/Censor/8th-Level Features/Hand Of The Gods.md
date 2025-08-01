@@ -22,7 +22,7 @@
     <item_name>Hand of the Gods (11 Wrath)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.8th-level-feature:hand-of-the-gods-11-wrath</scc>
-    <scdc>1.1.1:5.2.7.2:02</scdc>
+    <scdc>1.1.1:6.2.7.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/8th-level-feature</type>
   </metadata>

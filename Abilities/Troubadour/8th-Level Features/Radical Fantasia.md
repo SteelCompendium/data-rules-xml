@@ -18,7 +18,7 @@
     <item_name>Radical Fantasia</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:radical-fantasia</scc>
-    <scdc>1.1.1:5.1.3.2:03</scdc>
+    <scdc>1.1.1:6.1.3.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/8th-level-feature</type>
   </metadata>

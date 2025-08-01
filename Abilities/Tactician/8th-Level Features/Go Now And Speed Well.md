@@ -20,7 +20,7 @@
     <item_name>Go Now and Speed Well (11 Focus)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:go-now-and-speed-well-11-focus</scc>
-    <scdc>1.1.1:5.2.4.2:02</scdc>
+    <scdc>1.1.1:6.2.4.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>

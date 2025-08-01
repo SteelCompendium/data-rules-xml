@@ -24,7 +24,7 @@
     <item_name>Anticipating Strike (9 Discipline)</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:anticipating-strike-9-discipline</scc>
-    <scdc>1.1.1:5.2.6.8:01</scdc>
+    <scdc>1.1.1:6.2.6.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/4th-level-feature</type>
   </metadata>

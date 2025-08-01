@@ -22,7 +22,7 @@
     <item_name>It Is Justice You Fear (5 Wrath)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:it-is-justice-you-fear-5-wrath</scc>
-    <scdc>1.1.1:5.2.7.5:05</scdc>
+    <scdc>1.1.1:6.2.7.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>

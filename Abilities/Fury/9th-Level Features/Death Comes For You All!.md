@@ -23,7 +23,7 @@
     <item_name>Death Comes for You All! (11 Ferocity)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all-11-ferocity</scc>
-    <scdc>1.1.1:5.2.5.6:01</scdc>
+    <scdc>1.1.1:6.2.5.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/9th-level-feature</type>
   </metadata>

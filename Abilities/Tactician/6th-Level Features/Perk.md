@@ -8,7 +8,7 @@
     <item_name>Perk</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.6th-level-feature:perk</scc>
-    <scdc>1.1.1:5.1.4.3:01</scdc>
+    <scdc>1.1.1:6.1.4.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/6th-level-feature</type>
   </metadata>

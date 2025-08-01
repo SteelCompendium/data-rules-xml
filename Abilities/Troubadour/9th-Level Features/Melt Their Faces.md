@@ -23,7 +23,7 @@
     <item_name>Melt Their Faces (11 Drama)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:melt-their-faces-11-drama</scc>
-    <scdc>1.1.1:5.2.3.7:04</scdc>
+    <scdc>1.1.1:6.2.3.7:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>

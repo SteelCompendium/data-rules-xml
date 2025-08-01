@@ -15,7 +15,7 @@
     <item_name>8th-Level Doctrine Features Table</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:8th-level-doctrine-features-table</scc>
-    <scdc>1.1.1:5.1.4.2:01</scdc>
+    <scdc>1.1.1:6.1.4.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/8th-level-feature</type>
   </metadata>

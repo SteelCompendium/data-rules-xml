@@ -20,7 +20,7 @@
     <item_name>Frontal Assault (7 Focus)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:frontal-assault-7-focus</scc>
-    <scdc>1.1.1:5.2.4.6:03</scdc>
+    <scdc>1.1.1:6.2.4.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/3rd-level-feature</type>
   </metadata>

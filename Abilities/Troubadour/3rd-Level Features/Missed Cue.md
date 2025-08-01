@@ -8,7 +8,7 @@
     <item_name>Missed Cue</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:missed-cue</scc>
-    <scdc>1.1.1:5.1.3.7:03</scdc>
+    <scdc>1.1.1:6.1.3.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/3rd-level-feature</type>
   </metadata>

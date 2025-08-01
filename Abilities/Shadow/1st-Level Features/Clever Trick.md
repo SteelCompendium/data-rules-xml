@@ -21,7 +21,7 @@
     <item_name>Clever Trick (1 Insight)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:clever-trick-1-insight</scc>
-    <scdc>1.1.1:5.2.2.1:05</scdc>
+    <scdc>1.1.1:6.2.2.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>

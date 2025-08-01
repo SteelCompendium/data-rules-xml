@@ -22,7 +22,7 @@
     <item_name>Applied Chronometrics (5 Clarity)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:applied-chronometrics-5-clarity</scc>
-    <scdc>1.1.1:5.2.1.5:03</scdc>
+    <scdc>1.1.1:6.2.1.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/2nd-level-feature</type>
   </metadata>

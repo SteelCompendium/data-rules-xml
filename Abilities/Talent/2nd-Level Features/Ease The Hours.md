@@ -8,7 +8,7 @@
     <item_name>Ease the Hours</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-hours</scc>
-    <scdc>1.1.1:5.1.1.6:04</scdc>
+    <scdc>1.1.1:6.1.1.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/2nd-level-feature</type>
   </metadata>

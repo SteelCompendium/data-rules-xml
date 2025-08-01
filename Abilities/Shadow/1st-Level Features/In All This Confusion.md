@@ -17,7 +17,7 @@
     <item_name>In All This Confusion</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:in-all-this-confusion</scc>
-    <scdc>1.1.1:5.1.2.1:01</scdc>
+    <scdc>1.1.1:6.1.2.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/1st-level-feature</type>
   </metadata>

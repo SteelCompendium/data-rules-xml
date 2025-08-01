@@ -22,7 +22,7 @@
     <item_name>A Squad Unto Myself (5 Discipline)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline</scc>
-    <scdc>1.1.1:5.2.6.1:08</scdc>
+    <scdc>1.1.1:6.2.6.1:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/1st-level-feature</type>
   </metadata>

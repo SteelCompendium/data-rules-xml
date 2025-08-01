@@ -23,7 +23,7 @@
     <item_name>To Stone! (9 Ferocity)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.5th-level-feature:to-stone-9-ferocity</scc>
-    <scdc>1.1.1:5.2.5.4:01</scdc>
+    <scdc>1.1.1:6.2.5.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/5th-level-feature</type>
   </metadata>

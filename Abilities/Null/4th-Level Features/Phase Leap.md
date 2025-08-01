@@ -20,7 +20,7 @@
     <item_name>Phase Leap (9 Discipline)</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:phase-leap-9-discipline</scc>
-    <scdc>1.1.1:5.2.6.8:04</scdc>
+    <scdc>1.1.1:6.2.6.8:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/4th-level-feature</type>
   </metadata>

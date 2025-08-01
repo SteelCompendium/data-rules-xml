@@ -22,7 +22,7 @@
     <item_name>Rejuvenate (11 Clarity)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.8th-level-feature:rejuvenate-11-clarity</scc>
-    <scdc>1.1.1:5.2.1.2:05</scdc>
+    <scdc>1.1.1:6.2.1.2:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/8th-level-feature</type>
   </metadata>

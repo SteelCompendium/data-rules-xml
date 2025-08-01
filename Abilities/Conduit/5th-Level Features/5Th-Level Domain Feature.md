@@ -8,7 +8,7 @@
     <item_name>5th-Level Domain Feature</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.5th-level-feature:5th-level-domain-feature</scc>
-    <scdc>1.1.1:5.1.8.5:01</scdc>
+    <scdc>1.1.1:6.1.8.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/5th-level-feature</type>
   </metadata>

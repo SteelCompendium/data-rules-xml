@@ -21,7 +21,7 @@
     <item_name>Here&apos;s How Your Story Ends (9 Drama)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:heres-how-your-story-ends-9-drama</scc>
-    <scdc>1.1.1:5.2.3.3:02</scdc>
+    <scdc>1.1.1:6.2.3.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/6th-level-feature</type>
   </metadata>

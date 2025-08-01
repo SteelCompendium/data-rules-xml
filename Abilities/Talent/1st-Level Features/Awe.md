@@ -23,7 +23,7 @@
     <item_name>Awe (3 Clarity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe-3-clarity</scc>
-    <scdc>1.1.1:5.2.1.1:07</scdc>
+    <scdc>1.1.1:6.2.1.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>

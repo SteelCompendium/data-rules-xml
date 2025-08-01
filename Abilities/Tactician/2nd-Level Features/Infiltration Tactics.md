@@ -8,7 +8,7 @@
     <item_name>Infiltration Tactics</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics</scc>
-    <scdc>1.1.1:5.1.4.6:04</scdc>
+    <scdc>1.1.1:6.1.4.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/2nd-level-feature</type>
   </metadata>

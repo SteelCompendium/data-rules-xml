@@ -22,7 +22,7 @@
     <item_name>Fulfill Your Destiny (11 Wrath)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.9th-level-feature:fulfill-your-destiny-11-wrath</scc>
-    <scdc>1.1.1:5.2.7.7:02</scdc>
+    <scdc>1.1.1:6.2.7.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/9th-level-feature</type>
   </metadata>

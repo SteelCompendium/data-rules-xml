@@ -23,7 +23,7 @@
     <item_name>Phase Hurl (11 Discipline)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.null.8th-level-feature:phase-hurl-11-discipline</scc>
-    <scdc>1.1.1:5.2.6.2:03</scdc>
+    <scdc>1.1.1:6.2.6.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/8th-level-feature</type>
   </metadata>
