@@ -1,0 +1,39 @@
+<ability>
+  <name>Iron Grip</name>
+  <cost>9 Discipline</cost>
+  <flavor>You grab the target with supernatural force.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>null</class>
+    <cost>9 Discipline</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Discipline</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Null/4th-Level Features</file_dpath>
+    <item_id>iron-grip-9-discipline</item_id>
+    <item_index>03</item_index>
+    <item_name>Iron Grip (9 Discipline)</item_name>
+    <level>4</level>
+    <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:iron-grip-9-discipline</scc>
+    <scdc>1.1.1:5.2.2.8:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/null/4th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>10 + A damage; A &lt; WEAK, grabbed</t1>
+      <t2>14 + A damage; A &lt; AVERAGE, grabbed</t2>
+      <t3>18 + A damage; A &lt; STRONG, grabbed</t3>
+    </effect>
+    <effect type="mundane">While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,37 @@
+<ability>
+  <name>Ice Pillars</name>
+  <cost>9 Discipline</cost>
+  <flavor>Pillars of ice erupt from the ground and launch your foes into the air.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>Three creatures or objects</target>
+  <metadata>
+    <class>null</class>
+    <cost>9 Discipline</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Discipline</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Null/6th-Level Features</file_dpath>
+    <item_id>ice-pillars-9-discipline</item_id>
+    <item_index>01</item_index>
+    <item_name>Ice Pillars (9 Discipline)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.null.6th-level-feature:ice-pillars-9-discipline</scc>
+    <scdc>1.1.1:5.2.2.3:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/null/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>Vertical slide 6</t1>
+      <t2>Vertical slide 8</t2>
+      <t3>Vertical slide 10</t3>
+    </effect>
+    <effect type="mundane">The pillars vanish as soon as the effects of the forced movement are resolved.</effect>
+  </effects>
+</ability>

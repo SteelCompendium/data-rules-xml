@@ -1,0 +1,38 @@
+<ability>
+  <name>A Squad Unto Myself</name>
+  <cost>5 Discipline</cost>
+  <flavor>You move so quickly, it seems as though an army assaulted your foes.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>2 burst</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>null</class>
+    <cost>5 Discipline</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Discipline</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Null/1st-Level Features</file_dpath>
+    <item_id>a-squad-unto-myself-5-discipline</item_id>
+    <item_index>8</item_index>
+    <item_name>A Squad Unto Myself (5 Discipline)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline</scc>
+    <scdc>1.1.1:5.2.2.1:08</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/null/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>6 damage</t1>
+      <t2>9 damage</t2>
+      <t3>13 damage</t3>
+    </effect>
+    <effect type="mundane">You can take the Disengage move action as a free maneuver before or after you use this ability.</effect>
+  </effects>
+</ability>

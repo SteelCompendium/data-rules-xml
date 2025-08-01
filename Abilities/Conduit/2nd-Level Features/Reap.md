@@ -21,7 +21,7 @@
     <item_name>Reap (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:reap-5-piety</scc>
-    <scdc>1.1.1:5.2.3.5:11</scdc>
+    <scdc>1.1.1:5.2.4.5:11</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

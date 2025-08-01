@@ -1,0 +1,39 @@
+<ability>
+  <name>Impart Force</name>
+  <cost>5 Discipline</cost>
+  <flavor>A single touch from you, and your enemy flies backward.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Melee 1</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>null</class>
+    <cost>5 Discipline</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Discipline</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Null/1st-Level Features</file_dpath>
+    <item_id>impart-force-5-discipline</item_id>
+    <item_index>05</item_index>
+    <item_name>Impart Force (5 Discipline)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:impart-force-5-discipline</scc>
+    <scdc>1.1.1:5.2.2.1:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/null/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Intuition</roll>
+      <t1>Push 3</t1>
+      <t2>Push 5</t2>
+      <t3>Push 7</t3>
+    </effect>
+    <effect type="mundane">An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.</effect>
+  </effects>
+</ability>

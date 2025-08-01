@@ -11,11 +11,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Null/1st-Level Features</file_dpath>
     <item_id>cryokinetic-mastery-table</item_id>
-    <item_index>05</item_index>
+    <item_index>07</item_index>
     <item_name>Cryokinetic Mastery Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:cryokinetic-mastery-table</scc>
-    <scdc>1.1.1:5.1.2.1:05</scdc>
+    <scdc>1.1.1:5.1.2.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

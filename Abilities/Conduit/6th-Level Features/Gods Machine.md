@@ -21,7 +21,7 @@
     <item_name>Gods&apos; Machine (9 Piety)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:gods-machine-9-piety</scc>
-    <scdc>1.1.1:5.2.3.3:12</scdc>
+    <scdc>1.1.1:5.2.4.3:12</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>

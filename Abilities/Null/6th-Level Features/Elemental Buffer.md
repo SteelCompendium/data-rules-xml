@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>null</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Null/6th-Level Features</file_dpath>
+    <item_id>elemental-buffer</item_id>
+    <item_index>01</item_index>
+    <item_name>Elemental Buffer</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.trait.null.6th-level-feature:elemental-buffer</scc>
+    <scdc>1.1.1:5.1.2.3:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/null/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain 2 surges that can be used only to increase the damage of your next strike.</effect>
+  </effects>
+</ability>

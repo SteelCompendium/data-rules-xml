@@ -11,11 +11,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Null/1st-Level Features</file_dpath>
     <item_id>metakinetic-mastery-table</item_id>
-    <item_index>06</item_index>
+    <item_index>10</item_index>
     <item_name>Metakinetic Mastery Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:metakinetic-mastery-table</scc>
-    <scdc>1.1.1:5.1.2.1:06</scdc>
+    <scdc>1.1.1:5.1.2.1:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

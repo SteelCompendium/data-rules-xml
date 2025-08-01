@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>null</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Null/3rd-Level Features</file_dpath>
+    <item_id>reorder</item_id>
+    <item_index>02</item_index>
+    <item_name>Reorder</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.null.3rd-level-feature:reorder</scc>
+    <scdc>1.1.1:5.1.2.6:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/null/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">At the start of each of your turns, you can use a free triggered action to end one effect on you that is ended by a saving throw or that ends at the end of your turn. Alternatively, you can grant this benefit to one creature in the area of your Null Field ability.</effect>
+  </effects>
+</ability>

@@ -21,7 +21,7 @@
     <item_name>Trinity of Trickery (9 Wrath)</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.7th-level-feature:trinity-of-trickery-9-wrath</scc>
-    <scdc>1.1.1:5.2.2.8:01</scdc>
+    <scdc>1.1.1:5.2.3.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/7th-level-feature</type>
   </metadata>

@@ -24,7 +24,7 @@
     <item_name>Luminous Champion Aloft (9 Essence)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:luminous-champion-aloft-9-essence</scc>
-    <scdc>1.1.1:5.2.4.3:03</scdc>
+    <scdc>1.1.1:5.2.5.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/6th-level-feature</type>
   </metadata>

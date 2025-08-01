@@ -1,0 +1,30 @@
+<ability>
+  <name>Interphase</name>
+  <cost>9 Discipline</cost>
+  <flavor>You slip into a faster timestream to act more quickly.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Self</distance>
+  <target>Self</target>
+  <metadata>
+    <class>null</class>
+    <cost>9 Discipline</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Discipline</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Null/6th-Level Features</file_dpath>
+    <item_id>interphase-9-discipline</item_id>
+    <item_index>05</item_index>
+    <item_name>Interphase (9 Discipline)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.null.6th-level-feature:interphase-9-discipline</scc>
+    <scdc>1.1.1:5.2.2.3:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/null/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You can use up to three signature abilities, each of which gains an edge.</effect>
+  </effects>
+</ability>

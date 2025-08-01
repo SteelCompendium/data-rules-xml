@@ -11,11 +11,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Null/1st-Level Features</file_dpath>
     <item_id>null-advancement-table</item_id>
-    <item_index>16</item_index>
+    <item_index>21</item_index>
     <item_name>Null Advancement Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-advancement-table</scc>
-    <scdc>1.1.1:5.1.2.1:16</scdc>
+    <scdc>1.1.1:5.1.2.1:21</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

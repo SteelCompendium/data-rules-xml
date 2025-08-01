@@ -21,7 +21,7 @@
     <item_name>Vessel of Retribution (9 Piety)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:vessel-of-retribution-9-piety</scc>
-    <scdc>1.1.1:5.2.3.4:03</scdc>
+    <scdc>1.1.1:5.2.4.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/5th-level-feature</type>
   </metadata>

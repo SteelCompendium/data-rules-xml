@@ -21,7 +21,7 @@
     <item_name>Edict of Disruptive Isolation (7 Wrath)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-disruptive-isolation-7-wrath</scc>
-    <scdc>1.1.1:5.2.2.6:01</scdc>
+    <scdc>1.1.1:5.2.3.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/3rd-level-feature</type>
   </metadata>

@@ -23,7 +23,7 @@
     <item_name>Arrest (5 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:arrest-5-wrath</scc>
-    <scdc>1.1.1:5.2.2.1:03</scdc>
+    <scdc>1.1.1:5.2.3.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

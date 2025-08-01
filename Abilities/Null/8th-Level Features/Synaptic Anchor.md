@@ -1,0 +1,31 @@
+<ability>
+  <name>Synaptic Anchor</name>
+  <cost>11 Discipline</cost>
+  <flavor>You disrupt an enemy&apos;s strike and create a feedback loop in their mind, preventing them from focusing on future attacks.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+  </keywords>
+  <type>Free triggered</type>
+  <distance>Self; see below</distance>
+  <target>Self or one creature</target>
+  <trigger>The target takes damage from another creature&apos;s ability while in the area of your Null Field ability.</trigger>
+  <metadata>
+    <class>null</class>
+    <cost>11 Discipline</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Discipline</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Null/8th-Level Features</file_dpath>
+    <item_id>synaptic-anchor-11-discipline</item_id>
+    <item_index>01</item_index>
+    <item_name>Synaptic Anchor (11 Discipline)</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.ability.null.8th-level-feature:synaptic-anchor-11-discipline</scc>
+    <scdc>1.1.1:5.2.2.2:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/null/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target takes half the damage, and if the triggering crea ture has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</effect>
+  </effects>
+</ability>
