@@ -23,7 +23,7 @@
     <item_name>Erase (7 Essence)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:erase-7-essence</scc>
-    <scdc>1.1.1:5.2.5.6:01</scdc>
+    <scdc>1.1.1:5.1.7.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/3rd-level-feature</type>
   </metadata>

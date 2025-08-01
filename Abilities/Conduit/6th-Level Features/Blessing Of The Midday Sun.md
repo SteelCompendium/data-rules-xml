@@ -21,7 +21,7 @@
     <item_name>Blessing of the Midday Sun (9 Piety)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:blessing-of-the-midday-sun-9-piety</scc>
-    <scdc>1.1.1:5.2.4.3:08</scdc>
+    <scdc>1.1.1:5.1.6.3:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>

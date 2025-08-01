@@ -8,7 +8,7 @@
     <item_name>Inescapable Wrath</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:inescapable-wrath</scc>
-    <scdc>1.1.1:5.1.1.6:04</scdc>
+    <scdc>1.1.1:5.2.3.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/2nd-level-feature</type>
   </metadata>

@@ -1,0 +1,32 @@
+<ability>
+  <name>Shadowstrike</name>
+  <cost>5 Insight</cost>
+  <flavor>They have no idea what the college taught you.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Self; see below 5</distance>
+  <target>Self</target>
+  <metadata>
+    <class>shadow</class>
+    <cost>5 Insight</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <item_id>shadowstrike-5-insight</item_id>
+    <item_index>03</item_index>
+    <item_name>Shadowstrike (5 Insight)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:shadowstrike-5-insight</scc>
+    <scdc>1.1.1:5.1.2.1:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You use a strike signature ability twice.</effect>
+  </effects>
+</ability>

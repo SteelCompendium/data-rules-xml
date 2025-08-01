@@ -1,0 +1,36 @@
+<ability>
+  <name>One Vial Makes You Faster</name>
+  <cost>9 Insight</cost>
+  <flavor>Each ally who catches a potion you throw can take the battle to the next level.</flavor>
+  <keywords>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>Three creatures</target>
+  <metadata>
+    <class>shadow</class>
+    <cost>9 Insight</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Shadow/6th-Level Features</file_dpath>
+    <item_id>one-vial-makes-you-faster-9-insight</item_id>
+    <item_index>05</item_index>
+    <item_name>One Vial Makes You Faster (9 Insight)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:one-vial-makes-you-faster-9-insight</scc>
+    <scdc>1.1.1:5.1.2.2:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&apos;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter. A creature who drinks the potion receives benefits based on your power roll.</effect>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>The creature&apos;s speed is increased by 2 until the end of the encounter.</t1>
+      <t2>The creature can fly until the end of the encounter.</t2>
+      <t3>The creature turns invisible until the end of their next turn.</t3>
+    </effect>
+  </effects>
+</ability>

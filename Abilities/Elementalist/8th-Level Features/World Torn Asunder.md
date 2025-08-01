@@ -22,7 +22,7 @@
     <item_name>World Torn Asunder (11 Essence)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder-11-essence</scc>
-    <scdc>1.1.1:5.2.5.2:03</scdc>
+    <scdc>1.1.1:5.1.7.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/8th-level-feature</type>
   </metadata>

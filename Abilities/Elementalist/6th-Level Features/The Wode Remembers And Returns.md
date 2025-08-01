@@ -24,7 +24,7 @@
     <item_name>The Wode Remembers and Returns (9 Essence)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:the-wode-remembers-and-returns-9-essence</scc>
-    <scdc>1.1.1:5.2.5.3:04</scdc>
+    <scdc>1.1.1:5.1.7.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/6th-level-feature</type>
   </metadata>

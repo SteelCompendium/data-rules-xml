@@ -20,7 +20,7 @@
     <item_name>Synapse Field (7 Discipline)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:synapse-field-7-discipline</scc>
-    <scdc>1.1.1:5.2.2.5:02</scdc>
+    <scdc>1.1.1:5.1.4.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/3rd-level-feature</type>
   </metadata>

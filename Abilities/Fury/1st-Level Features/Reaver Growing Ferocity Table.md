@@ -15,7 +15,7 @@
     <item_name>Reaver Growing Ferocity Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:reaver-growing-ferocity-table</scc>
-    <scdc>1.1.1:5.1.1.1:03</scdc>
+    <scdc>1.1.1:5.2.3.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/1st-level-feature</type>
   </metadata>

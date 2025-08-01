@@ -1,0 +1,28 @@
+<ability>
+  <name>In All This Confusion</name>
+  <flavor>You vanish in a plume of black smoke to avoid danger.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Triggered</type>
+  <distance>Self</distance>
+  <target>\\ Self</target>
+  <trigger>You take damage.</trigger>
+  <metadata>
+    <class>shadow</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <item_id>in-all-this-confusion</item_id>
+    <item_index>01</item_index>
+    <item_name>In All This Confusion</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:in-all-this-confusion</scc>
+    <scdc>1.1.1:5.2.2.1:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/shadow/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.</effect>
+    <effect type="mundane" cost="Spend 1+ Insight">You teleport 1 additional square for each insight spent.</effect>
+  </effects>
+</ability>

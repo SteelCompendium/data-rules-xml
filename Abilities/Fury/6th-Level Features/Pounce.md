@@ -23,7 +23,7 @@
     <item_name>Pounce (9 Ferocity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.6th-level-feature:pounce-9-ferocity</scc>
-    <scdc>1.1.1:5.2.1.3:04</scdc>
+    <scdc>1.1.1:5.1.3.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>

@@ -18,7 +18,7 @@
     <item_name>My Life for Yours</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:my-life-for-yours</scc>
-    <scdc>1.1.1:5.1.3.1:22</scdc>
+    <scdc>1.1.1:5.2.5.1:22</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/1st-level-feature</type>
   </metadata>

@@ -1,0 +1,38 @@
+<ability>
+  <name>Disorienting Strike</name>
+  <cost>3 Insight</cost>
+  <flavor>Your attack leaves them reeling, allowing you to follow up.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>shadow</class>
+    <cost>3 Insight</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <item_id>disorienting-strike-3-insight</item_id>
+    <item_index>10</item_index>
+    <item_name>Disorienting Strike (3 Insight)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:disorienting-strike-3-insight</scc>
+    <scdc>1.1.1:5.1.2.1:10</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>4 + A damage; slide 2</t1>
+      <t2>6 + A damage; slide 3</t2>
+      <t3>10 + A damage; slide 5</t3>
+    </effect>
+    <effect type="mundane">You can shift into any square the target leaves when you slide them.</effect>
+  </effects>
+</ability>

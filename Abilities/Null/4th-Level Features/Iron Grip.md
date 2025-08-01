@@ -23,7 +23,7 @@
     <item_name>Iron Grip (9 Discipline)</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:iron-grip-9-discipline</scc>
-    <scdc>1.1.1:5.2.2.8:03</scdc>
+    <scdc>1.1.1:5.1.4.8:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/4th-level-feature</type>
   </metadata>

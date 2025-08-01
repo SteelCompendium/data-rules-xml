@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>shadow</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <item_id>smoke-bomb</item_id>
+    <item_index>03</item_index>
+    <item_name>Smoke Bomb</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:smoke-bomb</scc>
+    <scdc>1.1.1:5.2.2.1:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/shadow/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You always carry a supply of smoke bombs to use for distractions and easy getaways. You can use the Hide maneuver even if you are observed and don&apos;t initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are automatically hidden.</effect>
+  </effects>
+</ability>

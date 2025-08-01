@@ -20,7 +20,7 @@
     <item_name>Face the Storm! (7 Ferocity)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:face-the-storm-7-ferocity</scc>
-    <scdc>1.1.1:5.2.1.5:03</scdc>
+    <scdc>1.1.1:5.1.3.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/3rd-level-feature</type>
   </metadata>

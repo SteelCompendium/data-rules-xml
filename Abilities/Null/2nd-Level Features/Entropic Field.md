@@ -21,7 +21,7 @@
     <item_name>Entropic Field (5 Discipline)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:entropic-field-5-discipline</scc>
-    <scdc>1.1.1:5.2.2.4:02</scdc>
+    <scdc>1.1.1:5.1.4.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/2nd-level-feature</type>
   </metadata>

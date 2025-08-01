@@ -15,7 +15,7 @@
     <item_name>3rd-Level Aspect Features Table</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:3rd-level-aspect-features-table</scc>
-    <scdc>1.1.1:5.1.1.7:03</scdc>
+    <scdc>1.1.1:5.2.3.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/3rd-level-feature</type>
   </metadata>

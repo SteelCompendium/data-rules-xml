@@ -23,7 +23,7 @@
     <item_name>Translated Through Flame (5 Essence)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:translated-through-flame-5-essence</scc>
-    <scdc>1.1.1:5.2.5.5:01</scdc>
+    <scdc>1.1.1:5.1.7.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/2nd-level-feature</type>
   </metadata>

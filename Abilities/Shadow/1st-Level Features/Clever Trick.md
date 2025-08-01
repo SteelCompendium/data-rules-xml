@@ -1,0 +1,31 @@
+<ability>
+  <name>Clever Trick</name>
+  <cost>1 Insight</cost>
+  <flavor>You sow a moment of confusion in combat, to your enemy&apos;s peril.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Triggered</type>
+  <distance>Self</distance>
+  <target>\\ Self</target>
+  <trigger>An enemy targets you with a strike.</trigger>
+  <metadata>
+    <class>shadow</class>
+    <cost>1 Insight</cost>
+    <cost_amount>1</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <item_id>clever-trick-1-insight</item_id>
+    <item_index>05</item_index>
+    <item_name>Clever Trick (1 Insight)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:clever-trick-1-insight</scc>
+    <scdc>1.1.1:5.1.2.1:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</effect>
+  </effects>
+</ability>

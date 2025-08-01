@@ -23,7 +23,7 @@
     <item_name>My Turn! (9 Ferocity)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.5th-level-feature:my-turn-9-ferocity</scc>
-    <scdc>1.1.1:5.2.1.4:03</scdc>
+    <scdc>1.1.1:5.1.3.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/5th-level-feature</type>
   </metadata>

@@ -1,0 +1,28 @@
+<ability>
+  <name>Night Watch</name>
+  <flavor>A steely dagger from out of the blue knocks another weapon off course.</flavor>
+  <keywords>
+    <keyword>Ranged</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Triggered</type>
+  <distance>Ranged 5</distance>
+  <target>One ally</target>
+  <trigger>The target takes damage from another creature&apos;s ability while you are hidden.</trigger>
+  <metadata>
+    <class>shadow</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Shadow/4th-Level Features</file_dpath>
+    <item_id>night-watch</item_id>
+    <item_index>06</item_index>
+    <item_name>Night Watch</item_name>
+    <level>4</level>
+    <scc>mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:night-watch</scc>
+    <scdc>1.1.1:5.2.2.8:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/shadow/4th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target takes half the damage. You remain hidden.</effect>
+  </effects>
+</ability>

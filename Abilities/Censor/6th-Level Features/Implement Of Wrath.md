@@ -8,7 +8,7 @@
     <item_name>Implement of Wrath</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.6th-level-feature:implement-of-wrath</scc>
-    <scdc>1.1.1:5.1.3.3:02</scdc>
+    <scdc>1.1.1:5.2.5.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/6th-level-feature</type>
   </metadata>

@@ -17,7 +17,7 @@
     <item_name>Guided to Your Side</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:guided-to-your-side</scc>
-    <scdc>1.1.1:5.1.3.9:14</scdc>
+    <scdc>1.1.1:5.2.5.9:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>
