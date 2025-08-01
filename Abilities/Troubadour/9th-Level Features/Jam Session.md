@@ -21,7 +21,7 @@
     <item_name>Jam Session (11 Drama)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:jam-session-11-drama</scc>
-    <scdc>1.1.1:8.2.3.7:01</scdc>
+    <scdc>1.1.1:9.2.3.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>

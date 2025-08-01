@@ -17,7 +17,7 @@
     <item_name>Minor Telekinesis</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:minor-telekinesis</scc>
-    <scdc>1.1.1:8.1.1.1:03</scdc>
+    <scdc>1.1.1:9.1.1.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/1st-level-feature</type>
   </metadata>

@@ -18,7 +18,7 @@
     <item_name>Night Watch</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:night-watch</scc>
-    <scdc>1.1.1:8.1.2.10:06</scdc>
+    <scdc>1.1.1:9.1.2.10:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/4th-level-feature</type>
   </metadata>

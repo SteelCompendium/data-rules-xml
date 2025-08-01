@@ -20,7 +20,7 @@
     <item_name>Battle Cry (3 Focus)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:battle-cry-3-focus</scc>
-    <scdc>1.1.1:8.2.4.1:04</scdc>
+    <scdc>1.1.1:9.2.4.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>

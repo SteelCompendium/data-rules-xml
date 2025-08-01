@@ -22,7 +22,7 @@
     <item_name>Phase Step (9 Discipline)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.null.6th-level-feature:phase-step-9-discipline</scc>
-    <scdc>1.1.1:8.2.6.3:06</scdc>
+    <scdc>1.1.1:9.2.6.3:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/6th-level-feature</type>
   </metadata>

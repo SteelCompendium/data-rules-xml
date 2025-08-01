@@ -20,7 +20,7 @@
     <item_name>Chain Reaction (11 Insight)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:chain-reaction-11-insight</scc>
-    <scdc>1.1.1:8.2.2.7:02</scdc>
+    <scdc>1.1.1:9.2.2.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/9th-level-feature</type>
   </metadata>

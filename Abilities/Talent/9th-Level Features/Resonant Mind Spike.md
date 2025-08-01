@@ -23,7 +23,7 @@
     <item_name>Resonant Mind Spike (11 Clarity)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.9th-level-feature:resonant-mind-spike-11-clarity</scc>
-    <scdc>1.1.1:8.2.1.7:05</scdc>
+    <scdc>1.1.1:9.2.1.7:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>

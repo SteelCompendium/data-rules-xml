@@ -20,7 +20,7 @@
     <item_name>Battle Plan (9 Focus)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:battle-plan-9-focus</scc>
-    <scdc>1.1.1:8.2.4.3:02</scdc>
+    <scdc>1.1.1:9.2.4.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/6th-level-feature</type>
   </metadata>

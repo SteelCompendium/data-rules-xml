@@ -8,7 +8,7 @@
     <item_name>Ease Their Fall</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-their-fall</scc>
-    <scdc>1.1.1:8.1.1.6:03</scdc>
+    <scdc>1.1.1:9.1.1.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/2nd-level-feature</type>
   </metadata>

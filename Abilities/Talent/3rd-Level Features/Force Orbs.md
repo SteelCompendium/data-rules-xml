@@ -23,7 +23,7 @@
     <item_name>Force Orbs (7 Clarity)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:force-orbs-7-clarity</scc>
-    <scdc>1.1.1:8.2.1.6:01</scdc>
+    <scdc>1.1.1:9.2.1.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/3rd-level-feature</type>
   </metadata>

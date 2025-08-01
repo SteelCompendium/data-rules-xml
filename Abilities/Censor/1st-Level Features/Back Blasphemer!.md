@@ -19,7 +19,7 @@
     <item_name>Back Blasphemer!</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:back-blasphemer</scc>
-    <scdc>1.1.1:8.1.7.1:13</scdc>
+    <scdc>1.1.1:9.1.7.1:13</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/1st-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Focused Wrath</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:focused-wrath</scc>
-    <scdc>1.1.1:8.1.7.9:12</scdc>
+    <scdc>1.1.1:9.1.7.9:12</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>

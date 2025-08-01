@@ -20,7 +20,7 @@
     <item_name>One Vial Makes You Faster (9 Insight)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:one-vial-makes-you-faster-9-insight</scc>
-    <scdc>1.1.1:8.2.2.3:05</scdc>
+    <scdc>1.1.1:9.2.2.3:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/6th-level-feature</type>
   </metadata>

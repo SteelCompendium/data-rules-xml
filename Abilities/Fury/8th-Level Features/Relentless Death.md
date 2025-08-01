@@ -23,7 +23,7 @@
     <item_name>Relentless Death (11 Ferocity)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.8th-level-feature:relentless-death-11-ferocity</scc>
-    <scdc>1.1.1:8.2.5.2:01</scdc>
+    <scdc>1.1.1:9.2.5.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/8th-level-feature</type>
   </metadata>

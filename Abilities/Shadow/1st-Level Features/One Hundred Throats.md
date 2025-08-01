@@ -21,7 +21,7 @@
     <item_name>One Hundred Throats (5 Insight)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:one-hundred-throats-5-insight</scc>
-    <scdc>1.1.1:8.2.2.1:02</scdc>
+    <scdc>1.1.1:9.2.2.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>

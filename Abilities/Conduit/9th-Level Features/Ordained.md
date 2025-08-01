@@ -8,7 +8,7 @@
     <item_name>Ordained</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.9th-level-feature:ordained</scc>
-    <scdc>1.1.1:8.1.8.8:02</scdc>
+    <scdc>1.1.1:9.1.8.8:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/9th-level-feature</type>
   </metadata>

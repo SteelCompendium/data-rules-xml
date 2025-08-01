@@ -8,7 +8,7 @@
     <item_name>The Lists of Heaven</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.2nd-level-feature:the-lists-of-heaven</scc>
-    <scdc>1.1.1:8.1.8.6:01</scdc>
+    <scdc>1.1.1:9.1.8.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/2nd-level-feature</type>
   </metadata>

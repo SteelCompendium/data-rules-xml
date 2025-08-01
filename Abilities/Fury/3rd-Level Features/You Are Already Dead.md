@@ -22,7 +22,7 @@
     <item_name>You Are Already Dead (7 Ferocity)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:you-are-already-dead-7-ferocity</scc>
-    <scdc>1.1.1:8.2.5.5:04</scdc>
+    <scdc>1.1.1:9.2.5.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/3rd-level-feature</type>
   </metadata>

@@ -22,7 +22,7 @@
     <item_name>Fate (9 Clarity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.6th-level-feature:fate-9-clarity</scc>
-    <scdc>1.1.1:8.2.1.3:11</scdc>
+    <scdc>1.1.1:9.2.1.3:11</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/6th-level-feature</type>
   </metadata>

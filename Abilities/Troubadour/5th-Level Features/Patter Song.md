@@ -21,7 +21,7 @@
     <item_name>Patter Song (9 Drama)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:patter-song-9-drama</scc>
-    <scdc>1.1.1:8.2.3.4:02</scdc>
+    <scdc>1.1.1:9.2.3.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/5th-level-feature</type>
   </metadata>

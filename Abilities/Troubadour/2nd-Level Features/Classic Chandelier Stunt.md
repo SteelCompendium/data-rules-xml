@@ -22,7 +22,7 @@
     <item_name>Classic Chandelier Stunt (5 Drama)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:classic-chandelier-stunt-5-drama</scc>
-    <scdc>1.1.1:8.2.3.5:05</scdc>
+    <scdc>1.1.1:9.2.3.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>

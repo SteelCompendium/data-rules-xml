@@ -22,7 +22,7 @@
     <item_name>Ripples in the Earth (3 Essence)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ripples-in-the-earth-3-essence</scc>
-    <scdc>1.1.1:8.2.9.1:01</scdc>
+    <scdc>1.1.1:9.2.9.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>

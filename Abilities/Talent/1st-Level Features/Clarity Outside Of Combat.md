@@ -8,7 +8,7 @@
     <item_name>Clarity Outside of Combat</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:clarity-outside-of-combat</scc>
-    <scdc>1.1.1:8.1.1.1:28</scdc>
+    <scdc>1.1.1:9.1.1.1:28</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/1st-level-feature</type>
   </metadata>

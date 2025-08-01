@@ -23,7 +23,7 @@
     <item_name>Demon Door (11 Insight)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:demon-door-11-insight</scc>
-    <scdc>1.1.1:8.2.2.7:06</scdc>
+    <scdc>1.1.1:9.2.2.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/9th-level-feature</type>
   </metadata>

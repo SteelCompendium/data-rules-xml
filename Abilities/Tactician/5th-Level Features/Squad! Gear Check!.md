@@ -22,7 +22,7 @@
     <item_name>Squad! Gear Check! (9 Focus)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:squad-gear-check-9-focus</scc>
-    <scdc>1.1.1:8.2.4.4:01</scdc>
+    <scdc>1.1.1:9.2.4.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/5th-level-feature</type>
   </metadata>
