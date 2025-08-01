@@ -8,7 +8,7 @@
     <item_name>Tactical Offensive</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:tactical-offensive</scc>
-    <scdc>1.1.1:7.1.4.5:05</scdc>
+    <scdc>1.1.1:8.1.4.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/5th-level-feature</type>
   </metadata>

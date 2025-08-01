@@ -8,7 +8,7 @@
     <item_name>Elemental Absorption</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.trait.null.6th-level-feature:elemental-absorption</scc>
-    <scdc>1.1.1:7.1.6.3:03</scdc>
+    <scdc>1.1.1:8.1.6.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/6th-level-feature</type>
   </metadata>

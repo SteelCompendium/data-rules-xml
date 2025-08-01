@@ -21,7 +21,7 @@
     <item_name>Stink Bomb (5 Insight)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:stink-bomb-5-insight</scc>
-    <scdc>1.1.1:7.2.2.5:05</scdc>
+    <scdc>1.1.1:8.2.2.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/2nd-level-feature</type>
   </metadata>

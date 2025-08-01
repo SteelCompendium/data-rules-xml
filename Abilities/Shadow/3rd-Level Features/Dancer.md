@@ -20,7 +20,7 @@
     <item_name>Dancer (7 Insight)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:dancer-7-insight</scc>
-    <scdc>1.1.1:7.2.2.6:04</scdc>
+    <scdc>1.1.1:8.2.2.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/3rd-level-feature</type>
   </metadata>

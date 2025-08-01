@@ -23,7 +23,7 @@
     <item_name>Soul Burn (7 Clarity)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:soul-burn-7-clarity</scc>
-    <scdc>1.1.1:7.2.1.6:02</scdc>
+    <scdc>1.1.1:8.2.1.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/3rd-level-feature</type>
   </metadata>

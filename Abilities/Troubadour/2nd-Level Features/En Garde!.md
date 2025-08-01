@@ -22,7 +22,7 @@
     <item_name>En Garde! (5 Drama)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:en-garde-5-drama</scc>
-    <scdc>1.1.1:7.2.3.5:02</scdc>
+    <scdc>1.1.1:8.2.3.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>

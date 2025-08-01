@@ -8,7 +8,7 @@
     <item_name>Perk</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.10th-level-feature:perk</scc>
-    <scdc>1.1.1:7.1.1.4:01</scdc>
+    <scdc>1.1.1:8.1.1.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/10th-level-feature</type>
   </metadata>

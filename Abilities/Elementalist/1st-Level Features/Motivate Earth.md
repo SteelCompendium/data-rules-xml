@@ -18,7 +18,7 @@
     <item_name>Motivate Earth</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:motivate-earth</scc>
-    <scdc>1.1.1:7.1.9.1:27</scdc>
+    <scdc>1.1.1:8.1.9.1:27</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

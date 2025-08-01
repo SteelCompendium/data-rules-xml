@@ -8,7 +8,7 @@
     <item_name>Greatest of All Time</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.10th-level-feature:greatest-of-all-time</scc>
-    <scdc>1.1.1:7.1.3.4:06</scdc>
+    <scdc>1.1.1:8.1.3.4:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/10th-level-feature</type>
   </metadata>

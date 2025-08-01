@@ -8,7 +8,7 @@
     <item_name>Marauder of the Primordial Chaos</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.6th-level-feature:marauder-of-the-primordial-chaos</scc>
-    <scdc>1.1.1:7.1.5.3:03</scdc>
+    <scdc>1.1.1:8.1.5.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/6th-level-feature</type>
   </metadata>

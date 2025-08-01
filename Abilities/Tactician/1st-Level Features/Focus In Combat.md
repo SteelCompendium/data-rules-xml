@@ -8,7 +8,7 @@
     <item_name>Focus in Combat</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-in-combat</scc>
-    <scdc>1.1.1:7.1.4.1:09</scdc>
+    <scdc>1.1.1:8.1.4.1:09</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/1st-level-feature</type>
   </metadata>

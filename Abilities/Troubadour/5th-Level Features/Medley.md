@@ -9,7 +9,7 @@
     <item_name>Medley</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:medley</scc>
-    <scdc>1.1.1:7.1.3.5:04</scdc>
+    <scdc>1.1.1:8.1.3.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/5th-level-feature</type>
   </metadata>

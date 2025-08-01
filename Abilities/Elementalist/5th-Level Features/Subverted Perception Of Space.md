@@ -23,7 +23,7 @@
     <item_name>Subverted Perception of Space (9 Essence)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:subverted-perception-of-space-9-essence</scc>
-    <scdc>1.1.1:7.2.9.4:04</scdc>
+    <scdc>1.1.1:8.2.9.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/5th-level-feature</type>
   </metadata>

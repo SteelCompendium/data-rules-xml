@@ -16,7 +16,7 @@
     <item_name>Blessing of Secrets</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:blessing-of-secrets</scc>
-    <scdc>1.1.1:7.1.7.10:04</scdc>
+    <scdc>1.1.1:8.1.7.10:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

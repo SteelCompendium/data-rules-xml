@@ -8,7 +8,7 @@
     <item_name>Primordial Power</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.10th-level-feature:primordial-power</scc>
-    <scdc>1.1.1:7.1.5.4:01</scdc>
+    <scdc>1.1.1:8.1.5.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/10th-level-feature</type>
   </metadata>

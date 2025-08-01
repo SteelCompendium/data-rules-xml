@@ -23,7 +23,7 @@
     <item_name>Behold the Mystery (3 Essence)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:behold-the-mystery-3-essence</scc>
-    <scdc>1.1.1:7.2.9.1:03</scdc>
+    <scdc>1.1.1:8.2.9.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>

@@ -22,7 +22,7 @@
     <item_name>Your Entrails Are Your Extrails! (3 Ferocity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:your-entrails-are-your-extrails-3-ferocity</scc>
-    <scdc>1.1.1:7.2.5.1:02</scdc>
+    <scdc>1.1.1:8.2.5.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>

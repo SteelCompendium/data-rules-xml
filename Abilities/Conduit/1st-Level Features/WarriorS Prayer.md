@@ -18,7 +18,7 @@
     <item_name>Warrior&apos;s Prayer</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:warriors-prayer</scc>
-    <scdc>1.1.1:7.1.8.1:30</scdc>
+    <scdc>1.1.1:8.1.8.1:30</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

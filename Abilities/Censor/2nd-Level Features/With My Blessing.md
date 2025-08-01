@@ -21,7 +21,7 @@
     <item_name>With My Blessing (5 Wrath)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:with-my-blessing-5-wrath</scc>
-    <scdc>1.1.1:7.2.7.5:03</scdc>
+    <scdc>1.1.1:8.2.7.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>

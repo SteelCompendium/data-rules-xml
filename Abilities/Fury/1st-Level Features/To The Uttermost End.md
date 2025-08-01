@@ -22,7 +22,7 @@
     <item_name>To the Uttermost End (5 Ferocity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-uttermost-end-5-ferocity</scc>
-    <scdc>1.1.1:7.2.5.1:06</scdc>
+    <scdc>1.1.1:8.2.5.1:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>

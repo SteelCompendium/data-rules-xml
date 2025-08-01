@@ -22,7 +22,7 @@
     <item_name>Censored (5 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:censored-5-wrath</scc>
-    <scdc>1.1.1:7.2.7.1:05</scdc>
+    <scdc>1.1.1:8.2.7.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

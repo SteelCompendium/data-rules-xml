@@ -22,7 +22,7 @@
     <item_name>Gravitic Burst (5 Clarity)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:gravitic-burst-5-clarity</scc>
-    <scdc>1.1.1:7.2.1.5:05</scdc>
+    <scdc>1.1.1:8.2.1.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/2nd-level-feature</type>
   </metadata>

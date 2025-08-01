@@ -8,7 +8,7 @@
     <item_name>Perk</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:perk</scc>
-    <scdc>1.1.1:7.1.2.6:02</scdc>
+    <scdc>1.1.1:8.1.2.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/2nd-level-feature</type>
   </metadata>

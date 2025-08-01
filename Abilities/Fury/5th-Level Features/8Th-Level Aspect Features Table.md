@@ -15,7 +15,7 @@
     <item_name>5th-Level Aspect Features Table</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.5th-level-feature:5th-level-aspect-features-table</scc>
-    <scdc>1.1.1:7.1.5.5:01</scdc>
+    <scdc>1.1.1:8.1.5.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/5th-level-feature</type>
   </metadata>

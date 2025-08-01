@@ -20,7 +20,7 @@
     <item_name>Fake Your Death (5 Drama)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:fake-your-death-5-drama</scc>
-    <scdc>1.1.1:7.2.3.1:03</scdc>
+    <scdc>1.1.1:8.2.3.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>

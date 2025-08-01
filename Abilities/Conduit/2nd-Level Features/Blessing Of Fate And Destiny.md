@@ -21,7 +21,7 @@
     <item_name>Blessing of Fate and Destiny (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:blessing-of-fate-and-destiny-5-piety</scc>
-    <scdc>1.1.1:7.2.8.5:08</scdc>
+    <scdc>1.1.1:8.2.8.5:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

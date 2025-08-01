@@ -8,7 +8,7 @@
     <item_name>Unstoppable Force</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:unstoppable-force</scc>
-    <scdc>1.1.1:7.1.5.6:03</scdc>
+    <scdc>1.1.1:8.1.5.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/2nd-level-feature</type>
   </metadata>

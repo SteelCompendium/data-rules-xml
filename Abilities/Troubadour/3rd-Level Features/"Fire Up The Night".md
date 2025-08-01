@@ -18,7 +18,7 @@
     <item_name>&quot;Fire Up the Night&quot;</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:fire-up-the-night</scc>
-    <scdc>1.1.1:7.1.3.7:01</scdc>
+    <scdc>1.1.1:8.1.3.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/3rd-level-feature</type>
   </metadata>

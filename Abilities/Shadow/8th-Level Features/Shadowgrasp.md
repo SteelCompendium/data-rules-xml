@@ -21,7 +21,7 @@
     <item_name>Shadowgrasp (11 Insight)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:shadowgrasp-11-insight</scc>
-    <scdc>1.1.1:7.2.2.2:04</scdc>
+    <scdc>1.1.1:8.2.2.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/8th-level-feature</type>
   </metadata>
