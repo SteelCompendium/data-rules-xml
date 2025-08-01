@@ -8,7 +8,7 @@
     <item_name>Nature&apos;s Knight</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:natures-knight</scc>
-    <scdc>1.1.1:5.1.5.7:02</scdc>
+    <scdc>1.1.1:5.1.4.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/3rd-level-feature</type>
   </metadata>

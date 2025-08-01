@@ -11,20 +11,20 @@
   <distance>3 burst</distance>
   <target>Each ally and enemy in the area</target>
   <metadata>
-    <class>mindlink</class>
+    <class>talent</class>
     <cost>11 Clarity</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Clarity</cost_resource>
     <feature_type>ability</feature_type>
-    <file_dpath>Mindlink/9th-Level Features</file_dpath>
+    <file_dpath>Talent/9th-Level Features</file_dpath>
     <item_id>synaptic-terror-11-clarity</item_id>
     <item_index>01</item_index>
     <item_name>Synaptic Terror (11 Clarity)</item_name>
     <level>9</level>
-    <scc>mcdm.heroes.v1:feature.ability.mindlink.9th-level-feature:synaptic-terror-11-clarity</scc>
-    <scdc>1.1.1:5.2.2.1:01</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.talent.9th-level-feature:synaptic-terror-11-clarity</scc>
+    <scdc>1.1.1:5.2.1.7:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/mindlink/9th-level-feature</type>
+    <type>feature/ability/talent/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You and each target ally can&apos;t obtain lower than a tier 2 outcome on power rolls until the start of your next turn. Each target enemy is affected by the ability&apos;s power roll.</effect>

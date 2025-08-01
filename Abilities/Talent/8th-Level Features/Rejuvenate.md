@@ -1,0 +1,33 @@
+<ability>
+  <name>Rejuvenate</name>
+  <cost>11 Clarity</cost>
+  <flavor>You reshape the flow of time in the target&apos;s body to return it to an earlier state.</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one ally</target>
+  <metadata>
+    <class>talent</class>
+    <cost>11 Clarity</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/8th-Level Features</file_dpath>
+    <item_id>rejuvenate-11-clarity</item_id>
+    <item_index>05</item_index>
+    <item_name>Rejuvenate (11 Clarity)</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.8th-level-feature:rejuvenate-11-clarity</scc>
+    <scdc>1.1.1:5.2.1.2:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Choose two of the following effects: - The target can spend any number of Recoveries. - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn. - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.</effect>
+    <effect type="mundane" name="Strained">You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-yearold). Additionally, you are weakened and slowed (save ends).</effect>
+  </effects>
+</ability>

@@ -23,7 +23,7 @@
     <item_name>Gravitic Strike (5 Discipline)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:gravitic-strike-5-discipline</scc>
-    <scdc>1.1.1:5.2.6.4:03</scdc>
+    <scdc>1.1.1:5.2.5.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/2nd-level-feature</type>
   </metadata>

@@ -15,7 +15,7 @@
     <item_name>4th-Level Censor Domain Features Table</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:4th-level-censor-domain-features-table</scc>
-    <scdc>1.1.1:5.1.7.10:14</scdc>
+    <scdc>1.1.1:5.1.6.10:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

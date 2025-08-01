@@ -1,16 +1,16 @@
 <ability>
   <metadata>
-    <class>mindlink</class>
+    <class>talent</class>
     <feature_type>trait</feature_type>
-    <file_dpath>Mindlink/9th-Level Features</file_dpath>
+    <file_dpath>Talent/9th-Level Features</file_dpath>
     <item_id>fortress-of-perfect-thought</item_id>
     <item_index>01</item_index>
     <item_name>Fortress of Perfect Thought</item_name>
     <level>9</level>
-    <scc>mcdm.heroes.v1:feature.trait.mindlink.9th-level-feature:fortress-of-perfect-thought</scc>
-    <scdc>1.1.1:5.1.2.2:01</scdc>
+    <scc>mcdm.heroes.v1:feature.trait.talent.9th-level-feature:fortress-of-perfect-thought</scc>
+    <scdc>1.1.1:5.1.1.8:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/mindlink/9th-level-feature</type>
+    <type>feature/trait/talent/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Your mind is an impenetrable palace that shields you from danger. You gain the following effects:

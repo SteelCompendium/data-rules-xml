@@ -8,7 +8,7 @@
     <item_name>Rapid Processing</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.null.2nd-level-feature:rapid-processing</scc>
-    <scdc>1.1.1:5.1.6.5:01</scdc>
+    <scdc>1.1.1:5.1.5.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/2nd-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Breath</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:breath</scc>
-    <scdc>1.1.1:5.1.9.4:09</scdc>
+    <scdc>1.1.1:5.1.8.4:09</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/10th-level-feature</type>
   </metadata>

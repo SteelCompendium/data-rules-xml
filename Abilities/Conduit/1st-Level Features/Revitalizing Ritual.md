@@ -8,7 +8,7 @@
     <item_name>Revitalizing Ritual</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:revitalizing-ritual</scc>
-    <scdc>1.1.1:5.1.8.1:14</scdc>
+    <scdc>1.1.1:5.1.7.1:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

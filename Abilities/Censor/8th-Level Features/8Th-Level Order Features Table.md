@@ -15,7 +15,7 @@
     <item_name>8th-Level Order Features Table</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.8th-level-feature:8th-level-order-features-table</scc>
-    <scdc>1.1.1:5.1.7.2:04</scdc>
+    <scdc>1.1.1:5.1.6.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/8th-level-feature</type>
   </metadata>

@@ -13,11 +13,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Talent/8th-Level Features</file_dpath>
     <item_id>levitation-field</item_id>
-    <item_index>05</item_index>
+    <item_index>06</item_index>
     <item_name>Levitation Field</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.8th-level-feature:levitation-field</scc>
-    <scdc>1.1.1:5.1.1.2:05</scdc>
+    <scdc>1.1.1:5.1.1.2:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/8th-level-feature</type>
   </metadata>

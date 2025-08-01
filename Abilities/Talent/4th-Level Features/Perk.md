@@ -8,11 +8,11 @@
     <item_name>Perk</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.4th-level-feature:perk</scc>
-    <scdc>1.1.1:5.1.1.8:02</scdc>
+    <scdc>1.1.1:5.1.1.10:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/4th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain one perk of your choice.</effect>
+    <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
   </effects>
 </ability>

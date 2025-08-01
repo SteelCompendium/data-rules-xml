@@ -13,6 +13,6 @@
     <type>feature/trait/talent/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain one perk of your choice.</effect>
+    <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
   </effects>
 </ability>

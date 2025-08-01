@@ -8,7 +8,7 @@
     <item_name>Careful Observation Improvement</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.10th-level-feature:careful-observation-improvement</scc>
-    <scdc>1.1.1:5.1.3.4:06</scdc>
+    <scdc>1.1.1:5.1.2.4:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/10th-level-feature</type>
   </metadata>

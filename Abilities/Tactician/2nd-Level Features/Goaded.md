@@ -8,7 +8,7 @@
     <item_name>Goaded</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:goaded</scc>
-    <scdc>1.1.1:5.1.4.6:01</scdc>
+    <scdc>1.1.1:5.1.3.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/2nd-level-feature</type>
   </metadata>

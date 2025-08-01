@@ -8,7 +8,7 @@
     <item_name>Pincer Movement</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:pincer-movement</scc>
-    <scdc>1.1.1:5.1.4.2:05</scdc>
+    <scdc>1.1.1:5.1.3.2:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/8th-level-feature</type>
   </metadata>

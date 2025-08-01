@@ -8,7 +8,7 @@
     <item_name>Faithful&apos;s Reward</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:faithfuls-reward</scc>
-    <scdc>1.1.1:5.1.8.9:14</scdc>
+    <scdc>1.1.1:5.1.7.9:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/7th-level-feature</type>
   </metadata>

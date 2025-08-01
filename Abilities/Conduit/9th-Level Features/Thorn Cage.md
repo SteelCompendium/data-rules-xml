@@ -22,7 +22,7 @@
     <item_name>Thorn Cage (11 Piety)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:thorn-cage-11-piety</scc>
-    <scdc>1.1.1:5.2.8.7:11</scdc>
+    <scdc>1.1.1:5.2.7.7:11</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>

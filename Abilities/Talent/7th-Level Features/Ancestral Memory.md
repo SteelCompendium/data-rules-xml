@@ -8,7 +8,7 @@
     <item_name>Ancestral Memory</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.7th-level-feature:ancestral-memory</scc>
-    <scdc>1.1.1:5.1.1.7:05</scdc>
+    <scdc>1.1.1:5.1.1.9:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/7th-level-feature</type>
   </metadata>

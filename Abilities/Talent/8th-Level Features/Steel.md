@@ -1,0 +1,33 @@
+<ability>
+  <name>Steel</name>
+  <cost>11 Clarity</cost>
+  <flavor>The target&apos;s skin becomes covered in tough metal.</flavor>
+  <keywords>
+    <keyword>Metamorphosis</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one ally</target>
+  <metadata>
+    <class>talent</class>
+    <cost>11 Clarity</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/8th-Level Features</file_dpath>
+    <item_id>steel-11-clarity</item_id>
+    <item_index>03</item_index>
+    <item_name>Steel (11 Clarity)</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.8th-level-feature:steel-11-clarity</scc>
+    <scdc>1.1.1:5.2.1.2:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target has damage immunity 5 and can&apos;t be made slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.</effect>
+    <effect type="mundane" name="Strained">You can&apos;t use maneuvers (save ends).</effect>
+  </effects>
+</ability>

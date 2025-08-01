@@ -12,20 +12,20 @@
   <distance>Ranged 10</distance>
   <target>One creature</target>
   <metadata>
-    <class>mindlink</class>
+    <class>talent</class>
     <cost>11 Clarity</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Clarity</cost_resource>
     <feature_type>ability</feature_type>
-    <file_dpath>Mindlink/9th-Level Features</file_dpath>
+    <file_dpath>Talent/9th-Level Features</file_dpath>
     <item_id>resonant-mind-spike-11-clarity</item_id>
     <item_index>05</item_index>
     <item_name>Resonant Mind Spike (11 Clarity)</item_name>
     <level>9</level>
-    <scc>mcdm.heroes.v1:feature.ability.mindlink.9th-level-feature:resonant-mind-spike-11-clarity</scc>
-    <scdc>1.1.1:5.2.2.1:05</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.talent.9th-level-feature:resonant-mind-spike-11-clarity</scc>
+    <scdc>1.1.1:5.2.1.7:05</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/mindlink/9th-level-feature</type>
+    <type>feature/ability/talent/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">
