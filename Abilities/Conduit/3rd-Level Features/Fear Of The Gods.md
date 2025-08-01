@@ -22,7 +22,7 @@
     <item_name>Fear of the Gods (7 Piety)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:fear-of-the-gods-7-piety</scc>
-    <scdc>1.1.1:5.1.6.6:04</scdc>
+    <scdc>1.1.1:5.2.8.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/3rd-level-feature</type>
   </metadata>

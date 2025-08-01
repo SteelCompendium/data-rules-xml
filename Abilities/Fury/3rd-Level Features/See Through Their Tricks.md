@@ -8,7 +8,7 @@
     <item_name>See Through Their Tricks</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:see-through-their-tricks</scc>
-    <scdc>1.1.1:5.2.3.7:04</scdc>
+    <scdc>1.1.1:5.1.5.7:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/3rd-level-feature</type>
   </metadata>

@@ -15,7 +15,7 @@
     <item_name>Tactician Advancement Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:tactician-advancement-table</scc>
-    <scdc>1.1.1:5.2.2.1:07</scdc>
+    <scdc>1.1.1:5.1.4.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/1st-level-feature</type>
   </metadata>

@@ -22,7 +22,7 @@
     <item_name>Rebounding Storm (9 Ferocity)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.5th-level-feature:rebounding-storm-9-ferocity</scc>
-    <scdc>1.1.1:5.1.3.4:04</scdc>
+    <scdc>1.1.1:5.2.5.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/5th-level-feature</type>
   </metadata>

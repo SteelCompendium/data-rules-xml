@@ -1,0 +1,39 @@
+<ability>
+  <name>Applied Chronometrics</name>
+  <cost>5 Clarity</cost>
+  <flavor>Time slows down around you. Your heartbeat is the only gauge of the extra moments you&apos;ve gained.</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Special</target>
+  <metadata>
+    <class>talent</class>
+    <cost>5 Clarity</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/2nd-Level Features</file_dpath>
+    <item_id>applied-chronometrics-5-clarity</item_id>
+    <item_index>03</item_index>
+    <item_name>Applied Chronometrics (5 Clarity)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:applied-chronometrics-5-clarity</scc>
+    <scdc>1.1.1:5.2.1.4:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>You target two creatures, one of which can be you.</t1>
+      <t2>You target three creatures, one of which can be you.</t2>
+      <t3>You target four creatures, one of which can be you.</t3>
+    </effect>
+    <effect type="mundane">Until the start of your next turn, each target gains a +5 bonus to speed, they can&apos;t be made dazed, and they can use an additional maneuver on their turn. If a target is already dazed, that condition ends for them.</effect>
+    <effect type="mundane" name="Strained">Your speed is halved until the end of the encounter.</effect>
+  </effects>
+</ability>

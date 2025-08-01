@@ -1,0 +1,37 @@
+<ability>
+  <name>Incinerate</name>
+  <flavor>The air erupts into a column of smokeless flame.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Fire</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Pyrokinesis</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>3 cube within 10</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>incinerate</item_id>
+    <item_index>11</item_index>
+    <item_name>Incinerate</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:incinerate</scc>
+    <scdc>1.1.1:5.1.1.1:11</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>2 fire damage</t1>
+      <t2>4 fire damage</t2>
+      <t3>6 fire damage</t3>
+    </effect>
+    <effect type="mundane">A column of fire remains in the area until the start of your next turn. Each enemy who enters the area for the first time in a combat round or starts their turn there takes 2 fire damage.</effect>
+    <effect type="mundane" name="Strained">The size of the cube increases by 2, but the fire disappears at the end of your turn.</effect>
+  </effects>
+</ability>

@@ -22,7 +22,7 @@
     <item_name>They Always Line Up (11 Insight)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:they-always-line-up-11-insight</scc>
-    <scdc>1.1.1:5.1.1.2:02</scdc>
+    <scdc>1.1.1:5.2.3.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/8th-level-feature</type>
   </metadata>

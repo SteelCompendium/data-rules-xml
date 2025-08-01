@@ -1,0 +1,21 @@
+<ability>
+  <metadata>
+    <class>talent</class>
+    <cost>1 Clarity</cost>
+    <cost_amount>1</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/6th-Level Features</file_dpath>
+    <item_id>extended-power-1-clarity</item_id>
+    <item_index>05</item_index>
+    <item_name>Extended Power (1 Clarity)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.6th-level-feature:extended-power-1-clarity</scc>
+    <scdc>1.1.1:5.2.1.2:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">If the ability is ranged, the distance gains a bonus equal to your Reason score. If the ability is melee, the distance gains a +2 bonus.</effect>
+  </effects>
+</ability>

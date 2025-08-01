@@ -22,7 +22,7 @@
     <item_name>Setup (5 Insight)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:setup-5-insight</scc>
-    <scdc>1.1.1:5.1.1.1:06</scdc>
+    <scdc>1.1.1:5.2.3.1:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>

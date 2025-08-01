@@ -20,7 +20,7 @@
     <item_name>Blur (5 Discipline)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:blur-5-discipline</scc>
-    <scdc>1.1.1:5.1.4.4:01</scdc>
+    <scdc>1.1.1:5.2.6.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/2nd-level-feature</type>
   </metadata>

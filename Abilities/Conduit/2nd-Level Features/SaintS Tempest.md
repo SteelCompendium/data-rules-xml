@@ -22,7 +22,7 @@
     <item_name>Saint&apos;s Tempest (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:saints-tempest-5-piety</scc>
-    <scdc>1.1.1:5.1.6.5:10</scdc>
+    <scdc>1.1.1:5.2.8.5:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

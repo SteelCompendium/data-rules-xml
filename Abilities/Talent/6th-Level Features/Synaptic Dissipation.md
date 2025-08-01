@@ -1,0 +1,40 @@
+<ability>
+  <name>Synaptic Dissipation</name>
+  <cost>9 Clarity</cost>
+  <flavor>You manipulate your enemies&apos; minds and make them wonder if you were ever really there in the first place.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Telepathy</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Special</target>
+  <metadata>
+    <class>talent</class>
+    <cost>9 Clarity</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/6th-Level Features</file_dpath>
+    <item_id>synaptic-dissipation-9-clarity</item_id>
+    <item_index>02</item_index>
+    <item_name>Synaptic Dissipation (9 Clarity)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-dissipation-9-clarity</scc>
+    <scdc>1.1.1:5.2.1.2:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You target a number of creatures with this ability determined by the outcome of your power roll. You and your allies are invisible to each target until the start of your next turn.</effect>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>Two creatures</t1>
+      <t2>Three creatures</t2>
+      <t3>Five creatures</t3>
+    </effect>
+    <effect type="mundane" name="Strained">The effect ends early if you take damage from an enemy&apos;s ability.</effect>
+  </effects>
+</ability>

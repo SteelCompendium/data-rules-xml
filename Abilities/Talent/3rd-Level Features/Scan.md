@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/3rd-Level Features</file_dpath>
+    <item_id>scan</item_id>
+    <item_index>01</item_index>
+    <item_name>Scan</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.3rd-level-feature:scan</scc>
+    <scdc>1.1.1:5.1.1.6:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You can extend your psionic senses beyond their usual range. Once on each of your turns, you can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests). Additionally, once you establish line of effect to a thinking creature within distance of your Mind Spike ability, you always have line of effect to that creature until they move beyond that distance.</effect>
+  </effects>
+</ability>

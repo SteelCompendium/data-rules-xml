@@ -1,0 +1,20 @@
+<ability>
+  <metadata>
+    <class>mindlink</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Mindlink/10th-Level Features</file_dpath>
+    <item_id>vision</item_id>
+    <item_index>06</item_index>
+    <item_name>Vision</item_name>
+    <level>10</level>
+    <scc>mcdm.heroes.v1:feature.trait.mindlink.10th-level-feature:vision</scc>
+    <scdc>1.1.1:5.1.2.1:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/mindlink/10th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You have an epic resource called vision. Each time you finish a respite, you gain vision equal to the XP you gain. You can spend vision on your abilities as if it were clarity.
+Additionally, you can spend vision to use one additional psionic ability on your turn, provided you pay the entire cost of the ability in vision. If you choose to use a psionic ability that usually costs no clarity, you must spend 1 vision to use it.
+Vision remains until you spend it.</effect>
+  </effects>
+</ability>

@@ -8,7 +8,7 @@
     <item_name>Word of Fate Denied</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-fate-denied</scc>
-    <scdc>1.1.1:5.2.5.9:10</scdc>
+    <scdc>1.1.1:5.1.7.9:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>

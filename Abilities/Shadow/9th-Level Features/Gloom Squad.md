@@ -8,7 +8,7 @@
     <item_name>Gloom Squad</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.9th-level-feature:gloom-squad</scc>
-    <scdc>1.1.1:5.2.1.8:01</scdc>
+    <scdc>1.1.1:5.1.3.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/9th-level-feature</type>
   </metadata>

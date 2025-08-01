@@ -20,7 +20,7 @@
     <item_name>Make Peace With Your God! (5 Ferocity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:make-peace-with-your-god-5-ferocity</scc>
-    <scdc>1.1.1:5.1.3.1:08</scdc>
+    <scdc>1.1.1:5.2.5.1:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>

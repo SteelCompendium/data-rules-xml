@@ -1,0 +1,19 @@
+<ability>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/4th-Level Features</file_dpath>
+    <item_id>suspensor-field</item_id>
+    <item_index>04</item_index>
+    <item_name>Suspensor Field</item_name>
+    <level>4</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.4th-level-feature:suspensor-field</scc>
+    <scdc>1.1.1:5.1.1.8:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/4th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You can fly. While flying, your stability is reduced to 0 and can&apos;t be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.</effect>
+  </effects>
+</ability>

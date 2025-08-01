@@ -1,0 +1,33 @@
+<ability>
+  <name>Reflector Field</name>
+  <cost>7 Clarity</cost>
+  <flavor>A protective field reverses the momentum of incoming attacks.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Telepathy</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>3 aura</distance>
+  <target>Special</target>
+  <metadata>
+    <class>talent</class>
+    <cost>7 Clarity</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/3rd-Level Features</file_dpath>
+    <item_id>reflector-field-7-clarity</item_id>
+    <item_index>04</item_index>
+    <item_name>Reflector Field (7 Clarity)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:reflector-field-7-clarity</scc>
+    <scdc>1.1.1:5.2.1.5:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</effect>
+    <effect type="mundane" name="Strained">The size of the aura increases by 1. Whenever your aura reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</effect>
+  </effects>
+</ability>

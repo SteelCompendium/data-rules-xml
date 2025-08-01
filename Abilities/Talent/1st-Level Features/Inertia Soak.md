@@ -1,0 +1,33 @@
+<ability>
+  <name>Inertia Soak</name>
+  <cost>5 Clarity</cost>
+  <flavor>Your psionic energy surrounds the target and pushes everything else away from them.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Telekinesis</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one ally</target>
+  <metadata>
+    <class>talent</class>
+    <cost>5 Clarity</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>inertia-soak-5-clarity</item_id>
+    <item_index>06</item_index>
+    <item_name>Inertia Soak (5 Clarity)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:inertia-soak-5-clarity</scc>
+    <scdc>1.1.1:5.2.1.1:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target enters a square while under this effect, they can push one adjacent creature up to a number of squares equal to your Reason score. When pushing an ally, the target can ignore that ally&apos;s stability. A creature can only be force moved this way once a turn.</effect>
+    <effect type="mundane" name="Strained">You are weakened (save ends). While you are weakened this way, whenever you are force moved, the forced movement distance gains a +5 bonus.</effect>
+  </effects>
+</ability>

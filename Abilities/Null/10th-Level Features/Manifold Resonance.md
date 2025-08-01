@@ -8,7 +8,7 @@
     <item_name>Manifold Resonance</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.null.10th-level-feature:manifold-resonance</scc>
-    <scdc>1.1.1:5.2.4.4:01</scdc>
+    <scdc>1.1.1:5.1.6.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/10th-level-feature</type>
   </metadata>

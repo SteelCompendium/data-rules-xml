@@ -1,0 +1,18 @@
+<ability>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/7th-Level Features</file_dpath>
+    <item_id>ancestral-memory</item_id>
+    <item_index>05</item_index>
+    <item_name>Ancestral Memory</item_name>
+    <level>7</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.7th-level-feature:ancestral-memory</scc>
+    <scdc>1.1.1:5.1.1.7:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/7th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last unil the end of your next respite.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,36 @@
+<ability>
+  <name>Entropic Bolt</name>
+  <flavor>You advance an enemy&apos;s age for a moment.</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>entropic-bolt</item_id>
+    <item_index>18</item_index>
+    <item_name>Entropic Bolt</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:entropic-bolt</scc>
+    <scdc>1.1.1:5.1.1.1:18</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>2 + P corruption damage; p</t1>
+      <t2>3 + P corruption damage; p</t2>
+      <t3>5 + P corruption damage; p</t3>
+    </effect>
+    <effect type="mundane">The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.</effect>
+    <effect type="mundane" name="Strained">You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,35 @@
+<ability>
+  <name>Awe</name>
+  <cost>3 Clarity</cost>
+  <flavor>You project psionic energy out to a creature and take on a new visage in their mind.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Telepathy</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>talent</class>
+    <cost>3 Clarity</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>awe-3-clarity</item_id>
+    <item_index>07</item_index>
+    <item_name>Awe (3 Clarity)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe-3-clarity</scc>
+    <scdc>1.1.1:5.2.1.1:07</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>
+    <effect type="mundane">**Power Roll + Presence:**
+3 + P psychic damage; I &lt; WEAK, frightened (save ends) 6 + P psychic damage; I &lt; AVERAGE, frightened (save ends) 9 + P psychic damage; I &lt; STRONG, frightened (save ends)</effect>
+  </effects>
+</ability>

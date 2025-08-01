@@ -1,0 +1,40 @@
+<ability>
+  <name>Fling Through Time</name>
+  <cost>7 Clarity</cost>
+  <flavor>You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>talent</class>
+    <cost>7 Clarity</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/3rd-Level Features</file_dpath>
+    <item_id>fling-through-time-7-clarity</item_id>
+    <item_index>03</item_index>
+    <item_name>Fling Through Time (7 Clarity)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:fling-through-time-7-clarity</scc>
+    <scdc>1.1.1:5.2.1.5:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>3 + P corruption damage; P &lt; WEAK, weakened (save ends)</t1>
+      <t2>5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGER, they are weakened (save ends)</t2>
+      <t3>8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are weakened (save ends)</t3>
+    </effect>
+    <effect type="mundane">A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.</effect>
+    <effect type="mundane" name="Strained">You take 2d6 damage and permanently grow visibly older (the equivalent of 10 years for a human). If you obtain a tier 3 outcome on the power roll, you gain 2 clarity.</effect>
+  </effects>
+</ability>

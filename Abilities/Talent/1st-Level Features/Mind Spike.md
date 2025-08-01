@@ -1,0 +1,35 @@
+<ability>
+  <name>Mind Spike</name>
+  <flavor>A telepathic bolt instantly zaps a creature&apos;s brain.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Telepathy</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>mind-spike</item_id>
+    <item_index>23</item_index>
+    <item_name>Mind Spike</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:mind-spike</scc>
+    <scdc>1.1.1:5.1.1.1:23</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>2 + R psychic damage</t1>
+      <t2>4 + R psychic damage</t2>
+      <t3>6 + R psychic damage</t3>
+    </effect>
+    <effect type="mundane" name="Strained">The target takes an extra 2 psychic damage. You also take 2 psychic damage that can&apos;t be reduced in any way.</effect>
+  </effects>
+</ability>

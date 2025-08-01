@@ -23,7 +23,7 @@
     <item_name>Into the Shadows (9 Insight)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:into-the-shadows-9-insight</scc>
-    <scdc>1.1.1:5.1.1.4:02</scdc>
+    <scdc>1.1.1:5.2.3.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/5th-level-feature</type>
   </metadata>

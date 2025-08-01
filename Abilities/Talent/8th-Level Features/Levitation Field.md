@@ -1,0 +1,28 @@
+<ability>
+  <name>Levitation Field</name>
+  <flavor>You manipulate the air around your allies so they can move as freely through the sky as you can.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Psionic</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>3 burst</distance>
+  <target>Each ally in the area</target>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/8th-Level Features</file_dpath>
+    <item_id>levitation-field</item_id>
+    <item_index>05</item_index>
+    <item_name>Levitation Field</item_name>
+    <level>8</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.8th-level-feature:levitation-field</scc>
+    <scdc>1.1.1:5.1.1.2:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/8th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each target can fly until the start of your next turn, and can immediately shift up to their speed. You can also shift up to your speed. While flying, a target&apos;s stability is reduced to 0 and can&apos;t be increased.</effect>
+    <effect type="mundane" cost="Spend 5 Clarity">The effects last for 1 hour instead.</effect>
+  </effects>
+</ability>

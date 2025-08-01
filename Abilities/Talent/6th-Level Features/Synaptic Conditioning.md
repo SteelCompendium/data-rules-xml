@@ -1,0 +1,39 @@
+<ability>
+  <name>Synaptic Conditioning</name>
+  <cost>9 Clarity</cost>
+  <flavor>It&apos;s a subtle mindset shift. It&apos;s not that they&apos;re your enemy—you just don&apos;t like them!</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Telepathy</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 2</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>talent</class>
+    <cost>9 Clarity</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/6th-Level Features</file_dpath>
+    <item_id>synaptic-conditioning-9-clarity</item_id>
+    <item_index>12</item_index>
+    <item_name>Synaptic Conditioning (9 Clarity)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-conditioning-9-clarity</scc>
+    <scdc>1.1.1:5.2.1.2:12</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>10 psychic damage; the target takes a bane on ability rolls made to harm you or your allies (save ends)</t1>
+      <t2>14 psychic damage; the target has a double bane on ability rolls made to harm you or your allies (save ends)</t2>
+      <t3>20 psychic damage; the target considers you and your allies to be their allies when using abilities and features (save ends)</t3>
+    </effect>
+    <effect type="mundane" name="Strained">While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.</effect>
+  </effects>
+</ability>

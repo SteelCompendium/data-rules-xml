@@ -8,7 +8,7 @@
     <item_name>Regenerative Field</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:regenerative-field</scc>
-    <scdc>1.1.1:5.2.4.9:09</scdc>
+    <scdc>1.1.1:5.1.6.9:09</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/4th-level-feature</type>
   </metadata>

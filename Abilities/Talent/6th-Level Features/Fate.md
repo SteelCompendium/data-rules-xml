@@ -1,0 +1,39 @@
+<ability>
+  <name>Fate</name>
+  <cost>9 Clarity</cost>
+  <flavor>Your foe gets a glimpse of how it will end for them.</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Melee</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 2</distance>
+  <target>One enemy</target>
+  <metadata>
+    <class>talent</class>
+    <cost>9 Clarity</cost>
+    <cost_amount>9</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/6th-Level Features</file_dpath>
+    <item_id>fate-9-clarity</item_id>
+    <item_index>11</item_index>
+    <item_name>Fate (9 Clarity)</item_name>
+    <level>6</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.6th-level-feature:fate-9-clarity</scc>
+    <scdc>1.1.1:5.2.1.2:11</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/6th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target has damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are knocked prone.</effect>
+    <effect type="mundane" name="Strained">This ability gains the Strike keyword as the vision hurts the target&apos;s psyche. You make a power roll, then are weakened (save ends).</effect>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>8 + P psychic damage</t1>
+      <t2>13 + P psychic damage</t2>
+      <t3>17 + P psychic damage</t3>
+    </effect>
+  </effects>
+</ability>

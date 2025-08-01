@@ -20,7 +20,7 @@
     <item_name>Now! (5 Focus)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:now-5-focus</scc>
-    <scdc>1.1.1:5.1.2.1:05</scdc>
+    <scdc>1.1.1:5.2.4.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>

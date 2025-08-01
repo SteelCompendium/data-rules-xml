@@ -18,7 +18,7 @@
     <item_name>Remember Growth and Sun and Rain</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain</scc>
-    <scdc>1.1.1:5.2.7.7:03</scdc>
+    <scdc>1.1.1:5.1.9.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/3rd-level-feature</type>
   </metadata>

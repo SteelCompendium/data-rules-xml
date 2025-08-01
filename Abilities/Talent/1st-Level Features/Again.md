@@ -1,0 +1,28 @@
+<ability>
+  <name>Again</name>
+  <flavor>You step back a split second to see if things play out a little differently.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Triggered</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one creature</target>
+  <trigger>The target makes an ability roll.</trigger>
+  <metadata>
+    <class>talent</class>
+    <feature_type>trait</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>again</item_id>
+    <item_index>16</item_index>
+    <item_name>Again</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:again</scc>
+    <scdc>1.1.1:5.1.1.1:16</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</effect>
+  </effects>
+</ability>

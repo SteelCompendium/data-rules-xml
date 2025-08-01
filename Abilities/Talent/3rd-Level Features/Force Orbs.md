@@ -1,0 +1,38 @@
+<ability>
+  <name>Force Orbs</name>
+  <cost>7 Clarity</cost>
+  <flavor>Spheres of solid psionic energy float around you.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Telekinesis</keyword>
+  </keywords>
+  <type>Main Action</type>
+  <distance>Self; see below</distance>
+  <target>Self</target>
+  <metadata>
+    <class>talent</class>
+    <cost>7 Clarity</cost>
+    <cost_amount>7</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/3rd-Level Features</file_dpath>
+    <item_id>force-orbs-7-clarity</item_id>
+    <item_index>01</item_index>
+    <item_name>Force Orbs (7 Clarity)</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:force-orbs-7-clarity</scc>
+    <scdc>1.1.1:5.2.1.5:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb. Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.</effect>
+    <effect type="mundane">**Power Roll + Reason**:
+- **≤11:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage</effect>
+    <effect type="mundane" name="Strained">You create five orbs, and you are weakened while you have any orbs active.</effect>
+  </effects>
+</ability>

@@ -22,7 +22,7 @@
     <item_name>Prescient Grace (5 Wrath)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:prescient-grace-5-wrath</scc>
-    <scdc>1.1.1:5.1.5.5:06</scdc>
+    <scdc>1.1.1:5.2.7.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>

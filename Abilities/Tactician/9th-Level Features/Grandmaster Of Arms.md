@@ -8,7 +8,7 @@
     <item_name>Grandmaster of Arms</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.9th-level-feature:grandmaster-of-arms</scc>
-    <scdc>1.1.1:5.2.2.8:01</scdc>
+    <scdc>1.1.1:5.1.4.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/9th-level-feature</type>
   </metadata>

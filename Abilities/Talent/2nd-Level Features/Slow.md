@@ -1,0 +1,39 @@
+<ability>
+  <name>Slow</name>
+  <cost>5 Clarity</cost>
+  <flavor>Perhaps they wonder why everyone else is moving so quickly?</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Three creatures or objects</target>
+  <metadata>
+    <class>talent</class>
+    <cost>5 Clarity</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/2nd-Level Features</file_dpath>
+    <item_id>slow-5-clarity</item_id>
+    <item_index>06</item_index>
+    <item_name>Slow (5 Clarity)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:slow-5-clarity</scc>
+    <scdc>1.1.1:5.2.1.4:06</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>The target&apos;s speed is halved (save ends), or if p</t1>
+      <t2>The target is slowed (save ends), or if P &lt; AVERAGE, the target&apos;s speed is 0 (save ends).</t2>
+      <t3>The target is slowed (save ends), or if P &lt; STRONG, the target&apos;s speed is 0 (save ends).</t3>
+    </effect>
+    <effect type="mundane">A target can&apos;t use triggered actions while their speed is reduced this way.</effect>
+    <effect type="mundane" name="Strained">The potency of this ability increases by 1 and you take 1d6 damage. At the start of each combat round while any target is affected by this ability, you take 1d6 damage. You can end the effect on all affected targets at any time (no action required).</effect>
+  </effects>
+</ability>

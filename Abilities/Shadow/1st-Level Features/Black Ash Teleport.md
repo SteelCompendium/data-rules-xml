@@ -16,7 +16,7 @@
     <item_name>Black Ash Teleport</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:black-ash-teleport</scc>
-    <scdc>1.1.1:5.2.1.1:15</scdc>
+    <scdc>1.1.1:5.1.3.1:15</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/1st-level-feature</type>
   </metadata>

@@ -18,7 +18,7 @@
     <item_name>There Is No Space Between</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:there-is-no-space-between</scc>
-    <scdc>1.1.1:5.2.7.6:04</scdc>
+    <scdc>1.1.1:5.1.9.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/2nd-level-feature</type>
   </metadata>

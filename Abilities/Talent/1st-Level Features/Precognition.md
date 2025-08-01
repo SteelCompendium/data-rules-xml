@@ -1,0 +1,32 @@
+<ability>
+  <name>Precognition</name>
+  <cost>3 Clarity</cost>
+  <flavor>You give a target a glimpse into the future so that they&apos;re ready for what comes next.</flavor>
+  <keywords>
+    <keyword>Chronopathy</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Psionic</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 2</distance>
+  <target>Self or one ally</target>
+  <metadata>
+    <class>talent</class>
+    <cost>3 Clarity</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>precognition-3-clarity</item_id>
+    <item_index>05</item_index>
+    <item_name>Precognition (3 Clarity)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:precognition-3-clarity</scc>
+    <scdc>1.1.1:5.2.1.1:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.</effect>
+  </effects>
+</ability>

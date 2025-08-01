@@ -23,7 +23,7 @@
     <item_name>Realitas (11 Discipline)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas-11-discipline</scc>
-    <scdc>1.1.1:5.1.4.6:06</scdc>
+    <scdc>1.1.1:5.2.6.6:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/9th-level-feature</type>
   </metadata>

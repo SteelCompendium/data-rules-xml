@@ -21,7 +21,7 @@
     <item_name>Riders on the Storm (9 Ferocity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.6th-level-feature:riders-on-the-storm-9-ferocity</scc>
-    <scdc>1.1.1:5.1.3.3:03</scdc>
+    <scdc>1.1.1:5.2.5.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>

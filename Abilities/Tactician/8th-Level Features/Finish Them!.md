@@ -21,7 +21,7 @@
     <item_name>Finish Them! (11 Focus)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:finish-them-11-focus</scc>
-    <scdc>1.1.1:5.1.2.2:04</scdc>
+    <scdc>1.1.1:5.2.4.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>

@@ -1,0 +1,33 @@
+<ability>
+  <name>Iron</name>
+  <cost>5 Clarity</cost>
+  <flavor>The target&apos;s skin turns to hard, dark metal, impenetrable and dense.</flavor>
+  <keywords>
+    <keyword>Metamorphosis</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Self or one ally</target>
+  <metadata>
+    <class>talent</class>
+    <cost>5 Clarity</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Clarity</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <item_id>iron-5-clarity</item_id>
+    <item_index>02</item_index>
+    <item_name>Iron (5 Clarity)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:iron-5-clarity</scc>
+    <scdc>1.1.1:5.2.1.1:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target&apos;s stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.</effect>
+    <effect type="mundane" name="Strained">You can&apos;t use maneuvers (save ends).</effect>
+  </effects>
+</ability>

@@ -17,7 +17,7 @@
     <item_name>Healing Grace</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:healing-grace</scc>
-    <scdc>1.1.1:5.2.6.1:17</scdc>
+    <scdc>1.1.1:5.1.8.1:17</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>
