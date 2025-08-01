@@ -23,7 +23,7 @@
     <item_name>Harsh Critic (3 Drama)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harsh-critic-3-drama</scc>
-    <scdc>1.1.1:9.2.3.1:08</scdc>
+    <scdc>1.1.1:10.2.3.1:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>

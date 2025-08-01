@@ -20,7 +20,7 @@
     <item_name>Rout (7 Focus)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:rout-7-focus</scc>
-    <scdc>1.1.1:9.2.4.6:02</scdc>
+    <scdc>1.1.1:10.2.4.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/3rd-level-feature</type>
   </metadata>

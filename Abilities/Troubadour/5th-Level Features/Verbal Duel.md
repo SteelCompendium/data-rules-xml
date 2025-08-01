@@ -9,7 +9,7 @@
     <item_name>Verbal Duel</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:verbal-duel</scc>
-    <scdc>1.1.1:9.1.3.5:06</scdc>
+    <scdc>1.1.1:10.1.3.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/5th-level-feature</type>
   </metadata>

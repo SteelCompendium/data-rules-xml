@@ -23,7 +23,7 @@
     <item_name>Stunning Blow (3 Discipline)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:stunning-blow-3-discipline</scc>
-    <scdc>1.1.1:9.2.6.1:03</scdc>
+    <scdc>1.1.1:10.2.6.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/1st-level-feature</type>
   </metadata>

@@ -21,7 +21,7 @@
     <item_name>Coordinated Execution (9 Focus)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:coordinated-execution-9-focus</scc>
-    <scdc>1.1.1:9.2.4.3:03</scdc>
+    <scdc>1.1.1:10.2.4.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/6th-level-feature</type>
   </metadata>

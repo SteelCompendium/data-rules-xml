@@ -20,7 +20,7 @@
     <item_name>Hit &apos;Em Hard! (7 Focus)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.3rd-level-feature:hit-em-hard-7-focus</scc>
-    <scdc>1.1.1:9.2.4.6:01</scdc>
+    <scdc>1.1.1:10.2.4.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/3rd-level-feature</type>
   </metadata>

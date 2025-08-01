@@ -20,7 +20,7 @@
     <item_name>Saved in the Edit (11 Drama)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:saved-in-the-edit-11-drama</scc>
-    <scdc>1.1.1:9.2.3.2:01</scdc>
+    <scdc>1.1.1:10.2.3.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/8th-level-feature</type>
   </metadata>

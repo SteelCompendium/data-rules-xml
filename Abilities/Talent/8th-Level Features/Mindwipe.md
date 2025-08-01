@@ -23,7 +23,7 @@
     <item_name>Mindwipe (11 Clarity)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.8th-level-feature:mindwipe-11-clarity</scc>
-    <scdc>1.1.1:9.2.1.2:02</scdc>
+    <scdc>1.1.1:10.2.1.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/8th-level-feature</type>
   </metadata>

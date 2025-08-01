@@ -21,7 +21,7 @@
     <item_name>Inertial Absorption (11 Discipline)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:inertial-absorption-11-discipline</scc>
-    <scdc>1.1.1:9.2.6.6:02</scdc>
+    <scdc>1.1.1:10.2.6.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/9th-level-feature</type>
   </metadata>

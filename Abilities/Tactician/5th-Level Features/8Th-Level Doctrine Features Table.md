@@ -15,7 +15,7 @@
     <item_name>5th-Level Doctrine Features Table</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:5th-level-doctrine-features-table</scc>
-    <scdc>1.1.1:9.1.4.5:03</scdc>
+    <scdc>1.1.1:10.1.4.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/5th-level-feature</type>
   </metadata>

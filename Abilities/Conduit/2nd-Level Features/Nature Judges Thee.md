@@ -22,7 +22,7 @@
     <item_name>Nature Judges Thee (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:nature-judges-thee-5-piety</scc>
-    <scdc>1.1.1:9.2.8.5:12</scdc>
+    <scdc>1.1.1:10.2.8.5:12</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

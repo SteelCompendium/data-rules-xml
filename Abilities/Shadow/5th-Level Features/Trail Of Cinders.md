@@ -8,7 +8,7 @@
     <item_name>Trail of Cinders</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders</scc>
-    <scdc>1.1.1:9.1.2.5:03</scdc>
+    <scdc>1.1.1:10.1.2.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/5th-level-feature</type>
   </metadata>

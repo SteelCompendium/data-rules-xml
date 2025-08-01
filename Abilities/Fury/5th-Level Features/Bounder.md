@@ -8,7 +8,7 @@
     <item_name>Bounder</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.5th-level-feature:bounder</scc>
-    <scdc>1.1.1:9.1.5.5:02</scdc>
+    <scdc>1.1.1:10.1.5.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/5th-level-feature</type>
   </metadata>

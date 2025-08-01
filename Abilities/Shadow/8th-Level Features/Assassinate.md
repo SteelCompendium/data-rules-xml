@@ -22,7 +22,7 @@
     <item_name>Assassinate (11 Insight)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:assassinate-11-insight</scc>
-    <scdc>1.1.1:9.2.2.2:03</scdc>
+    <scdc>1.1.1:10.2.2.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/8th-level-feature</type>
   </metadata>

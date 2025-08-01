@@ -8,7 +8,7 @@
     <item_name>Scene Partner</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:scene-partner</scc>
-    <scdc>1.1.1:9.1.3.1:17</scdc>
+    <scdc>1.1.1:10.1.3.1:17</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/1st-level-feature</type>
   </metadata>

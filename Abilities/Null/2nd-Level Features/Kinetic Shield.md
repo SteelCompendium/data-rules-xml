@@ -20,7 +20,7 @@
     <item_name>Kinetic Shield (5 Discipline)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:kinetic-shield-5-discipline</scc>
-    <scdc>1.1.1:9.2.6.4:05</scdc>
+    <scdc>1.1.1:10.2.6.4:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/2nd-level-feature</type>
   </metadata>

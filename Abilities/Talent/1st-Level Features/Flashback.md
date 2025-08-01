@@ -22,7 +22,7 @@
     <item_name>Flashback (5 Clarity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:flashback-5-clarity</scc>
-    <scdc>1.1.1:9.2.1.1:01</scdc>
+    <scdc>1.1.1:10.2.1.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>

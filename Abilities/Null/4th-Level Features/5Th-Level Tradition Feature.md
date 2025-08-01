@@ -8,7 +8,7 @@
     <item_name>5th-Level Tradition Feature</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:5th-level-tradition-feature</scc>
-    <scdc>1.1.1:9.1.6.9:08</scdc>
+    <scdc>1.1.1:10.1.6.9:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/4th-level-feature</type>
   </metadata>

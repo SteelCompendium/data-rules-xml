@@ -23,7 +23,7 @@
     <item_name>Expert Fencer (11 Drama)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:expert-fencer-11-drama</scc>
-    <scdc>1.1.1:9.2.3.7:02</scdc>
+    <scdc>1.1.1:10.2.3.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>

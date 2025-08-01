@@ -22,7 +22,7 @@
     <item_name>Try Me Instead (5 Focus)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:try-me-instead-5-focus</scc>
-    <scdc>1.1.1:9.2.4.5:01</scdc>
+    <scdc>1.1.1:10.2.4.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/2nd-level-feature</type>
   </metadata>

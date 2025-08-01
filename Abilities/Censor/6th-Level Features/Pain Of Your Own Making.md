@@ -22,7 +22,7 @@
     <item_name>Pain of Your Own Making (9 Wrath)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.6th-level-feature:pain-of-your-own-making-9-wrath</scc>
-    <scdc>1.1.1:9.2.7.3:01</scdc>
+    <scdc>1.1.1:10.2.7.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/6th-level-feature</type>
   </metadata>

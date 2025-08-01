@@ -23,7 +23,7 @@
     <item_name>Infernal Gavotte (7 Drama)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:infernal-gavotte-7-drama</scc>
-    <scdc>1.1.1:9.2.3.6:03</scdc>
+    <scdc>1.1.1:10.2.3.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/3rd-level-feature</type>
   </metadata>

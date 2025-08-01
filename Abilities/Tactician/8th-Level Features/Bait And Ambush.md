@@ -8,7 +8,7 @@
     <item_name>Bait and Ambush</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush</scc>
-    <scdc>1.1.1:9.1.4.2:03</scdc>
+    <scdc>1.1.1:10.1.4.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/8th-level-feature</type>
   </metadata>

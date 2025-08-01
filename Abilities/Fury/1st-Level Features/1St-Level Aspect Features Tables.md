@@ -15,7 +15,7 @@
     <item_name>1st-Level Aspect Features Tables</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:1st-level-aspect-features-tables</scc>
-    <scdc>1.1.1:9.1.5.1:15</scdc>
+    <scdc>1.1.1:10.1.5.1:15</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/1st-level-feature</type>
   </metadata>

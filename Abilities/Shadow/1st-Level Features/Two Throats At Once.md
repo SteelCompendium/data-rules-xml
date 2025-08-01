@@ -23,7 +23,7 @@
     <item_name>Two Throats at Once (3 Insight)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:two-throats-at-once-3-insight</scc>
-    <scdc>1.1.1:9.2.2.1:08</scdc>
+    <scdc>1.1.1:10.2.2.1:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>

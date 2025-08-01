@@ -8,7 +8,7 @@
     <item_name>Parkour</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:parkour</scc>
-    <scdc>1.1.1:9.1.2.2:06</scdc>
+    <scdc>1.1.1:10.1.2.2:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/8th-level-feature</type>
   </metadata>

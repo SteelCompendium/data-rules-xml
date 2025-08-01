@@ -8,7 +8,7 @@
     <item_name>Insight Outside of Combat</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-outside-of-combat</scc>
-    <scdc>1.1.1:9.1.2.1:13</scdc>
+    <scdc>1.1.1:10.1.2.1:13</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/1st-level-feature</type>
   </metadata>
