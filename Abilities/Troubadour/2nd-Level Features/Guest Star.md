@@ -20,7 +20,7 @@
     <item_name>Guest Star (5 Drama)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:guest-star-5-drama</scc>
-    <scdc>1.1.1:13.2.3.5:01</scdc>
+    <scdc>1.1.1:14.2.3.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>

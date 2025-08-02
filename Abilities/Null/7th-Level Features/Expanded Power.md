@@ -11,7 +11,7 @@
     <item_name>Expanded Power (3 Discipline)</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.null.7th-level-feature:expanded-power-3-discipline</scc>
-    <scdc>1.1.1:13.2.6.7:01</scdc>
+    <scdc>1.1.1:14.2.6.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/7th-level-feature</type>
   </metadata>

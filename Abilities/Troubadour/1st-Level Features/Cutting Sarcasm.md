@@ -19,7 +19,7 @@
     <item_name>Cutting Sarcasm</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:cutting-sarcasm</scc>
-    <scdc>1.1.1:13.1.3.1:02</scdc>
+    <scdc>1.1.1:14.1.3.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/1st-level-feature</type>
   </metadata>

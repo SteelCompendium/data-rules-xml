@@ -8,7 +8,7 @@
     <item_name>Inner Light</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:inner-light</scc>
-    <scdc>1.1.1:13.1.7.1:05</scdc>
+    <scdc>1.1.1:14.1.7.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/1st-level-feature</type>
   </metadata>

@@ -19,7 +19,7 @@
     <item_name>Grasp of Beyond</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:grasp-of-beyond</scc>
-    <scdc>1.1.1:13.1.9.1:02</scdc>
+    <scdc>1.1.1:14.1.9.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

@@ -6,7 +6,7 @@
     <item_index>01</item_index>
     <item_name>Disengage</item_name>
     <scc>mcdm.heroes.v1:common\_ability.move\_action:disengage</scc>
-    <scdc>1.1.1:12.2:01</scdc>
+    <scdc>1.1.1:13.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/move\_action</type>
   </metadata>

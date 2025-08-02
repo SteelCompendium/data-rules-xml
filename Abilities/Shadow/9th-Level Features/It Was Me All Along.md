@@ -22,7 +22,7 @@
     <item_name>It Was Me All Along (11 Insight)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:it-was-me-all-along-11-insight</scc>
-    <scdc>1.1.1:13.2.2.7:03</scdc>
+    <scdc>1.1.1:14.2.2.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/9th-level-feature</type>
   </metadata>

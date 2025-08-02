@@ -18,7 +18,7 @@
     <item_name>Summon Source of Earth</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:summon-source-of-earth</scc>
-    <scdc>1.1.1:13.1.9.2:07</scdc>
+    <scdc>1.1.1:14.1.9.2:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/8th-level-feature</type>
   </metadata>

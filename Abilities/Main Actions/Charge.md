@@ -6,7 +6,7 @@
     <item_index>03</item_index>
     <item_name>Charge</item_name>
     <scc>mcdm.heroes.v1:common\_ability.main\_action:charge</scc>
-    <scdc>1.1.1:12.1:03</scdc>
+    <scdc>1.1.1:13.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/main\_action</type>
   </metadata>

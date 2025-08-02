@@ -22,7 +22,7 @@
     <item_name>Intercede (9 Wrath)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.6th-level-feature:intercede-9-wrath</scc>
-    <scdc>1.1.1:13.2.7.3:04</scdc>
+    <scdc>1.1.1:14.2.7.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/6th-level-feature</type>
   </metadata>

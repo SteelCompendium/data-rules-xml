@@ -8,7 +8,7 @@
     <item_name>Saint&apos;s Vigilance</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance</scc>
-    <scdc>1.1.1:13.1.7.6:06</scdc>
+    <scdc>1.1.1:14.1.7.6:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/2nd-level-feature</type>
   </metadata>

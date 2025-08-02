@@ -8,7 +8,7 @@
     <item_name>Vow</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.8th-level-feature:vow</scc>
-    <scdc>1.1.1:13.1.7.2:06</scdc>
+    <scdc>1.1.1:14.1.7.2:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/8th-level-feature</type>
   </metadata>

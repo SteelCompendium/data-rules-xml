@@ -8,7 +8,7 @@
     <item_name>Instant Action</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:instant-action</scc>
-    <scdc>1.1.1:13.1.6.9:07</scdc>
+    <scdc>1.1.1:14.1.6.9:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/4th-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Steel Ward</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:steel-ward</scc>
-    <scdc>1.1.1:13.1.1.1:22</scdc>
+    <scdc>1.1.1:14.1.1.1:22</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/talent/1st-level-feature</type>
   </metadata>

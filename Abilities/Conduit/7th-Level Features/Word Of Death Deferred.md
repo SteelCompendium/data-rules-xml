@@ -8,7 +8,7 @@
     <item_name>Word of Death Deferred</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-death-deferred</scc>
-    <scdc>1.1.1:13.1.8.9:09</scdc>
+    <scdc>1.1.1:14.1.8.9:09</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/7th-level-feature</type>
   </metadata>

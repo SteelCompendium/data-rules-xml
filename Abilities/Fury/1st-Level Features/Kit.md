@@ -8,7 +8,7 @@
     <item_name>Kit</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:kit</scc>
-    <scdc>1.1.1:13.1.5.1:10</scdc>
+    <scdc>1.1.1:14.1.5.1:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/1st-level-feature</type>
   </metadata>

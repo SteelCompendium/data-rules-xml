@@ -22,7 +22,7 @@
     <item_name>Renegotiated Contract (11 Drama)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:renegotiated-contract-11-drama</scc>
-    <scdc>1.1.1:13.2.3.7:03</scdc>
+    <scdc>1.1.1:14.2.3.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>

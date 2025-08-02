@@ -6,7 +6,7 @@
     <item_index>02</item_index>
     <item_name>Heal</item_name>
     <scc>mcdm.heroes.v1:common\_ability.main\_action:heal</scc>
-    <scdc>1.1.1:12.1:02</scdc>
+    <scdc>1.1.1:13.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/main\_action</type>
   </metadata>

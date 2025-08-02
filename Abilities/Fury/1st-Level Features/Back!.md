@@ -22,7 +22,7 @@
     <item_name>Back! (3 Ferocity)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back-3-ferocity</scc>
-    <scdc>1.1.1:13.2.5.1:07</scdc>
+    <scdc>1.1.1:14.2.5.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>

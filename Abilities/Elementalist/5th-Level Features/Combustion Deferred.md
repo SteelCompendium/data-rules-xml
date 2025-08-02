@@ -23,7 +23,7 @@
     <item_name>Combustion Deferred (9 Essence)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:combustion-deferred-9-essence</scc>
-    <scdc>1.1.1:13.2.9.4:02</scdc>
+    <scdc>1.1.1:14.2.9.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/5th-level-feature</type>
   </metadata>

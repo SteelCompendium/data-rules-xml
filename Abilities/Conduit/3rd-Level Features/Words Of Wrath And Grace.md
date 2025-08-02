@@ -21,7 +21,7 @@
     <item_name>Words of Wrath and Grace (7 Piety)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:words-of-wrath-and-grace-7-piety</scc>
-    <scdc>1.1.1:13.2.8.6:02</scdc>
+    <scdc>1.1.1:14.2.8.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/3rd-level-feature</type>
   </metadata>

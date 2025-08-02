@@ -22,7 +22,7 @@
     <item_name>The Show Must Go On (11 Drama)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:the-show-must-go-on-11-drama</scc>
-    <scdc>1.1.1:13.2.3.2:02</scdc>
+    <scdc>1.1.1:14.2.3.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/8th-level-feature</type>
   </metadata>

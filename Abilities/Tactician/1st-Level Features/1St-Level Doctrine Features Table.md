@@ -15,7 +15,7 @@
     <item_name>1st-Level Doctrine Features Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:1st-level-doctrine-features-table</scc>
-    <scdc>1.1.1:13.1.4.1:02</scdc>
+    <scdc>1.1.1:14.1.4.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/tactician/1st-level-feature</type>
   </metadata>

@@ -21,7 +21,7 @@
     <item_name>Twist at the End (5 Drama)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:twist-at-the-end-5-drama</scc>
-    <scdc>1.1.1:13.2.3.5:06</scdc>
+    <scdc>1.1.1:14.2.3.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>

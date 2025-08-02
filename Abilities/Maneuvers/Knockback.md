@@ -6,7 +6,7 @@
     <item_index>05</item_index>
     <item_name>Knockback</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:knockback</scc>
-    <scdc>1.1.1:12.3:05</scdc>
+    <scdc>1.1.1:13.3:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

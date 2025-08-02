@@ -6,7 +6,7 @@
     <item_index>8</item_index>
     <item_name>Escape Grab</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:escape-grab</scc>
-    <scdc>1.1.1:12.3:08</scdc>
+    <scdc>1.1.1:13.3:08</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

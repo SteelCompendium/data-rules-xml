@@ -13,7 +13,7 @@
     <item_name>Drag the Unworthy (11 Piety)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:drag-the-unworthy-11-piety</scc>
-    <scdc>1.1.1:13.2.8.2:02</scdc>
+    <scdc>1.1.1:14.2.8.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/8th-level-feature</type>
   </metadata>

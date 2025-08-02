@@ -8,7 +8,7 @@
     <item_name>Perk</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:perk</scc>
-    <scdc>1.1.1:13.1.8.2:02</scdc>
+    <scdc>1.1.1:14.1.8.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/8th-level-feature</type>
   </metadata>

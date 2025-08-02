@@ -8,7 +8,7 @@
     <item_name>Distance Is Only Memory</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:distance-is-only-memory</scc>
-    <scdc>1.1.1:13.1.9.7:01</scdc>
+    <scdc>1.1.1:14.1.9.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/3rd-level-feature</type>
   </metadata>

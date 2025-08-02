@@ -6,7 +6,7 @@
     <item_index>03</item_index>
     <item_name>Make Or Assist A Test</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:make-or-assist-a-test</scc>
-    <scdc>1.1.1:12.3:03</scdc>
+    <scdc>1.1.1:13.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

@@ -6,7 +6,7 @@
     <item_index>01</item_index>
     <item_name>Catch Breath</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:catch-breath</scc>
-    <scdc>1.1.1:12.3:01</scdc>
+    <scdc>1.1.1:13.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

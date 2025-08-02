@@ -22,7 +22,7 @@
     <item_name>Method Acting (5 Drama)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:method-acting-5-drama</scc>
-    <scdc>1.1.1:13.2.3.1:07</scdc>
+    <scdc>1.1.1:14.2.3.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>

@@ -17,7 +17,7 @@
     <item_name>Time Bomb</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:time-bomb</scc>
-    <scdc>1.1.1:13.1.2.2:02</scdc>
+    <scdc>1.1.1:14.1.2.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/8th-level-feature</type>
   </metadata>

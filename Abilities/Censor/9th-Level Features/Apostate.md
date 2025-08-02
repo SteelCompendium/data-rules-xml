@@ -22,7 +22,7 @@
     <item_name>Apostate (11 Wrath)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.9th-level-feature:apostate-11-wrath</scc>
-    <scdc>1.1.1:13.2.7.7:05</scdc>
+    <scdc>1.1.1:14.2.7.7:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/9th-level-feature</type>
   </metadata>

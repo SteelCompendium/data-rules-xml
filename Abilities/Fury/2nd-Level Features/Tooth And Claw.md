@@ -8,7 +8,7 @@
     <item_name>Tooth and Claw</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:tooth-and-claw</scc>
-    <scdc>1.1.1:13.1.5.6:05</scdc>
+    <scdc>1.1.1:14.1.5.6:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/2nd-level-feature</type>
   </metadata>

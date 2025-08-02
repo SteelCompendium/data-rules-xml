@@ -20,7 +20,7 @@
     <item_name>Avalanche Impact (9 Ferocity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.6th-level-feature:avalanche-impact-9-ferocity</scc>
-    <scdc>1.1.1:13.2.5.3:05</scdc>
+    <scdc>1.1.1:14.2.5.3:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>

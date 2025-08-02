@@ -11,7 +11,7 @@
     <item_name>Shared Power (5 Discipline)</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.null.7th-level-feature:shared-power-5-discipline</scc>
-    <scdc>1.1.1:13.2.6.7:07</scdc>
+    <scdc>1.1.1:14.2.6.7:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/7th-level-feature</type>
   </metadata>

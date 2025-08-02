@@ -22,7 +22,7 @@
     <item_name>The Green Defends Its Servants (11 Essence)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:the-green-defends-its-servants-11-essence</scc>
-    <scdc>1.1.1:13.2.9.7:03</scdc>
+    <scdc>1.1.1:14.2.9.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/9th-level-feature</type>
   </metadata>
