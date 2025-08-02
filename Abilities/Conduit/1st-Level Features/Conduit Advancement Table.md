@@ -11,11 +11,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
     <item_id>conduit-advancement-table</item_id>
-    <item_index>41</item_index>
+    <item_index>43</item_index>
     <item_name>Conduit Advancement Table</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:conduit-advancement-table</scc>
-    <scdc>1.1.1:13.1.8.1:41</scdc>
+    <scdc>1.1.1:13.1.8.1:43</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>
