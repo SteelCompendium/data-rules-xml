@@ -1,12 +1,12 @@
 <ability>
   <metadata>
     <class>combat</class>
-    <file_dpath>Abilities</file_dpath>
+    <file_dpath>Abilities/Move Actions</file_dpath>
     <item_id>ride</item_id>
     <item_index>03</item_index>
     <item_name>Ride</item_name>
     <scc>mcdm.heroes.v1:common\_ability.move\_action:ride</scc>
-    <scdc>1.1.1:7.2:03</scdc>
+    <scdc>1.1.1:12.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/move\_action</type>
   </metadata>

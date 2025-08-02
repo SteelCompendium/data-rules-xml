@@ -1,12 +1,12 @@
 <ability>
   <metadata>
     <class>combat</class>
-    <file_dpath>Abilities</file_dpath>
+    <file_dpath>Abilities/Maneuvers</file_dpath>
     <item_id>make-or-assist-a-test</item_id>
     <item_index>03</item_index>
     <item_name>Make Or Assist A Test</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:make-or-assist-a-test</scc>
-    <scdc>1.1.1:7.3:03</scdc>
+    <scdc>1.1.1:12.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

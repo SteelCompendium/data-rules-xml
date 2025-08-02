@@ -1,12 +1,12 @@
 <ability>
   <metadata>
     <class>combat</class>
-    <file_dpath>Abilities</file_dpath>
+    <file_dpath>Abilities/Maneuvers</file_dpath>
     <item_id>catch-breath</item_id>
     <item_index>01</item_index>
     <item_name>Catch Breath</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:catch-breath</scc>
-    <scdc>1.1.1:7.3:01</scdc>
+    <scdc>1.1.1:12.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

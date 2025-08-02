@@ -1,12 +1,12 @@
 <ability>
   <metadata>
     <class>combat</class>
-    <file_dpath>Abilities</file_dpath>
+    <file_dpath>Abilities/Main Actions</file_dpath>
     <item_id>defend</item_id>
     <item_index>01</item_index>
     <item_name>Defend</item_name>
     <scc>mcdm.heroes.v1:common\_ability.main\_action:defend</scc>
-    <scdc>1.1.1:7.1:01</scdc>
+    <scdc>1.1.1:12.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/main\_action</type>
   </metadata>
