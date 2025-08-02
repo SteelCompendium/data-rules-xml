@@ -23,7 +23,7 @@
     <item_name>You Talk Too Much (9 Insight)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:you-talk-too-much-9-insight</scc>
-    <scdc>1.1.1:14.2.2.4:03</scdc>
+    <scdc>1.1.1:13.2.2.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/5th-level-feature</type>
   </metadata>

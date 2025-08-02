@@ -24,7 +24,7 @@
     <item_name>Purifying Fire (5 Wrath)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:purifying-fire-5-wrath</scc>
-    <scdc>1.1.1:14.2.7.1:06</scdc>
+    <scdc>1.1.1:13.2.7.1:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/1st-level-feature</type>
   </metadata>

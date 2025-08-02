@@ -8,7 +8,7 @@
     <item_name>A Step Ahead</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.8th-level-feature:a-step-ahead</scc>
-    <scdc>1.1.1:14.1.5.2:06</scdc>
+    <scdc>1.1.1:13.1.5.2:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/8th-level-feature</type>
   </metadata>

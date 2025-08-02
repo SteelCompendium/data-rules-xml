@@ -22,7 +22,7 @@
     <item_name>Blood on the Stage (9 Drama)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:blood-on-the-stage-9-drama</scc>
-    <scdc>1.1.1:14.2.3.3:04</scdc>
+    <scdc>1.1.1:13.2.3.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/6th-level-feature</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_name>Primordial Portal</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.6th-level-feature:primordial-portal</scc>
-    <scdc>1.1.1:14.1.5.3:01</scdc>
+    <scdc>1.1.1:13.1.5.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/6th-level-feature</type>
   </metadata>

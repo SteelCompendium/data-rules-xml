@@ -8,7 +8,7 @@
     <item_name>Impervious Touch</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.4th-level-feature:impervious-touch</scc>
-    <scdc>1.1.1:14.1.7.10:11</scdc>
+    <scdc>1.1.1:13.1.7.10:11</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/4th-level-feature</type>
   </metadata>

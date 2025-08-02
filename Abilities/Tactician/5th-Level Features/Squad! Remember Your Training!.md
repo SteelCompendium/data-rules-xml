@@ -20,7 +20,7 @@
     <item_name>Squad! Remember Your Training! (9 Focus)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:squad-remember-your-training-9-focus</scc>
-    <scdc>1.1.1:14.2.4.4:03</scdc>
+    <scdc>1.1.1:13.2.4.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/tactician/5th-level-feature</type>
   </metadata>

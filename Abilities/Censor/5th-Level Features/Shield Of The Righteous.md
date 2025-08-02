@@ -22,7 +22,7 @@
     <item_name>Shield of the Righteous (9 Wrath)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.5th-level-feature:shield-of-the-righteous-9-wrath</scc>
-    <scdc>1.1.1:14.2.7.4:03</scdc>
+    <scdc>1.1.1:13.2.7.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/censor/5th-level-feature</type>
   </metadata>

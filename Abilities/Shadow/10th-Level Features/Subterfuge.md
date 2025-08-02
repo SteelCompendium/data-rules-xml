@@ -8,7 +8,7 @@
     <item_name>Subterfuge</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.10th-level-feature:subterfuge</scc>
-    <scdc>1.1.1:14.1.2.4:02</scdc>
+    <scdc>1.1.1:13.1.2.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/10th-level-feature</type>
   </metadata>

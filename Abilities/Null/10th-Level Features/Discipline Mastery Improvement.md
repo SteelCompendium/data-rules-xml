@@ -8,7 +8,7 @@
     <item_name>Discipline Mastery Improvement</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.null.10th-level-feature:discipline-mastery-improvement</scc>
-    <scdc>1.1.1:14.1.6.4:06</scdc>
+    <scdc>1.1.1:13.1.6.4:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/10th-level-feature</type>
   </metadata>

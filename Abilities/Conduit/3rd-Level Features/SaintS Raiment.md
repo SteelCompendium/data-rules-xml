@@ -21,7 +21,7 @@
     <item_name>Saint&apos;s Raiment (7 Piety)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:saints-raiment-7-piety</scc>
-    <scdc>1.1.1:14.2.8.6:03</scdc>
+    <scdc>1.1.1:13.2.8.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/3rd-level-feature</type>
   </metadata>

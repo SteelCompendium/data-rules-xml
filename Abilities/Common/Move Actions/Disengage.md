@@ -1,12 +1,12 @@
 <ability>
   <metadata>
     <class>combat</class>
-    <file_dpath>Abilities/Move Actions</file_dpath>
+    <file_dpath>Abilities/Common/Move Actions</file_dpath>
     <item_id>disengage</item_id>
     <item_index>01</item_index>
     <item_name>Disengage</item_name>
     <scc>mcdm.heroes.v1:common\_ability.move\_action:disengage</scc>
-    <scdc>1.1.1:13.2:01</scdc>
+    <scdc>1.1.1:14.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/move\_action</type>
   </metadata>

@@ -1,12 +1,12 @@
 <ability>
   <metadata>
     <class>combat</class>
-    <file_dpath>Abilities/Main Actions</file_dpath>
+    <file_dpath>Abilities/Common/Main Actions</file_dpath>
     <item_id>free-strike</item_id>
     <item_index>04</item_index>
     <item_name>Free Strike</item_name>
     <scc>mcdm.heroes.v1:common\_ability.main\_action:free-strike</scc>
-    <scdc>1.1.1:13.1:04</scdc>
+    <scdc>1.1.1:14.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/main\_action</type>
   </metadata>

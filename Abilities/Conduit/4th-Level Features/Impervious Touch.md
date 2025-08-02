@@ -9,7 +9,7 @@
     <item_name>Impervious Touch</item_name>
     <level>4</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:impervious-touch</scc>
-    <scdc>1.1.1:14.1.8.10:12</scdc>
+    <scdc>1.1.1:13.1.8.10:12</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/4th-level-feature</type>
   </metadata>

@@ -22,7 +22,7 @@
     <item_name>Shower of Blood (11 Ferocity)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.9th-level-feature:shower-of-blood-11-ferocity</scc>
-    <scdc>1.1.1:14.2.5.6:04</scdc>
+    <scdc>1.1.1:13.2.5.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/9th-level-feature</type>
   </metadata>

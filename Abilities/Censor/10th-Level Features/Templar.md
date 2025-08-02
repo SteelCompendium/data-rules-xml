@@ -8,7 +8,7 @@
     <item_name>Templar</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.censor.10th-level-feature:templar</scc>
-    <scdc>1.1.1:14.1.7.4:06</scdc>
+    <scdc>1.1.1:13.1.7.4:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/censor/10th-level-feature</type>
   </metadata>

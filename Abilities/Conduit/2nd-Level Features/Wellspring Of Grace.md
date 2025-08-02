@@ -21,7 +21,7 @@
     <item_name>Wellspring of Grace (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:wellspring-of-grace-5-piety</scc>
-    <scdc>1.1.1:14.2.8.5:04</scdc>
+    <scdc>1.1.1:13.2.8.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

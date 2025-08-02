@@ -8,7 +8,7 @@
     <item_name>Immovable Object</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:immovable-object</scc>
-    <scdc>1.1.1:14.1.5.7:01</scdc>
+    <scdc>1.1.1:13.1.5.7:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/3rd-level-feature</type>
   </metadata>

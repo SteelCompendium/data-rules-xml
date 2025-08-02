@@ -21,7 +21,7 @@
     <item_name>Blessing of the Blade (11 Piety)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.8th-level-feature:blessing-of-the-blade-11-piety</scc>
-    <scdc>1.1.1:14.2.8.2:01</scdc>
+    <scdc>1.1.1:13.2.8.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/8th-level-feature</type>
   </metadata>

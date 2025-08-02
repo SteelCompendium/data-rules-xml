@@ -19,7 +19,7 @@
     <item_name>Primordial Rage (11 Ferocity)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.8th-level-feature:primordial-rage-11-ferocity</scc>
-    <scdc>1.1.1:14.2.5.2:03</scdc>
+    <scdc>1.1.1:13.2.5.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/8th-level-feature</type>
   </metadata>

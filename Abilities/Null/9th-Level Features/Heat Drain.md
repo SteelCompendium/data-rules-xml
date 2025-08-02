@@ -22,7 +22,7 @@
     <item_name>Heat Drain (11 Discipline)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:heat-drain-11-discipline</scc>
-    <scdc>1.1.1:14.2.6.6:05</scdc>
+    <scdc>1.1.1:13.2.6.6:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/null/9th-level-feature</type>
   </metadata>

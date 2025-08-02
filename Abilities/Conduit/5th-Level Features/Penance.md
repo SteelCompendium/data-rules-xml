@@ -22,7 +22,7 @@
     <item_name>Penance (9 Piety)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:penance-9-piety</scc>
-    <scdc>1.1.1:14.2.8.4:02</scdc>
+    <scdc>1.1.1:13.2.8.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/5th-level-feature</type>
   </metadata>

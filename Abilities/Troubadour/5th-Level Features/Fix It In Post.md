@@ -9,7 +9,7 @@
     <item_name>Fix It in Post</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:fix-it-in-post</scc>
-    <scdc>1.1.1:14.1.3.5:03</scdc>
+    <scdc>1.1.1:13.1.3.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/5th-level-feature</type>
   </metadata>

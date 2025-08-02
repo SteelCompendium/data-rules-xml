@@ -17,7 +17,7 @@
     <item_name>Inertial Shield</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:inertial-shield</scc>
-    <scdc>1.1.1:14.1.6.1:02</scdc>
+    <scdc>1.1.1:13.1.6.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

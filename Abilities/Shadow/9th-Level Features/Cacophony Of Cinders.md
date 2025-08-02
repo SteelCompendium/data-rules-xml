@@ -22,7 +22,7 @@
     <item_name>Cacophony of Cinders (11 Insight)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:cacophony-of-cinders-11-insight</scc>
-    <scdc>1.1.1:14.2.2.7:05</scdc>
+    <scdc>1.1.1:13.2.2.7:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/9th-level-feature</type>
   </metadata>

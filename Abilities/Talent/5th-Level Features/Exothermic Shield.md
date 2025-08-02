@@ -22,7 +22,7 @@
     <item_name>Exothermic Shield (9 Clarity)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.5th-level-feature:exothermic-shield-9-clarity</scc>
-    <scdc>1.1.1:14.2.1.4:02</scdc>
+    <scdc>1.1.1:13.2.1.4:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/5th-level-feature</type>
   </metadata>
