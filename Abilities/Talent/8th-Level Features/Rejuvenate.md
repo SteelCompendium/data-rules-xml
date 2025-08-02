@@ -27,7 +27,10 @@
     <type>feature/ability/talent/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Choose two of the following effects: - The target can spend any number of Recoveries. - The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn. - The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.</effect>
+    <effect type="mundane">Choose two of the following effects:
+- The target can spend any number of Recoveries.
+- The target gains 1 of their Heroic Resource, and can end any effects on them that are ended by a saving throw or that end at the end of their turn.
+- The target gains 2 surges, and gains a +3 bonus to speed until the end of the encounter.</effect>
     <effect type="mundane" name="Strained">You and the target both permanently grow visibly younger (the equivalent of 20 human years, to the minimum of an 18-yearold). Additionally, you are weakened and slowed (save ends).</effect>
   </effects>
 </ability>
