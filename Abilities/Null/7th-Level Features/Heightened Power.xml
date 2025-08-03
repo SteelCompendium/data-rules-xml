@@ -1,4 +1,6 @@
 <ability>
+  <name>Heightened Power</name>
+  <cost>1 Discipline</cost>
   <metadata>
     <class>null</class>
     <cost>1 Discipline</cost>

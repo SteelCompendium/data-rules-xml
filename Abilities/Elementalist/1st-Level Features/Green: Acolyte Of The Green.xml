@@ -1,4 +1,5 @@
 <ability>
+  <name>Green: Acolyte of the Green</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

@@ -1,4 +1,5 @@
 <ability>
+  <name>Bounder</name>
   <metadata>
     <class>fury</class>
     <feature_type>trait</feature_type>

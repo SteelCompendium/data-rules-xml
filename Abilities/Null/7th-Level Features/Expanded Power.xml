@@ -1,4 +1,6 @@
 <ability>
+  <name>Expanded Power</name>
+  <cost>3 Discipline</cost>
   <metadata>
     <class>null</class>
     <cost>3 Discipline</cost>

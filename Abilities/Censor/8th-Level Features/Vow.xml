@@ -1,4 +1,5 @@
 <ability>
+  <name>Vow</name>
   <metadata>
     <class>censor</class>
     <feature_type>trait</feature_type>

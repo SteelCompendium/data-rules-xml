@@ -1,4 +1,5 @@
 <ability>
+  <name>Mighty Leaps</name>
   <metadata>
     <class>fury</class>
     <feature_type>trait</feature_type>

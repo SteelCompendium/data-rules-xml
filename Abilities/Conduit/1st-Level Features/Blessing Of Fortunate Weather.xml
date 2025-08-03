@@ -1,4 +1,5 @@
 <ability>
+  <name>Blessing of Fortunate Weather</name>
   <metadata>
     <class>conduit</class>
     <feature_type>trait</feature_type>

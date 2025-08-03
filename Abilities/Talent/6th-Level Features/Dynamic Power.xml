@@ -1,4 +1,6 @@
 <ability>
+  <name>Dynamic Power</name>
+  <cost>1 Clarity</cost>
   <metadata>
     <class>talent</class>
     <cost>1 Clarity</cost>

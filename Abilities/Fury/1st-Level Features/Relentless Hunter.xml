@@ -1,4 +1,5 @@
 <ability>
+  <name>Relentless Hunter</name>
   <metadata>
     <class>fury</class>
     <feature_type>trait</feature_type>

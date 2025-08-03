@@ -1,4 +1,6 @@
 <ability>
+  <name>Expanded Power</name>
+  <cost>3 Clarity</cost>
   <metadata>
     <class>talent</class>
     <cost>3 Clarity</cost>

@@ -1,5 +1,6 @@
 <abilities>
   <ability>
+    <name>Heal</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Main Actions</file_dpath>
@@ -16,6 +17,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Free Strike</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Main Actions</file_dpath>
@@ -32,6 +34,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Defend</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Main Actions</file_dpath>
@@ -48,6 +51,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Charge</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Main Actions</file_dpath>
@@ -65,6 +69,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ride</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Move Actions</file_dpath>
@@ -81,6 +86,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Disengage</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Move Actions</file_dpath>
@@ -97,6 +103,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Advance</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Move Actions</file_dpath>
@@ -113,6 +120,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Stand Up</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -129,6 +137,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Escape Grab</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -157,6 +166,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Aid Attack</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -173,6 +183,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Hide</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -189,6 +200,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Grab</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -218,6 +230,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Search for Hidden Creatures</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -234,6 +247,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Make or Assist a Test</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -251,6 +265,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Catch Breath</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -268,6 +283,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Knockback</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -295,6 +311,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Use Consumable</name>
     <metadata>
       <class>combat</class>
       <file_dpath>Abilities/Common/Maneuvers</file_dpath>
@@ -311,6 +328,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Enchantment of Battle</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -393,6 +411,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Essence Outside of Combat</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -413,6 +432,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Enchantment of Celerity</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -431,6 +451,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ward of Surprising Reactivity</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -500,6 +521,7 @@
     </effects>
   </ability>
   <ability>
+    <name>1st-Level Specialization Feature</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -756,6 +778,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Essence in Combat</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -776,6 +799,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Fire: Acolyte of Fire</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -956,6 +980,7 @@
     </effects>
   </ability>
   <ability>
+    <name>It Is the Soul Which Hears</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1003,6 +1028,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Persistent Magic</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1060,6 +1086,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ward of Excellent Protection</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1078,6 +1105,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Enchantment of Permanence</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1096,6 +1124,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Green: Acolyte of the Green</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1114,6 +1143,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Void: Acolyte of the Mystery</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1132,6 +1162,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ward of Delightful Consequences</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1150,6 +1181,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Enchantment of Destruction</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1168,6 +1200,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Enchantment of Distance</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1186,6 +1219,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ward of Nature&apos;s Affection</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1358,6 +1392,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Black Hole Star</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1377,6 +1412,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Chimeric Manifestation</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1397,6 +1433,7 @@
     </effects>
   </ability>
   <ability>
+    <name>The Flame Primordial</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1526,6 +1563,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1592,6 +1630,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Wyrding</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1651,6 +1690,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1784,6 +1824,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Master of Earth</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1803,6 +1844,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Master of Fire</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1822,6 +1864,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Essential Being</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1840,6 +1883,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1858,6 +1902,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Breath</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1877,6 +1922,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1895,6 +1941,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Master of Green</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1915,6 +1962,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1933,6 +1981,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Master of Void</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1952,6 +2001,7 @@
     </effects>
   </ability>
   <ability>
+    <name>The Mountain Does Not Move</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1971,6 +2021,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Pierce the Veil of Substance</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2030,6 +2081,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Hide of Tenfold Shields</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2128,6 +2180,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Smoldering Step</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2185,6 +2238,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Disciple of Fire</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2283,6 +2337,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Disciple of Earth</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2301,6 +2356,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2425,6 +2481,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Distance Is Only Memory</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2477,6 +2534,7 @@
     </effects>
   </ability>
   <ability>
+    <name>A Conversation With Fire</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2562,6 +2620,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Grand Wyrding</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2723,6 +2782,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Surging Essence</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2741,6 +2801,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Mantle of Quintessence</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2760,6 +2821,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2778,6 +2840,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2796,6 +2859,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Font of Essence</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2814,6 +2878,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Burning Grounds</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2832,6 +2897,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Flowering Bed</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2850,6 +2916,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Quaking Earth</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2868,6 +2935,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2886,6 +2954,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Veiling Bed</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2904,6 +2973,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2922,6 +2992,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -2940,6 +3011,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Prayer of Distance</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -2958,6 +3030,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Spirit Ward</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3124,6 +3197,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Protective Circle</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3142,6 +3216,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Bastion Ward</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3160,6 +3235,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Sanctified Weapon</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3178,6 +3254,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Oracular Visions</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3216,6 +3293,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Piety Outside of Combat</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3235,6 +3313,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Prayer of Speed</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3253,6 +3332,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Deity and Domains</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3555,6 +3635,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Sanctuary Ward</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3606,6 +3687,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Grave Speech</name>
     <flavor>You commune with the lingering soul of the recently dead.</flavor>
     <keywords>
       <keyword>Magic</keyword>
@@ -3677,6 +3759,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inspired Deception</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3695,6 +3778,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Prayer of Soldier&apos;s Skill</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3787,6 +3871,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Fortunate Weather</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3843,6 +3928,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Prayer of Destruction</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -3941,6 +4027,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inner Light</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4019,6 +4106,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Quickness Ward</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4074,6 +4162,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Prayer of Steel</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4149,6 +4238,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Compassion</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4219,6 +4309,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Comprehension</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4237,6 +4328,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Revitalizing Ritual</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4322,6 +4414,7 @@
     </effects>
   </ability>
   <ability>
+    <name>4th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4481,6 +4574,7 @@
     </effects>
   </ability>
   <ability>
+    <name>8th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4530,6 +4624,7 @@
     </effects>
   </ability>
   <ability>
+    <name>7th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4606,6 +4701,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -4624,6 +4720,7 @@
     </effects>
   </ability>
   <ability>
+    <name>5th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5053,6 +5150,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5071,6 +5169,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Burgeoning Saint</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5093,6 +5192,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Most Pious</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5111,6 +5211,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Divine Power</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5131,6 +5232,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Avatar</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5150,6 +5252,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5168,6 +5271,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5186,6 +5290,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5204,6 +5309,7 @@
     </effects>
   </ability>
   <ability>
+    <name>4th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5337,6 +5443,7 @@
     </effects>
   </ability>
   <ability>
+    <name>8th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5423,6 +5530,7 @@
     </effects>
   </ability>
   <ability>
+    <name>7th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5499,6 +5607,7 @@
     </effects>
   </ability>
   <ability>
+    <name>5th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5581,6 +5690,7 @@
     </effects>
   </ability>
   <ability>
+    <name>2nd-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5803,6 +5913,7 @@
     </effects>
   </ability>
   <ability>
+    <name>The Lists of Heaven</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -5884,6 +5995,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6114,6 +6226,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Minor Miracle</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6370,6 +6483,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Faith&apos;s Sword</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6464,6 +6578,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ordained</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6584,6 +6699,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Word of Fate Denied</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6602,6 +6718,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Light of the Burning Sun</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6620,6 +6737,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Gods&apos; Library</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6638,6 +6756,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Divine Quartermaster</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6683,6 +6802,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6701,6 +6821,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Font of Grace</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6719,6 +6840,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Word of Death Deferred</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6769,6 +6891,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Faithful&apos;s Reward</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6787,6 +6910,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Your Triumphs Are Remembered</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6805,6 +6929,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6823,6 +6948,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Thunderstruck</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6841,6 +6967,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Nature&apos;s Bounty</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -6865,6 +6992,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Iron</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -7042,6 +7170,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -7098,6 +7227,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -7116,6 +7246,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessed Domain</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -7134,6 +7265,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>conduit</class>
       <feature_type>trait</feature_type>
@@ -7263,6 +7395,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Protective Circle</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7319,6 +7452,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Sanctified Weapon</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7337,6 +7471,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Oracular Visions</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7355,6 +7490,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Wrath Outside of Combat</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7374,6 +7510,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Judgment Order Benefit</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7426,6 +7563,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Censor Order</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7588,6 +7726,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inspired Deception</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7645,6 +7784,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Fortunate Weather</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7668,6 +7808,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inner Light</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7874,6 +8015,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Wrath in Combat</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7894,6 +8036,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Kit</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7912,6 +8055,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Compassion</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7931,6 +8075,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Comprehension</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -7949,6 +8094,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Revitalizing Ritual</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8041,6 +8187,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Vow</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8211,6 +8358,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8229,6 +8377,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Their Past Revealed</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8247,6 +8396,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Demonologist</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8301,6 +8451,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Implement of Wrath</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8429,6 +8580,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8511,6 +8663,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Virtue</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8531,6 +8684,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Wrath of the Gods</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8549,6 +8703,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8567,6 +8722,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8585,6 +8741,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8603,6 +8760,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Templar</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8660,6 +8818,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Evil Revealed</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8678,6 +8837,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Stand Fast!</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8801,6 +8961,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Prophecy</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8851,6 +9012,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Judge of Character</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8869,6 +9031,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Saint&apos;s Vigilance</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -8995,6 +9158,7 @@
     </effects>
   </ability>
   <ability>
+    <name>A Sense for Truth</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9013,6 +9177,7 @@
     </effects>
   </ability>
   <ability>
+    <name>It Was Foretold</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9031,6 +9196,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Lead by Example</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9080,6 +9246,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Stalwart Icon</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9098,6 +9265,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9148,6 +9316,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Look On My Work and Despair</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9366,6 +9535,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Improved Implement of Wrath</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9520,6 +9690,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Word of Fate Denied</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9538,6 +9709,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ride the Lightning</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9556,6 +9728,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Focused Wrath</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9574,6 +9747,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Light of the Burning Sun</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9592,6 +9766,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Gods&apos; Library</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9610,6 +9785,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Divine Quartermaster</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9655,6 +9831,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9673,6 +9850,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Font of Grace</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9692,6 +9870,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Word of Death Deferred</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9742,6 +9921,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Your Triumphs Are Remembered</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9760,6 +9940,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9778,6 +9959,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Nature&apos;s Bounty</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9802,6 +9984,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Iron</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9820,6 +10003,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Saint&apos;s Epiphany</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9838,6 +10022,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Light of Revelation</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9856,6 +10041,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Seance</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9874,6 +10060,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Wrath Beyond Wrath</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9892,6 +10079,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Windwalk</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9936,6 +10124,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Improved Hands of the Maker</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9954,6 +10143,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Wode Road</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9972,6 +10162,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Oracular Warning</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -9990,6 +10181,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10008,6 +10200,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Improved Sanctified Weapon</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10026,6 +10219,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Blessing of Life</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10044,6 +10238,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10062,6 +10257,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10080,6 +10276,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Impervious Touch</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10099,6 +10296,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Invocation of the Heart</name>
     <metadata>
       <class>censor</class>
       <feature_type>trait</feature_type>
@@ -10186,6 +10384,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Psionic Martial Arts</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10204,6 +10403,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Force Augmentation</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10257,6 +10457,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Discipline Outside of Combat</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10311,6 +10512,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Null Tradition</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10477,6 +10679,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Density Augmentation</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10571,6 +10774,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Null Speed</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10701,6 +10905,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Speed Augmentation</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -10991,6 +11196,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inertial Dampener</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11009,6 +11215,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Shared Momentum</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11066,6 +11273,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11084,6 +11292,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Synaptic Triage</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11171,6 +11380,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Elemental Buffer</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11225,6 +11435,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Elemental Absorption</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11341,6 +11552,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11359,6 +11571,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Discipline Mastery Improvement</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11377,6 +11590,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Manifold Resonance</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11396,6 +11610,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Manifold Body</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11414,6 +11629,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11432,6 +11648,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Order</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11452,6 +11669,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11470,6 +11688,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11564,6 +11783,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Entropic Adaptability</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11648,6 +11868,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11666,6 +11887,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inertial Sink</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11685,6 +11907,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Rapid Processing</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11769,6 +11992,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Psionic Leap</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -11847,6 +12071,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Reorder</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12033,6 +12258,7 @@
     </effects>
   </ability>
   <ability>
+    <name>I Am the Weapon</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12156,6 +12382,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Discipline Mastery Improvement</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12174,6 +12401,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Magnified Power</name>
+    <cost>5 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>5 Discipline</cost>
@@ -12195,6 +12424,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Shared Power</name>
+    <cost>5 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>5 Discipline</cost>
@@ -12216,6 +12447,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Dynamic Power</name>
+    <cost>1 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>1 Discipline</cost>
@@ -12237,6 +12470,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Sharpened Power</name>
+    <cost>1 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>1 Discipline</cost>
@@ -12258,6 +12493,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12276,6 +12512,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Improved Body</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12294,6 +12531,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Heightened Power</name>
+    <cost>1 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>1 Discipline</cost>
@@ -12315,6 +12554,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Expanded Power</name>
+    <cost>3 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>3 Discipline</cost>
@@ -12336,6 +12577,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Extended Power</name>
+    <cost>1 Discipline</cost>
     <metadata>
       <class>null</class>
       <cost>1 Discipline</cost>
@@ -12357,6 +12600,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12375,6 +12619,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Discipline Mastery Improvement</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12393,6 +12638,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Enhanced Null Field</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12411,6 +12657,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Chilling Readiness</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12429,6 +12676,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inertial Fulcrum</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12587,6 +12835,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Instant Action</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12605,6 +12854,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12623,6 +12873,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12641,6 +12892,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12659,6 +12911,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Regenerative Field</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12677,6 +12930,7 @@
     </effects>
   </ability>
   <ability>
+    <name>8th-Level Tradition Feature</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12707,6 +12961,7 @@
     </effects>
   </ability>
   <ability>
+    <name>5th-Level Tradition Feature</name>
     <metadata>
       <class>null</class>
       <feature_type>trait</feature_type>
@@ -12730,6 +12985,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Beast Shape</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -12748,6 +13004,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Aspect</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -12808,6 +13065,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ferocity in Combat</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13028,6 +13286,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Relentless Hunter</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13046,6 +13305,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Strength</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13189,6 +13449,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Mighty Leaps</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13345,6 +13606,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Kit</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13363,6 +13625,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Cunning</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13415,6 +13678,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ferocity Outside of Combat</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13532,6 +13796,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Strongest There Is</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13589,6 +13854,7 @@
     </effects>
   </ability>
   <ability>
+    <name>A Step Ahead</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13607,6 +13873,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13625,6 +13892,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Menagerie</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13675,6 +13943,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Portal</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13879,6 +14148,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13897,6 +14167,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Marauder of the Primordial Chaos</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13916,6 +14187,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Ferocity</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13934,6 +14206,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Growing Ferocity Improvement</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13952,6 +14225,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Power</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13973,6 +14247,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Chaos Incarnate</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -13993,6 +14268,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14011,6 +14287,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14029,6 +14306,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14163,6 +14441,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Unfettered</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14181,6 +14460,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Stormborn</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14237,6 +14517,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Bounder</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14255,6 +14536,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Unstoppable Force</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14273,6 +14555,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Tooth and Claw</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14291,6 +14574,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Inescapable Wrath</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14309,6 +14593,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14357,6 +14642,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Immovable Object</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14468,6 +14754,7 @@
     </effects>
   </ability>
   <ability>
+    <name>See Through Their Tricks</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14486,6 +14773,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Nature&apos;s Knight</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14734,6 +15022,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Harbinger of the Primordial Chaos</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14752,6 +15041,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Elemental Form</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14771,6 +15061,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Growing Ferocity Improvement</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14789,6 +15080,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14807,6 +15099,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Greater Ferocity</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14825,6 +15118,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14843,6 +15137,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Attunement</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14861,6 +15156,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Growing Ferocity Improvement</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14879,6 +15175,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Primordial Strike</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14897,6 +15194,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Damaging Ferocity</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14915,6 +15213,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14933,6 +15232,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -14951,6 +15251,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>fury</class>
       <feature_type>trait</feature_type>
@@ -15092,6 +15393,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Studied Commander</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15214,6 +15516,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Kit Signature Ability</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15232,6 +15535,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Field Arsenal</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15435,6 +15739,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Focus Outside of Combat</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15457,6 +15762,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Focus in Combat</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15507,6 +15813,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Tactical Doctrine</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15529,6 +15836,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Strike Now</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15554,6 +15862,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Commanding Presence</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15572,6 +15881,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Covert Operations</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15591,6 +15901,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Bait and Ambush</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15709,6 +16020,7 @@
     </effects>
   </ability>
   <ability>
+    <name>See Your Enemies Driven Before You</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15758,6 +16070,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15776,6 +16089,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Pincer Movement</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -15965,6 +16279,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Master of Arms</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16020,6 +16335,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16038,6 +16354,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16056,6 +16373,7 @@
     </effects>
   </ability>
   <ability>
+    <name>True Focus</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16074,6 +16392,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Command</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16094,6 +16413,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16112,6 +16432,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16130,6 +16451,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Warmaster</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16187,6 +16509,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Tactical Offensive</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16205,6 +16528,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Anticipation</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16223,6 +16547,7 @@
     </effects>
   </ability>
   <ability>
+    <name>I Predicted That</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16241,6 +16566,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Shake It Off</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16259,6 +16585,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Distracted</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16277,6 +16604,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Leave No Trace</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16500,6 +16828,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Goaded</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16518,6 +16847,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Infiltration Tactics</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16627,6 +16957,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16645,6 +16976,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Melee Superiority</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16754,6 +17086,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Out of Position</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16870,6 +17203,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Grandmaster of Arms</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -16988,6 +17322,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Heightened Focus</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17006,6 +17341,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Shock and Awe</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17024,6 +17360,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Seize the Initiative</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17042,6 +17379,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Asymmetric Warfare</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17060,6 +17398,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17078,6 +17417,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17096,6 +17436,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Grand Strategy</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17114,6 +17455,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Improved Field Arsenal</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17132,6 +17474,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Focus on Their Weaknesses</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17150,6 +17493,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17168,6 +17512,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17186,6 +17531,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>tactician</class>
       <feature_type>trait</feature_type>
@@ -17267,6 +17613,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Drama Outside of Combat</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -17476,6 +17823,7 @@
     </effects>
   </ability>
   <ability>
+    <name>&quot;Ballad of the Beast&quot;</name>
     <flavor>Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪</flavor>
     <keywords>
       <keyword>Area</keyword>
@@ -17703,6 +18051,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Drama in Combat</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -17899,6 +18248,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Troubadour Class Act</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -17956,6 +18306,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Kit</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -17974,6 +18325,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Scene Partner</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18097,6 +18449,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Troubadour Abilities</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18270,6 +18623,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Masterwork</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18289,6 +18643,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Deleted Scene</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18307,6 +18662,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18555,6 +18911,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18609,6 +18966,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Applause</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18629,6 +18987,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Dramaturgy</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18647,6 +19006,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18665,6 +19025,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18683,6 +19044,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -18701,6 +19063,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Greatest of All Time</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19056,6 +19419,7 @@
     </effects>
   </ability>
   <ability>
+    <name>My Reputation Precedes Me</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19144,6 +19508,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Appeal to the Muses</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19166,6 +19531,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19214,6 +19580,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Formal Introductions</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19233,6 +19600,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Allow Me to Introduce Tonight&apos;s Players</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19283,6 +19651,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Missed Cue</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19378,6 +19747,7 @@
     </effects>
   </ability>
   <ability>
+    <name>&quot;Never-Ending Hero&quot;</name>
     <flavor>And toniiight we can truly say ♪ They will alllways find a way!♪</flavor>
     <keywords>
       <keyword>Area</keyword>
@@ -19405,6 +19775,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Foil</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19590,6 +19961,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Roar of the Crowd</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19762,6 +20134,7 @@
     </effects>
   </ability>
   <ability>
+    <name>A Muse&apos;s Muse</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19780,6 +20153,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19798,6 +20172,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19816,6 +20191,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Equal Billing</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19835,6 +20211,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Foreshadowing</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19853,6 +20230,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Latest Goss</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19871,6 +20249,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19889,6 +20268,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Hear Ye, Hear Ye!</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19910,6 +20290,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Melodrama</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19934,6 +20315,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -19952,6 +20334,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>troubadour</class>
       <feature_type>trait</feature_type>
@@ -20039,6 +20422,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Insight Outside of Combat</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -20219,6 +20603,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Insight in Combat</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -20379,6 +20764,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Smoke Bomb</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -20564,6 +20950,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Kit</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -20810,6 +21197,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Parkour</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -20828,6 +21216,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -20883,6 +21272,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Cinder Step</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21076,6 +21466,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Umbral Form</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21131,6 +21522,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21149,6 +21541,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Improved Umbral Form</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21168,6 +21561,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Careful Observation Improvement</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21186,6 +21580,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21204,6 +21599,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Subterfuge</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21224,6 +21620,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Death Pool</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21242,6 +21639,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21260,6 +21658,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21278,6 +21677,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Trail of Cinders</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21444,6 +21844,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Volatile Reagents</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21463,6 +21864,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Harlequin Gambit</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21555,6 +21957,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Burning Ash</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21604,6 +22007,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Trained Assassin</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21660,6 +22064,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -21678,6 +22083,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Friend!</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22017,6 +22423,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Gloom Squad</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22151,6 +22558,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Keen Insight</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22169,6 +22577,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Careful Observation Improvement</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22187,6 +22596,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22205,6 +22615,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ventriloquist</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22223,6 +22634,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22269,6 +22681,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Surge of Insight</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22288,6 +22701,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Keep It Down</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22306,6 +22720,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22324,6 +22739,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22342,6 +22758,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22388,6 +22805,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Vanishing Ward</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22441,6 +22859,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Telepathic Speech</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22459,6 +22878,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Talent Tradition</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22555,6 +22975,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Force Augmentation</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22573,6 +22994,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Repulsive Ward</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22652,6 +23074,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Clarity Outside of Combat</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22744,6 +23167,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Battle Augmentation</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22763,6 +23187,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Density Augmentation</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -22781,6 +23206,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Steel Ward</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23084,6 +23510,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Distance Augmentation</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23173,6 +23600,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Speed Augmentation</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23299,6 +23727,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Entropy Ward</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23317,6 +23746,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Mindlink</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23363,6 +23793,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Universal Connection</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23490,6 +23921,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Doubling the Hours</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23579,6 +24011,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23597,6 +24030,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Low Gravity</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -23615,6 +24049,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Magnified Power</name>
+    <cost>5 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>5 Clarity</cost>
@@ -23754,6 +24190,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Shared Power</name>
+    <cost>5 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>5 Clarity</cost>
@@ -23815,6 +24253,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Dynamic Power</name>
+    <cost>1 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>1 Clarity</cost>
@@ -23875,6 +24315,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Sharpened Power</name>
+    <cost>1 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>1 Clarity</cost>
@@ -23936,6 +24378,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Heightened Power</name>
+    <cost>1 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>1 Clarity</cost>
@@ -23957,6 +24401,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Expanded Power</name>
+    <cost>3 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>3 Clarity</cost>
@@ -23978,6 +24424,8 @@
     </effects>
   </ability>
   <ability>
+    <name>Extended Power</name>
+    <cost>1 Clarity</cost>
     <metadata>
       <class>talent</class>
       <cost>1 Clarity</cost>
@@ -23999,6 +24447,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24017,6 +24466,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Psion</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24036,6 +24486,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Clear Mind</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24054,6 +24505,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Omnisensory</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24072,6 +24524,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24090,6 +24543,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24108,6 +24562,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24126,6 +24581,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Vision</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24146,6 +24602,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Speed of Thought</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24164,6 +24621,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Kinetic Amplifier</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24262,6 +24720,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Remote Amplification</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24280,6 +24739,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Compulsion</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24338,6 +24798,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Triangulate</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24356,6 +24817,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Distortion Temporal</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24446,6 +24908,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ease the Hours</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24620,6 +25083,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ease Their Fall</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24638,6 +25102,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24694,6 +25159,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ease the Mind</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24752,6 +25218,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Scan</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -24955,6 +25422,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Fortress of Perfect Thought</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25134,6 +25602,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Lucid Mind</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25152,6 +25621,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25170,6 +25640,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Cascading Strain</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25188,6 +25659,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25206,6 +25678,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Ancestral Memory</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25224,6 +25697,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Mind Projection</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25243,6 +25717,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Skill</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25261,6 +25736,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Perk</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25279,6 +25755,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Characteristic Increase</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25297,6 +25774,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Mind Recovery</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>
@@ -25316,6 +25794,7 @@
     </effects>
   </ability>
   <ability>
+    <name>Suspensor Field</name>
     <metadata>
       <class>talent</class>
       <feature_type>trait</feature_type>

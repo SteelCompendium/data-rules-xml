@@ -1,4 +1,5 @@
 <ability>
+  <name>The Lists of Heaven</name>
   <metadata>
     <class>conduit</class>
     <feature_type>trait</feature_type>

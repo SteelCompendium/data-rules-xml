@@ -1,4 +1,5 @@
 <ability>
+  <name>Manifold Resonance</name>
   <metadata>
     <class>null</class>
     <feature_type>trait</feature_type>

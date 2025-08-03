@@ -1,4 +1,5 @@
 <ability>
+  <name>The Mountain Does Not Move</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

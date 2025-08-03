@@ -1,4 +1,5 @@
 <ability>
+  <name>Chimeric Manifestation</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

@@ -1,4 +1,5 @@
 <ability>
+  <name>Psionic Martial Arts</name>
   <metadata>
     <class>null</class>
     <feature_type>trait</feature_type>

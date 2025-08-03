@@ -1,4 +1,5 @@
 <ability>
+  <name>Essence Outside of Combat</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

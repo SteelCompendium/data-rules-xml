@@ -1,4 +1,5 @@
 <ability>
+  <name>Master of Void</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

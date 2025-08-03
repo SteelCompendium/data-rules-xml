@@ -1,4 +1,5 @@
 <ability>
+  <name>1st-Level Specialization Feature</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

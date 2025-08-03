@@ -1,4 +1,5 @@
 <ability>
+  <name>Covert Operations</name>
   <metadata>
     <class>tactician</class>
     <feature_type>trait</feature_type>

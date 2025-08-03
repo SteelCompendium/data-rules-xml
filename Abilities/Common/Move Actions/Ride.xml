@@ -1,4 +1,5 @@
 <ability>
+  <name>Ride</name>
   <metadata>
     <class>combat</class>
     <file_dpath>Abilities/Common/Move Actions</file_dpath>

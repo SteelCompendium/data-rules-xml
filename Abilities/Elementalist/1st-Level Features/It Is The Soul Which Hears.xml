@@ -1,4 +1,5 @@
 <ability>
+  <name>It Is the Soul Which Hears</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

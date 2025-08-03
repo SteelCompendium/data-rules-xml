@@ -1,4 +1,5 @@
 <ability>
+  <name>Drama Outside of Combat</name>
   <metadata>
     <class>troubadour</class>
     <feature_type>trait</feature_type>

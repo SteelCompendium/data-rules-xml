@@ -1,4 +1,5 @@
 <ability>
+  <name>Word of Fate Denied</name>
   <metadata>
     <class>censor</class>
     <feature_type>trait</feature_type>

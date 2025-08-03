@@ -1,4 +1,6 @@
 <ability>
+  <name>Shared Power</name>
+  <cost>5 Discipline</cost>
   <metadata>
     <class>null</class>
     <cost>5 Discipline</cost>

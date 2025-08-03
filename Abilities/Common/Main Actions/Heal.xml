@@ -1,4 +1,5 @@
 <ability>
+  <name>Heal</name>
   <metadata>
     <class>combat</class>
     <file_dpath>Abilities/Common/Main Actions</file_dpath>

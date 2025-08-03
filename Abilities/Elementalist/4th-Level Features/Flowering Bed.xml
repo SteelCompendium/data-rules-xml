@@ -1,4 +1,5 @@
 <ability>
+  <name>Flowering Bed</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

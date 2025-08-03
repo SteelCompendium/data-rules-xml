@@ -1,4 +1,5 @@
 <ability>
+  <name>Hide</name>
   <metadata>
     <class>combat</class>
     <file_dpath>Abilities/Common/Maneuvers</file_dpath>
