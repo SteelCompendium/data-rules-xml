@@ -12,6 +12,7 @@
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>
+    <file_basename>Night Watch</file_basename>
     <file_dpath>Shadow/4th-Level Features</file_dpath>
     <item_id>night-watch</item_id>
     <item_index>06</item_index>

@@ -15,13 +15,14 @@
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Divine Comedy</file_basename>
     <file_dpath>Conduit/2nd-Level Features</file_dpath>
     <item_id>divine-comedy-5-piety</item_id>
-    <item_index>05</item_index>
+    <item_index>06</item_index>
     <item_name>Divine Comedy (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:divine-comedy-5-piety</scc>
-    <scdc>1.1.1:13.2.8.5:05</scdc>
+    <scdc>1.1.1:13.2.8.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

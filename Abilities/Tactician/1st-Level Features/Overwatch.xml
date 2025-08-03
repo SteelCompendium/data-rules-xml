@@ -11,6 +11,7 @@
   <metadata>
     <class>tactician</class>
     <feature_type>trait</feature_type>
+    <file_basename>Overwatch</file_basename>
     <file_dpath>Tactician/1st-Level Features</file_dpath>
     <item_id>overwatch</item_id>
     <item_index>10</item_index>

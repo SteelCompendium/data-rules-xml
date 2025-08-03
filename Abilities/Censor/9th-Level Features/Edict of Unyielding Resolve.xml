@@ -1,0 +1,32 @@
+<ability>
+  <name>Edict of Unyielding Resolve</name>
+  <cost>11 Wrath</cost>
+  <flavor>You and your allies are clad in shimmering armor.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Magic</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>2 aura</distance>
+  <target>Self and each ally in the area</target>
+  <metadata>
+    <class>censor</class>
+    <cost>11 Wrath</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Wrath</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>Edict of Unyielding Resolve</file_basename>
+    <file_dpath>Censor/9th-Level Features</file_dpath>
+    <item_id>edict-of-unyielding-resolve-11-wrath</item_id>
+    <item_index>04</item_index>
+    <item_name>Edict of Unyielding Resolve (11 Wrath)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.censor.9th-level-feature:edict-of-unyielding-resolve-11-wrath</scc>
+    <scdc>1.1.1:13.2.7.7:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/censor/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Until the end of the encounter or until you are dying, each target who starts their turn in the area gains 10 temporary Stamina.</effect>
+  </effects>
+</ability>

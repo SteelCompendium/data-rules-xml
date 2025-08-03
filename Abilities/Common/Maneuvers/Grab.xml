@@ -2,6 +2,7 @@
   <name>Grab</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Grab</file_basename>
     <file_dpath>Abilities/Common/Maneuvers</file_dpath>
     <item_id>grab</item_id>
     <item_index>10</item_index>

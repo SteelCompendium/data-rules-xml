@@ -2,6 +2,7 @@
   <name>Ride</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Ride</file_basename>
     <file_dpath>Abilities/Common/Move Actions</file_dpath>
     <item_id>ride</item_id>
     <item_index>03</item_index>

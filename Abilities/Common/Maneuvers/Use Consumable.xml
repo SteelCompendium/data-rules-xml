@@ -2,6 +2,7 @@
   <name>Use Consumable</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Use Consumable</file_basename>
     <file_dpath>Abilities/Common/Maneuvers</file_dpath>
     <item_id>use-consumable</item_id>
     <item_index>07</item_index>

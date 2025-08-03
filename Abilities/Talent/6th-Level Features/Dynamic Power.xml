@@ -7,6 +7,7 @@
     <cost_amount>1</cost_amount>
     <cost_resource>Clarity</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Dynamic Power</file_basename>
     <file_dpath>Talent/6th-Level Features</file_dpath>
     <item_id>dynamic-power-1-clarity</item_id>
     <item_index>10</item_index>

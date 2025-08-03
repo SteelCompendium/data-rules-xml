@@ -1,0 +1,47 @@
+<ability>
+  <name>In a Puff of Smoke</name>
+  <cost>5 Insight</cost>
+  <flavor>You enchant a strike with your teleportation magic.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1 or ranged 5</distance>
+  <target>One creature</target>
+  <trigger>You use your In All This Confusion ability.</trigger>
+  <metadata>
+    <class>shadow</class>
+    <cost>5 Insight</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>In a Puff of Smoke</file_basename>
+    <file_dpath>Shadow/2nd-Level Features</file_dpath>
+    <item_id>in-a-puff-of-smoke-5-insight</item_id>
+    <item_index>02</item_index>
+    <item_name>In a Puff of Smoke (5 Insight)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-smoke-5-insight</scc>
+    <scdc>1.1.1:13.2.2.5:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>6 + A damage; you can teleport the target 1 square</t1>
+      <t2>10 + A damage; you can teleport the target up to 3 squares</t2>
+      <t3>14 + A damage; you can teleport the target up to 5 squares</t3>
+    </effect>
+    <effect type="mundane">###### Too Slow (5 Insight)
+*Your foe made a big mistake.*
+| **-**                  | **Free triggered** |
+| ---------------------- | -----------------: |
+| **📏 Self; see below** |        **🎯 Self** |</effect>
+    <effect type="mundane">You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</effect>
+  </effects>
+</ability>

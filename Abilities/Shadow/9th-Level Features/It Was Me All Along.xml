@@ -16,6 +16,7 @@
     <cost_amount>11</cost_amount>
     <cost_resource>Insight</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>It Was Me All Along</file_basename>
     <file_dpath>Shadow/9th-Level Features</file_dpath>
     <item_id>it-was-me-all-along-11-insight</item_id>
     <item_index>03</item_index>

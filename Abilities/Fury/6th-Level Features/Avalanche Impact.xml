@@ -14,13 +14,14 @@
     <cost_amount>9</cost_amount>
     <cost_resource>Ferocity</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Avalanche Impact</file_basename>
     <file_dpath>Fury/6th-Level Features</file_dpath>
     <item_id>avalanche-impact-9-ferocity</item_id>
-    <item_index>05</item_index>
+    <item_index>04</item_index>
     <item_name>Avalanche Impact (9 Ferocity)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.6th-level-feature:avalanche-impact-9-ferocity</scc>
-    <scdc>1.1.1:13.2.5.3:05</scdc>
+    <scdc>1.1.1:13.2.5.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>

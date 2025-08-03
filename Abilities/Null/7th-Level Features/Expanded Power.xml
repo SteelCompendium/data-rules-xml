@@ -7,6 +7,7 @@
     <cost_amount>3</cost_amount>
     <cost_resource>Discipline</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Expanded Power</file_basename>
     <file_dpath>Null/7th-Level Features</file_dpath>
     <item_id>expanded-power-3-discipline</item_id>
     <item_index>01</item_index>

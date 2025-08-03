@@ -2,6 +2,7 @@
   <name>Heal</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Heal</file_basename>
     <file_dpath>Abilities/Common/Main Actions</file_dpath>
     <item_id>heal</item_id>
     <item_index>02</item_index>

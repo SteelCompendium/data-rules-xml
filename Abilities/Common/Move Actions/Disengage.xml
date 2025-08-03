@@ -2,6 +2,7 @@
   <name>Disengage</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Disengage</file_basename>
     <file_dpath>Abilities/Common/Move Actions</file_dpath>
     <item_id>disengage</item_id>
     <item_index>01</item_index>

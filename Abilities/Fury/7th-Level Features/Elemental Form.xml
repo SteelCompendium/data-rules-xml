@@ -3,6 +3,7 @@
   <metadata>
     <class>fury</class>
     <feature_type>trait</feature_type>
+    <file_basename>Elemental Form</file_basename>
     <file_dpath>Fury/7th-Level Features</file_dpath>
     <item_id>elemental-form</item_id>
     <item_index>01</item_index>

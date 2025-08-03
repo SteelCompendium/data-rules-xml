@@ -11,6 +11,7 @@
   <metadata>
     <class>talent</class>
     <feature_type>trait</feature_type>
+    <file_basename>Levitation Field</file_basename>
     <file_dpath>Talent/8th-Level Features</file_dpath>
     <item_id>levitation-field</item_id>
     <item_index>04</item_index>

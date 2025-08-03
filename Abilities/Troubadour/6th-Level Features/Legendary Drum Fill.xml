@@ -15,6 +15,7 @@
     <cost_amount>9</cost_amount>
     <cost_resource>Drama</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Legendary Drum Fill</file_basename>
     <file_dpath>Troubadour/6th-Level Features</file_dpath>
     <item_id>legendary-drum-fill-9-drama</item_id>
     <item_index>03</item_index>

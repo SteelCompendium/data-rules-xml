@@ -10,6 +10,7 @@
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>
+    <file_basename>Black Ash Teleport</file_basename>
     <file_dpath>Shadow/1st-Level Features</file_dpath>
     <item_id>black-ash-teleport</item_id>
     <item_index>13</item_index>

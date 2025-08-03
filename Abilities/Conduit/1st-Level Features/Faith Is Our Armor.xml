@@ -15,13 +15,14 @@
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Faith Is Our Armor</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
     <item_id>faith-is-our-armor-5-piety</item_id>
-    <item_index>01</item_index>
+    <item_index>02</item_index>
     <item_name>Faith Is Our Armor (5 Piety)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:faith-is-our-armor-5-piety</scc>
-    <scdc>1.1.1:13.2.8.1:01</scdc>
+    <scdc>1.1.1:13.2.8.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>

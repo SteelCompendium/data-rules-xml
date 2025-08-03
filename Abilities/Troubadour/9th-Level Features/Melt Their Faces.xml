@@ -17,6 +17,7 @@
     <cost_amount>11</cost_amount>
     <cost_resource>Drama</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Melt Their Faces</file_basename>
     <file_dpath>Troubadour/9th-Level Features</file_dpath>
     <item_id>melt-their-faces-11-drama</item_id>
     <item_index>04</item_index>

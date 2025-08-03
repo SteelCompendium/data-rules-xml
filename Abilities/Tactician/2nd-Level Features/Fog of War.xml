@@ -1,0 +1,32 @@
+<ability>
+  <name>Fog of War</name>
+  <cost>5 Focus</cost>
+  <flavor>Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.</flavor>
+  <keywords>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>Ranged 10</distance>
+  <target>Two creatures</target>
+  <metadata>
+    <class>tactician</class>
+    <cost>5 Focus</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Focus</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>Fog of War</file_basename>
+    <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <item_id>fog-of-war-5-focus</item_id>
+    <item_index>05</item_index>
+    <item_name>Fog of War (5 Focus)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war-5-focus</scc>
+    <scdc>1.1.1:13.2.4.5:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/tactician/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.</effect>
+    <effect type="mundane" name="Mark Benefit">Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to force that target to make a free strike against a creature of your choice within 5 squares of them.</effect>
+  </effects>
+</ability>

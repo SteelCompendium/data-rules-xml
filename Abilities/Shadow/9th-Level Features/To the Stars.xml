@@ -1,0 +1,39 @@
+<ability>
+  <name>To the Stars</name>
+  <cost>11 Insight</cost>
+  <flavor>You attach your most potent explosive to your foe. Under less pressing</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1 or ranged 10</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>shadow</class>
+    <cost>11 Insight</cost>
+    <cost_amount>11</cost_amount>
+    <cost_resource>Insight</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>To the Stars</file_basename>
+    <file_dpath>Shadow/9th-Level Features</file_dpath>
+    <item_id>to-the-stars-11-insight</item_id>
+    <item_index>05</item_index>
+    <item_name>To the Stars (11 Insight)</item_name>
+    <level>9</level>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:to-the-stars-11-insight</scc>
+    <scdc>1.1.1:13.2.2.7:05</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/shadow/9th-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>4 + A fire damage; vertical push 8</t1>
+      <t2>7 + A fire damage; vertical push 10</t2>
+      <t3>11 + A fire damage; vertical push 15</t3>
+    </effect>
+    <effect type="mundane">The ground beneath a 3-cube area around the target&apos;s starting position is difficult terrain.</effect>
+  </effects>
+</ability>

@@ -1,0 +1,39 @@
+<ability>
+  <name>Behold a Shield of Faith!</name>
+  <cost>3 Wrath</cost>
+  <flavor>A mighty blow turns your foe&apos;s vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main Action</type>
+  <distance>Melee 1</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <class>censor</class>
+    <cost>3 Wrath</cost>
+    <cost_amount>3</cost_amount>
+    <cost_resource>Wrath</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>Behold a Shield of Faith</file_basename>
+    <file_dpath>Censor/1st-Level Features</file_dpath>
+    <item_id>behold-a-shield-of-faith-3-wrath</item_id>
+    <item_index>04</item_index>
+    <item_name>Behold a Shield of Faith! (3 Wrath)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-a-shield-of-faith-3-wrath</scc>
+    <scdc>1.1.1:13.2.7.1:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/censor/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might</roll>
+      <t1>3 + M holy damage</t1>
+      <t2>6 + M holy damage</t2>
+      <t3>9 + M holy damage</t3>
+    </effect>
+    <effect type="mundane">Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.</effect>
+  </effects>
+</ability>

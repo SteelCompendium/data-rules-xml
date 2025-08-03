@@ -1,0 +1,20 @@
+<ability>
+  <name>Out of Position</name>
+  <metadata>
+    <class>tactician</class>
+    <feature_type>trait</feature_type>
+    <file_basename>Out of Position</file_basename>
+    <file_dpath>Tactician/3rd-Level Features</file_dpath>
+    <item_id>out-of-position</item_id>
+    <item_index>01</item_index>
+    <item_name>Out of Position</item_name>
+    <level>3</level>
+    <scc>mcdm.heroes.v1:feature.trait.tactician.3rd-level-feature:out-of-position</scc>
+    <scdc>1.1.1:13.1.4.7:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/tactician/3rd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Even before battle begins, your enemies struggle to keep up with your tactics. At the start of an encounter, you can use a free triggered action to use your Mark ability against one enemy you have line of effect to, even if you are surprised. You can then slide the marked target up to 3 squares, ignoring stability. The target can&apos;t be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</effect>
+  </effects>
+</ability>

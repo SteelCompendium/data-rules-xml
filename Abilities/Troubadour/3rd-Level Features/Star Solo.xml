@@ -18,13 +18,14 @@
     <cost_amount>7</cost_amount>
     <cost_resource>Drama</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Star Solo</file_basename>
     <file_dpath>Troubadour/3rd-Level Features</file_dpath>
     <item_id>star-solo-7-drama</item_id>
-    <item_index>02</item_index>
+    <item_index>01</item_index>
     <item_name>Star Solo (7 Drama)</item_name>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:star-solo-7-drama</scc>
-    <scdc>1.1.1:13.2.3.6:02</scdc>
+    <scdc>1.1.1:13.2.3.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/3rd-level-feature</type>
   </metadata>

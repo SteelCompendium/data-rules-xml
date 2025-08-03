@@ -2,12 +2,13 @@
   <name>Stand Up</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Stand Up</file_basename>
     <file_dpath>Abilities/Common/Maneuvers</file_dpath>
     <item_id>stand-up</item_id>
-    <item_index>04</item_index>
+    <item_index>03</item_index>
     <item_name>Stand Up</item_name>
     <scc>mcdm.heroes.v1:common\_ability.maneuver:stand-up</scc>
-    <scdc>1.1.1:14.3:04</scdc>
+    <scdc>1.1.1:14.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common\_ability/maneuver</type>
   </metadata>

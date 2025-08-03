@@ -3,13 +3,14 @@
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>
+    <file_basename>Harlequin Gambit</file_basename>
     <file_dpath>Shadow/5th-Level Features</file_dpath>
     <item_id>harlequin-gambit</item_id>
-    <item_index>02</item_index>
+    <item_index>01</item_index>
     <item_name>Harlequin Gambit</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit</scc>
-    <scdc>1.1.1:13.1.2.5:02</scdc>
+    <scdc>1.1.1:13.1.2.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/shadow/5th-level-feature</type>
   </metadata>

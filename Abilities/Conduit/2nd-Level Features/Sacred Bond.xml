@@ -15,13 +15,14 @@
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Sacred Bond</file_basename>
     <file_dpath>Conduit/2nd-Level Features</file_dpath>
     <item_id>sacred-bond-5-piety</item_id>
-    <item_index>03</item_index>
+    <item_index>05</item_index>
     <item_name>Sacred Bond (5 Piety)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:sacred-bond-5-piety</scc>
-    <scdc>1.1.1:13.2.8.5:03</scdc>
+    <scdc>1.1.1:13.2.8.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>

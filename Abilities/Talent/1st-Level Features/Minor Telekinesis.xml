@@ -11,6 +11,7 @@
   <metadata>
     <class>talent</class>
     <feature_type>trait</feature_type>
+    <file_basename>Minor Telekinesis</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
     <item_id>minor-telekinesis</item_id>
     <item_index>03</item_index>

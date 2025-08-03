@@ -17,13 +17,14 @@
     <cost_amount>11</cost_amount>
     <cost_resource>Clarity</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Resonant Mind Spike</file_basename>
     <file_dpath>Talent/9th-Level Features</file_dpath>
     <item_id>resonant-mind-spike-11-clarity</item_id>
-    <item_index>05</item_index>
+    <item_index>06</item_index>
     <item_name>Resonant Mind Spike (11 Clarity)</item_name>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.9th-level-feature:resonant-mind-spike-11-clarity</scc>
-    <scdc>1.1.1:13.2.1.7:05</scdc>
+    <scdc>1.1.1:13.2.1.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>

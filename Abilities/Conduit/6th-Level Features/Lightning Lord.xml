@@ -15,13 +15,14 @@
     <cost_amount>9</cost_amount>
     <cost_resource>Piety</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Lightning Lord</file_basename>
     <file_dpath>Conduit/6th-Level Features</file_dpath>
     <item_id>lightning-lord-9-piety</item_id>
-    <item_index>02</item_index>
+    <item_index>03</item_index>
     <item_name>Lightning Lord (9 Piety)</item_name>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:lightning-lord-9-piety</scc>
-    <scdc>1.1.1:13.2.8.3:02</scdc>
+    <scdc>1.1.1:13.2.8.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>

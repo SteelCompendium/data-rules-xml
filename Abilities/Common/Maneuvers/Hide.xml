@@ -2,6 +2,7 @@
   <name>Hide</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Hide</file_basename>
     <file_dpath>Abilities/Common/Maneuvers</file_dpath>
     <item_id>hide</item_id>
     <item_index>9</item_index>

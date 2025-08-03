@@ -3,13 +3,14 @@
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
+    <file_basename>Essential Being</file_basename>
     <file_dpath>Elementalist/10th-Level Features</file_dpath>
     <item_id>essential-being</item_id>
-    <item_index>03</item_index>
+    <item_index>05</item_index>
     <item_name>Essential Being</item_name>
     <level>10</level>
     <scc>mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:essential-being</scc>
-    <scdc>1.1.1:13.1.9.4:03</scdc>
+    <scdc>1.1.1:13.1.9.4:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/10th-level-feature</type>
   </metadata>

@@ -2,6 +2,7 @@
   <name>Charge</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Charge</file_basename>
     <file_dpath>Abilities/Common/Main Actions</file_dpath>
     <item_id>charge</item_id>
     <item_index>03</item_index>

@@ -2,6 +2,7 @@
   <name>Advance</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Advance</file_basename>
     <file_dpath>Abilities/Common/Move Actions</file_dpath>
     <item_id>advance</item_id>
     <item_index>02</item_index>

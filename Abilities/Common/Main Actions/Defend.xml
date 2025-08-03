@@ -2,6 +2,7 @@
   <name>Defend</name>
   <metadata>
     <class>combat</class>
+    <file_basename>Defend</file_basename>
     <file_dpath>Abilities/Common/Main Actions</file_dpath>
     <item_id>defend</item_id>
     <item_index>01</item_index>

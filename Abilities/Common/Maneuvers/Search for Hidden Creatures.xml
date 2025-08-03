@@ -1,0 +1,18 @@
+<ability>
+  <name>Search for Hidden Creatures</name>
+  <metadata>
+    <class>combat</class>
+    <file_basename>Search for Hidden Creatures</file_basename>
+    <file_dpath>Abilities/Common/Maneuvers</file_dpath>
+    <item_id>search-for-hidden-creatures</item_id>
+    <item_index>04</item_index>
+    <item_name>Search for Hidden Creatures</item_name>
+    <scc>mcdm.heroes.v1:common\_ability.maneuver:search-for-hidden-creatures</scc>
+    <scdc>1.1.1:14.3:04</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>common\_ability/maneuver</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: Tests).</effect>
+  </effects>
+</ability>

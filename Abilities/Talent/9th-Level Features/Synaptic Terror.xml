@@ -16,6 +16,7 @@
     <cost_amount>11</cost_amount>
     <cost_resource>Clarity</cost_resource>
     <feature_type>ability</feature_type>
+    <file_basename>Synaptic Terror</file_basename>
     <file_dpath>Talent/9th-Level Features</file_dpath>
     <item_id>synaptic-terror-11-clarity</item_id>
     <item_index>01</item_index>

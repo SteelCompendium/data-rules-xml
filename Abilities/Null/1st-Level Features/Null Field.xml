@@ -11,13 +11,14 @@
   <metadata>
     <class>null</class>
     <feature_type>trait</feature_type>
+    <file_basename>Null Field</file_basename>
     <file_dpath>Null/1st-Level Features</file_dpath>
     <item_id>null-field</item_id>
-    <item_index>9</item_index>
+    <item_index>10</item_index>
     <item_name>Null Field</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-field</scc>
-    <scdc>1.1.1:13.1.6.1:09</scdc>
+    <scdc>1.1.1:13.1.6.1:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/null/1st-level-feature</type>
   </metadata>

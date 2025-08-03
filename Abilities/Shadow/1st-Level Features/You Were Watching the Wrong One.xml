@@ -1,0 +1,35 @@
+<ability>
+  <name>You Were Watching the Wrong One</name>
+  <flavor>They can&apos;t watch both of you at once.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>shadow</class>
+    <feature_type>trait</feature_type>
+    <file_basename>You Were Watching the Wrong One</file_basename>
+    <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <item_id>you-were-watching-the-wrong-one</item_id>
+    <item_index>11</item_index>
+    <item_name>You Were Watching the Wrong One</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:you-were-watching-the-wrong-one</scc>
+    <scdc>1.1.1:13.1.2.1:11</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/shadow/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility</roll>
+      <t1>3 + A damage</t1>
+      <t2>5 + A damage</t2>
+      <t3>8 + A damage</t3>
+    </effect>
+    <effect type="mundane">As long as you have one or more allies within 5 squares of the target, you gain 1 surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gains 1 surge.</effect>
+  </effects>
+</ability>
