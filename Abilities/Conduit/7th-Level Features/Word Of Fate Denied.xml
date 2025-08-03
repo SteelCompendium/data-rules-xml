@@ -4,11 +4,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Conduit/7th-Level Features</file_dpath>
     <item_id>word-of-fate-denied</item_id>
-    <item_index>13</item_index>
+    <item_index>11</item_index>
     <item_name>Word of Fate Denied</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-fate-denied</scc>
-    <scdc>1.1.1:13.1.8.9:13</scdc>
+    <scdc>1.1.1:13.1.8.9:11</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/7th-level-feature</type>
   </metadata>

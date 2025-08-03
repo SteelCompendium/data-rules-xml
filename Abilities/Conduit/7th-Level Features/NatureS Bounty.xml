@@ -4,11 +4,11 @@
     <feature_type>trait</feature_type>
     <file_dpath>Conduit/7th-Level Features</file_dpath>
     <item_id>natures-bounty</item_id>
-    <item_index>16</item_index>
+    <item_index>14</item_index>
     <item_name>Nature&apos;s Bounty</item_name>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:natures-bounty</scc>
-    <scdc>1.1.1:13.1.8.9:16</scdc>
+    <scdc>1.1.1:13.1.8.9:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/7th-level-feature</type>
   </metadata>
