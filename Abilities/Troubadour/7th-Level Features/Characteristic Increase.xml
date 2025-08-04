@@ -15,6 +15,6 @@
     <type>feature/trait/troubadour/7th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Your Agility and Presence scores each increase to 5.</effect>
+    <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
   </effects>
 </ability>

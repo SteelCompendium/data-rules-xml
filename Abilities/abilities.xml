@@ -1694,7 +1694,7 @@
       <type>feature/trait/elementalist/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -3008,7 +3008,7 @@
       <type>feature/trait/elementalist/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Reason score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -3088,7 +3088,7 @@
       <type>feature/trait/elementalist/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -3148,7 +3148,7 @@
       <type>feature/trait/elementalist/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -3168,7 +3168,7 @@
       <type>feature/trait/elementalist/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Reason score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
+      <effect type="mundane">Your Reason score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -4662,104 +4662,6 @@
     </effects>
   </ability>
   <ability>
-    <name>5th-Level Domain Feature</name>
-    <metadata>
-      <class>conduit</class>
-      <feature_type>trait</feature_type>
-      <file_basename>5th Level Domain Feature</file_basename>
-      <file_dpath>Conduit/8th-Level Features</file_dpath>
-      <item_id>8th-level-domain-feature</item_id>
-      <item_index>05</item_index>
-      <item_name>8th-Level Domain Feature</item_name>
-      <level>8</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:8th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.2:05</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/8th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">You gain the 4th-level domain feature for the domain whose feature you didn&apos;t select at that level (see 4th-Level Domain Feature).</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>7th-Level Domain Feature</name>
-    <metadata>
-      <class>conduit</class>
-      <feature_type>trait</feature_type>
-      <file_basename>7th Level Domain Feature</file_basename>
-      <file_dpath>Conduit/8th-Level Features</file_dpath>
-      <item_id>8th-level-domain-feature</item_id>
-      <item_index>04</item_index>
-      <item_name>8th-Level Domain Feature</item_name>
-      <level>8</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:8th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.2:04</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/8th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.
-  ###### 7th-Level Conduit Domain Features Table
-  | Domain     | Feature                      |
-  | ---------- | ---------------------------- |
-  | Creation   | Divine Quartermaster         |
-  | Death      | Word of Death Deferred       |
-  | Fate       | Word of Fate Denied          |
-  | Knowledge  | Gods&apos; Library                |
-  | Life       | Font of Grace                |
-  | Love       | Covenant of the Heart        |
-  | Nature     | Nature&apos;s Bounty              |
-  | Protection | Blessing of Iron             |
-  | Storm      | Thunderstruck                |
-  | Sun        | Light of the Burning Sun     |
-  | Trickery   | Trinity of Trickery          |
-  | War        | Your Triumphs are Remembered |
-  ##### Blessing of Iron
-  The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.
-  ##### Covenant of the Heart
-  You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
-  ###### Guided to Your Side
-  *You concentrate on a friend and teleport to them.*
-  | **Magic, Ranged** |           **Main action** |
-  | ----------------- | ------------------------: |
-  | **📏 Ranged 10**  | **🎯 Self and each ally** |</effect>
-      <effect type="mundane">Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&apos;t need line of effect to the bonded creature but you must be on the same world.
-  ##### Divine Quartermaster
-  Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.
-  ##### Font of Grace
-  Each time you use your Healing Grace ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don&apos;t use this piety, it is lost. Additionally, you can use your Minor Miracle feature to return a creature to life even if you don&apos;t have their remains.
-  ##### Gods&apos; Library
-  You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: Downtime Projects). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don&apos;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
-  ##### Light of the Burning Sun
-  Sun infuses your body. Whenever you use an ability to deal rolled damage to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.
-  ##### Nature&apos;s Bounty
-  When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
-  - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.
-  - Each creature gains 20 temporary Stamina.
-  - Each creature gains a +1 bonus to speed.
-  - Each creature gains a +1 bonus to saving throws.
-  - Each creature gains an edge on tests made to influence other creatures.
-  Each benefit lasts until the creature who gains it finishes another respite.
-  ##### Thunderstruck
-  Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 surge. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Intuition score.
-  ##### Trinity of Trickery
-  You have the following ability.
-  ###### Trinity of Trickery (9 Piety)
-  *Hey! I&apos;m over here. No, here, numbskull.*
-  | **Magic, Ranged** |            **Maneuver** |
-  | ----------------- | ----------------------: |
-  | **📏 Ranged 10**  | **🎯 Self or one ally** |</effect>
-      <effect type="mundane">You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
-  ##### Word of Death Deferred
-  You can stop death from taking your allies. When an ally within distance of your Healing Grace ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
-  Additionally, your abilities deal an extra 5 damage to winded creatures.
-  ##### Word of Fate Denied
-  When an ally within 10 squares takes damage that would leave them dying, you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&apos;t be reduced in any way.
-  ##### Your Triumphs Are Remembered
-  The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a respite, you and any other heroes who rested with you regain 1 Victory after your Victories are converted to XP. This Victory isn&apos;t converted into XP at the end of a subsequent respite.</effect>
-    </effects>
-  </ability>
-  <ability>
     <name>8th-Level Domain Feature</name>
     <metadata>
       <class>conduit</class>
@@ -4767,11 +4669,11 @@
       <file_basename>8th Level Domain Feature</file_basename>
       <file_dpath>Conduit/8th-Level Features</file_dpath>
       <item_id>8th-level-domain-feature</item_id>
-      <item_index>02</item_index>
+      <item_index>01</item_index>
       <item_name>8th-Level Domain Feature</item_name>
       <level>8</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:8th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.2:02</scdc>
+      <scdc>1.1.1:13.1.8.2:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/8th-level-feature</type>
     </metadata>
@@ -4851,82 +4753,16 @@
       <file_basename>Perk</file_basename>
       <file_dpath>Conduit/8th-Level Features</file_dpath>
       <item_id>perk</item_id>
-      <item_index>03</item_index>
+      <item_index>02</item_index>
       <item_name>Perk</item_name>
       <level>8</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:perk</scc>
-      <scdc>1.1.1:13.1.8.2:03</scdc>
+      <scdc>1.1.1:13.1.8.2:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>4th-Level Domain Feature</name>
-    <metadata>
-      <class>conduit</class>
-      <feature_type>trait</feature_type>
-      <file_basename>4th Level Domain Feature</file_basename>
-      <file_dpath>Conduit/8th-Level Features</file_dpath>
-      <item_id>8th-level-domain-feature</item_id>
-      <item_index>01</item_index>
-      <item_name>8th-Level Domain Feature</item_name>
-      <level>8</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:8th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.2:01</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/8th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
-  ###### 4th-Level Conduit Domain Features Table
-  | Domain     | Feature                     |
-  | ---------- | --------------------------- |
-  | Creation   | Improved Hands of the Maker |
-  | Death      | Seance                      |
-  | Fate       | Oracular Warning            |
-  | Knowledge  | Saint&apos;s Epiphany            |
-  | Life       | Blessing of Life            |
-  | Love       | Invocation of the Heart     |
-  | Nature     | Wode Road                   |
-  | Protection | Impervious Touch            |
-  | Storm      | Windwalk                    |
-  | Sun        | Light of Revelation         |
-  | Trickery   | Blessing of Secrets         |
-  | War        | Improved Sanctified Weapon  |
-  ###### Blessing of Life
-  Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.
-  ###### Blessing of Secrets
-  You have the following ability.
-  ###### Blessing of Secrets
-  *You project an illusory aura that makes you and allies harder to notice.*
-  | **Magic**     |                          **Maneuver** |
-  | ------------- | ------------------------------------: |
-  | **📏 3 aura** | **🎯 Self and each ally in the area** |</effect>
-      <effect type="mundane">Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-  ###### Impervious Touch
-  As a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Intuition score, and you can end the spell on any object at any time (no action required).
-  Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&apos;s approval) that is of a size larger than your Intuition score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your Intuition score simultaneously.
-  ###### Improved Hands of the Maker
-  When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.
-  ###### Improved Sanctified Weapon
-  The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
-  ###### Invocation of the Heart
-  As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).
-  ###### Light of Revelation
-  As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&apos;t hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
-  ###### Oracular Warning
-  Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish a respite.
-  ###### Seance
-  You can commune with a network of spirits. As a respite activity, you speak the name of a creature who died and isn&apos;t undead. If the creature&apos;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&apos;t free or willing to appear, you can speak another name or choose another respite activity.
-  ###### Saint&apos;s Epiphany
-  At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Intuition score to the roll.
-  ###### Windwalk
-  While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
-  ###### Wode Road
-  As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -5561,11 +5397,11 @@
       <file_basename>5th Level Domain Feature</file_basename>
       <file_dpath>Conduit/5th-Level Features</file_dpath>
       <item_id>5th-level-domain-feature</item_id>
-      <item_index>04</item_index>
+      <item_index>01</item_index>
       <item_name>5th-Level Domain Feature</item_name>
       <level>5</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.5th-level-feature:5th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.5:04</scdc>
+      <scdc>1.1.1:13.1.8.5:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/5th-level-feature</type>
     </metadata>
@@ -5603,104 +5439,6 @@
     </metadata>
     <effects>
       <effect type="mundane">The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>7th-Level Domain Feature</name>
-    <metadata>
-      <class>conduit</class>
-      <feature_type>trait</feature_type>
-      <file_basename>7th Level Domain Feature</file_basename>
-      <file_dpath>Conduit/5th-Level Features</file_dpath>
-      <item_id>5th-level-domain-feature</item_id>
-      <item_index>03</item_index>
-      <item_name>5th-Level Domain Feature</item_name>
-      <level>5</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.5th-level-feature:5th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.5:03</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/5th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Choose one of your domains. You gain a domain feature for that domain, as shown on the 7th-Level Conduit Domain Features table.
-  ###### 7th-Level Conduit Domain Features Table
-  | Domain     | Feature                      |
-  | ---------- | ---------------------------- |
-  | Creation   | Divine Quartermaster         |
-  | Death      | Word of Death Deferred       |
-  | Fate       | Word of Fate Denied          |
-  | Knowledge  | Gods&apos; Library                |
-  | Life       | Font of Grace                |
-  | Love       | Covenant of the Heart        |
-  | Nature     | Nature&apos;s Bounty              |
-  | Protection | Blessing of Iron             |
-  | Storm      | Thunderstruck                |
-  | Sun        | Light of the Burning Sun     |
-  | Trickery   | Trinity of Trickery          |
-  | War        | Your Triumphs are Remembered |
-  ##### Blessing of Iron
-  The gods send divine favor to you and your allies. While you are not dying, enemies take a bane on strikes against you or any ally within 3 squares of you.
-  ##### Covenant of the Heart
-  You can maintain bonds with up to three willing creatures using your Invocation of the Heart feature. Additionally, you have the following ability.
-  ###### Guided to Your Side
-  *You concentrate on a friend and teleport to them.*
-  | **Magic, Ranged** |           **Main action** |
-  | ----------------- | ------------------------: |
-  | **📏 Ranged 10**  | **🎯 Self and each ally** |</effect>
-      <effect type="mundane">Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&apos;t need line of effect to the bonded creature but you must be on the same world.
-  ##### Divine Quartermaster
-  Each time you finish a respite, you can choose a treasure with a project goal equal to 50 times your level or less. You gain a divine version of this treasure that lasts until you finish another respite or it is consumed.
-  ##### Font of Grace
-  Each time you use your Healing Grace ability, you gain 1 piety that can be spent only on that ability during the same turn. If you don&apos;t use this piety, it is lost. Additionally, you can use your Minor Miracle feature to return a creature to life even if you don&apos;t have their remains.
-  ##### Gods&apos; Library
-  You can gain access to information you need through prayer, so that you no longer require research materials for crafting and research projects (see Chapter 12: Downtime Projects). Additionally, you add your level to project rolls you make for crafting and research projects. You also have any skills in the lore skill group you don&apos;t already have, and you gain a number of skills from any other skill groups equal to the number of skills you had in the lore skill group before you gained this feature.
-  ##### Light of the Burning Sun
-  Sun infuses your body. Whenever you use an ability to deal rolled damage to another creature, that ability deals an extra 5 fire damage, or an extra 15 fire damage if the creature is undead. Additionally, you have fire immunity equal to your level, which is added to any other fire immunity you have.
-  ##### Nature&apos;s Bounty
-  When you finish a respite, you can prepare a magic meal using local flora for any companions who rested with you. Choose two of the following benefits for creatures who consume the meal:
-  - Each creature gains immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your level. You can choose this benefit twice, choosing a different damage immunity each time.
-  - Each creature gains 20 temporary Stamina.
-  - Each creature gains a +1 bonus to speed.
-  - Each creature gains a +1 bonus to saving throws.
-  - Each creature gains an edge on tests made to influence other creatures.
-  Each benefit lasts until the creature who gains it finishes another respite.
-  ##### Thunderstruck
-  Lightning and thunder infuse your body. Whenever you use an ability to deal lightning or sonic damage to another creature, you gain 1 surge. Additionally, if you use an ability that force moves a creature, the forced movement distance gains a bonus equal to your Intuition score.
-  ##### Trinity of Trickery
-  You have the following ability.
-  ###### Trinity of Trickery (9 Piety)
-  *Hey! I&apos;m over here. No, here, numbskull.*
-  | **Magic, Ranged** |            **Maneuver** |
-  | ----------------- | ----------------------: |
-  | **📏 Ranged 10**  | **🎯 Self or one ally** |</effect>
-      <effect type="mundane">You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.
-  ##### Word of Death Deferred
-  You can stop death from taking your allies. When an ally within distance of your Healing Grace ability dies and you are not dying, you can use a free triggered action to instead have that ally fall unconscious until they regain Stamina.
-  Additionally, your abilities deal an extra 5 damage to winded creatures.
-  ##### Word of Fate Denied
-  When an ally within 10 squares takes damage that would leave them dying, you can use a free triggered action to make yourself or another willing creature within 10 squares of you the target of the triggering damage instead. The creature you choose takes the damage and suffers any effects associated with it, and that damage can&apos;t be reduced in any way.
-  ##### Your Triumphs Are Remembered
-  The gods allow you and your companions to bask in the glory of past successes. Whenever you finish a respite, you and any other heroes who rested with you regain 1 Victory after your Victories are converted to XP. This Victory isn&apos;t converted into XP at the end of a subsequent respite.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>8th-Level Domain Feature</name>
-    <metadata>
-      <class>conduit</class>
-      <feature_type>trait</feature_type>
-      <file_basename>8th Level Domain Feature</file_basename>
-      <file_dpath>Conduit/5th-Level Features</file_dpath>
-      <item_id>5th-level-domain-feature</item_id>
-      <item_index>02</item_index>
-      <item_name>5th-Level Domain Feature</item_name>
-      <level>5</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.5th-level-feature:5th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.5:02</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/5th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">You gain the 7th-level domain feature for the domain whose feature you didn&apos;t select at that level (see 7th-Level Domain Feature).</effect>
     </effects>
   </ability>
   <ability>
@@ -5810,72 +5548,6 @@
         <t2>7 corruption damage; I &lt; AVERAGE, prone and can&apos;t stand (save ends)</t2>
         <t3>11 corruption damage; I &lt; STRONG, prone and can&apos;t stand (save ends)</t3>
       </effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>4th-Level Domain Feature</name>
-    <metadata>
-      <class>conduit</class>
-      <feature_type>trait</feature_type>
-      <file_basename>4th Level Domain Feature</file_basename>
-      <file_dpath>Conduit/5th-Level Features</file_dpath>
-      <item_id>5th-level-domain-feature</item_id>
-      <item_index>01</item_index>
-      <item_name>5th-Level Domain Feature</item_name>
-      <level>5</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.5th-level-feature:5th-level-domain-feature</scc>
-      <scdc>1.1.1:13.1.8.5:01</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/5th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Choose one of your domains. You gain a domain feature for that domain, as shown on the 4th-Level Conduit Domain Features table.
-  ###### 4th-Level Conduit Domain Features Table
-  | Domain     | Feature                     |
-  | ---------- | --------------------------- |
-  | Creation   | Improved Hands of the Maker |
-  | Death      | Seance                      |
-  | Fate       | Oracular Warning            |
-  | Knowledge  | Saint&apos;s Epiphany            |
-  | Life       | Blessing of Life            |
-  | Love       | Invocation of the Heart     |
-  | Nature     | Wode Road                   |
-  | Protection | Impervious Touch            |
-  | Storm      | Windwalk                    |
-  | Sun        | Light of Revelation         |
-  | Trickery   | Blessing of Secrets         |
-  | War        | Improved Sanctified Weapon  |
-  ###### Blessing of Life
-  Your divine presence causes those you deem worthy to recover quickly from a fight. Whenever an ally within distance of your Healing Grace ability regains Stamina, they regain additional Stamina equal to your Intuition score.
-  ###### Blessing of Secrets
-  You have the following ability.
-  ###### Blessing of Secrets
-  *You project an illusory aura that makes you and allies harder to notice.*
-  | **Magic**     |                          **Maneuver** |
-  | ------------- | ------------------------------------: |
-  | **📏 3 aura** | **🎯 Self and each ally in the area** |</effect>
-      <effect type="mundane">Each creature in the area has a double edge on tests made to hide or sneak. The aura lasts until you end it (no action required) or until a target harms or deals damage to a creature or object.
-  ###### Impervious Touch
-  As a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object has immunity all to untyped damage. You can maintain this spell on a number of objects equal to your Intuition score, and you can end the spell on any object at any time (no action required).
-  Additionally, you can place this spell on a building or vehicle (or a similar structure with the Director&apos;s approval) that is of a size larger than your Intuition score. You can place the spell on only one such target at a time, and you can maintain the spell on a larger target and a number of objects equal to your Intuition score simultaneously.
-  ###### Improved Hands of the Maker
-  When you use your Hands of the Maker ability, you can create a mundane object that is size 2 or smaller.
-  ###### Improved Sanctified Weapon
-  The weapon improved by your Sanctified Weapon feature grants a +3 bonus to rolled damage instead of +1.
-  ###### Invocation of the Heart
-  As a main action, you forge a bond of love and friendship with a willing creature you touch. While this bond is active, you can telepathically speak with the creature over any distance, including across different worlds. Additionally, while this bond is active, you can attempt to assist the creature with any test they make regardless of their proximity to you. You can maintain only one bond at a time, and you can end a bond at any time (no action required).
-  ###### Light of Revelation
-  As a maneuver, you make your body shine brightly, illuminating your space and each square within 5 squares. This light shines through any darkness. Hidden creatures in the area are automatically revealed, and creatures in the light, including you, can&apos;t hide. While this feature is active, you gain an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions.
-  ###### Oracular Warning
-  Each time you finish a respite, you can share the vague dreams of the future granted to you by the gods with allies who finished the respite with you. These premonitions help you and your allies stay alive, granting each of you temporary Stamina equal to 10 + your level that lasts until you finish a respite.
-  ###### Seance
-  You can commune with a network of spirits. As a respite activity, you speak the name of a creature who died and isn&apos;t undead. If the creature&apos;s spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn&apos;t free or willing to appear, you can speak another name or choose another respite activity.
-  ###### Saint&apos;s Epiphany
-  At the start of a respite, you can inspire yourself or another creature taking the same respite with divine knowledge. If the target makes a project roll during this respite, they can add 1d10 plus your Intuition score to the roll.
-  ###### Windwalk
-  While you have 5 or more Victories, you can fly. If you can already fly, you have a +2 bonus to speed while flying instead.
-  ###### Wode Road
-  As a main action, you touch a living tree and make it part of a divine transportation network. You can maintain a number of trees in your network equal to your Intuition score. Whenever you touch any tree in your network, you can use a main action to teleport yourself and any willing creatures within 10 squares of you to a tree in your network on the same world. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including across different worlds (no action required).</effect>
     </effects>
   </ability>
   <ability>
@@ -7250,7 +6922,7 @@
       <type>feature/trait/conduit/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Intuition score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -7497,7 +7169,7 @@
       <type>feature/trait/conduit/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -7537,7 +7209,7 @@
       <type>feature/trait/conduit/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -7577,7 +7249,7 @@
       <type>feature/trait/conduit/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Intuition score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
+      <effect type="mundane">Your Intuition score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -8730,7 +8402,7 @@
       <type>feature/trait/censor/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -8969,7 +8641,7 @@
       <type>feature/trait/censor/6th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -10398,7 +10070,7 @@
       <type>feature/trait/censor/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Might and Presence scores each increase to 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -10626,7 +10298,7 @@
       <type>feature/trait/censor/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See [Skills](#page-268-0) in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -10666,7 +10338,7 @@
       <type>feature/trait/censor/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -10686,7 +10358,7 @@
       <type>feature/trait/censor/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Might and Presence scores each increase to 5.</effect>
+      <effect type="mundane">Your Might and Presence scores each increase to 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -11756,7 +11428,7 @@
       <type>feature/trait/null/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one exploration, interpersonal, or intrigue perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -12906,7 +12578,7 @@
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Discipline Mastery feature provides additional benefits when you have 12 or more discipline.</effect>
+      <effect type="mundane">Your Discipline Mastery feature provides additional benefits when you have 10 or more discipline.</effect>
     </effects>
   </ability>
   <ability>
@@ -13134,7 +12806,7 @@
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Agility and Intuition scores each increase to 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -13154,7 +12826,7 @@
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Discipline Mastery feature provides additional benefits when you have 12 or more discipline.</effect>
+      <effect type="mundane">Your Discipline Mastery feature provides additional benefits when you have 8 or more discipline.</effect>
     </effects>
   </ability>
   <ability>
@@ -13165,11 +12837,11 @@
       <file_basename>Enhanced Null Field</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>enhanced-null-field</item_id>
-      <item_index>11</item_index>
+      <item_index>10</item_index>
       <item_name>Enhanced Null Field</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:enhanced-null-field</scc>
-      <scdc>1.1.1:13.1.6.9:11</scdc>
+      <scdc>1.1.1:13.1.6.9:10</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -13387,38 +13059,6 @@
     </effects>
   </ability>
   <ability>
-    <name>8th-Level Tradition Feature</name>
-    <metadata>
-      <class>null</class>
-      <feature_type>trait</feature_type>
-      <file_basename>8th Level Tradition Feature</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <item_id>5th-level-tradition-feature</item_id>
-      <item_index>10</item_index>
-      <item_name>5th-Level Tradition Feature</item_name>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:5th-level-tradition-feature</scc>
-      <scdc>1.1.1:13.1.6.9:10</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Your null tradition grants you a feature, as shown on the 8th-Level Tradition Features table.
-  ###### 8th-Level Tradition Features Table
-  | Tradition     | Feature           |
-  | ------------- | ----------------- |
-  | Chronokinetic | Shared Momentum   |
-  | Cryokinetic   | Synaptic Triage   |
-  | Metakinetic   | Inertial Dampener |
-  ##### Inertial Dampener
-  You and each creature or object of your choice in the area of your Null Field ability gain a bonus to stability equal to your Intuition score. A creature who attempts to force move a target with this bonus takes psychic damage equal to your Intuition score.
-  ##### Shared Momentum
-  When you take the Disengage move action, one ally in the area of your Null Field ability can also take the Disengage move action as a free triggered action, using your distance for that move action.
-  ##### Synaptic Triage
-  As a free maneuver, you can spend 1d6 Stamina to remove one effect on you. Each creature of your choice in the area of your Null Field ability also gains this benefit.</effect>
-    </effects>
-  </ability>
-  <ability>
     <name>Instant Action</name>
     <metadata>
       <class>null</class>
@@ -13455,7 +13095,8 @@
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.
+  As a 5th-level null, you gain the following features.</effect>
     </effects>
   </ability>
   <ability>
@@ -13475,7 +13116,7 @@
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one exploration, interpersonal, or intrigue perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -13495,7 +13136,7 @@
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Agility and Intuition scores each increase to 5.</effect>
+      <effect type="mundane">Your Agility and Intuition scores each increase to 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -14454,7 +14095,7 @@
       <type>feature/trait/fury/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, exploration, or intrigue perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -15686,7 +15327,7 @@
       <type>feature/trait/fury/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Growing Ferocity feature provides additional benefits when you have 12 or more ferocity.</effect>
+      <effect type="mundane">Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.</effect>
     </effects>
   </ability>
   <ability>
@@ -15746,7 +15387,7 @@
       <type>feature/trait/fury/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Might and Agility scores each increase to 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -15786,7 +15427,7 @@
       <type>feature/trait/fury/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Growing Ferocity feature provides additional benefits when you have 12 or more ferocity.</effect>
+      <effect type="mundane">Your Growing Ferocity feature provides additional benefits when you have 8 or more ferocity.</effect>
     </effects>
   </ability>
   <ability>
@@ -15846,7 +15487,7 @@
       <type>feature/trait/fury/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -15866,7 +15507,7 @@
       <type>feature/trait/fury/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, exploration, or intrigue perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -15886,7 +15527,7 @@
       <type>feature/trait/fury/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Might and Agility scores each increase to 5.</effect>
+      <effect type="mundane">Your Might and Agility scores each increase to 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -16678,7 +16319,7 @@
       <type>feature/trait/tactician/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one exploration, interpersonal, or intrigue perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -18088,7 +17729,7 @@
       <type>feature/trait/tactician/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Might and Reason scores each increase to 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -18188,7 +17829,7 @@
       <type>feature/trait/tactician/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -18208,7 +17849,7 @@
       <type>feature/trait/tactician/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one exploration, interpersonal, or intrigue perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -18228,7 +17869,7 @@
       <type>feature/trait/tactician/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Might and Reason scores each increase to 5.</effect>
+      <effect type="mundane">Your Might and Reason scores each increase to 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -19397,7 +19038,7 @@
       <type>feature/trait/troubadour/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -20962,7 +20603,7 @@
       <type>feature/trait/troubadour/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Agility and Presence scores each increase to 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -21066,7 +20707,7 @@
       <type>feature/trait/troubadour/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -21112,7 +20753,7 @@
       <type>feature/trait/troubadour/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -21132,7 +20773,7 @@
       <type>feature/trait/troubadour/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Agility and Presence scores each increase to 5.</effect>
+      <effect type="mundane">Your Agility and Presence scores each increase to 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -23455,7 +23096,7 @@
       <type>feature/trait/shadow/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You can target three creatures simultaneously with your Careful Observation ability.</effect>
+      <effect type="mundane">You can target two creatures simultaneously with your Careful Observation ability, observing both simultaneously. Making a strike against one target doesn&apos;t end your observation of the other target.</effect>
     </effects>
   </ability>
   <ability>
@@ -23515,7 +23156,7 @@
       <type>feature/trait/shadow/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -23605,7 +23246,7 @@
       <type>feature/trait/shadow/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -23645,7 +23286,7 @@
       <type>feature/trait/shadow/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.</effect>
+      <effect type="mundane">Your Agility score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.</effect>
     </effects>
   </ability>
   <ability>
@@ -24942,7 +24583,7 @@
       <type>feature/trait/talent/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -26650,7 +26291,7 @@
       <type>feature/trait/talent/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Reason and Presence scores each increase to 5.</effect>
+      <effect type="mundane">Each of your characteristic scores increases by 1, to a maximum of 4.</effect>
     </effects>
   </ability>
   <ability>
@@ -26711,7 +26352,7 @@
       <type>feature/trait/talent/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -26731,7 +26372,7 @@
       <type>feature/trait/talent/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one interpersonal, lore, or supernatural perk of your choice.</effect>
+      <effect type="mundane">You gain one perk of your choice.</effect>
     </effects>
   </ability>
   <ability>
@@ -26751,7 +26392,7 @@
       <type>feature/trait/talent/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Your Reason and Presence scores each increase to 5.</effect>
+      <effect type="mundane">Your Reason and Presence scores each increase to 3.</effect>
     </effects>
   </ability>
   <ability>

@@ -15,6 +15,6 @@
     <type>feature/trait/fury/4th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Your Might and Agility scores each increase to 5.</effect>
+    <effect type="mundane">Your Might and Agility scores each increase to 3.</effect>
   </effects>
 </ability>

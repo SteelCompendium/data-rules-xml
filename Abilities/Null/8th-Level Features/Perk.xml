@@ -15,6 +15,6 @@
     <type>feature/trait/null/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain one exploration, interpersonal, or intrigue perk of your choice.</effect>
+    <effect type="mundane">You gain one perk of your choice.</effect>
   </effects>
 </ability>

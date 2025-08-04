@@ -15,6 +15,6 @@
     <type>feature/trait/null/7th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Your Discipline Mastery feature provides additional benefits when you have 12 or more discipline.</effect>
+    <effect type="mundane">Your Discipline Mastery feature provides additional benefits when you have 10 or more discipline.</effect>
   </effects>
 </ability>

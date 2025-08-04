@@ -15,6 +15,7 @@
     <type>feature/trait/null/4th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain one skill of your choice.</effect>
+    <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.
+As a 5th-level null, you gain the following features.</effect>
   </effects>
 </ability>
