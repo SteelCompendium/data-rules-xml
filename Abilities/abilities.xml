@@ -1520,27 +1520,23 @@
   Presence&lt;/td&gt;
   &lt;/tr&gt;
   &lt;/tbody&gt;
-  &lt;/table&gt;
-  &gt; **Earthwalk**
-  &gt;
-  &gt; Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.
-  &gt; **Tunneler**
-  &gt;
-  &gt; When the source burrows, they create a size 2 tunnel.
-  &gt; **Earth Harness**
-  &gt;
-  &gt; A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
-  &gt; **Boulder Bash**
-  &gt;
-  &gt; | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
-  &gt; | --------------------------------- | ----------------------------: |
-  &gt; | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
-  &gt;
-  &gt; **2d10 + 3:**
-  &gt;
-  &gt; - **≤11:** 5 damage; push 3
-  &gt; - **12-16:** 9 damage; push 4
-  &gt; - **17+:** 12 damage; push 5</effect>
+  &lt;/table&gt;</effect>
+      <effect type="mundane">**Earthwalk**
+  Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.</effect>
+      <effect type="mundane">**Tunneler**
+  When the source burrows, they create a size 2 tunnel.</effect>
+      <effect type="mundane">**Earth Harness**
+  A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.</effect>
+      <effect type="mundane">**Boulder Bash**
+  | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
+  | --------------------------------- | ----------------------------: |
+  | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |</effect>
+      <effect type="roll">
+        <roll>2d10 + 3</roll>
+        <t1>5 damage; push 3</t1>
+        <t2>9 damage; push 4</t2>
+        <t3>12 damage; push 5</t3>
+      </effect>
     </effects>
   </ability>
   <ability>
@@ -16135,10 +16131,9 @@
     </metadata>
     <effects>
       <effect type="mundane">Though you can&apos;t gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can&apos;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
-  When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren&apos;t part of the core rules for the tactician, but they might appear in future products.)
-  &gt; **Tactician Abilities Explained**
-  &gt;
-  &gt; Many of the tactician&apos;s abilities grant allies extra movement, damage, and actions. But what&apos;s happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician&apos;s abilities are the actual commands they give their friends!</effect>
+  When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren&apos;t part of the core rules for the tactician, but they might appear in future products.)</effect>
+      <effect type="mundane">**Tactician Abilities Explained**
+  Many of the tactician&apos;s abilities grant allies extra movement, damage, and actions. But what&apos;s happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician&apos;s abilities are the actual commands they give their friends!</effect>
     </effects>
   </ability>
   <ability>
@@ -18685,16 +18680,12 @@
     </metadata>
     <effects>
       <effect type="mundane">Though you can&apos;t gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can&apos;t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.
-  When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
-  &gt; **The Auteur Troubadour**
-  &gt;
-  &gt; Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they&apos;re narratively different from shooting rays of fire or swinging a sword.
-  &gt;
-  &gt; This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
-  &gt;
-  &gt; When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What *actually* happened is a matter of some debate. Even the people who were there don&apos;t agree on exactly what took place. How people *remember* it is what&apos;s important!
-  &gt;
-  &gt; This is pretty weird, but also very fun. If it&apos;s too weird for you or your table, you could always interpret those abilities as a kind of magic. A school of conjuring that really does change the battlefield, which the auteur merely *flavors* as rewriting the story.</effect>
+  When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.</effect>
+      <effect type="mundane">**The Auteur Troubadour**
+  Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they&apos;re narratively different from shooting rays of fire or swinging a sword.
+  This is because, uniquely among all the subclasses in *Draw Steel*, the auteur knows that the combat encounter playing out at your table is really a story being told sometime later, probably in a tavern.
+  When the auteur uses these abilities, they are changing that story. They rewrite stories to make them more dramatic in the telling. What *actually* happened is a matter of some debate. Even the people who were there don&apos;t agree on exactly what took place. How people *remember* it is what&apos;s important!
+  This is pretty weird, but also very fun. If it&apos;s too weird for you or your table, you could always interpret those abilities as a kind of magic. A school of conjuring that really does change the battlefield, which the auteur merely *flavors* as rewriting the story.</effect>
     </effects>
   </ability>
   <ability>
