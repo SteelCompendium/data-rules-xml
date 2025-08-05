@@ -1520,23 +1520,27 @@
   Presence&lt;/td&gt;
   &lt;/tr&gt;
   &lt;/tbody&gt;
-  &lt;/table&gt;</effect>
-      <effect type="mundane">**Earthwalk**
-  Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.</effect>
-      <effect type="mundane">**Tunneler**
-  When the source burrows, they create a size 2 tunnel.</effect>
-      <effect type="mundane">**Earth Harness**
-  A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.</effect>
-      <effect type="mundane">**Boulder Bash**
-  | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
-  | --------------------------------- | ----------------------------: |
-  | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |</effect>
-      <effect type="roll">
-        <roll>2d10 + 3</roll>
-        <t1>5 damage; push 3</t1>
-        <t2>9 damage; push 4</t2>
-        <t3>12 damage; push 5</t3>
-      </effect>
+  &lt;/table&gt;
+  &gt; **Earthwalk**
+  &gt;
+  &gt; Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.
+  &gt; **Tunneler**
+  &gt;
+  &gt; When the source burrows, they create a size 2 tunnel.
+  &gt; **Earth Harness**
+  &gt;
+  &gt; A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
+  &gt; **Boulder Bash**
+  &gt;
+  &gt; | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
+  &gt; | --------------------------------- | ----------------------------: |
+  &gt; | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
+  &gt;
+  &gt; **2d10 + 3:**
+  &gt;
+  &gt; - **≤11:** 5 damage; push 3
+  &gt; - **12-16:** 9 damage; push 4
+  &gt; - **17+:** 12 damage; push 5</effect>
     </effects>
   </ability>
   <ability>
