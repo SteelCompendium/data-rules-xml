@@ -9,7 +9,7 @@
     <keyword>Telekinesis</keyword>
   </keywords>
   <type>Main action</type>
-  <distance>5 × 2 line within 1</distance>
+  <distance>5 x 2 line within 1</distance>
   <target>Each enemy in the area</target>
   <metadata>
     <class>talent</class>

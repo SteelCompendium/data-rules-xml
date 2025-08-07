@@ -35,18 +35,6 @@
       <t2>8 + R fire damage</t2>
       <t3>11 + R fire damage</t3>
     </effect>
-    <effect type="mundane" name="Persistent 1">If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
-###### Invigorating Growth (3 Essence)
-*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
-| **Green, Magic, Ranged, Strike** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Ranged 10**                 | **🎯 One creature** |</effect>
-    <effect type="roll">
-      <roll>Power Roll + Reason</roll>
-      <t1>4 + R poison damage</t1>
-      <t2>7 + R poison damage</t2>
-      <t3>11 + R poison damage</t3>
-    </effect>
-    <effect type="mundane">Mushrooms cover the target&apos;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</effect>
+    <effect type="mundane" name="Persistent 1">If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).</effect>
   </effects>
 </ability>

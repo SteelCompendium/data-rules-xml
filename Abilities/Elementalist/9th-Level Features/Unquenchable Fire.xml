@@ -33,7 +33,7 @@
       <roll>Power Roll + Reason</roll>
       <t1>13 + R fire damage; I &lt; WEAK, dazed (save ends)</t1>
       <t2>18 + R fire damage; I &lt; AVERAGE, dazed (save ends)</t2>
-      <t3>25 + Rfire damage; I &lt; STRONG, dazed (save ends)</t3>
+      <t3>25 + R fire damage; I &lt; STRONG, dazed (save ends)</t3>
     </effect>
     <effect type="mundane">This damage ignores immunity.</effect>
   </effects>

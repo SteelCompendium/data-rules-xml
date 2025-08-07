@@ -26,7 +26,7 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
-      <t1>3 + M damage\\</t1>
+      <t1>3 + M damage</t1>
       <t2>6 + M damage</t2>
       <t3>9 + M damage</t3>
     </effect>

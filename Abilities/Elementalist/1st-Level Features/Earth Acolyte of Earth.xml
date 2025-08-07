@@ -1,0 +1,20 @@
+<ability>
+  <name>Earth: Acolyte of Earth</name>
+  <metadata>
+    <class>elementalist</class>
+    <feature_type>trait</feature_type>
+    <file_basename>Earth Acolyte of Earth</file_basename>
+    <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <item_id>earth-acolyte-of-earth</item_id>
+    <item_index>33</item_index>
+    <item_name>Earth: Acolyte of Earth</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:earth-acolyte-of-earth</scc>
+    <scdc>1.1.1:13.1.9.1:33</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/trait/elementalist/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.</effect>
+  </effects>
+</ability>

@@ -8,7 +8,7 @@
     <keyword>Weapon</keyword>
   </keywords>
   <type>Main action</type>
-  <distance>5 × 1 line within 5</distance>
+  <distance>5 x 1 line within 5</distance>
   <target>Each enemy in the area</target>
   <metadata>
     <class>shadow</class>

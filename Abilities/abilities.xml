@@ -387,6 +387,26 @@
     </effects>
   </ability>
   <ability>
+    <name>Earth: Acolyte of Earth</name>
+    <metadata>
+      <class>elementalist</class>
+      <feature_type>trait</feature_type>
+      <file_basename>Earth Acolyte of Earth</file_basename>
+      <file_dpath>Elementalist/1st-Level Features</file_dpath>
+      <item_id>earth-acolyte-of-earth</item_id>
+      <item_index>33</item_index>
+      <item_name>Earth: Acolyte of Earth</item_name>
+      <level>1</level>
+      <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:earth-acolyte-of-earth</scc>
+      <scdc>1.1.1:13.1.9.1:33</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/trait/elementalist/1st-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.</effect>
+    </effects>
+  </ability>
+  <ability>
     <name>Enchantment of Distance</name>
     <metadata>
       <class>elementalist</class>
@@ -394,11 +414,11 @@
       <file_basename>Enchantment of Distance</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
       <item_id>enchantment-of-distance</item_id>
-      <item_index>34</item_index>
+      <item_index>35</item_index>
       <item_name>Enchantment of Distance</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-distance</scc>
-      <scdc>1.1.1:13.1.9.1:34</scdc>
+      <scdc>1.1.1:13.1.9.1:35</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/elementalist/1st-level-feature</type>
     </metadata>
@@ -712,11 +732,11 @@
       <file_basename>Breath of Dawn Remembered</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
       <item_id>breath-of-dawn-remembered</item_id>
-      <item_index>33</item_index>
+      <item_index>34</item_index>
       <item_name>Breath of Dawn Remembered</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:breath-of-dawn-remembered</scc>
-      <scdc>1.1.1:13.1.9.1:33</scdc>
+      <scdc>1.1.1:13.1.9.1:34</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/elementalist/1st-level-feature</type>
     </metadata>
@@ -837,19 +857,7 @@
         <t2>8 + R fire damage</t2>
         <t3>11 + R fire damage</t3>
       </effect>
-      <effect type="mundane" name="Persistent 1">If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
-  ###### Invigorating Growth (3 Essence)
-  *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
-  | **Green, Magic, Ranged, Strike** |     **Main action** |
-  | -------------------------------- | ------------------: |
-  | **📏 Ranged 10**                 | **🎯 One creature** |</effect>
-      <effect type="roll">
-        <roll>Power Roll + Reason</roll>
-        <t1>4 + R poison damage</t1>
-        <t2>7 + R poison damage</t2>
-        <t3>11 + R poison damage</t3>
-      </effect>
-      <effect type="mundane">Mushrooms cover the target&apos;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</effect>
+      <effect type="mundane" name="Persistent 1">If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).</effect>
     </effects>
   </ability>
   <ability>
@@ -915,6 +923,46 @@
     </metadata>
     <effects>
       <effect type="mundane" cost="Spend 1 Essence">The forced movement distance gains a bonus equal to twice your Reason score instead.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Invigorating Growth</name>
+    <cost>3 Essence</cost>
+    <flavor>Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.</flavor>
+    <keywords>
+      <keyword>Green</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 10</distance>
+    <target>One creature</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>3 Essence</cost>
+      <cost_amount>3</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Invigorating Growth</file_basename>
+      <file_dpath>Elementalist/1st-Level Features</file_dpath>
+      <item_id>invigorating-growth-3-essence</item_id>
+      <item_index>04</item_index>
+      <item_name>Invigorating Growth (3 Essence)</item_name>
+      <level>1</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:invigorating-growth-3-essence</scc>
+      <scdc>1.1.1:13.2.9.1:04</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/1st-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>4 + R poison damage</t1>
+        <t2>7 + R poison damage</t2>
+        <t3>11 + R poison damage</t3>
+      </effect>
+      <effect type="mundane">Mushrooms cover the target&apos;s body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.</effect>
     </effects>
   </ability>
   <ability>
@@ -1643,7 +1691,7 @@
         <t2>M &lt; AVERAGE, prone</t2>
         <t3>M &lt; STRONG, prone</t3>
       </effect>
-      <effect type="mundane">You create a fissure in the ground adjacent to you that is a 10 × 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.</effect>
+      <effect type="mundane">You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.</effect>
     </effects>
   </ability>
   <ability>
@@ -2406,17 +2454,6 @@
         <t2>5 fire damage</t2>
         <t3>8 fire damage</t3>
       </effect>
-      <effect type="mundane">###### Volcano&apos;s Embrace (5 Essence)
-  *Wrap them up in fire and melting stone.*
-  | **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
-  | -------------------------------------- | ------------------: |
-  | **📏 Ranged 10**                       | **🎯 One creature** |</effect>
-      <effect type="roll">
-        <roll>Power Roll + Reason</roll>
-        <t1>5 + R fire damage; A &lt; WEAK, restrained (save ends)</t1>
-        <t2>9 + R fire damage; A &lt; AVERAGE, restrained (save ends)</t2>
-        <t3>12 + R fire damage; A &lt; STRONG, restrained (save ends)</t3>
-      </effect>
     </effects>
   </ability>
   <ability>
@@ -2468,6 +2505,46 @@
     <effects>
       <effect type="mundane">Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target&apos;s fire immunity.
   At the start of a combat encounter, you gain a number of surges equal to your Victories. Whenever you spend a surge to deal extra damage, you can make that damage fire damage.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Volcano&apos;s Embrace</name>
+    <cost>5 Essence</cost>
+    <flavor>Wrap them up in fire and melting stone.</flavor>
+    <keywords>
+      <keyword>Earth</keyword>
+      <keyword>Fire</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 10</distance>
+    <target>One creature</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Volcanos Embrace</file_basename>
+      <file_dpath>Elementalist/2nd-Level Features</file_dpath>
+      <item_id>volcanos-embrace-5-essence</item_id>
+      <item_index>02</item_index>
+      <item_name>Volcano&apos;s Embrace (5 Essence)</item_name>
+      <level>2</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:volcanos-embrace-5-essence</scc>
+      <scdc>1.1.1:13.2.9.5:02</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/2nd-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>5 + R fire damage; A &lt; WEAK, restrained (save ends)</t1>
+        <t2>9 + R fire damage; A &lt; AVERAGE, restrained (save ends)</t2>
+        <t3>12 + R fire damage; A &lt; STRONG, restrained (save ends)</t3>
+      </effect>
     </effects>
   </ability>
   <ability>
@@ -2853,7 +2930,7 @@
         <roll>Power Roll + Reason</roll>
         <t1>13 + R fire damage; I &lt; WEAK, dazed (save ends)</t1>
         <t2>18 + R fire damage; I &lt; AVERAGE, dazed (save ends)</t2>
-        <t3>25 + Rfire damage; I &lt; STRONG, dazed (save ends)</t3>
+        <t3>25 + R fire damage; I &lt; STRONG, dazed (save ends)</t3>
       </effect>
       <effect type="mundane">This damage ignores immunity.</effect>
     </effects>
@@ -3383,7 +3460,7 @@
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">- \*\*Piety:\*\*You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+      <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
   - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.</effect>
     </effects>
   </ability>
@@ -4769,6 +4846,15 @@
   <ability>
     <name>Drag the Unworthy</name>
     <cost>11 Piety</cost>
+    <flavor>You conjure an angel who moves a foe and heals your allies.</flavor>
+    <keywords>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 10</distance>
+    <target>One creature or object</target>
     <metadata>
       <class>conduit</class>
       <cost>11 Piety</cost>
@@ -4787,10 +4873,6 @@
       <type>feature/ability/conduit/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You conjure an angel who moves a foe and heals your allies.\*
-  | **Magic, Ranged, Strike** |               **Main action** |
-  | ------------------------- | ----------------------------: |
-  | **📏 Ranged 10**          | **🎯 One creature or object** |</effect>
       <effect type="roll">
         <roll>Power Roll + Intuition</roll>
         <t1>9 + I holy damage; slide 3</t1>
@@ -5060,7 +5142,7 @@
       <keyword>Magic</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>Three 10 × 1 lines within 1</distance>
+    <distance>Three 10 x 1 lines within 1</distance>
     <target>Each enemy in the area</target>
     <metadata>
       <class>conduit</class>
@@ -5124,7 +5206,7 @@
   <ability>
     <name>Invocation of Mystery</name>
     <cost>9 Piety</cost>
-    <flavor>&quot;Now you see us …&quot;</flavor>
+    <flavor>&quot;Now you see us...&quot;</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
@@ -7726,11 +7808,11 @@
       <file_basename>Halt Miscreant</file_basename>
       <file_dpath>Censor/1st-Level Features</file_dpath>
       <item_id>halt-miscreant</item_id>
-      <item_index>22</item_index>
+      <item_index>21</item_index>
       <item_name>Halt Miscreant!</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:halt-miscreant</scc>
-      <scdc>1.1.1:13.1.7.1:22</scdc>
+      <scdc>1.1.1:13.1.7.1:21</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/censor/1st-level-feature</type>
     </metadata>
@@ -7874,11 +7956,11 @@
       <file_basename>Blessing of Compassion</file_basename>
       <file_dpath>Censor/1st-Level Features</file_dpath>
       <item_id>blessing-of-compassion</item_id>
-      <item_index>23</item_index>
+      <item_index>22</item_index>
       <item_name>Blessing of Compassion</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:blessing-of-compassion</scc>
-      <scdc>1.1.1:13.1.7.1:23</scdc>
+      <scdc>1.1.1:13.1.7.1:22</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/censor/1st-level-feature</type>
     </metadata>
@@ -7992,41 +8074,6 @@
       <effect type="mundane">At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
   Additionally, the first time each combat round that a creature judged by you (see [Judgment](#page-94-0) below) deals damage to you, you gain 1 wrath. The first time each combat round that you deal damage to a creature judged by you, you gain 1 wrath.
   You lose any remaining wrath at the end of the encounter.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Every Step … Death!</name>
-    <flavor>You show your foe a glimpse of their fate after death. Magic, Ranged, Strike Main action</flavor>
-    <keywords>
-      <keyword>Magic</keyword>
-      <keyword>Ranged</keyword>
-      <keyword>Strike</keyword>
-    </keywords>
-    <type>Main Action</type>
-    <distance>Ranged 10</distance>
-    <target>One creature</target>
-    <metadata>
-      <class>censor</class>
-      <feature_type>trait</feature_type>
-      <file_basename>Every Step Death</file_basename>
-      <file_dpath>Censor/1st-Level Features</file_dpath>
-      <item_id>every-step-death</item_id>
-      <item_index>21</item_index>
-      <item_name>Every Step … Death!</item_name>
-      <level>1</level>
-      <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:every-step-death</scc>
-      <scdc>1.1.1:13.1.7.1:21</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/censor/1st-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="roll">
-        <roll>Power Roll + Presence</roll>
-        <t1>5 + P psychic damage</t1>
-        <t2>7 + P psychic damage</t2>
-        <t3>10 + P psychic damage</t3>
-      </effect>
-      <effect type="mundane">Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.</effect>
     </effects>
   </ability>
   <ability>
@@ -9669,7 +9716,7 @@
       <type>feature/ability/censor/9th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on poºwer rolls.</effect>
+      <effect type="mundane">The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.</effect>
     </effects>
   </ability>
   <ability>
@@ -10598,7 +10645,7 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Agility</roll>
-        <t1>\\4 + A damage; push 2</t1>
+        <t1>4 + A damage; push 2</t1>
         <t2>6 + A damage; push 4</t2>
         <t3>8 + A damage; push 6</t3>
       </effect>
@@ -13267,7 +13314,7 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Might</roll>
-        <t1>3 + M damage\\</t1>
+        <t1>3 + M damage</t1>
         <t2>6 + M damage</t2>
         <t3>9 + M damage</t3>
       </effect>
@@ -14671,7 +14718,7 @@
   <ability>
     <name>To Stone!</name>
     <cost>9 Ferocity</cost>
-    <flavor>You channel the Primordial Chaos into blows that petrify your foe … literally.</flavor>
+    <flavor>You channel the Primordial Chaos into blows that petrify your foe... literally.</flavor>
     <keywords>
       <keyword>Magic</keyword>
       <keyword>Melee</keyword>
@@ -18098,7 +18145,7 @@
   </ability>
   <ability>
     <name>Blocking</name>
-    <flavor>No, no, no, you lose the audience that way. Try it like this …</flavor>
+    <flavor>No, no, no, you lose the audience that way. Try it like this...</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
@@ -18502,7 +18549,7 @@
   </ability>
   <ability>
     <name>Revitalizing Limerick</name>
-    <flavor>There once was a man from Capital ...</flavor>
+    <flavor>There once was a man from Capital...</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
@@ -19302,7 +19349,7 @@
   <ability>
     <name>You&apos;re All My Understudies</name>
     <cost>9 Drama</cost>
-    <flavor>It&apos;s important for everyone to know each other&apos;s lines, just in case …</flavor>
+    <flavor>It&apos;s important for everyone to know each other&apos;s lines, just in case...</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
@@ -19831,7 +19878,7 @@
   <ability>
     <name>Tough Crowd</name>
     <cost>5 Drama</cost>
-    <flavor>Your fans don&apos;t seem to like the opening act …</flavor>
+    <flavor>Your fans don&apos;t seem to like the opening act...</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
@@ -19974,7 +20021,7 @@
   <ability>
     <name>En Garde!</name>
     <cost>5 Drama</cost>
-    <flavor>Wait, it&apos;s … Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</flavor>
+    <flavor>Wait, it&apos;s... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</flavor>
     <keywords>
       <keyword>Melee</keyword>
       <keyword>Strike</keyword>
@@ -21695,7 +21742,7 @@
       <keyword>Weapon</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>5 × 1 line within 5</distance>
+    <distance>5 x 1 line within 5</distance>
     <target>Each enemy in the area</target>
     <metadata>
       <class>shadow</class>
@@ -22228,7 +22275,7 @@
       <keyword>Weapon</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>10 × 1 line within 1</distance>
+    <distance>10 x 1 line within 1</distance>
     <target>Each enemy in the area</target>
     <metadata>
       <class>shadow</class>
@@ -25212,7 +25259,7 @@
       <keyword>Telekinesis</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>5 × 2 line within 1</distance>
+    <distance>5 x 2 line within 1</distance>
     <target>Each enemy in the area</target>
     <metadata>
       <class>talent</class>

@@ -7,7 +7,7 @@
     <keyword>Magic</keyword>
   </keywords>
   <type>Main action</type>
-  <distance>Three 10 × 1 lines within 1</distance>
+  <distance>Three 10 x 1 lines within 1</distance>
   <target>Each enemy in the area</target>
   <metadata>
     <class>conduit</class>

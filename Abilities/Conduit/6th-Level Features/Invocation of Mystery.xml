@@ -1,7 +1,7 @@
 <ability>
   <name>Invocation of Mystery</name>
   <cost>9 Piety</cost>
-  <flavor>&quot;Now you see us …&quot;</flavor>
+  <flavor>&quot;Now you see us...&quot;</flavor>
   <keywords>
     <keyword>Area</keyword>
     <keyword>Magic</keyword>

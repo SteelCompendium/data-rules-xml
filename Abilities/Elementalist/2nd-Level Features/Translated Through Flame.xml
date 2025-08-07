@@ -36,16 +36,5 @@
       <t2>5 fire damage</t2>
       <t3>8 fire damage</t3>
     </effect>
-    <effect type="mundane">###### Volcano&apos;s Embrace (5 Essence)
-*Wrap them up in fire and melting stone.*
-| **Earth, Fire, Magic, Ranged, Strike** |     **Main action** |
-| -------------------------------------- | ------------------: |
-| **📏 Ranged 10**                       | **🎯 One creature** |</effect>
-    <effect type="roll">
-      <roll>Power Roll + Reason</roll>
-      <t1>5 + R fire damage; A &lt; WEAK, restrained (save ends)</t1>
-      <t2>9 + R fire damage; A &lt; AVERAGE, restrained (save ends)</t2>
-      <t3>12 + R fire damage; A &lt; STRONG, restrained (save ends)</t3>
-    </effect>
   </effects>
 </ability>

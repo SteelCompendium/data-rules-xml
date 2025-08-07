@@ -1,7 +1,7 @@
 <ability>
   <name>En Garde!</name>
   <cost>5 Drama</cost>
-  <flavor>Wait, it&apos;s … Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</flavor>
+  <flavor>Wait, it&apos;s... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</flavor>
   <keywords>
     <keyword>Melee</keyword>
     <keyword>Strike</keyword>
