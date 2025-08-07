@@ -16,61 +16,11 @@
   </metadata>
   <effects>
     <effect type="mundane">**Source of Earth**
-&lt;table style=&quot;width:99%;&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 19%&quot; /&gt;
-&lt;col style=&quot;width: 22%&quot; /&gt;
-&lt;col style=&quot;width: 17%&quot; /&gt;
-&lt;col style=&quot;width: 21%&quot; /&gt;
-&lt;col style=&quot;width: 20%&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr class=&quot;header&quot;&gt;
-&lt;th style=&quot;text-align: center;&quot;&gt;Elemental&lt;/th&gt;
-&lt;th style=&quot;text-align: center;&quot;&gt;-&lt;/th&gt;
-&lt;th style=&quot;text-align: center;&quot;&gt;Level 8&lt;/th&gt;
-&lt;th style=&quot;text-align: center;&quot;&gt;BRUTE&lt;/th&gt;
-&lt;th style=&quot;text-align: center;&quot;&gt;EV -&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class=&quot;odd&quot;&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;br /&gt;
-Size&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;br /&gt;
-Speed&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;45&lt;/strong&gt;&lt;br /&gt;
-Stamina&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;br /&gt;
-Stability&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;br /&gt;
-Free Strike&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&quot;even&quot;&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;br /&gt;
-Immunities&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Burrow&lt;/strong&gt;&lt;br /&gt;
-Movement&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;br /&gt;
-With Captain&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;-&lt;/strong&gt;&lt;br /&gt;
-Weaknesses&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&quot;odd&quot;&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;+3&lt;/strong&gt;&lt;br /&gt;
-Might&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;+1&lt;/strong&gt;&lt;br /&gt;
-Agility&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;-5&lt;/strong&gt;&lt;br /&gt;
-Reason&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;-5&lt;/strong&gt;&lt;br /&gt;
-Intuition&lt;/td&gt;
-&lt;td style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;-3&lt;/strong&gt;&lt;br /&gt;
-Presence&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</effect>
+|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**&lt;br/&gt; Size    |     **6**&lt;br/&gt; Speed     | **45**&lt;br/&gt; Stamina |  **5**&lt;br/&gt; Stability   | **5**&lt;br/&gt; Free Strike |
+| **-**&lt;br/&gt; Immunities | **Burrow**&lt;br/&gt; Movement |                     | **-**&lt;br/&gt; With Captain | **-**&lt;br/&gt; Weaknesses  |
+|   **+3**&lt;br/&gt; Might   |   **+1**&lt;br/&gt; Agility    | **-5**&lt;br/&gt; Reason  |  **-5**&lt;br/&gt; Intuition  |  **-3**&lt;br/&gt; Presence  |</effect>
     <effect type="mundane">**Earthwalk**
 Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.</effect>
     <effect type="mundane">**Tunneler**
