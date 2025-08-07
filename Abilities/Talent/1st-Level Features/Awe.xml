@@ -30,7 +30,11 @@
   </metadata>
   <effects>
     <effect type="mundane">If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>
-    <effect type="mundane">**Power Roll + Presence:**
-3 + P psychic damage; I &lt; WEAK, frightened (save ends) 6 + P psychic damage; I &lt; AVERAGE, frightened (save ends) 9 + P psychic damage; I &lt; STRONG, frightened (save ends)</effect>
+    <effect type="roll">
+      <roll>Power Roll + Presence</roll>
+      <t1>3 + P psychic damage; I &lt; WEAK, frightened (save ends)</t1>
+      <t2>6 + P psychic damage; I &lt; AVERAGE, frightened (save ends)</t2>
+      <t3>9 + P psychic damage; I &lt; STRONG, frightened (save ends)</t3>
+    </effect>
   </effects>
 </ability>

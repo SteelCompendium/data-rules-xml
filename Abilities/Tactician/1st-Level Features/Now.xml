@@ -1,7 +1,7 @@
 <ability>
   <name>Now!</name>
   <cost>5 Focus</cost>
-  <flavor>Your allies wait for your command—then unleash death!</flavor>
+  <flavor>Your allies wait for your command-then unleash death!</flavor>
   <keywords>
     <keyword>Ranged</keyword>
   </keywords>

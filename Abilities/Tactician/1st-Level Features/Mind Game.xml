@@ -32,9 +32,9 @@
     <effect type="mundane">You mark the target.</effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
-      <t1>4\\+\\ M damage; R &lt; WEAK, weakened (save ends)</t1>
+      <t1>4 + M damage; R &lt; WEAK, weakened (save ends)</t1>
       <t2>6 + M damage; R &lt; AVERAGE, weakened (save ends)</t2>
-      <t3>10\\+\\ M damage; R &lt; STRONG, weakened (save ends)</t3>
+      <t3>10 + M damage; R &lt; STRONG, weakened (save ends)</t3>
     </effect>
     <effect type="mundane">Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.</effect>
   </effects>

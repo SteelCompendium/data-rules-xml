@@ -2,11 +2,11 @@
   <name>Coat the Blade</name>
   <flavor>A little poison goes a long way.</flavor>
   <keywords>
-    <keyword>—</keyword>
+    <keyword>-</keyword>
   </keywords>
   <type>Maneuver</type>
   <distance>Self</distance>
-  <target>\\ Self</target>
+  <target>Self</target>
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>

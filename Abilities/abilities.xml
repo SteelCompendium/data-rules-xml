@@ -294,7 +294,7 @@
     </metadata>
     <effects>
       <effect type="mundane">Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door&apos;s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: Tests).
-  Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can&apos;t be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.</effect>
+  Complex or time-consuming tests might require a main action if made in combat-or could take so long that they can&apos;t be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.</effect>
     </effects>
   </ability>
   <ability>
@@ -604,7 +604,7 @@
   </ability>
   <ability>
     <name>Meteoric Introduction</name>
-    <flavor>You give your enemy a gentle tap—like an asteroid impact.</flavor>
+    <flavor>You give your enemy a gentle tap-like an asteroid impact.</flavor>
     <keywords>
       <keyword>Earth</keyword>
       <keyword>Magic</keyword>
@@ -4082,6 +4082,7 @@
       <effect type="roll">
         <roll>Power Roll + Intuition</roll>
         <t1>3 + I holy damage</t1>
+        <t2>5 + I holy damage</t2>
         <t3>8 + I holy damage</t3>
       </effect>
       <effect type="mundane">One ally within distance gains a number of surges equal to the tier outcome of your power roll.</effect>
@@ -7828,7 +7829,7 @@
   <ability>
     <name>Arrest</name>
     <cost>5 Wrath</cost>
-    <flavor>“I got you, you son of a bitch.”</flavor>
+    <flavor>&quot;I got you, you son of a bitch.&quot;</flavor>
     <keywords>
       <keyword>Magic</keyword>
       <keyword>Melee</keyword>
@@ -13231,7 +13232,7 @@
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
+      <effect type="mundane">You are a product of customs older than warfare, older than civilization, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape-the Primordial Chaos-and that left an aspect of that chaos inside you. You choose a primordial aspect from the following options, each of which grants you a skill. (*Quick Build:* Berserker.)
   - **Berserker:** You channel your ferocity into physical might, acting as a living version of the forces that shape the world. You have the Lift skill.
   - **Reaver:** You channel your ferocity into instinct and cunning, challenging the order of civilization. You have the Hide skill.
   - **Stormwight:** You channel your ferocity into primordial storms and can take on the form of an animal or an animal hybrid form. You have the Track skill.
@@ -13341,7 +13342,7 @@
   <ability>
     <name>Out of the Way!</name>
     <cost>3 Ferocity</cost>
-    <flavor>Your enemies will clear your path—whether they want to or not.</flavor>
+    <flavor>Your enemies will clear your path-whether they want to or not.</flavor>
     <keywords>
       <keyword>Melee</keyword>
       <keyword>Strike</keyword>
@@ -15563,9 +15564,9 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Might</roll>
-        <t1>3\\+\\ M damage; M &lt; WEAK, dazed (save ends)</t1>
+        <t1>3 + M damage; M &lt; WEAK, dazed (save ends)</t1>
         <t2>5 + M damage; M &lt; AVERAGE, dazed (save ends)</t2>
-        <t3>8\\+\\ M damage; M &lt; STRONG, dazed (save ends)</t3>
+        <t3>8 + M damage; M &lt; STRONG, dazed (save ends)</t3>
       </effect>
     </effects>
   </ability>
@@ -15719,16 +15720,16 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Might</roll>
-        <t1>3\\+\\ M damage; you or one ally within 10 squares of you can spend a Recovery</t1>
+        <t1>3 + M damage; you or one ally within 10 squares of you can spend a Recovery</t1>
         <t2>5 + M damage; you or one ally within 10 squares of you can spend a Recovery</t2>
-        <t3>8\\+\\ M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter</t3>
+        <t3>8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter</t3>
       </effect>
     </effects>
   </ability>
   <ability>
     <name>Now!</name>
     <cost>5 Focus</cost>
-    <flavor>Your allies wait for your command—then unleash death!</flavor>
+    <flavor>Your allies wait for your command-then unleash death!</flavor>
     <keywords>
       <keyword>Ranged</keyword>
     </keywords>
@@ -15840,7 +15841,7 @@
   </ability>
   <ability>
     <name>Mark</name>
-    <flavor>You draw your allies&apos; attention to a specific foe—with devastating effect.</flavor>
+    <flavor>You draw your allies&apos; attention to a specific foe-with devastating effect.</flavor>
     <keywords>
       <keyword>Ranged</keyword>
     </keywords>
@@ -15994,9 +15995,9 @@
       <effect type="mundane">You mark the target.</effect>
       <effect type="roll">
         <roll>Power Roll + Might</roll>
-        <t1>4\\+\\ M damage; R &lt; WEAK, weakened (save ends)</t1>
+        <t1>4 + M damage; R &lt; WEAK, weakened (save ends)</t1>
         <t2>6 + M damage; R &lt; AVERAGE, weakened (save ends)</t2>
-        <t3>10\\+\\ M damage; R &lt; STRONG, weakened (save ends)</t3>
+        <t3>10 + M damage; R &lt; STRONG, weakened (save ends)</t3>
       </effect>
       <effect type="mundane">Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.</effect>
     </effects>
@@ -16034,9 +16035,9 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Might</roll>
-        <t1>5\\+\\ M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action</t1>
+        <t1>5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action</t1>
         <t2>9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action</t2>
-        <t3>12\\+\\ M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action</t3>
+        <t3>12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action</t3>
       </effect>
       <effect type="mundane">If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.</effect>
     </effects>
@@ -16058,7 +16059,7 @@
       <type>feature/trait/tactician/1st-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+      <effect type="mundane">Warfare is as old as civilization-and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
   - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent&apos;s job. You&apos;ll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
   - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
   - **Vanguard:** You have learned the stratagems of ancient heroes, letting you lead from the front lines and seek victory through sheer force of will and personality. You gain a skill from the interpersonal skill group.
@@ -16619,9 +16620,9 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Might</roll>
-        <t1>6\\+\\ M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge</t1>
+        <t1>6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge</t1>
         <t2>9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge</t2>
-        <t3>13\\+\\ M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge</t3>
+        <t3>13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge</t3>
       </effect>
       <effect type="mundane">If the target is hit with two or more strikes as part of this ability and they have R &lt; STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.</effect>
     </effects>
@@ -17566,7 +17567,7 @@
     <cost>11 Focus</cost>
     <flavor>I&apos;ve identified a way to negate their strengths.</flavor>
     <keywords>
-      <keyword>—</keyword>
+      <keyword>-</keyword>
     </keywords>
     <type>Main action</type>
     <distance>Self</distance>
@@ -18330,7 +18331,7 @@
     <cost>1 Drama</cost>
     <flavor>Your years of practicing fencing and dancing pay off on the battlefield.</flavor>
     <keywords>
-      <keyword>—</keyword>
+      <keyword>-</keyword>
     </keywords>
     <type>Maneuver</type>
     <distance>Self</distance>
@@ -20045,7 +20046,7 @@
   <ability>
     <name>We Meet at Last</name>
     <cost>7 Drama</cost>
-    <flavor>You magically intertwine your fate with another creature—for better or worse.</flavor>
+    <flavor>You magically intertwine your fate with another creature-for better or worse.</flavor>
     <keywords>
       <keyword>Magic</keyword>
       <keyword>Ranged</keyword>
@@ -20847,7 +20848,7 @@
     <cost>1 Insight</cost>
     <flavor>Keep up the attack. Never give them a moment&apos;s grace.</flavor>
     <keywords>
-      <keyword>—</keyword>
+      <keyword>-</keyword>
     </keywords>
     <type>Free triggered</type>
     <distance>Self</distance>
@@ -20878,7 +20879,7 @@
     <name>Defensive Roll</name>
     <flavor>When an enemy attacks, you roll with the impact to reduce the harm.</flavor>
     <keywords>
-      <keyword>—</keyword>
+      <keyword>-</keyword>
     </keywords>
     <type>Triggered</type>
     <distance>Self</distance>
@@ -21174,11 +21175,11 @@
     <name>Coat the Blade</name>
     <flavor>A little poison goes a long way.</flavor>
     <keywords>
-      <keyword>—</keyword>
+      <keyword>-</keyword>
     </keywords>
     <type>Maneuver</type>
     <distance>Self</distance>
-    <target>\\ Self</target>
+    <target>Self</target>
     <metadata>
       <class>shadow</class>
       <feature_type>trait</feature_type>
@@ -22636,7 +22637,7 @@
   <ability>
     <name>Pinning Shot</name>
     <cost>7 Insight</cost>
-    <flavor>One missile—placed well and placed hard.</flavor>
+    <flavor>One missile-placed well and placed hard.</flavor>
     <keywords>
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>
@@ -22781,7 +22782,7 @@
     <cost>7 Insight</cost>
     <flavor>You enter a flow state that makes you nearly impossible to pin down.</flavor>
     <keywords>
-      <keyword>—</keyword>
+      <keyword>-</keyword>
     </keywords>
     <type>Maneuver</type>
     <distance>Self</distance>
@@ -23365,8 +23366,12 @@
     </metadata>
     <effects>
       <effect type="mundane">If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>
-      <effect type="mundane">**Power Roll + Presence:**
-  3 + P psychic damage; I &lt; WEAK, frightened (save ends) 6 + P psychic damage; I &lt; AVERAGE, frightened (save ends) 9 + P psychic damage; I &lt; STRONG, frightened (save ends)</effect>
+      <effect type="roll">
+        <roll>Power Roll + Presence</roll>
+        <t1>3 + P psychic damage; I &lt; WEAK, frightened (save ends)</t1>
+        <t2>6 + P psychic damage; I &lt; AVERAGE, frightened (save ends)</t2>
+        <t3>9 + P psychic damage; I &lt; STRONG, frightened (save ends)</t3>
+      </effect>
     </effects>
   </ability>
   <ability>
@@ -24709,7 +24714,7 @@
   <ability>
     <name>Synaptic Conditioning</name>
     <cost>9 Clarity</cost>
-    <flavor>It&apos;s a subtle mindset shift. It&apos;s not that they&apos;re your enemy—you just don&apos;t like them!</flavor>
+    <flavor>It&apos;s a subtle mindset shift. It&apos;s not that they&apos;re your enemy-you just don&apos;t like them!</flavor>
     <keywords>
       <keyword>Psionic</keyword>
       <keyword>Melee</keyword>
@@ -25806,7 +25811,7 @@
       <effect type="roll">
         <roll>Power Roll + Presence</roll>
         <t1>3 + P corruption damage; P &lt; WEAK, weakened (save ends)</t1>
-        <t2>5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGER, they are weakened (save ends)</t2>
+        <t2>5 + P corruption damage; the target is flung through time, and if P &lt; AVERAGE, they are weakened (save ends)</t2>
         <t3>8 + P corruption damage; the target is flung through time, and if P &lt; STRONG, they are weakened (save ends)</t3>
       </effect>
       <effect type="mundane">A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.</effect>

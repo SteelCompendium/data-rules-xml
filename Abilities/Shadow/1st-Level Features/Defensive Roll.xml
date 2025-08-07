@@ -2,7 +2,7 @@
   <name>Defensive Roll</name>
   <flavor>When an enemy attacks, you roll with the impact to reduce the harm.</flavor>
   <keywords>
-    <keyword>—</keyword>
+    <keyword>-</keyword>
   </keywords>
   <type>Triggered</type>
   <distance>Self</distance>

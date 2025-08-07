@@ -1,7 +1,7 @@
 <ability>
   <name>Arrest</name>
   <cost>5 Wrath</cost>
-  <flavor>“I got you, you son of a bitch.”</flavor>
+  <flavor>&quot;I got you, you son of a bitch.&quot;</flavor>
   <keywords>
     <keyword>Magic</keyword>
     <keyword>Melee</keyword>
