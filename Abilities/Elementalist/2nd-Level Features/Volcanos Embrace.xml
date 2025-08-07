@@ -21,11 +21,11 @@
     <file_basename>Volcanos Embrace</file_basename>
     <file_dpath>Elementalist/2nd-Level Features</file_dpath>
     <item_id>volcanos-embrace-5-essence</item_id>
-    <item_index>02</item_index>
+    <item_index>04</item_index>
     <item_name>Volcano&apos;s Embrace (5 Essence)</item_name>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:volcanos-embrace-5-essence</scc>
-    <scdc>1.1.1:13.2.9.5:02</scdc>
+    <scdc>1.1.1:13.2.9.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/2nd-level-feature</type>
   </metadata>

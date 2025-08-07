@@ -20,11 +20,11 @@
     <file_basename>Invigorating Growth</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
     <item_id>invigorating-growth-3-essence</item_id>
-    <item_index>04</item_index>
+    <item_index>07</item_index>
     <item_name>Invigorating Growth (3 Essence)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:invigorating-growth-3-essence</scc>
-    <scdc>1.1.1:13.2.9.1:04</scdc>
+    <scdc>1.1.1:13.2.9.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>

@@ -1,0 +1,39 @@
+<ability>
+  <name>O Flower Aid, O Earth Defend</name>
+  <cost>5 Essence</cost>
+  <flavor>Revitalizing plants and jagged stones grow, helping allies and hindering foes.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Earth</keyword>
+    <keyword>Green</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+  </keywords>
+  <type>Maneuver</type>
+  <distance>3 cube within 10</distance>
+  <target>Special</target>
+  <metadata>
+    <class>elementalist</class>
+    <cost>5 Essence</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Essence</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>O Flower Aid O Earth Defend</file_basename>
+    <file_dpath>Elementalist/2nd-Level Features</file_dpath>
+    <item_id>o-flower-aid-o-earth-defend-5-essence</item_id>
+    <item_index>01</item_index>
+    <item_name>O Flower Aid, O Earth Defend (5 Essence)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:o-flower-aid-o-earth-defend-5-essence</scc>
+    <scdc>1.1.1:13.2.9.5:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/elementalist/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">Until the start of your next turn, the area gains the following effects:
+- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
+- The area is difficult terrain for enemies.
+- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</effect>
+    <effect type="mundane" name="Persistent 1">The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</effect>
+  </effects>
+</ability>

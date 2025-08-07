@@ -1,0 +1,40 @@
+<ability>
+  <name>Test of Rain</name>
+  <cost>5 Essence</cost>
+  <flavor>You call down a rain that burns your enemies and restores your allies.</flavor>
+  <keywords>
+    <keyword>Area</keyword>
+    <keyword>Green</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Raned</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>3 cube within 10</distance>
+  <target>Each enemy in the area</target>
+  <metadata>
+    <class>elementalist</class>
+    <cost>5 Essence</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Essence</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>Test of Rain</file_basename>
+    <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <item_id>test-of-rain-5-essence</item_id>
+    <item_index>03</item_index>
+    <item_name>Test of Rain (5 Essence)</item_name>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain-5-essence</scc>
+    <scdc>1.1.1:13.2.9.1:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/elementalist/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>4 acid damage</t1>
+      <t2>6 acid damage</t2>
+      <t3>10 acid damage</t3>
+    </effect>
+    <effect type="mundane">You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.</effect>
+  </effects>
+</ability>

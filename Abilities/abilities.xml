@@ -695,6 +695,46 @@
     </effects>
   </ability>
   <ability>
+    <name>Conflagration</name>
+    <cost>5 Essence</cost>
+    <flavor>A storm of fire descends upon your enemies.</flavor>
+    <keywords>
+      <keyword>Area</keyword>
+      <keyword>Fire</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+    </keywords>
+    <type>Main Action</type>
+    <distance>3 cube within 10</distance>
+    <target>Each enemy in the area</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Conflagration</file_basename>
+      <file_dpath>Elementalist/1st-Level Features</file_dpath>
+      <item_id>conflagration-5-essence</item_id>
+      <item_index>8</item_index>
+      <item_name>Conflagration (5 Essence)</item_name>
+      <level>1</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:conflagration-5-essence</scc>
+      <scdc>1.1.1:13.2.9.1:08</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/1st-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>4 fire damage</t1>
+        <t2>6 fire damage</t2>
+        <t3>10 fire damage</t3>
+      </effect>
+      <effect type="mundane" name="Persistent 2">At the start of your turn, you can use a maneuver to use this ability again without spending essence.</effect>
+    </effects>
+  </ability>
+  <ability>
     <name>Green: Acolyte of the Green</name>
     <metadata>
       <class>elementalist</class>
@@ -842,11 +882,11 @@
       <file_basename>The Flesh a Crucible</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
       <item_id>the-flesh-a-crucible-3-essence</item_id>
-      <item_index>02</item_index>
+      <item_index>04</item_index>
       <item_name>The Flesh, a Crucible (3 Essence)</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:the-flesh-a-crucible-3-essence</scc>
-      <scdc>1.1.1:13.2.9.1:02</scdc>
+      <scdc>1.1.1:13.2.9.1:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/elementalist/1st-level-feature</type>
     </metadata>
@@ -947,11 +987,11 @@
       <file_basename>Invigorating Growth</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
       <item_id>invigorating-growth-3-essence</item_id>
-      <item_index>04</item_index>
+      <item_index>07</item_index>
       <item_name>Invigorating Growth (3 Essence)</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:invigorating-growth-3-essence</scc>
-      <scdc>1.1.1:13.2.9.1:04</scdc>
+      <scdc>1.1.1:13.2.9.1:07</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/elementalist/1st-level-feature</type>
     </metadata>
@@ -1007,11 +1047,11 @@
       <file_basename>Behold the Mystery</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
       <item_id>behold-the-mystery-3-essence</item_id>
-      <item_index>03</item_index>
+      <item_index>05</item_index>
       <item_name>Behold the Mystery (3 Essence)</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:behold-the-mystery-3-essence</scc>
-      <scdc>1.1.1:13.2.9.1:03</scdc>
+      <scdc>1.1.1:13.2.9.1:05</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/elementalist/1st-level-feature</type>
     </metadata>
@@ -1095,11 +1135,11 @@
       <file_basename>Ripples in the Earth</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
       <item_id>ripples-in-the-earth-3-essence</item_id>
-      <item_index>01</item_index>
+      <item_index>02</item_index>
       <item_name>Ripples in the Earth (3 Essence)</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ripples-in-the-earth-3-essence</scc>
-      <scdc>1.1.1:13.2.9.1:01</scdc>
+      <scdc>1.1.1:13.2.9.1:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/elementalist/1st-level-feature</type>
     </metadata>
@@ -1134,6 +1174,46 @@
   You can&apos;t maintain any abilities that would make you earn a negative amount of essence at the start of your turn. You can stop maintaining an ability at any time (no action required).
   If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can&apos;t be affected by multiple instances of a persistent ability.
   If you take damage equal to or greater than 5 times your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining Instantaneous Excavation, taking 10 or more damage in one turn causes you to stop maintaining the ability.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Test of Rain</name>
+    <cost>5 Essence</cost>
+    <flavor>You call down a rain that burns your enemies and restores your allies.</flavor>
+    <keywords>
+      <keyword>Area</keyword>
+      <keyword>Green</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Raned</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>3 cube within 10</distance>
+    <target>Each enemy in the area</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Test of Rain</file_basename>
+      <file_dpath>Elementalist/1st-Level Features</file_dpath>
+      <item_id>test-of-rain-5-essence</item_id>
+      <item_index>03</item_index>
+      <item_name>Test of Rain (5 Essence)</item_name>
+      <level>1</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain-5-essence</scc>
+      <scdc>1.1.1:13.2.9.1:03</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/1st-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>4 acid damage</t1>
+        <t2>6 acid damage</t2>
+        <t3>10 acid damage</t3>
+      </effect>
+      <effect type="mundane">You can end one effect on yourself that is ended by a saving throw or that ends at the end of your turn. Each ally in the area also gains this benefit.</effect>
     </effects>
   </ability>
   <ability>
@@ -1174,6 +1254,40 @@
     </metadata>
     <effects>
       <effect type="mundane">You weave a shield of all the elements around yourself, channeling their full protective power. You have immunity to acid, cold, corruption, fire, lightning, poison, or sonic damage equal to your Reason score.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>No More Than a Breeze</name>
+    <cost>5 Essence</cost>
+    <flavor>The material substance of a creature shreds away at your command.</flavor>
+    <keywords>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Void</keyword>
+    </keywords>
+    <type>Maneuver</type>
+    <distance>Ranged 10</distance>
+    <target>Self or one ally</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>No More Than a Breeze</file_basename>
+      <file_dpath>Elementalist/1st-Level Features</file_dpath>
+      <item_id>no-more-than-a-breeze-5-essence</item_id>
+      <item_index>01</item_index>
+      <item_name>No More Than a Breeze (5 Essence)</item_name>
+      <level>1</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze-5-essence</scc>
+      <scdc>1.1.1:13.2.9.1:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/1st-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can&apos;t provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</effect>
+      <effect type="mundane" name="Persistent 1">The effect lasts until the start of your next turn.</effect>
     </effects>
   </ability>
   <ability>
@@ -1246,6 +1360,46 @@
         <t3>9 + R corruption damage</t3>
       </effect>
       <effect type="mundane">You can teleport up to a number of squares equal to your Reason score.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Instantaneous Excavation</name>
+    <cost>5 Essence</cost>
+    <flavor>The surface of the world around you opens up to swallow foes.</flavor>
+    <keywords>
+      <keyword>Earth</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+    </keywords>
+    <type>Maneuver</type>
+    <distance>Ranged 10</distance>
+    <target>Special</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Instantaneous Excavation</file_basename>
+      <file_dpath>Elementalist/1st-Level Features</file_dpath>
+      <item_id>instantaneous-excavation-5-essence</item_id>
+      <item_index>06</item_index>
+      <item_name>Instantaneous Excavation (5 Essence)</item_name>
+      <level>1</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:instantaneous-excavation-5-essence</scc>
+      <scdc>1.1.1:13.2.9.1:06</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/1st-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can&apos;t score a critical hit with this ability because it uses a maneuver.)</effect>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>The target can shift 1 square from the edge of the hole to the nearest unoccupied space of their choice.</t1>
+        <t2>The target falls into the hole.</t2>
+        <t3>The target falls into the hole and can&apos;t reduce the height of the fall.</t3>
+      </effect>
+      <effect type="mundane" name="Persistent 1">At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.</effect>
     </effects>
   </ability>
   <ability>
@@ -2438,11 +2592,11 @@
       <file_basename>Translated Through Flame</file_basename>
       <file_dpath>Elementalist/2nd-Level Features</file_dpath>
       <item_id>translated-through-flame-5-essence</item_id>
-      <item_index>01</item_index>
+      <item_index>03</item_index>
       <item_name>Translated Through Flame (5 Essence)</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:translated-through-flame-5-essence</scc>
-      <scdc>1.1.1:13.2.9.5:01</scdc>
+      <scdc>1.1.1:13.2.9.5:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/elementalist/2nd-level-feature</type>
     </metadata>
@@ -2484,6 +2638,47 @@
     <effects>
       <effect type="mundane">You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
   At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal to emerge from when entering a portal, and a creature who force moves an enemy into a portal chooses that enemy&apos;s destination portal.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Subvert the Green Within</name>
+    <cost>5 Essence</cost>
+    <flavor>Fungal spores sprout inside your enemy&apos;s brain, allowing you to control their actions.</flavor>
+    <keywords>
+      <keyword>Green</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Void</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 10</distance>
+    <target>One creature</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Subvert the Green Within</file_basename>
+      <file_dpath>Elementalist/2nd-Level Features</file_dpath>
+      <item_id>subvert-the-green-within-5-essence</item_id>
+      <item_index>02</item_index>
+      <item_name>Subvert the Green Within (5 Essence)</item_name>
+      <level>2</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:subvert-the-green-within-5-essence</scc>
+      <scdc>1.1.1:13.2.9.5:02</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/2nd-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&apos;t. You then make a power roll against the target of this ability.</effect>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>5 + R poison damage</t1>
+        <t2>9 + R poison damage</t2>
+        <t3>12 + R poison damage</t3>
+      </effect>
     </effects>
   </ability>
   <ability>
@@ -2530,11 +2725,11 @@
       <file_basename>Volcanos Embrace</file_basename>
       <file_dpath>Elementalist/2nd-Level Features</file_dpath>
       <item_id>volcanos-embrace-5-essence</item_id>
-      <item_index>02</item_index>
+      <item_index>04</item_index>
       <item_name>Volcano&apos;s Embrace (5 Essence)</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:volcanos-embrace-5-essence</scc>
-      <scdc>1.1.1:13.2.9.5:02</scdc>
+      <scdc>1.1.1:13.2.9.5:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/elementalist/2nd-level-feature</type>
     </metadata>
@@ -2565,6 +2760,45 @@
     </metadata>
     <effects>
       <effect type="mundane">Your body is strengthened by your mind&apos;s connection to the element of permanence. You have a +6 bonus to Stamina, and you gain an additional +3 bonus to Stamina whenever you gain a level past 2nd.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>O Flower Aid, O Earth Defend</name>
+    <cost>5 Essence</cost>
+    <flavor>Revitalizing plants and jagged stones grow, helping allies and hindering foes.</flavor>
+    <keywords>
+      <keyword>Area</keyword>
+      <keyword>Earth</keyword>
+      <keyword>Green</keyword>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+    </keywords>
+    <type>Maneuver</type>
+    <distance>3 cube within 10</distance>
+    <target>Special</target>
+    <metadata>
+      <class>elementalist</class>
+      <cost>5 Essence</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Essence</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>O Flower Aid O Earth Defend</file_basename>
+      <file_dpath>Elementalist/2nd-Level Features</file_dpath>
+      <item_id>o-flower-aid-o-earth-defend-5-essence</item_id>
+      <item_index>01</item_index>
+      <item_name>O Flower Aid, O Earth Defend (5 Essence)</item_name>
+      <level>2</level>
+      <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:o-flower-aid-o-earth-defend-5-essence</scc>
+      <scdc>1.1.1:13.2.9.5:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/elementalist/2nd-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">Until the start of your next turn, the area gains the following effects:
+  - Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
+  - The area is difficult terrain for enemies.
+  - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.</effect>
+      <effect type="mundane" name="Persistent 1">The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.</effect>
     </effects>
   </ability>
   <ability>
@@ -5728,7 +5962,6 @@
       <type>feature/ability/conduit/2nd-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">![target icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Misc_Target_Icon.png) Special</effect>
       <effect type="mundane">A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.</effect>
     </effects>
   </ability>
@@ -21658,7 +21891,7 @@
     <effects>
       <effect type="mundane">Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
   For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.</effect>
-      <effect type="mundane">**Spend 2+ Insight**: For every 2 insight spent, you increase the cube&apos;s size by 1 and gain 1 surge that can be used only with this ability.</effect>
+      <effect type="mundane" cost="Spend 2+ Insight">For every 2 insight spent, you increase the cube&apos;s size by 1 and gain 1 surge that can be used only with this ability.</effect>
     </effects>
   </ability>
   <ability>
@@ -22427,11 +22660,11 @@
       <file_basename>Stink Bomb</file_basename>
       <file_dpath>Shadow/2nd-Level Features</file_dpath>
       <item_id>stink-bomb-5-insight</item_id>
-      <item_index>05</item_index>
+      <item_index>06</item_index>
       <item_name>Stink Bomb (5 Insight)</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:stink-bomb-5-insight</scc>
-      <scdc>1.1.1:13.2.2.5:05</scdc>
+      <scdc>1.1.1:13.2.2.5:06</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/shadow/2nd-level-feature</type>
     </metadata>
@@ -22503,6 +22736,38 @@
     </effects>
   </ability>
   <ability>
+    <name>Too Slow</name>
+    <cost>5 Insight</cost>
+    <flavor>Your foe made a big mistake.</flavor>
+    <keywords>
+      <keyword>-</keyword>
+    </keywords>
+    <type>Free triggered</type>
+    <distance>Self; see below</distance>
+    <target>Self</target>
+    <trigger>You use your In All This Confusion ability.</trigger>
+    <metadata>
+      <class>shadow</class>
+      <cost>5 Insight</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Insight</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>Too Slow</file_basename>
+      <file_dpath>Shadow/2nd-Level Features</file_dpath>
+      <item_id>too-slow-5-insight</item_id>
+      <item_index>03</item_index>
+      <item_name>Too Slow (5 Insight)</item_name>
+      <level>2</level>
+      <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:too-slow-5-insight</scc>
+      <scdc>1.1.1:13.2.2.5:03</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/shadow/2nd-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</effect>
+    </effects>
+  </ability>
+  <ability>
     <name>So Gullible</name>
     <cost>5 Insight</cost>
     <flavor>When your enemy strikes, you reveal you were in a different place all along.</flavor>
@@ -22522,63 +22787,16 @@
       <file_basename>So Gullible</file_basename>
       <file_dpath>Shadow/2nd-Level Features</file_dpath>
       <item_id>so-gullible-5-insight</item_id>
-      <item_index>03</item_index>
+      <item_index>04</item_index>
       <item_name>So Gullible (5 Insight)</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:so-gullible-5-insight</scc>
-      <scdc>1.1.1:13.2.2.5:03</scdc>
+      <scdc>1.1.1:13.2.2.5:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/shadow/2nd-level-feature</type>
     </metadata>
     <effects>
       <effect type="mundane">You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>In a Puff of Smoke</name>
-    <cost>5 Insight</cost>
-    <flavor>You enchant a strike with your teleportation magic.</flavor>
-    <keywords>
-      <keyword>Magic</keyword>
-      <keyword>Melee</keyword>
-      <keyword>Ranged</keyword>
-      <keyword>Strike</keyword>
-      <keyword>Weapon</keyword>
-    </keywords>
-    <type>Main action</type>
-    <distance>Melee 1 or ranged 5</distance>
-    <target>One creature</target>
-    <trigger>You use your In All This Confusion ability.</trigger>
-    <metadata>
-      <class>shadow</class>
-      <cost>5 Insight</cost>
-      <cost_amount>5</cost_amount>
-      <cost_resource>Insight</cost_resource>
-      <feature_type>ability</feature_type>
-      <file_basename>In a Puff of Smoke</file_basename>
-      <file_dpath>Shadow/2nd-Level Features</file_dpath>
-      <item_id>in-a-puff-of-smoke-5-insight</item_id>
-      <item_index>02</item_index>
-      <item_name>In a Puff of Smoke (5 Insight)</item_name>
-      <level>2</level>
-      <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-smoke-5-insight</scc>
-      <scdc>1.1.1:13.2.2.5:02</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/ability/shadow/2nd-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="roll">
-        <roll>Power Roll + Agility</roll>
-        <t1>6 + A damage; you can teleport the target 1 square</t1>
-        <t2>10 + A damage; you can teleport the target up to 3 squares</t2>
-        <t3>14 + A damage; you can teleport the target up to 5 squares</t3>
-      </effect>
-      <effect type="mundane">###### Too Slow (5 Insight)
-  *Your foe made a big mistake.*
-  | **-**                  | **Free triggered** |
-  | ---------------------- | -----------------: |
-  | **📏 Self; see below** |        **🎯 Self** |</effect>
-      <effect type="mundane">You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</effect>
     </effects>
   </ability>
   <ability>
@@ -22602,11 +22820,11 @@
       <file_basename>Machinations of Sound</file_basename>
       <file_dpath>Shadow/2nd-Level Features</file_dpath>
       <item_id>machinations-of-sound-5-insight</item_id>
-      <item_index>04</item_index>
+      <item_index>05</item_index>
       <item_name>Machinations of Sound (5 Insight)</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:machinations-of-sound-5-insight</scc>
-      <scdc>1.1.1:13.2.2.5:04</scdc>
+      <scdc>1.1.1:13.2.2.5:05</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/shadow/2nd-level-feature</type>
     </metadata>
@@ -22638,6 +22856,46 @@
     </metadata>
     <effects>
       <effect type="mundane">You know just where to cut your enemies. Whenever you make a strike that has no bane or double bane, and that incorporates 1 or more surges, you gain 1 additional surge that you can use only on that strike.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>In a Puff of Ash</name>
+    <cost>5 Insight</cost>
+    <flavor>You enchant a strike with your teleportation magic.</flavor>
+    <keywords>
+      <keyword>Magic</keyword>
+      <keyword>Melee</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1 or ranged 5</distance>
+    <target>One creature</target>
+    <metadata>
+      <class>shadow</class>
+      <cost>5 Insight</cost>
+      <cost_amount>5</cost_amount>
+      <cost_resource>Insight</cost_resource>
+      <feature_type>ability</feature_type>
+      <file_basename>In a Puff of Ash</file_basename>
+      <file_dpath>Shadow/2nd-Level Features</file_dpath>
+      <item_id>in-a-puff-of-ash-5-insight</item_id>
+      <item_index>02</item_index>
+      <item_name>In a Puff of Ash (5 Insight)</item_name>
+      <level>2</level>
+      <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-ash-5-insight</scc>
+      <scdc>1.1.1:13.2.2.5:02</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/ability/shadow/2nd-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Agility</roll>
+        <t1>6 + A damage; you can teleport the target 1 square</t1>
+        <t2>10 + A damage; you can teleport the target up to 3 squares</t2>
+        <t3>14 + A damage; you can teleport the target up to 5 squares</t3>
+      </effect>
     </effects>
   </ability>
   <ability>
@@ -24571,10 +24829,12 @@
       <type>feature/ability/talent/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">**Power Roll + Reason**
-  - **≤11:** 12 + R damage; R &lt; WEAK, the target takes a bane on their next power roll
-  - **12-16:** 17 + R damage; R &lt; AVERAGE, the target takes a bane on power rolls (save ends)
-  - **17+:** 23 + R damage; R &lt; STRONG, the target has a double bane on power rolls (save ends)</effect>
+      <effect type="roll">
+        <roll>Power Roll + Reason</roll>
+        <t1>12 + R damage; R &lt; WEAK, the target takes a bane on their next power roll</t1>
+        <t2>17 + R damage; R &lt; AVERAGE, the target takes a bane on power rolls (save ends)</t2>
+        <t3>23 + R damage; R &lt; STRONG, the target has a double bane on power rolls (save ends)</t3>
+      </effect>
       <effect type="mundane">The target can&apos;t communicate with anyone until the end of the encounter.</effect>
       <effect type="mundane" name="Strained">You take 3d6 damage.</effect>
     </effects>

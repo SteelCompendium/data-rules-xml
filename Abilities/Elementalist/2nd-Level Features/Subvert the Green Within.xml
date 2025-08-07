@@ -1,0 +1,41 @@
+<ability>
+  <name>Subvert the Green Within</name>
+  <cost>5 Essence</cost>
+  <flavor>Fungal spores sprout inside your enemy&apos;s brain, allowing you to control their actions.</flavor>
+  <keywords>
+    <keyword>Green</keyword>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Void</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature</target>
+  <metadata>
+    <class>elementalist</class>
+    <cost>5 Essence</cost>
+    <cost_amount>5</cost_amount>
+    <cost_resource>Essence</cost_resource>
+    <feature_type>ability</feature_type>
+    <file_basename>Subvert the Green Within</file_basename>
+    <file_dpath>Elementalist/2nd-Level Features</file_dpath>
+    <item_id>subvert-the-green-within-5-essence</item_id>
+    <item_index>02</item_index>
+    <item_name>Subvert the Green Within (5 Essence)</item_name>
+    <level>2</level>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:subvert-the-green-within-5-essence</scc>
+    <scdc>1.1.1:13.2.9.5:02</scdc>
+    <source>mcdm.heroes.v1</source>
+    <type>feature/ability/elementalist/2nd-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="mundane">The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&apos;t. You then make a power roll against the target of this ability.</effect>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>5 + R poison damage</t1>
+      <t2>9 + R poison damage</t2>
+      <t3>12 + R poison damage</t3>
+    </effect>
+  </effects>
+</ability>
