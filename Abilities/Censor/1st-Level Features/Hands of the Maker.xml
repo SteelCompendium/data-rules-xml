@@ -4,7 +4,7 @@
   <keywords>
     <keyword>Magic</keyword>
   </keywords>
-  <type>Manuever</type>
+  <type>Maneuver</type>
   <distance>Self</distance>
   <target>Self</target>
   <metadata>

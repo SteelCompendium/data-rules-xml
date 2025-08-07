@@ -8,7 +8,7 @@
     <keyword>Strike</keyword>
     <keyword>Weapon</keyword>
   </keywords>
-  <type>Free trigger</type>
+  <type>Free triggered</type>
   <distance>Melee 1</distance>
   <target>One creature</target>
   <trigger>The target moves or uses a main action.</trigger>

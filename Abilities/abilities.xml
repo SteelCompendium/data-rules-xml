@@ -946,7 +946,7 @@
     <type>Triggered</type>
     <distance>Ranged 10</distance>
     <target>Self or one ally</target>
-    <trigger>The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.</trigger>
+    <trigger>The target force moves a creature or object.</trigger>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -962,6 +962,7 @@
       <type>feature/trait/elementalist/1st-level-feature</type>
     </metadata>
     <effects>
+      <effect type="mundane">The forced movement distance gains a bonus equal to your Reason score.</effect>
       <effect type="mundane" cost="Spend 1 Essence">The forced movement distance gains a bonus equal to twice your Reason score instead.</effect>
     </effects>
   </ability>
@@ -1184,7 +1185,7 @@
       <keyword>Area</keyword>
       <keyword>Green</keyword>
       <keyword>Magic</keyword>
-      <keyword>Raned</keyword>
+      <keyword>Ranged</keyword>
     </keywords>
     <type>Main action</type>
     <distance>3 cube within 10</distance>
@@ -1544,10 +1545,10 @@
       <keyword>Ranged</keyword>
       <keyword>Void</keyword>
     </keywords>
-    <type>sTriggered</type>
+    <type>Triggered</type>
     <distance>Ranged 10</distance>
     <target>Self or one ally</target>
-    <trigger>The target starts their turn, moves, or is force moved. **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</trigger>
+    <trigger>The target starts their turn, moves, or is force moved.</trigger>
     <metadata>
       <class>elementalist</class>
       <feature_type>trait</feature_type>
@@ -1563,6 +1564,7 @@
       <type>feature/trait/elementalist/1st-level-feature</type>
     </metadata>
     <effects>
+      <effect type="mundane">You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</effect>
       <effect type="mundane" cost="Spend 1 Essence">You teleport the target up to a number of squares equal to twice your Reason score instead.</effect>
     </effects>
   </ability>
@@ -4783,7 +4785,7 @@
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
-      <keyword>Range</keyword>
+      <keyword>Ranged</keyword>
     </keywords>
     <type>Main action</type>
     <distance>3 cube within 10</distance>
@@ -7926,7 +7928,7 @@
     <keywords>
       <keyword>Magic</keyword>
     </keywords>
-    <type>Manuever</type>
+    <type>Maneuver</type>
     <distance>Self</distance>
     <target>Self</target>
     <metadata>
@@ -8583,7 +8585,7 @@
     <flavor>You curse your foe to become a bane to their allies.</flavor>
     <keywords>
       <keyword>Melee</keyword>
-      <keyword>Stike</keyword>
+      <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
     <type>Main Action</type>
@@ -13258,7 +13260,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Free trigger</type>
+    <type>Free triggered</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <trigger>The target moves or uses a main action.</trigger>
@@ -13427,11 +13429,11 @@
       <file_basename>Hit and Run</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>hit-and-run</item_id>
-      <item_index>11</item_index>
+      <item_index>10</item_index>
       <item_name>Hit and Run</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:hit-and-run</scc>
-      <scdc>1.1.1:13.1.5.1:11</scdc>
+      <scdc>1.1.1:13.1.5.1:10</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -13552,11 +13554,11 @@
       <file_basename>Impaled</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>impaled</item_id>
-      <item_index>12</item_index>
+      <item_index>11</item_index>
       <item_name>Impaled!</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:impaled</scc>
-      <scdc>1.1.1:13.1.5.1:12</scdc>
+      <scdc>1.1.1:13.1.5.1:11</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -13616,11 +13618,11 @@
       <file_basename>Ferocity Outside of Combat</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>ferocity-outside-of-combat</item_id>
-      <item_index>14</item_index>
+      <item_index>13</item_index>
       <item_name>Ferocity Outside of Combat</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-outside-of-combat</scc>
-      <scdc>1.1.1:13.1.5.1:14</scdc>
+      <scdc>1.1.1:13.1.5.1:13</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -13704,33 +13706,6 @@
         <t2>8 damage; push 1</t2>
         <t3>11 damage; push 3</t3>
       </effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>1st-Level Aspect Features Tables</name>
-    <keywords>
-      <keyword>Aspect</keyword>
-    </keywords>
-    <type>Feature</type>
-    <distance>Berserker</distance>
-    <target>Kit, Primordial Strength</target>
-    <metadata>
-      <class>fury</class>
-      <feature_type>trait</feature_type>
-      <file_basename>1st Level Aspect Features Tables</file_basename>
-      <file_dpath>Fury/1st-Level Features</file_dpath>
-      <item_id>1st-level-aspect-features-tables</item_id>
-      <item_index>10</item_index>
-      <item_name>1st-Level Aspect Features Tables</item_name>
-      <level>1</level>
-      <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:1st-level-aspect-features-tables</scc>
-      <scdc>1.1.1:13.1.5.1:10</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/fury/1st-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">| Reaver     | Kit, Primordial Cunning        |
-  | Stormwight | Beast Shape, Relentless Hunter |</effect>
     </effects>
   </ability>
   <ability>
@@ -13829,11 +13804,11 @@
       <file_basename>Primordial Strength</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>primordial-strength</item_id>
-      <item_index>13</item_index>
+      <item_index>12</item_index>
       <item_name>Primordial Strength</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength</scc>
-      <scdc>1.1.1:13.1.5.1:13</scdc>
+      <scdc>1.1.1:13.1.5.1:12</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -13883,11 +13858,11 @@
       <file_basename>Ferocity in Combat</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>ferocity-in-combat</item_id>
-      <item_index>17</item_index>
+      <item_index>16</item_index>
       <item_name>Ferocity in Combat</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-in-combat</scc>
-      <scdc>1.1.1:13.1.5.1:17</scdc>
+      <scdc>1.1.1:13.1.5.1:16</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -14011,11 +13986,11 @@
       <file_basename>Furious Change</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>furious-change</item_id>
-      <item_index>16</item_index>
+      <item_index>15</item_index>
       <item_name>Furious Change</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:furious-change</scc>
-      <scdc>1.1.1:13.1.5.1:16</scdc>
+      <scdc>1.1.1:13.1.5.1:15</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -14060,11 +14035,11 @@
       <file_basename>Lines of Force</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
       <item_id>lines-of-force</item_id>
-      <item_index>15</item_index>
+      <item_index>14</item_index>
       <item_name>Lines of Force</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:lines-of-force</scc>
-      <scdc>1.1.1:13.1.5.1:15</scdc>
+      <scdc>1.1.1:13.1.5.1:14</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/fury/1st-level-feature</type>
     </metadata>
@@ -18258,7 +18233,7 @@
     <name>Witty Banter</name>
     <flavor>A lyrical (and physical) jab insults an enemy and inspires an ally.</flavor>
     <keywords>
-      <keyword>Maigc</keyword>
+      <keyword>Magic</keyword>
       <keyword>Melee</keyword>
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>

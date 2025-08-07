@@ -9,7 +9,7 @@
   <type>Triggered</type>
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
-  <trigger>The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.</trigger>
+  <trigger>The target force moves a creature or object.</trigger>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
@@ -25,6 +25,7 @@
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
+    <effect type="mundane">The forced movement distance gains a bonus equal to your Reason score.</effect>
     <effect type="mundane" cost="Spend 1 Essence">The forced movement distance gains a bonus equal to twice your Reason score instead.</effect>
   </effects>
 </ability>

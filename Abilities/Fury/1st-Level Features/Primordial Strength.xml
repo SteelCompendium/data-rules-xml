@@ -6,11 +6,11 @@
     <file_basename>Primordial Strength</file_basename>
     <file_dpath>Fury/1st-Level Features</file_dpath>
     <item_id>primordial-strength</item_id>
-    <item_index>13</item_index>
+    <item_index>12</item_index>
     <item_name>Primordial Strength</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-strength</scc>
-    <scdc>1.1.1:13.1.5.1:13</scdc>
+    <scdc>1.1.1:13.1.5.1:12</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/1st-level-feature</type>
   </metadata>
