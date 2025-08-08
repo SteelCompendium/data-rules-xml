@@ -20,17 +20,13 @@
 | :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
 |    **2**&lt;br/&gt; Size    |     **6**&lt;br/&gt; Speed     | **45**&lt;br/&gt; Stamina |  **5**&lt;br/&gt; Stability   | **5**&lt;br/&gt; Free Strike |
 | **-**&lt;br/&gt; Immunities | **Burrow**&lt;br/&gt; Movement |                     | **-**&lt;br/&gt; With Captain | **-**&lt;br/&gt; Weaknesses  |
-|   **+3**&lt;br/&gt; Might   |   **+1**&lt;br/&gt; Agility    | **-5**&lt;br/&gt; Reason  |  **-5**&lt;br/&gt; Intuition  |  **-3**&lt;br/&gt; Presence  |
-&lt;!-- --&gt;</effect>
+|   **+3**&lt;br/&gt; Might   |   **+1**&lt;br/&gt; Agility    | **-5**&lt;br/&gt; Reason  |  **-5**&lt;br/&gt; Intuition  |  **-3**&lt;br/&gt; Presence  |</effect>
     <effect type="mundane">**Earthwalk**
-Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.
-&lt;!-- --&gt;</effect>
+Difficult terrain composed of earth and stone doesn&apos;t cost the source extra movement.</effect>
     <effect type="mundane">**Tunneler**
-When the source burrows, they create a size 2 tunnel.
-&lt;!-- --&gt;</effect>
+When the source burrows, they create a size 2 tunnel.</effect>
     <effect type="mundane">**Earth Harness**
-A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
-&lt;!-- --&gt;</effect>
+A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.</effect>
     <effect type="mundane">**Boulder Bash**
 | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
 | --------------------------------- | ----------------------------: |
