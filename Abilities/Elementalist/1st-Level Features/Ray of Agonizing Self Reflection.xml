@@ -1,5 +1,5 @@
 <ability>
-  <name>Ry of Agonizing Self-Reflection</name>
+  <name>Ray of Agonizing Self-Reflection</name>
   <flavor>You inflict pain and doubt in equal measure.</flavor>
   <keywords>
     <keyword>Magic</keyword>
@@ -13,14 +13,14 @@
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
-    <file_basename>Ry of Agonizing Self Reflection</file_basename>
+    <file_basename>Ray of Agonizing Self Reflection</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
-    <item_id>ry-of-agonizing-self-reflection</item_id>
-    <item_index>02</item_index>
-    <item_name>Ry of Agonizing Self-Reflection</item_name>
+    <item_id>ray-of-agonizing-self-reflection</item_id>
+    <item_index>01</item_index>
+    <item_name>Ray of Agonizing Self-Reflection</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ry-of-agonizing-self-reflection</scc>
-    <scdc>1.1.1:13.1.9.1:02</scdc>
+    <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ray-of-agonizing-self-reflection</scc>
+    <scdc>1.1.1:13.1.9.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/elementalist/1st-level-feature</type>
   </metadata>

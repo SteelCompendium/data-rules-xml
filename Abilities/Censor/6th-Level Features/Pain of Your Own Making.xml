@@ -6,7 +6,7 @@
     <keyword>Magic</keyword>
     <keyword>Ranged</keyword>
   </keywords>
-  <type>Free Triggered</type>
+  <type>Free triggered</type>
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <trigger>The target gains a condition or effect that is ended by a saving throw or that ends at the end of their turn.</trigger>
