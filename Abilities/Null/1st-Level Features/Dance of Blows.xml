@@ -11,17 +11,17 @@
   <target>Each enemy in the area</target>
   <metadata>
     <class>null</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>Dance of Blows</file_basename>
     <file_dpath>Null/1st-Level Features</file_dpath>
     <item_id>dance-of-blows</item_id>
-    <item_index>9</item_index>
+    <item_index>10</item_index>
     <item_name>Dance of Blows</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.null.1st-level-feature:dance-of-blows</scc>
-    <scdc>1.1.1:13.1.6.1:09</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:dance-of-blows</scc>
+    <scdc>1.1.1:13.2.6.1:10</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/null/1st-level-feature</type>
+    <type>feature/ability/null/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

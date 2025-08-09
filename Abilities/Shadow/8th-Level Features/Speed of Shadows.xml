@@ -17,11 +17,11 @@
     <file_basename>Speed of Shadows</file_basename>
     <file_dpath>Shadow/8th-Level Features</file_dpath>
     <item_id>speed-of-shadows-11-insight</item_id>
-    <item_index>02</item_index>
+    <item_index>03</item_index>
     <item_name>Speed of Shadows (11 Insight)</item_name>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:speed-of-shadows-11-insight</scc>
-    <scdc>1.1.1:13.2.2.2:02</scdc>
+    <scdc>1.1.1:13.2.2.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/shadow/8th-level-feature</type>
   </metadata>

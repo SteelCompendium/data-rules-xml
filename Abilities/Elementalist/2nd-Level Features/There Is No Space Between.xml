@@ -11,17 +11,17 @@
   <target>Special</target>
   <metadata>
     <class>elementalist</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>There Is No Space Between</file_basename>
     <file_dpath>Elementalist/2nd-Level Features</file_dpath>
     <item_id>there-is-no-space-between</item_id>
-    <item_index>03</item_index>
+    <item_index>04</item_index>
     <item_name>There Is No Space Between</item_name>
     <level>2</level>
-    <scc>mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:there-is-no-space-between</scc>
-    <scdc>1.1.1:13.1.9.6:03</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:there-is-no-space-between</scc>
+    <scdc>1.1.1:13.2.9.5:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/elementalist/2nd-level-feature</type>
+    <type>feature/ability/elementalist/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You open two size 1 portals in unoccupied spaces within distance, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice adjacent to the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.

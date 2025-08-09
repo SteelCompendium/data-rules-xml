@@ -12,17 +12,17 @@
   <target>Each enemy in the area</target>
   <metadata>
     <class>elementalist</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>Unquiet Ground</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
     <item_id>unquiet-ground</item_id>
-    <item_index>27</item_index>
+    <item_index>18</item_index>
     <item_name>Unquiet Ground</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:unquiet-ground</scc>
-    <scdc>1.1.1:13.1.9.1:27</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:unquiet-ground</scc>
+    <scdc>1.1.1:13.2.9.1:18</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/elementalist/1st-level-feature</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

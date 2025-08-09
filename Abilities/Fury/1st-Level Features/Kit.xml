@@ -6,11 +6,11 @@
     <file_basename>Kit</file_basename>
     <file_dpath>Fury/1st-Level Features</file_dpath>
     <item_id>kit</item_id>
-    <item_index>06</item_index>
+    <item_index>04</item_index>
     <item_name>Kit</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:kit</scc>
-    <scdc>1.1.1:13.1.5.1:06</scdc>
+    <scdc>1.1.1:13.1.5.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/fury/1st-level-feature</type>
   </metadata>

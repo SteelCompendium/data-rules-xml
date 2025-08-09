@@ -6,11 +6,11 @@
     <file_basename>Protective Circle</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
     <item_id>protective-circle</item_id>
-    <item_index>20</item_index>
+    <item_index>14</item_index>
     <item_name>Protective Circle</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle</scc>
-    <scdc>1.1.1:13.1.8.1:20</scdc>
+    <scdc>1.1.1:13.1.8.1:14</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>

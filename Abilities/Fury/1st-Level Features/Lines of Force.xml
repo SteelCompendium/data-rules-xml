@@ -10,17 +10,17 @@
   <trigger>The target would be force moved.</trigger>
   <metadata>
     <class>fury</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>Lines of Force</file_basename>
     <file_dpath>Fury/1st-Level Features</file_dpath>
     <item_id>lines-of-force</item_id>
-    <item_index>14</item_index>
+    <item_index>11</item_index>
     <item_name>Lines of Force</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.fury.1st-level-feature:lines-of-force</scc>
-    <scdc>1.1.1:13.1.5.1:14</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:lines-of-force</scc>
+    <scdc>1.1.1:13.2.5.1:11</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/fury/1st-level-feature</type>
+    <type>feature/ability/fury/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You can select a new target of the same size or smaller within distance to be force moved instead. You become the source of the forced movement, determine the new target&apos;s destination, and can push the target instead of using the original forced movement type. Additionally, the forced movement distance gains a bonus equal to your Might score.</effect>

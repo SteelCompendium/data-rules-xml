@@ -18,11 +18,11 @@
     <file_basename>Continuity Error</file_basename>
     <file_dpath>Troubadour/5th-Level Features</file_dpath>
     <item_id>continuity-error-9-drama</item_id>
-    <item_index>04</item_index>
+    <item_index>05</item_index>
     <item_name>Continuity Error (9 Drama)</item_name>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:continuity-error-9-drama</scc>
-    <scdc>1.1.1:13.2.3.4:04</scdc>
+    <scdc>1.1.1:13.2.3.4:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/troubadour/5th-level-feature</type>
   </metadata>

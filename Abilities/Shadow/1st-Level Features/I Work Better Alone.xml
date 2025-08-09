@@ -12,17 +12,17 @@
   <target>One creature</target>
   <metadata>
     <class>shadow</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>I Work Better Alone</file_basename>
     <file_dpath>Shadow/1st-Level Features</file_dpath>
     <item_id>i-work-better-alone</item_id>
-    <item_index>07</item_index>
+    <item_index>9</item_index>
     <item_name>I Work Better Alone</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:i-work-better-alone</scc>
-    <scdc>1.1.1:13.1.2.1:07</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:i-work-better-alone</scc>
+    <scdc>1.1.1:13.2.2.1:09</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/shadow/1st-level-feature</type>
+    <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

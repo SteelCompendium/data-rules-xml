@@ -11,17 +11,17 @@
   <trigger>The target starts their turn or takes damage.</trigger>
   <metadata>
     <class>censor</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>My Life for Yours</file_basename>
     <file_dpath>Censor/1st-Level Features</file_dpath>
     <item_id>my-life-for-yours</item_id>
-    <item_index>05</item_index>
+    <item_index>02</item_index>
     <item_name>My Life for Yours</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.censor.1st-level-feature:my-life-for-yours</scc>
-    <scdc>1.1.1:13.1.7.1:05</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:my-life-for-yours</scc>
+    <scdc>1.1.1:13.2.7.1:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/censor/1st-level-feature</type>
+    <type>feature/ability/censor/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You spend a Recovery and the target regains Stamina equal to your recovery value.</effect>

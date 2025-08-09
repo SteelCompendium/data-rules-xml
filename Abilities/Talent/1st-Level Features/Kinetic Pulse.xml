@@ -11,17 +11,17 @@
   <target>Each enemy in the area</target>
   <metadata>
     <class>talent</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>Kinetic Pulse</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
     <item_id>kinetic-pulse</item_id>
-    <item_index>16</item_index>
+    <item_index>14</item_index>
     <item_name>Kinetic Pulse</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.talent.1st-level-feature:kinetic-pulse</scc>
-    <scdc>1.1.1:13.1.1.1:16</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:kinetic-pulse</scc>
+    <scdc>1.1.1:13.2.1.1:14</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/talent/1st-level-feature</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

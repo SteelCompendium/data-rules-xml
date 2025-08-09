@@ -6,11 +6,11 @@
     <file_basename>Troubadour Abilities</file_basename>
     <file_dpath>Troubadour/1st-Level Features</file_dpath>
     <item_id>troubadour-abilities</item_id>
-    <item_index>15</item_index>
+    <item_index>05</item_index>
     <item_name>Troubadour Abilities</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:troubadour-abilities</scc>
-    <scdc>1.1.1:13.1.3.1:15</scdc>
+    <scdc>1.1.1:13.1.3.1:05</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/trait/troubadour/1st-level-feature</type>
   </metadata>

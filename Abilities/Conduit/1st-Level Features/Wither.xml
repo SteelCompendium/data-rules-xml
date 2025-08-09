@@ -11,17 +11,17 @@
   <target>One creature or object</target>
   <metadata>
     <class>conduit</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>Wither</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
     <item_id>wither</item_id>
-    <item_index>15</item_index>
+    <item_index>9</item_index>
     <item_name>Wither</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:wither</scc>
-    <scdc>1.1.1:13.1.8.1:15</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:wither</scc>
+    <scdc>1.1.1:13.2.8.1:09</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/conduit/1st-level-feature</type>
+    <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

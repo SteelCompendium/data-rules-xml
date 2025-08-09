@@ -11,17 +11,17 @@
   <trigger>The target would take damage from an ability that uses a power roll.</trigger>
   <metadata>
     <class>conduit</class>
-    <feature_type>trait</feature_type>
+    <feature_type>ability</feature_type>
     <file_basename>Word of Judgment</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
     <item_id>word-of-judgment</item_id>
-    <item_index>28</item_index>
+    <item_index>14</item_index>
     <item_name>Word of Judgment</item_name>
     <level>1</level>
-    <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:word-of-judgment</scc>
-    <scdc>1.1.1:13.1.8.1:28</scdc>
+    <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:word-of-judgment</scc>
+    <scdc>1.1.1:13.2.8.1:14</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/trait/conduit/1st-level-feature</type>
+    <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The power roll takes a bane against the target.</effect>
