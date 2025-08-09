@@ -19,11 +19,11 @@
     <file_basename>Violence Will Not Aid Thee</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
     <item_id>violence-will-not-aid-thee-3-piety</item_id>
-    <item_index>18</item_index>
+    <item_index>20</item_index>
     <item_name>Violence Will Not Aid Thee (3 Piety)</item_name>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee-3-piety</scc>
-    <scdc>1.1.1:13.2.8.1:18</scdc>
+    <scdc>1.1.1:13.2.8.1:20</scdc>
     <source>mcdm.heroes.v1</source>
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
