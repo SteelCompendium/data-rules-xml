@@ -7,7 +7,7 @@
     <keyword>Magic</keyword>
     <keyword>Ranged</keyword>
   </keywords>
-  <type>Main Action</type>
+  <type>Main action</type>
   <distance>3 cube within 10</distance>
   <target>Each enemy in the area</target>
   <metadata>

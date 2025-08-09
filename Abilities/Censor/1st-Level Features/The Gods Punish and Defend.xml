@@ -8,7 +8,7 @@
     <keyword>Strike</keyword>
     <keyword>Weapon</keyword>
   </keywords>
-  <type>Main Action</type>
+  <type>Main action</type>
   <distance>Melee 1</distance>
   <target>One creature or object</target>
   <metadata>

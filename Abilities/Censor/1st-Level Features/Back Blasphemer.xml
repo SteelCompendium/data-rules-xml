@@ -7,7 +7,7 @@
     <keyword>Melee</keyword>
     <keyword>Weapon</keyword>
   </keywords>
-  <type>Main Action</type>
+  <type>Main action</type>
   <distance>2 cube within 1</distance>
   <target>Each enemy in the area</target>
   <metadata>

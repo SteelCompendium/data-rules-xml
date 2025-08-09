@@ -32,7 +32,7 @@ A creature that has the Earth Accepts Me ability can use it as a free action to 
 | --------------------------------- | ----------------------------: |
 | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |</effect>
     <effect type="roll">
-      <roll>2d10 + 3</roll>
+      <roll>Power Roll + 3</roll>
       <t1>5 damage; push 3</t1>
       <t2>9 damage; push 4</t2>
       <t3>12 damage; push 5</t3>

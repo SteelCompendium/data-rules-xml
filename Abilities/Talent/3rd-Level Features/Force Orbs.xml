@@ -8,7 +8,7 @@
     <keyword>Strike</keyword>
     <keyword>Telekinesis</keyword>
   </keywords>
-  <type>Main Action</type>
+  <type>Main action</type>
   <distance>Self; see below</distance>
   <target>Self</target>
   <metadata>

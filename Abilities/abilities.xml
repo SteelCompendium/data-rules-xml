@@ -704,7 +704,7 @@
       <keyword>Magic</keyword>
       <keyword>Ranged</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>3 cube within 10</distance>
     <target>Each enemy in the area</target>
     <metadata>
@@ -1686,7 +1686,7 @@
   | --------------------------------- | ----------------------------: |
   | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |</effect>
       <effect type="roll">
-        <roll>2d10 + 3</roll>
+        <roll>Power Roll + 3</roll>
         <t1>5 damage; push 3</t1>
         <t2>9 damage; push 4</t2>
         <t3>12 damage; push 5</t3>
@@ -3463,11 +3463,11 @@
       <file_basename>Spirit Ward</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>spirit-ward</item_id>
-      <item_index>23</item_index>
+      <item_index>22</item_index>
       <item_name>Spirit Ward</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:spirit-ward</scc>
-      <scdc>1.1.1:13.1.8.1:23</scdc>
+      <scdc>1.1.1:13.1.8.1:22</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3483,11 +3483,11 @@
       <file_basename>Trickery Domain Piety and Effect</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>trickery-domain-piety-and-effect</item_id>
-      <item_index>30</item_index>
+      <item_index>29</item_index>
       <item_name>Trickery Domain Piety and Effect</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:trickery-domain-piety-and-effect</scc>
-      <scdc>1.1.1:13.1.8.1:30</scdc>
+      <scdc>1.1.1:13.1.8.1:29</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3539,11 +3539,11 @@
       <file_basename>Blessing of Comprehension</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>blessing-of-comprehension</item_id>
-      <item_index>26</item_index>
+      <item_index>25</item_index>
       <item_name>Blessing of Comprehension</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension</scc>
-      <scdc>1.1.1:13.1.8.1:26</scdc>
+      <scdc>1.1.1:13.1.8.1:25</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3658,11 +3658,11 @@
       <file_basename>Sanctified Weapon</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>sanctified-weapon</item_id>
-      <item_index>28</item_index>
+      <item_index>27</item_index>
       <item_name>Sanctified Weapon</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sanctified-weapon</scc>
-      <scdc>1.1.1:13.1.8.1:28</scdc>
+      <scdc>1.1.1:13.1.8.1:27</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3678,11 +3678,11 @@
       <file_basename>Oracular Visions</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>oracular-visions</item_id>
-      <item_index>29</item_index>
+      <item_index>28</item_index>
       <item_name>Oracular Visions</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions</scc>
-      <scdc>1.1.1:13.1.8.1:29</scdc>
+      <scdc>1.1.1:13.1.8.1:28</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3791,11 +3791,11 @@
       <file_basename>Storm Domain Piety and Effect</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>storm-domain-piety-and-effect</item_id>
-      <item_index>22</item_index>
+      <item_index>21</item_index>
       <item_name>Storm Domain Piety and Effect</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:storm-domain-piety-and-effect</scc>
-      <scdc>1.1.1:13.1.8.1:22</scdc>
+      <scdc>1.1.1:13.1.8.1:21</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3833,11 +3833,11 @@
       <file_basename>Prayer of Distance</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>prayer-of-distance</item_id>
-      <item_index>25</item_index>
+      <item_index>24</item_index>
       <item_name>Prayer of Distance</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-distance</scc>
-      <scdc>1.1.1:13.1.8.1:25</scdc>
+      <scdc>1.1.1:13.1.8.1:24</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3853,11 +3853,11 @@
       <file_basename>Deity and Domains</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>deity-and-domains</item_id>
-      <item_index>32</item_index>
+      <item_index>31</item_index>
       <item_name>Deity and Domains</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:deity-and-domains</scc>
-      <scdc>1.1.1:13.1.8.1:32</scdc>
+      <scdc>1.1.1:13.1.8.1:31</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -3887,11 +3887,11 @@
       <file_basename>Violence Will Not Aid Thee</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>violence-will-not-aid-thee-3-piety</item_id>
-      <item_index>20</item_index>
+      <item_index>21</item_index>
       <item_name>Violence Will Not Aid Thee (3 Piety)</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee-3-piety</scc>
-      <scdc>1.1.1:13.2.8.1:20</scdc>
+      <scdc>1.1.1:13.2.8.1:21</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/conduit/1st-level-feature</type>
     </metadata>
@@ -4178,40 +4178,20 @@
     <target>One dead creature</target>
     <metadata>
       <class>conduit</class>
-      <feature_type>trait</feature_type>
+      <feature_type>ability</feature_type>
       <file_basename>Grave Speech</file_basename>
-      <file_dpath>Conduit/1st-Level Features</file_dpath>
+      <file_dpath>Abilities/Conduit/1st-Level Features</file_dpath>
       <item_id>grave-speech</item_id>
-      <item_index>20</item_index>
+      <item_index>19</item_index>
       <item_name>Grave Speech</item_name>
       <level>1</level>
-      <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:grave-speech</scc>
-      <scdc>1.1.1:13.1.8.1:20</scdc>
+      <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:grave-speech</scc>
+      <scdc>1.1.1:13.2.8.1:19</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>feature/trait/conduit/1st-level-feature</type>
+      <type>feature/ability/conduit/1st-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature&apos;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&apos;t use this ability on the same creature twice.
-  ##### Hands of the Maker
-  You have the following ability.
-  ###### Hands of the Maker
-  *You craft objects with the power of your mind.*
-  | **Magic**   | **Maneuver** |
-  | ----------- | -----------: |
-  | **📏 Self** |  **🎯 Self** |</effect>
-      <effect type="mundane">You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
-  ##### Inner Light
-  Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. You place a ray of morning light into the chosen character&apos;s soul, granting them a +1 bonus to saving throws that lasts until you finish another respite.
-  ##### Inspired Deception
-  The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.
-  ##### Oracular Visions
-  Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. Whenever you or a creature within 10 squares makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
-  ##### Protective Circle
-  You can spend 10 uninterrupted minutes to create a protective circle on the ground large enough to hold one size 1 creature. The circle lasts for 24 hours, until you create another, or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective circle, a creature can&apos;t be targeted by strikes.
-  ##### Revitalizing Ritual
-  Each time you finish a respite, you can choose yourself or one ally who is also finishing a respite to gain the benefit of a divine ritual. The chosen character gains a bonus to their recovery value equal to your level that lasts until you finish another respite.
-  ##### Sanctified Weapon
-  As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to rolled damage with abilities that use the weapon. This benefit lasts until you finish another respite.</effect>
+      <effect type="mundane">You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature&apos;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&apos;t use this ability on the same creature twice.</effect>
     </effects>
   </ability>
   <ability>
@@ -4380,11 +4360,11 @@
       <file_basename>Blessing of Compassion</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>blessing-of-compassion</item_id>
-      <item_index>31</item_index>
+      <item_index>30</item_index>
       <item_name>Blessing of Compassion</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-compassion</scc>
-      <scdc>1.1.1:13.1.8.1:31</scdc>
+      <scdc>1.1.1:13.1.8.1:30</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -4431,11 +4411,11 @@
       <file_basename>Drain</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>drain</item_id>
-      <item_index>19</item_index>
+      <item_index>20</item_index>
       <item_name>Drain</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:drain</scc>
-      <scdc>1.1.1:13.2.8.1:19</scdc>
+      <scdc>1.1.1:13.2.8.1:20</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/conduit/1st-level-feature</type>
     </metadata>
@@ -4457,11 +4437,11 @@
       <file_basename>Prayer of Steel</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>prayer-of-steel</item_id>
-      <item_index>33</item_index>
+      <item_index>32</item_index>
       <item_name>Prayer of Steel</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-steel</scc>
-      <scdc>1.1.1:13.1.8.1:33</scdc>
+      <scdc>1.1.1:13.1.8.1:32</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -4540,11 +4520,11 @@
       <file_basename>Sermon of Grace</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>sermon-of-grace-5-piety</item_id>
-      <item_index>22</item_index>
+      <item_index>23</item_index>
       <item_name>Sermon of Grace (5 Piety)</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:sermon-of-grace-5-piety</scc>
-      <scdc>1.1.1:13.2.8.1:22</scdc>
+      <scdc>1.1.1:13.2.8.1:23</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/conduit/1st-level-feature</type>
     </metadata>
@@ -4569,11 +4549,11 @@
       <file_basename>Ray of Wrath</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>ray-of-wrath</item_id>
-      <item_index>21</item_index>
+      <item_index>22</item_index>
       <item_name>Ray of Wrath</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:ray-of-wrath</scc>
-      <scdc>1.1.1:13.2.8.1:21</scdc>
+      <scdc>1.1.1:13.2.8.1:22</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/ability/conduit/1st-level-feature</type>
     </metadata>
@@ -4636,11 +4616,11 @@
       <file_basename>Quickness Ward</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>quickness-ward</item_id>
-      <item_index>21</item_index>
+      <item_index>20</item_index>
       <item_name>Quickness Ward</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:quickness-ward</scc>
-      <scdc>1.1.1:13.1.8.1:21</scdc>
+      <scdc>1.1.1:13.1.8.1:20</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -4859,11 +4839,11 @@
       <file_basename>Prayer of Soldiers Skill</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>prayer-of-soldiers-skill</item_id>
-      <item_index>27</item_index>
+      <item_index>26</item_index>
       <item_name>Prayer of Soldier&apos;s Skill</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-soldiers-skill</scc>
-      <scdc>1.1.1:13.1.8.1:27</scdc>
+      <scdc>1.1.1:13.1.8.1:26</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -4880,11 +4860,11 @@
       <file_basename>Protection Domain Piety and Effect</file_basename>
       <file_dpath>Conduit/1st-Level Features</file_dpath>
       <item_id>protection-domain-piety-and-effect</item_id>
-      <item_index>24</item_index>
+      <item_index>23</item_index>
       <item_name>Protection Domain Piety and Effect</item_name>
       <level>1</level>
       <scc>mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protection-domain-piety-and-effect</scc>
-      <scdc>1.1.1:13.1.8.1:24</scdc>
+      <scdc>1.1.1:13.1.8.1:23</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/conduit/1st-level-feature</type>
     </metadata>
@@ -5751,7 +5731,7 @@
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>One creature</target>
     <metadata>
@@ -7610,7 +7590,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -7669,7 +7649,7 @@
       <keyword>Melee</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>2 cube within 1</distance>
     <target>Each enemy in the area</target>
     <metadata>
@@ -7704,7 +7684,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature or object</target>
     <metadata>
@@ -7841,7 +7821,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1 or ranged 5</distance>
     <target>One creature</target>
     <metadata>
@@ -7901,7 +7881,7 @@
     <keywords>
       <keyword>Magic</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Self</distance>
     <target>Self</target>
     <metadata>
@@ -7984,7 +7964,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature or object</target>
     <metadata>
@@ -8064,7 +8044,7 @@
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>One creature</target>
     <metadata>
@@ -8103,7 +8083,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -8192,7 +8172,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature or object</target>
     <metadata>
@@ -8332,7 +8312,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature or object</target>
     <metadata>
@@ -8373,7 +8353,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1 or ranged 5</distance>
     <target>One creature</target>
     <metadata>
@@ -8412,7 +8392,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature or object</target>
     <metadata>
@@ -8471,7 +8451,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>One creature</target>
     <metadata>
@@ -8510,7 +8490,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>One creature</target>
     <metadata>
@@ -8549,7 +8529,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -8588,7 +8568,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -9156,7 +9136,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -9215,7 +9195,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -9346,7 +9326,7 @@
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>One creature</target>
     <metadata>
@@ -9386,7 +9366,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -9770,7 +9750,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -9809,7 +9789,7 @@
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>One creature</target>
     <metadata>
@@ -9946,7 +9926,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1</distance>
     <target>One creature</target>
     <metadata>
@@ -10147,7 +10127,7 @@
       <keyword>Magic</keyword>
       <keyword>Ranged</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Ranged 10</distance>
     <target>Self and each ally</target>
     <metadata>
@@ -12197,6 +12177,7 @@
   <ability>
     <name>Entropic Field</name>
     <cost>5 Discipline</cost>
+    <flavor>You drastically increase the local entropy.</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Psionic</keyword>
@@ -13887,6 +13868,7 @@
   </ability>
   <ability>
     <name>Lines of Force</name>
+    <flavor>You redirect the energy of motion.</flavor>
     <keywords>
       <keyword>Magic</keyword>
       <keyword>Melee</keyword>
@@ -13972,6 +13954,7 @@
   <ability>
     <name>Primordial Rage</name>
     <cost>11 Ferocity</cost>
+    <flavor>Your ferocity manifests into primordial power.</flavor>
     <keywords>
       <keyword>Magic</keyword>
     </keywords>
@@ -16232,6 +16215,7 @@
   <ability>
     <name>Floodgates Open</name>
     <cost>11 Focus</cost>
+    <flavor>You direct your squad to strike in unison and with devastating effect.</flavor>
     <keywords>
       <keyword>Ranged</keyword>
     </keywords>
@@ -16603,6 +16587,7 @@
   <ability>
     <name>Instant Retaliation</name>
     <cost>9 Focus</cost>
+    <flavor>You parry with almost supernatural speed.</flavor>
     <keywords>
       <keyword>Melee</keyword>
       <keyword>Weapon</keyword>
@@ -17602,7 +17587,7 @@
       <keyword>Strike</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1 or ranged 5</distance>
     <target>One creature</target>
     <metadata>
@@ -18335,7 +18320,7 @@
       <keyword>Magic</keyword>
       <keyword>Ranged</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>3 cube within 10</distance>
     <target>Each enemy in the area</target>
     <metadata>
@@ -18541,7 +18526,7 @@
       <keyword>Ranged</keyword>
       <keyword>Strike</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Melee 1 or ranged 10</distance>
     <target>One creature or object</target>
     <metadata>
@@ -19993,6 +19978,7 @@
   <ability>
     <name>Guest Star</name>
     <cost>5 Drama</cost>
+    <flavor>We offered them a percentage of the gross. So they&apos;re working for free!</flavor>
     <keywords>
       <keyword>Magic</keyword>
       <keyword>Ranged</keyword>
@@ -22811,6 +22797,7 @@
   <ability>
     <name>Staggering Blow</name>
     <cost>7 Insight</cost>
+    <flavor>There&apos;s no recovering from this.</flavor>
     <keywords>
       <keyword>Melee</keyword>
       <keyword>Ranged</keyword>
@@ -22982,7 +22969,7 @@
       <keyword>Melee</keyword>
       <keyword>Weapon</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Self; see below</distance>
     <target>Self</target>
     <metadata>
@@ -24268,7 +24255,7 @@
         <t2>6 + P damage</t2>
         <t3>9 + P damage</t3>
       </effect>
-      <effect type="mundane">Effect: You gain 1 surge.</effect>
+      <effect type="mundane">You gain 1 surge.</effect>
       <effect type="mundane" name="Strained">The target takes an extra 3 damage. You also take 3 damage that can&apos;t be reduced in any way.</effect>
     </effects>
   </ability>
@@ -24754,7 +24741,7 @@
       <keyword>Ranged</keyword>
       <keyword>Telekinesis</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>4 cube within 10</distance>
     <target>Each creature and object in the area</target>
     <metadata>
@@ -24916,7 +24903,7 @@
       <keyword>Psionic</keyword>
       <keyword>Ranged</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>4 cube within 10</distance>
     <target>Each creature and object in the area</target>
     <metadata>
@@ -25812,7 +25799,7 @@
       <keyword>Strike</keyword>
       <keyword>Telekinesis</keyword>
     </keywords>
-    <type>Main Action</type>
+    <type>Main action</type>
     <distance>Self; see below</distance>
     <target>Self</target>
     <metadata>

@@ -1,6 +1,7 @@
 <ability>
   <name>Floodgates Open</name>
   <cost>11 Focus</cost>
+  <flavor>You direct your squad to strike in unison and with devastating effect.</flavor>
   <keywords>
     <keyword>Ranged</keyword>
   </keywords>

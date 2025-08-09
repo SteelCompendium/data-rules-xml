@@ -8,7 +8,7 @@
     <keyword>Psionic</keyword>
     <keyword>Ranged</keyword>
   </keywords>
-  <type>Main Action</type>
+  <type>Main action</type>
   <distance>4 cube within 10</distance>
   <target>Each creature and object in the area</target>
   <metadata>

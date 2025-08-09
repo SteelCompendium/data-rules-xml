@@ -7,7 +7,7 @@
     <keyword>Strike</keyword>
     <keyword>Weapon</keyword>
   </keywords>
-  <type>Main Action</type>
+  <type>Main action</type>
   <distance>Ranged 10</distance>
   <target>One creature</target>
   <metadata>
