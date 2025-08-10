@@ -8,7 +8,7 @@
   </keywords>
   <type>Maneuver</type>
   <distance>Ranged 10</distance>
-  <target>one ally</target>
+  <target>One ally</target>
   <metadata>
     <class>conduit</class>
     <cost>11 Piety</cost>

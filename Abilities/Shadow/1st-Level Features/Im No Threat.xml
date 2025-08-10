@@ -6,7 +6,7 @@
   </keywords>
   <type>Maneuver</type>
   <distance>Self</distance>
-  <target>\\ Self</target>
+  <target>Self</target>
   <metadata>
     <class>shadow</class>
     <feature_type>ability</feature_type>

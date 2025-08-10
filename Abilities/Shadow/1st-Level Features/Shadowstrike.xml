@@ -8,7 +8,7 @@
     <keyword>Ranged</keyword>
   </keywords>
   <type>Main action</type>
-  <distance>Self; see below 5</distance>
+  <distance>Self; see below</distance>
   <target>Self</target>
   <metadata>
     <class>shadow</class>

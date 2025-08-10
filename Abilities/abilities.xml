@@ -6773,7 +6773,7 @@
     </keywords>
     <type>Maneuver</type>
     <distance>Ranged 10</distance>
-    <target>one ally</target>
+    <target>One ally</target>
     <metadata>
       <class>conduit</class>
       <cost>11 Piety</cost>
@@ -7807,7 +7807,8 @@
   - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
   - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
   - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-  - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn. You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.</effect>
+  - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+  You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.</effect>
     </effects>
   </ability>
   <ability>
@@ -12897,11 +12898,11 @@
       <file_basename>Discipline Mastery Improvement</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>discipline-mastery-improvement</item_id>
-      <item_index>07</item_index>
+      <item_index>06</item_index>
       <item_name>Discipline Mastery Improvement</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:discipline-mastery-improvement</scc>
-      <scdc>1.1.1:13.1.6.9:07</scdc>
+      <scdc>1.1.1:13.1.6.9:06</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -12917,11 +12918,11 @@
       <file_basename>Enhanced Null Field</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>enhanced-null-field</item_id>
-      <item_index>10</item_index>
+      <item_index>9</item_index>
       <item_name>Enhanced Null Field</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:enhanced-null-field</scc>
-      <scdc>1.1.1:13.1.6.9:10</scdc>
+      <scdc>1.1.1:13.1.6.9:09</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -13033,31 +13034,6 @@
     </effects>
   </ability>
   <ability>
-    <name>5th-Level Tradition Feature</name>
-    <metadata>
-      <class>null</class>
-      <feature_type>trait</feature_type>
-      <file_basename>5th Level Tradition Feature</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <item_id>5th-level-tradition-feature</item_id>
-      <item_index>05</item_index>
-      <item_name>5th-Level Tradition Feature</item_name>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:5th-level-tradition-feature</scc>
-      <scdc>1.1.1:13.1.6.9:05</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
-  | Tradition     | Feature            |
-  | ------------- | ------------------ |
-  | Chronokinetic | Instant Action     |
-  | Cryokinetic   | Chilling Readiness |
-  | Metakinetic   | Inertial Fulcrum   |</effect>
-    </effects>
-  </ability>
-  <ability>
     <name>Iron Grip</name>
     <cost>9 Discipline</cost>
     <flavor>You grab the target with supernatural force.</flavor>
@@ -13146,11 +13122,11 @@
       <file_basename>Instant Action</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>instant-action</item_id>
-      <item_index>8</item_index>
+      <item_index>07</item_index>
       <item_name>Instant Action</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:instant-action</scc>
-      <scdc>1.1.1:13.1.6.9:08</scdc>
+      <scdc>1.1.1:13.1.6.9:07</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -13207,11 +13183,11 @@
       <file_basename>Characteristic Increase</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>characteristic-increase</item_id>
-      <item_index>06</item_index>
+      <item_index>05</item_index>
       <item_name>Characteristic Increase</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:characteristic-increase</scc>
-      <scdc>1.1.1:13.1.6.9:06</scdc>
+      <scdc>1.1.1:13.1.6.9:05</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -13227,11 +13203,11 @@
       <file_basename>Regenerative Field</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>regenerative-field</item_id>
-      <item_index>9</item_index>
+      <item_index>8</item_index>
       <item_name>Regenerative Field</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:regenerative-field</scc>
-      <scdc>1.1.1:13.1.6.9:09</scdc>
+      <scdc>1.1.1:13.1.6.9:08</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -13674,7 +13650,7 @@
       <keyword>Weapon</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>5x1 line within 1</distance>
+    <distance>5 x 1 line within 1</distance>
     <target>Each enemy in the area</target>
     <metadata>
       <class>fury</class>
@@ -21168,7 +21144,7 @@
     </keywords>
     <type>Triggered</type>
     <distance>Self</distance>
-    <target>\\ Self</target>
+    <target>Self</target>
     <trigger>You take damage.</trigger>
     <metadata>
       <class>shadow</class>
@@ -21286,7 +21262,7 @@
       <keyword>Ranged</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>Self; see below 5</distance>
+    <distance>Self; see below</distance>
     <target>Self</target>
     <metadata>
       <class>shadow</class>
@@ -21355,7 +21331,7 @@
     </keywords>
     <type>Maneuver</type>
     <distance>Self</distance>
-    <target>\\ Self</target>
+    <target>Self</target>
     <metadata>
       <class>shadow</class>
       <feature_type>ability</feature_type>
@@ -21503,7 +21479,7 @@
     </keywords>
     <type>Triggered</type>
     <distance>Self</distance>
-    <target>\\ Self</target>
+    <target>Self</target>
     <trigger>An enemy targets you with a strike.</trigger>
     <metadata>
       <class>shadow</class>

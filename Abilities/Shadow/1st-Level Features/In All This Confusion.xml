@@ -6,7 +6,7 @@
   </keywords>
   <type>Triggered</type>
   <distance>Self</distance>
-  <target>\\ Self</target>
+  <target>Self</target>
   <trigger>You take damage.</trigger>
   <metadata>
     <class>shadow</class>
