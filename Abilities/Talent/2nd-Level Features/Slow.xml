@@ -30,7 +30,7 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
-      <t1>The target&apos;s speed is halved (save ends), or if p</t1>
+      <t1>The target&apos;s speed is halved (save ends), or if P &lt; WEAK, the target is slowed (save ends).</t1>
       <t2>The target is slowed (save ends), or if P &lt; AVERAGE, the target&apos;s speed is 0 (save ends).</t2>
       <t3>The target is slowed (save ends), or if P &lt; STRONG, the target&apos;s speed is 0 (save ends).</t3>
     </effect>

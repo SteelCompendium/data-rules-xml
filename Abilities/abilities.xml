@@ -12421,7 +12421,7 @@
       <type>feature/ability/null/3rd-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has i</effect>
+      <effect type="mundane">Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.</effect>
     </effects>
   </ability>
   <ability>
@@ -24134,9 +24134,9 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Presence</roll>
-        <t1>2 + P corruption damage; p</t1>
-        <t2>3 + P corruption damage; p</t2>
-        <t3>5 + P corruption damage; p</t3>
+        <t1>2 + P corruption damage; P &lt; WEAK, slowed (save ends)</t1>
+        <t2>3 + P corruption damage; P &lt; AVERAGE, slowed (save ends)</t2>
+        <t3>5 + P corruption damage; P &lt; STRONG, slowed (save ends)</t3>
       </effect>
       <effect type="mundane">The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.</effect>
       <effect type="mundane" name="Strained">You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</effect>
@@ -25537,7 +25537,7 @@
     <effects>
       <effect type="roll">
         <roll>Power Roll + Presence</roll>
-        <t1>The target&apos;s speed is halved (save ends), or if p</t1>
+        <t1>The target&apos;s speed is halved (save ends), or if P &lt; WEAK, the target is slowed (save ends).</t1>
         <t2>The target is slowed (save ends), or if P &lt; AVERAGE, the target&apos;s speed is 0 (save ends).</t2>
         <t3>The target is slowed (save ends), or if P &lt; STRONG, the target&apos;s speed is 0 (save ends).</t3>
       </effect>
