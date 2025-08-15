@@ -24,6 +24,6 @@
     <type>feature/ability/troubadour/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&apos;t spend Recoveries or use triggered actions At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</effect>
+    <effect type="mundane">While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&apos;t spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</effect>
   </effects>
 </ability>

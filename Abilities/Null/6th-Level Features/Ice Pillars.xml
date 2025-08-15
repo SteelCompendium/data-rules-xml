@@ -28,7 +28,7 @@
   </metadata>
   <effects>
     <effect type="roll">
-      <roll>Power Roll + Reason</roll>
+      <roll>Power Roll + Intuition</roll>
       <t1>Vertical slide 6</t1>
       <t2>Vertical slide 8</t2>
       <t3>Vertical slide 10</t3>
