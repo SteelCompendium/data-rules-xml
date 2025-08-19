@@ -6104,7 +6104,7 @@
   <ability>
     <name>Morning Light</name>
     <cost>5 Piety</cost>
-    <flavor>Light shines at your command, burning your foes and blessing your</flavor>
+    <flavor>Light shines at your command, burning your foes and blessing your allies.</flavor>
     <keywords>
       <keyword>Area</keyword>
       <keyword>Magic</keyword>
@@ -17663,7 +17663,7 @@
   <ability>
     <name>Their Lack of Focus Is Their Undoing</name>
     <cost>11 Focus</cost>
-    <flavor>You trick your enemies into attacking each other and leave them</flavor>
+    <flavor>You trick your enemies into attacking each other and leave them confused by the aftermath.</flavor>
     <keywords>
       <keyword>Magic</keyword>
       <keyword>Ranged</keyword>
@@ -21072,7 +21072,7 @@
       <keyword>Weapon</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>Melee 1</distance>
+    <distance>Melee 1 or ranged 5</distance>
     <target>One creature</target>
     <metadata>
       <class>shadow</class>
@@ -21203,7 +21203,7 @@
   <ability>
     <name>Eviscerate</name>
     <cost>3 Insight</cost>
-    <flavor>You leave your foe bleeding out after a devastating attack</flavor>
+    <flavor>You leave your foe bleeding out after a devastating attack.</flavor>
     <keywords>
       <keyword>Melee</keyword>
       <keyword>Ranged</keyword>
@@ -23013,7 +23013,7 @@
   <ability>
     <name>To the Stars</name>
     <cost>11 Insight</cost>
-    <flavor>You attach your most potent explosive to your foe. Under less pressing</flavor>
+    <flavor>You attach your most potent explosive to your foe. Under less pressing circumstances, you&apos;re sure you could launch them into orbit.</flavor>
     <keywords>
       <keyword>Melee</keyword>
       <keyword>Ranged</keyword>

@@ -9,7 +9,7 @@
     <keyword>Weapon</keyword>
   </keywords>
   <type>Main action</type>
-  <distance>Melee 1</distance>
+  <distance>Melee 1 or ranged 5</distance>
   <target>One creature</target>
   <metadata>
     <class>shadow</class>

@@ -1,7 +1,7 @@
 <ability>
   <name>Eviscerate</name>
   <cost>3 Insight</cost>
-  <flavor>You leave your foe bleeding out after a devastating attack</flavor>
+  <flavor>You leave your foe bleeding out after a devastating attack.</flavor>
   <keywords>
     <keyword>Melee</keyword>
     <keyword>Ranged</keyword>

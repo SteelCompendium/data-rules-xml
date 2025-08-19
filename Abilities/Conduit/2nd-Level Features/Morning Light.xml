@@ -1,7 +1,7 @@
 <ability>
   <name>Morning Light</name>
   <cost>5 Piety</cost>
-  <flavor>Light shines at your command, burning your foes and blessing your</flavor>
+  <flavor>Light shines at your command, burning your foes and blessing your allies.</flavor>
   <keywords>
     <keyword>Area</keyword>
     <keyword>Magic</keyword>
