@@ -11,6 +11,7 @@
   <target>One ally</target>
   <trigger>A creature makes a strike against the target.</trigger>
   <metadata>
+    <action_type>Free triggered</action_type>
     <class>censor</class>
     <cost>9 Wrath</cost>
     <cost_amount>9</cost_amount>
@@ -30,7 +31,7 @@
     <scdc>1.1.1:13.2.7.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One ally</target>
-    <type>Free triggered</type>
+    <type>feature/ability/censor/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target is unaffected by the strike and you become the target instead, even if you aren&apos;t a valid target for it. You take half the damage from the strike, and the target gains 3 surges.</effect>

@@ -8,6 +8,7 @@
   <distance>Ranged 10</distance>
   <target>One ally</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>tactician</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -23,7 +24,7 @@
     <scdc>1.1.1:13.2.4.1:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One ally</target>
-    <type>Main action</type>
+    <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target can use a signature ability as a free triggered action.</effect>

@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>One creature or object</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>conduit</class>
     <cost>11 Piety</cost>
     <cost_amount>11</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.8.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature or object</target>
-    <type>Main action</type>
+    <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

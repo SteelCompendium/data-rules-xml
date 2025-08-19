@@ -13,6 +13,7 @@
   <distance>3 cube within 10</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>elementalist</class>
     <cost>5 Essence</cost>
     <cost_amount>5</cost_amount>
@@ -35,7 +36,7 @@
     <scdc>1.1.1:13.2.9.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Maneuver</type>
+    <type>feature/ability/elementalist/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the area gains the following effects:

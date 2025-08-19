@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one size 1 creature or object</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>talent</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -25,7 +26,7 @@
     <scdc>1.1.1:13.2.1.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one size 1 creature or object</target>
-    <type>Maneuver</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You slide the target up to a number of squares equal to your Reason score.</effect>

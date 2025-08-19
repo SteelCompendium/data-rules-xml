@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>talent</class>
     <cost>5 Clarity</cost>
     <cost_amount>5</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.1.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target uses an ability with a base Heroic Resource cost of 7 or lower that they&apos;ve previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.</effect>

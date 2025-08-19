@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>Three creatures</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>shadow</class>
     <cost>9 Insight</cost>
     <cost_amount>9</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.2.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Three creatures</target>
-    <type>Main action</type>
+    <type>feature/ability/shadow/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don&apos;t drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.

@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>Three creatures</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>conduit</class>
     <cost>9 Piety</cost>
     <cost_amount>9</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.8.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Three creatures</target>
-    <type>Maneuver</type>
+    <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.</effect>

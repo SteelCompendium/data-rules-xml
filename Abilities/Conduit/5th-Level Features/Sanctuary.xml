@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>conduit</class>
     <cost>9 Piety</cost>
     <cost_amount>9</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.8.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/conduit/5th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target is removed from the encounter map until the start of their next turn and can spend any number of Recoveries. At the start of their turn, the target reappears in the space they left or the nearest unoccupied space of their choice.</effect>

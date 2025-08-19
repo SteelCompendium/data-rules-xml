@@ -12,6 +12,7 @@
   <distance>10 wall within 10</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>elementalist</class>
     <cost>7 Essence</cost>
     <cost_amount>7</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.9.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Maneuver</type>
+    <type>feature/ability/elementalist/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. Each enemy who enters the area for the first time in a combat round or starts their turn there takes fire damage equal to your Reason score for each square of the area they start their turn in or enter.</effect>

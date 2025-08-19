@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>One creature or object</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>talent</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.1.1:18</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature or object</target>
-    <type>Main action</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

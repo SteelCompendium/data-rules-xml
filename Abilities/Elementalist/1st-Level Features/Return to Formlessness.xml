@@ -10,6 +10,7 @@
   <distance>Melee 1</distance>
   <target>One mundane object</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>elementalist</class>
     <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.9.1:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One mundane object</target>
-    <type>Main action</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.</effect>

@@ -10,6 +10,7 @@
   <distance>Melee 1</distance>
   <target>One creature or object</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>censor</class>
     <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.7.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature or object</target>
-    <type>Main action</type>
+    <type>feature/ability/censor/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

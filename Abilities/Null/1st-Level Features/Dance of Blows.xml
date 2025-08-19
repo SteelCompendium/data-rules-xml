@@ -10,6 +10,7 @@
   <distance>1 burst</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>null</class>
     <distance>1 burst</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.6.1:10</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/null/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

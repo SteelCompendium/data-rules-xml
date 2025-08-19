@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>Self and each ally</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>censor</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -25,7 +26,7 @@
     <scdc>1.1.1:13.2.7.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and each ally</target>
-    <type>Main action</type>
+    <type>feature/ability/censor/7th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&apos;t need line of effect to the bonded creature but you must be on the same world.</effect>

@@ -12,6 +12,7 @@
   <distance>Melee 1 or ranged 5</distance>
   <target>One creature</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>shadow</class>
     <cost>7 Insight</cost>
     <cost_amount>7</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.2.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Main action</type>
+    <type>feature/ability/shadow/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

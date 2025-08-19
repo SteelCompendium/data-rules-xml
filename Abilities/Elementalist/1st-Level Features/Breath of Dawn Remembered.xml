@@ -11,6 +11,7 @@
   <target>Self or one ally</target>
   <trigger>The target starts their turn or takes damage.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>elementalist</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -28,7 +29,7 @@
     <scdc>1.1.1:13.2.9.1:24</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target can spend a Recovery.</effect>

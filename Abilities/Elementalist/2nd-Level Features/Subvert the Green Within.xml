@@ -13,6 +13,7 @@
   <distance>Ranged 10</distance>
   <target>One creature</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>elementalist</class>
     <cost>5 Essence</cost>
     <cost_amount>5</cost_amount>
@@ -35,7 +36,7 @@
     <scdc>1.1.1:13.2.9.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Main action</type>
+    <type>feature/ability/elementalist/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&apos;t. You then make a power roll against the target of this ability.</effect>

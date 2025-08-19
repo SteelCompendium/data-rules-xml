@@ -10,6 +10,7 @@
   <distance>3 burst</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>censor</class>
     <cost>5 Wrath</cost>
     <cost_amount>5</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.7.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Maneuver</type>
+    <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target takes holy damage equal to twice your Presence score. Additionally, each hidden target is automatically revealed and can&apos;t become hidden again until the start of your next turn. You can then use your Judgment ability against one target as a free triggered action.</effect>

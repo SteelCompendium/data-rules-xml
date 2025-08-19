@@ -9,6 +9,7 @@
   <distance>Ranged 5</distance>
   <target>Two creatures</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>tactician</class>
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.4.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Two creatures</target>
-    <type>Maneuver</type>
+    <type>feature/ability/tactician/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target is marked by you, and you gain two surges. Mark Benefit: Until the end of the encounter, whenever you or any ally makes a strike against a creature marked by you, you can spend 2 focus to add one additional target to the strike.</effect>

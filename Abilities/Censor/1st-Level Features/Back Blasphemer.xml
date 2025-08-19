@@ -11,6 +11,7 @@
   <distance>2 cube within 1</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>censor</class>
     <distance>2 cube within 1</distance>
     <feature_type>ability</feature_type>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.7.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/censor/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

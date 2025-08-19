@@ -11,6 +11,7 @@
   <distance>Self; see below</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>troubadour</class>
     <cost>3 Drama</cost>
     <cost_amount>3</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.3.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You shift up to your speed. You make one power roll that targets each enemy you move adjacent to during this shift.</effect>

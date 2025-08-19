@@ -10,6 +10,7 @@
   <target>One creature</target>
   <trigger>The target is not a leader or solo creature, and becomes winded.</trigger>
   <metadata>
+    <action_type>Free triggered</action_type>
     <class>tactician</class>
     <cost>11 Focus</cost>
     <cost_amount>11</cost_amount>
@@ -28,7 +29,7 @@
     <scdc>1.1.1:13.2.4.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Free triggered</type>
+    <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.</effect>

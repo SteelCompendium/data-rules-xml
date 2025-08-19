@@ -9,6 +9,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>shadow</class>
     <cost>7 Insight</cost>
     <cost_amount>7</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.2.6:05</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/shadow/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter, whenever an enemy moves or is force moved adjacent to you or damages you, you can take the Disengage move action as a free triggered action.</effect>

@@ -10,6 +10,7 @@
   <distance>5 aura</distance>
   <target>Self and each ally in the area</target>
   <metadata>
+    <action_type>No action</action_type>
     <class>troubadour</class>
     <distance>5 aura</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.3.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and each ally in the area</target>
-    <type>No action</type>
+    <type>feature/ability/troubadour/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">While this performance is active, each target who starts their turn in the area gains 1 of their Heroic Resource. This Heroic Resource disappears at the end of the target&apos;s turn if they don&apos;t spend it.</effect>

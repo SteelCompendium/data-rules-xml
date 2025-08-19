@@ -11,6 +11,7 @@
   <distance>3 burst</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>troubadour</class>
     <cost>9 Drama</cost>
     <cost_amount>9</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.3.4:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/troubadour/5th-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

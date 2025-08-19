@@ -10,6 +10,7 @@
   <target>One ally</target>
   <trigger>The target would take damage from an ability that uses a power roll.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>conduit</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -26,7 +27,7 @@
     <scdc>1.1.1:13.2.8.1:16</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The power roll takes a bane against the target.</effect>

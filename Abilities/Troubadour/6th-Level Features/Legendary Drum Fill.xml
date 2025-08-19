@@ -10,6 +10,7 @@
   <distance>4 burst</distance>
   <target>Self and each ally in the area</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>troubadour</class>
     <cost>9 Drama</cost>
     <cost_amount>9</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.3.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and each ally in the area</target>
-    <type>Maneuver</type>
+    <type>feature/ability/troubadour/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.</effect>

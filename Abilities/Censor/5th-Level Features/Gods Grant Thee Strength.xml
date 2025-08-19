@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>censor</class>
     <cost>9 Wrath</cost>
     <cost_amount>9</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.7.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Main action</type>
+    <type>feature/ability/censor/5th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target ends any condition or effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up. The target then gains 2 surges, can shift up to their speed while ignoring difficult terrain, and can use a strike signature ability as a free triggered action.</effect>

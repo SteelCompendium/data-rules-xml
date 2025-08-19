@@ -10,6 +10,7 @@
   <target>Self</target>
   <trigger>Another hero ends their turn. That hero can&apos;t have used this ability to start their turn.</trigger>
   <metadata>
+    <action_type>Free triggered</action_type>
     <class>shadow</class>
     <cost>1 Insight</cost>
     <cost_amount>1</cost_amount>
@@ -28,7 +29,7 @@
     <scdc>1.1.1:13.2.2.1:15</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Free triggered</type>
+    <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You take your turn after the triggering hero.</effect>

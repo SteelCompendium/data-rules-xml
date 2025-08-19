@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>One creature</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>troubadour</class>
     <cost>7 Drama</cost>
     <cost_amount>7</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.3.6:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Maneuver</type>
+    <type>feature/ability/troubadour/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities&apos; distances. The target can&apos;t be force moved by an ability used beyond distance this way.

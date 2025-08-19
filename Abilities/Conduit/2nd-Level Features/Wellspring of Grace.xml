@@ -10,6 +10,7 @@
   <distance>3 aura</distance>
   <target>Each ally in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>conduit</class>
     <cost>5 Piety</cost>
     <cost_amount>5</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.8.5:08</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each ally in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.</effect>

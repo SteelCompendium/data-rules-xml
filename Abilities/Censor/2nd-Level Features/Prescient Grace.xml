@@ -11,6 +11,7 @@
   <target>Self or one ally</target>
   <trigger>An enemy within 10 squares starts their turn.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>censor</class>
     <cost>5 Wrath</cost>
     <cost_amount>5</cost_amount>
@@ -30,7 +31,7 @@
     <scdc>1.1.1:13.2.7.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.</effect>

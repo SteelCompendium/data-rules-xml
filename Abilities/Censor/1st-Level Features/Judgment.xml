@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>One enemy</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>censor</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -25,7 +26,7 @@
     <scdc>1.1.1:13.2.7.1:09</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One enemy</target>
-    <type>Maneuver</type>
+    <type>feature/ability/censor/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.

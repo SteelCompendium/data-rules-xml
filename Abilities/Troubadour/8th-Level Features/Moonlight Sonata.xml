@@ -10,6 +10,7 @@
   <distance>5 aura</distance>
   <target>Each ally in the area</target>
   <metadata>
+    <action_type>No action</action_type>
     <class>troubadour</class>
     <distance>5 aura</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.3.2:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each ally in the area</target>
-    <type>No action</type>
+    <type>feature/ability/troubadour/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can&apos;t spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.</effect>

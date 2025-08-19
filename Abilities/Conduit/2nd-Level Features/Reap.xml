@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Each ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>conduit</class>
     <cost>5 Piety</cost>
     <cost_amount>5</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.8.5:10</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.</effect>

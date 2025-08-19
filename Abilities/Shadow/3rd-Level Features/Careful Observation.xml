@@ -8,6 +8,7 @@
   <distance>Ranged 20</distance>
   <target>One creature</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>shadow</class>
     <distance>Ranged 20</distance>
     <feature_type>ability</feature_type>
@@ -23,7 +24,7 @@
     <scdc>1.1.1:13.2.2.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Maneuver</type>
+    <type>feature/ability/shadow/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">As long as you remain within distance of the target, maintain line of effect to them, and strike no other creature first, you gain an edge on the next strike you make against the assessed creature, and gain 1 surge you can use only on that strike.</effect>

@@ -12,6 +12,7 @@
   <distance>4 cube within 10</distance>
   <target>Each creature and object in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>talent</class>
     <cost>9 Clarity</cost>
     <cost_amount>9</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.1.3:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each creature and object in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/talent/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

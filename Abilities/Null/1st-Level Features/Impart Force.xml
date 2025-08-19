@@ -12,6 +12,7 @@
   <distance>Melee 1</distance>
   <target>One creature or object</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>null</class>
     <cost>5 Discipline</cost>
     <cost_amount>5</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.6.1:13</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature or object</target>
-    <type>Maneuver</type>
+    <type>feature/ability/null/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

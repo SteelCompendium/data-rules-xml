@@ -10,6 +10,7 @@
   <distance>4 burst</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>conduit</class>
     <cost>9 Piety</cost>
     <cost_amount>9</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.8.3:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

@@ -10,6 +10,7 @@
   <distance>Special</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>troubadour</class>
     <cost>5 Drama</cost>
     <cost_amount>5</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.3.5:05</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Main action</type>
+    <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You use an ability that you have observed being used this combat round. The ability must have the Strike keyword, cost 5 or fewer of a Heroic Resource, and cost no Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.</effect>

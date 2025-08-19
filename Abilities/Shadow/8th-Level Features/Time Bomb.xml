@@ -9,6 +9,7 @@
   <distance>2 cube within 10</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Free maneuver</action_type>
     <class>shadow</class>
     <distance>2 cube within 10</distance>
     <feature_type>ability</feature_type>
@@ -25,7 +26,7 @@
     <scdc>1.1.1:13.2.2.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Free maneuver</type>
+    <type>feature/ability/shadow/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.

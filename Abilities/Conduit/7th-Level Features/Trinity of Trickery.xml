@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>conduit</class>
     <cost>9 Piety</cost>
     <cost_amount>9</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.8.8:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/conduit/7th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move each duplicate up to their speed. If the target is targeted by an ability, they can use a free triggered action to switch places with a duplicate within their line of effect, making the duplicate the target of the ability instead. When either duplicate takes damage, it is destroyed.</effect>

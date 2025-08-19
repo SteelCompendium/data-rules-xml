@@ -11,6 +11,7 @@
   <distance>3 cube within 10</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>troubadour</class>
     <cost>5 Drama</cost>
     <cost_amount>5</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.3.5:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Main action</type>
+    <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.</effect>

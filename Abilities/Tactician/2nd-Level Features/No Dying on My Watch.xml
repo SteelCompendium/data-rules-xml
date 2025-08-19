@@ -12,6 +12,7 @@
   <target>One enemy</target>
   <trigger>The target deals damage to an ally.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>tactician</class>
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
@@ -32,7 +33,7 @@
     <scdc>1.1.1:13.2.4.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One enemy</target>
-    <type>Triggered</type>
+    <type>feature/ability/tactician/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&apos;t reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.</effect>

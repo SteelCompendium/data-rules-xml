@@ -9,6 +9,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>fury</class>
     <cost>7 Ferocity</cost>
     <cost_amount>7</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.5.5:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/fury/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You gain 20 temporary Stamina.</effect>

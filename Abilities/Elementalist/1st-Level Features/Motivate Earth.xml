@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>elementalist</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.9.1:21</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Main action</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.

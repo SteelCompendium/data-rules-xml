@@ -12,6 +12,7 @@
   <target>Self</target>
   <trigger>You reduce a creature to 0 Stamina with a strike.</trigger>
   <metadata>
+    <action_type>Free triggered</action_type>
     <class>fury</class>
     <cost>9 Ferocity</cost>
     <cost_amount>9</cost_amount>
@@ -32,7 +33,7 @@
     <scdc>1.1.1:13.2.5.3:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Free triggered</type>
+    <type>feature/ability/fury/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You target a creature adjacent to you with the same strike, using the same power roll as the triggering strike.</effect>

@@ -8,6 +8,7 @@
   <distance>Melee 1</distance>
   <target>One dead creature</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>censor</class>
     <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
@@ -23,7 +24,7 @@
     <scdc>1.1.1:13.2.7.1:13</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One dead creature</target>
-    <type>Maneuver</type>
+    <type>feature/ability/censor/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You can speak to the target if they are a creature who has died within the last 24 hours and who can speak a language you know, even if they are just a head. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature&apos;s memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can&apos;t use this ability on the same creature twice.</effect>

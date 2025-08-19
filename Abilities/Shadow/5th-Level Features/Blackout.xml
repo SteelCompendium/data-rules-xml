@@ -10,6 +10,7 @@
   <distance>3 burst</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>shadow</class>
     <cost>9 Insight</cost>
     <cost_amount>9</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.2.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Maneuver</type>
+    <type>feature/ability/shadow/5th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">A black cloud fills the area until the end of your next turn, granting you and your allies concealment against enemies. While you are in the area, whenever an enemy ends their turn in the area, you can use a free triggered action to shift to a new location within the area and make a free strike against them.</effect>

@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>One creature or object</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>troubadour</class>
     <cost>9 Drama</cost>
     <cost_amount>9</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.3.4:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature or object</target>
-    <type>Maneuver</type>
+    <type>feature/ability/troubadour/5th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&apos;re within distance, you can choose to take the damage instead of the target.</effect>

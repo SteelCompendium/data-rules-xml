@@ -12,6 +12,7 @@
   <distance>5 x 2 line within 1</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>talent</class>
     <cost>9 Clarity</cost>
     <cost_amount>9</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.1.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Main action</type>
+    <type>feature/ability/talent/5th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You teleport to a square on the opposite side of the area before making the power roll.</effect>

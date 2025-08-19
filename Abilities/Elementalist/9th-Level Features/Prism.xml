@@ -10,6 +10,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>elementalist</class>
     <cost>11 Essence</cost>
     <cost_amount>11</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.9.7:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Main action</type>
+    <type>feature/ability/elementalist/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.</effect>

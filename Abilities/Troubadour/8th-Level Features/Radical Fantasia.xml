@@ -10,6 +10,7 @@
   <distance>5 aura</distance>
   <target>Self and each ally in the area</target>
   <metadata>
+    <action_type>No action</action_type>
     <class>troubadour</class>
     <distance>5 aura</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.3.2:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and each ally in the area</target>
-    <type>No action</type>
+    <type>feature/ability/troubadour/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">While this performance is active, each target who starts their turn in the area ignores difficult terrain, and any ability they use that imposes forced movement gains a +2 bonus to the forced movement distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</effect>

@@ -10,6 +10,7 @@
   <distance>2 aura</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>censor</class>
     <cost>7 Wrath</cost>
     <cost_amount>7</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.7.6:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Maneuver</type>
+    <type>feature/ability/censor/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter or until you are dying, whenever a target moves or is force moved out of the area, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.</effect>

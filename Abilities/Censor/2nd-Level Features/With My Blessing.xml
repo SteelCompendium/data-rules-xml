@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>censor</class>
     <cost>5 Wrath</cost>
     <cost_amount>5</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.7.5:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Main action</type>
+    <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).</effect>

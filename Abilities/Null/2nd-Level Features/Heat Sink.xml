@@ -9,6 +9,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>null</class>
     <cost>5 Discipline</cost>
     <cost_amount>5</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.6.4:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/null/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the size of your Null Field ability increases by 1, and you and any ally benefit from concealment while in the area. At the end of this turn, each enemy in the area takes cold damage equal to your Intuition score.</effect>

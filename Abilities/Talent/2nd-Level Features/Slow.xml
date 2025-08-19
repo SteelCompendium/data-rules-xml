@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>Three creatures or objects</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>talent</class>
     <cost>5 Clarity</cost>
     <cost_amount>5</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.1.5:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Three creatures or objects</target>
-    <type>Maneuver</type>
+    <type>feature/ability/talent/2nd-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

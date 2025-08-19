@@ -11,6 +11,7 @@
   <distance>Self; see below</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>null</class>
     <cost>9 Discipline</cost>
     <cost_amount>9</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.6.3:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Main action</type>
+    <type>feature/ability/null/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You can shift up to your speed, and squares occupied by enemies or objects are not difficult terrain for this shift. You make one power roll that targets each enemy you moved through during this shift.</effect>

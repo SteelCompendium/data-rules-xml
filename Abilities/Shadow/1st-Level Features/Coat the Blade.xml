@@ -8,6 +8,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>shadow</class>
     <distance>Self</distance>
     <feature_type>ability</feature_type>
@@ -23,7 +24,7 @@
     <scdc>1.1.1:13.2.2.1:11</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.</effect>

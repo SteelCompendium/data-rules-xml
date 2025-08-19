@@ -10,6 +10,7 @@
   <target>One ally</target>
   <trigger>The target takes damage from another creature&apos;s ability while you are hidden.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>shadow</class>
     <distance>Ranged 5</distance>
     <feature_type>ability</feature_type>
@@ -26,7 +27,7 @@
     <scdc>1.1.1:13.2.2.8:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/shadow/4th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target takes half the damage. You remain hidden.</effect>

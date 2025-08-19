@@ -9,6 +9,7 @@
   <distance>1 aura</distance>
   <target>Each enemy in the area</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>null</class>
     <distance>1 aura</distance>
     <feature_type>ability</feature_type>
@@ -25,7 +26,7 @@
     <scdc>1.1.1:13.2.6.1:11</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Each enemy in the area</target>
-    <type>Maneuver</type>
+    <type>feature/ability/null/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target reduces their potencies by 1.

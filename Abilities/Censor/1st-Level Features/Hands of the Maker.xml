@@ -8,6 +8,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>censor</class>
     <distance>Self</distance>
     <feature_type>ability</feature_type>
@@ -23,7 +24,7 @@
     <scdc>1.1.1:13.2.7.1:10</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/censor/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You create a mundane object of size 1S or smaller. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).</effect>

@@ -10,6 +10,7 @@
   <target>Self or one ally</target>
   <trigger>The target takes damage or is force moved.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>talent</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -26,7 +27,7 @@
     <scdc>1.1.1:13.2.1.1:17</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.</effect>

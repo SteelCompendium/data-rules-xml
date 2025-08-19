@@ -9,6 +9,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Free maneuver</action_type>
     <class>fury</class>
     <cost>5 Ferocity</cost>
     <cost_amount>5</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.5.1:15</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Free maneuver</type>
+    <type>feature/ability/fury/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.</effect>

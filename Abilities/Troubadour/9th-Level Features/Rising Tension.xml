@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>One ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>troubadour</class>
     <cost>11 Drama</cost>
     <cost_amount>11</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.3.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</effect>

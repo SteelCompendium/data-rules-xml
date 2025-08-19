@@ -12,6 +12,7 @@
   <distance>Ranged 10</distance>
   <target>One creature</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>talent</class>
     <cost>3 Clarity</cost>
     <cost_amount>3</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.1.1:16</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Main action</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>

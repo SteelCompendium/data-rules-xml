@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>tactician</class>
     <cost>11 Focus</cost>
     <cost_amount>11</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.4.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Main action</type>
+    <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.</effect>

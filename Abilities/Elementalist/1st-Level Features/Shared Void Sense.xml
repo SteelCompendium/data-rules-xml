@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>elementalist</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.9.1:12</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Maneuver</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn&apos;t gain the use of the Shared Void Sense ability.</effect>

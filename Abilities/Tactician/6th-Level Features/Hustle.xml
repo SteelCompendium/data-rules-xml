@@ -9,6 +9,7 @@
   <distance>2 burst</distance>
   <target>Self and each ally in the area</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>tactician</class>
     <cost>9 Focus</cost>
     <cost_amount>9</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.4.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and each ally in the area</target>
-    <type>Maneuver</type>
+    <type>feature/ability/tactician/6th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You mark two enemies within 10 squares of you. Each target can shift up to their speed. You and each target gain 2 surges.</effect>

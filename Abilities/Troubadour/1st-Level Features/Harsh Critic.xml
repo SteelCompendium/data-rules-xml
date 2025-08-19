@@ -12,6 +12,7 @@
   <distance>Melee 1 or ranged 10</distance>
   <target>One creature or object</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>troubadour</class>
     <cost>3 Drama</cost>
     <cost_amount>3</cost_amount>
@@ -33,7 +34,7 @@
     <scdc>1.1.1:13.2.3.1:20</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature or object</target>
-    <type>Main action</type>
+    <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

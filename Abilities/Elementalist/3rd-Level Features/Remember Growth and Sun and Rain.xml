@@ -10,6 +10,7 @@
   <distance>Melee 1</distance>
   <target>One mundane wooden object</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>elementalist</class>
     <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.9.6:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One mundane wooden object</target>
-    <type>Main action</type>
+    <type>feature/ability/elementalist/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&apos;s location as if you were there.</effect>

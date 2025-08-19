@@ -10,6 +10,7 @@
   <target>Self or one ally</target>
   <trigger>A creature deals damage to the target.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>tactician</class>
     <distance>Melee 2</distance>
     <feature_type>ability</feature_type>
@@ -26,7 +27,7 @@
     <scdc>1.1.1:13.2.4.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You can shift 1 square. If the target is you, or if you end this shift adjacent to the target, the target takes half the damage. If the damage has any potency effect associated with it, the potency is decreased by 1.</effect>

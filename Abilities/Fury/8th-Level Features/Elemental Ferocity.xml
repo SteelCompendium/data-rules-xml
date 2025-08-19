@@ -9,6 +9,7 @@
   <distance>Self</distance>
   <target>Self</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>fury</class>
     <cost>11 Ferocity</cost>
     <cost_amount>11</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.5.2:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
-    <type>Maneuver</type>
+    <type>feature/ability/fury/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You gain 10 temporary Stamina. Additionally, choose acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or until you are dying, whenever an enemy damages you, they take 10 damage of the chosen type. If this damage reduces the enemy to 0 Stamina, you gain 10 temporary Stamina.</effect>

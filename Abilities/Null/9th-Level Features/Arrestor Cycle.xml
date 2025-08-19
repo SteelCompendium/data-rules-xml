@@ -11,6 +11,7 @@
   <target>One creature</target>
   <trigger>The triggering creature starts their turn.</trigger>
   <metadata>
+    <action_type>Free triggered</action_type>
     <class>null</class>
     <cost>11 Discipline</cost>
     <cost_amount>11</cost_amount>
@@ -30,7 +31,7 @@
     <scdc>1.1.1:13.2.6.6:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
-    <type>Free triggered</type>
+    <type>feature/ability/null/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

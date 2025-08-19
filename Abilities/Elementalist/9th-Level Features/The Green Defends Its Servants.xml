@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>elementalist</class>
     <cost>11 Essence</cost>
     <cost_amount>11</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.9.7:03</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/elementalist/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You conjure an elemental shield that protects the target until the end of your next turn. While the shield is active, the target can take the Defend main action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or until the effect ends. If this temporary Stamina disappears, the effect ends and the shield explodes, dealing 10 damage to each enemy within 5 squares of the target.</effect>

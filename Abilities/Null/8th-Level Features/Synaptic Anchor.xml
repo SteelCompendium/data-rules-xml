@@ -10,6 +10,7 @@
   <target>Self or one creature</target>
   <trigger>The target takes damage from another creature&apos;s ability while in the area of your Null Field ability.</trigger>
   <metadata>
+    <action_type>Free triggered</action_type>
     <class>null</class>
     <cost>11 Discipline</cost>
     <cost_amount>11</cost_amount>
@@ -28,7 +29,7 @@
     <scdc>1.1.1:13.2.6.2:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one creature</target>
-    <type>Free triggered</type>
+    <type>feature/ability/null/8th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">The target takes half the damage, and if the triggering crea ture has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</effect>

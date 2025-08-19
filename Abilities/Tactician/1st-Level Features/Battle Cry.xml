@@ -9,6 +9,7 @@
   <distance>Ranged 10</distance>
   <target>Three allies</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>tactician</class>
     <cost>3 Focus</cost>
     <cost_amount>3</cost_amount>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.4.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Three allies</target>
-    <type>Maneuver</type>
+    <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="roll">

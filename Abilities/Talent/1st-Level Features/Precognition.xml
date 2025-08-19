@@ -11,6 +11,7 @@
   <distance>Melee 2</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>talent</class>
     <cost>3 Clarity</cost>
     <cost_amount>3</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.1.1:10</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Main action</type>
+    <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Ability rolls made against the target take a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.</effect>

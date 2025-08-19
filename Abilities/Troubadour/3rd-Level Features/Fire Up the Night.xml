@@ -10,6 +10,7 @@
   <distance>5 aura</distance>
   <target>Self and each ally in the area</target>
   <metadata>
+    <action_type>No action</action_type>
     <class>troubadour</class>
     <distance>5 aura</distance>
     <feature_type>ability</feature_type>
@@ -27,7 +28,7 @@
     <scdc>1.1.1:13.2.3.6:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and each ally in the area</target>
-    <type>No action</type>
+    <type>feature/ability/troubadour/3rd-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">While this performance is active, each target who starts their turn in the area doesn&apos;t take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).</effect>

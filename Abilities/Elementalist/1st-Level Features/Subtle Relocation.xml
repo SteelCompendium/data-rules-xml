@@ -11,6 +11,7 @@
   <target>Self or one ally</target>
   <trigger>The target starts their turn, moves, or is force moved.</trigger>
   <metadata>
+    <action_type>Triggered</action_type>
     <class>elementalist</class>
     <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
@@ -28,7 +29,7 @@
     <scdc>1.1.1:13.2.9.1:02</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Triggered</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</effect>

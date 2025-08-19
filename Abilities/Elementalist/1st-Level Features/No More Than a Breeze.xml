@@ -11,6 +11,7 @@
   <distance>Ranged 10</distance>
   <target>Self or one ally</target>
   <metadata>
+    <action_type>Maneuver</action_type>
     <class>elementalist</class>
     <cost>5 Essence</cost>
     <cost_amount>5</cost_amount>
@@ -31,7 +32,7 @@
     <scdc>1.1.1:13.2.9.1:07</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self or one ally</target>
-    <type>Maneuver</type>
+    <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can&apos;t provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</effect>

@@ -10,6 +10,7 @@
   <distance>Ranged 10</distance>
   <target>Special</target>
   <metadata>
+    <action_type>Main action</action_type>
     <class>conduit</class>
     <cost>11 Piety</cost>
     <cost_amount>11</cost_amount>
@@ -29,7 +30,7 @@
     <scdc>1.1.1:13.2.8.7:12</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Special</target>
-    <type>Main action</type>
+    <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>
   <effects>
     <effect type="mundane">You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can fly, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
