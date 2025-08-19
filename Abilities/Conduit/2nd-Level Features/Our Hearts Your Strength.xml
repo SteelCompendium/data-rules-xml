@@ -14,17 +14,22 @@
     <cost>5 Piety</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Our Hearts Your Strength</file_basename>
     <file_dpath>Conduit/2nd-Level Features</file_dpath>
+    <flavor>An ally gains strength from their friends.</flavor>
     <item_id>our-hearts-your-strength-5-piety</item_id>
     <item_index>04</item_index>
     <item_name>Our Hearts Your Strength (5 Piety)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:our-hearts-your-strength-5-piety</scc>
     <scdc>1.1.1:13.2.8.5:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/2nd-level-feature</type>
+    <target>Self and one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter or until the target is dying, at the start of each of the target&apos;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</effect>

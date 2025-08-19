@@ -9,17 +9,21 @@
   <target>Self</target>
   <metadata>
     <class>elementalist</class>
+    <distance>Self; see below</distance>
     <feature_type>ability</feature_type>
     <file_basename>Practical Magic</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>Your mastery of elemental power lets you customize your conjurations.</flavor>
     <item_id>practical-magic</item_id>
     <item_index>10</item_index>
     <item_name>Practical Magic</item_name>
+    <keywords>Magic</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:practical-magic</scc>
     <scdc>1.1.1:13.2.9.1:10</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>Self</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Choose one of the following effects:

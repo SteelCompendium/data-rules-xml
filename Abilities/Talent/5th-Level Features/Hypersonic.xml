@@ -16,17 +16,24 @@
     <cost>9 Clarity</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Clarity</cost_resource>
+    <distance>5 x 2 line within 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Hypersonic</file_basename>
     <file_dpath>Talent/5th-Level Features</file_dpath>
+    <flavor>You move fast enough to turn around and watch your foes feel the aftermath.</flavor>
     <item_id>hypersonic-9-clarity</item_id>
     <item_index>04</item_index>
     <item_name>Hypersonic (9 Clarity)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Charge</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Telekinesis</keywords>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.5th-level-feature:hypersonic-9-clarity</scc>
     <scdc>1.1.1:13.2.1.4:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/5th-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You teleport to a square on the opposite side of the area before making the power roll.</effect>

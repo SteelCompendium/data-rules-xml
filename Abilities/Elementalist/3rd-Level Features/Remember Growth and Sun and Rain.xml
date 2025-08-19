@@ -11,17 +11,23 @@
   <target>One mundane wooden object</target>
   <metadata>
     <class>elementalist</class>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Remember Growth and Sun and Rain</file_basename>
     <file_dpath>Elementalist/3rd-Level Features</file_dpath>
+    <flavor>You stir any wood&apos;s memory and learn what it has seen.</flavor>
     <item_id>remember-growth-and-sun-and-rain</item_id>
     <item_index>01</item_index>
     <item_name>Remember Growth and Sun and Rain</item_name>
+    <keywords>Green</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain</scc>
     <scdc>1.1.1:13.2.9.6:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/3rd-level-feature</type>
+    <target>One mundane wooden object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&apos;s location as if you were there.</effect>

@@ -14,17 +14,22 @@
     <cost>9 Drama</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Love Song</file_basename>
     <file_dpath>Troubadour/5th-Level Features</file_dpath>
+    <flavor>You play a small ditty that plants you inside your target&apos;s heart.</flavor>
     <item_id>love-song-9-drama</item_id>
     <item_index>03</item_index>
     <item_name>Love Song (9 Drama)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:love-song-9-drama</scc>
     <scdc>1.1.1:13.2.3.4:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/5th-level-feature</type>
+    <target>One creature or object</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&apos;re within distance, you can choose to take the damage instead of the target.</effect>

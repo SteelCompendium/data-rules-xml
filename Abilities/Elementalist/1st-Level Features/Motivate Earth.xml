@@ -11,17 +11,23 @@
   <target>Special</target>
   <metadata>
     <class>elementalist</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Motivate Earth</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>The earth rises, falls, or opens up at your command.</flavor>
     <item_id>motivate-earth</item_id>
     <item_index>21</item_index>
     <item_name>Motivate Earth</item_name>
+    <keywords>Earth</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:motivate-earth</scc>
     <scdc>1.1.1:13.2.9.1:21</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>Special</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.

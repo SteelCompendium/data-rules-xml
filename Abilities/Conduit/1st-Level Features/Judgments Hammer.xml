@@ -15,17 +15,23 @@
     <cost>3 Piety</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Judgments Hammer</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
+    <flavor>Your divine fury is a hammer that crashes down upon the unrighteous.</flavor>
     <item_id>judgments-hammer-3-piety</item_id>
     <item_index>17</item_index>
     <item_name>Judgment&apos;s Hammer (3 Piety)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:judgments-hammer-3-piety</scc>
     <scdc>1.1.1:13.2.8.1:17</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/1st-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

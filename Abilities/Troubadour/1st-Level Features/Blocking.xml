@@ -11,17 +11,23 @@
   <target>Each creature in the area</target>
   <metadata>
     <class>troubadour</class>
+    <distance>2 aura</distance>
     <feature_type>ability</feature_type>
     <file_basename>Blocking</file_basename>
     <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <flavor>No, no, no, you lose the audience that way. Try it like this...</flavor>
     <item_id>blocking</item_id>
     <item_index>03</item_index>
     <item_name>Blocking</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Performance</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:blocking</scc>
     <scdc>1.1.1:13.2.3.1:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/1st-level-feature</type>
+    <target>Each creature in the area</target>
+    <type>No action</type>
   </metadata>
   <effects>
     <effect type="mundane">At the end of each of your turns while this performance is active, you can choose up to a number of targets equal to your Presence score and teleport those targets to unoccupied spaces in the area. A target can&apos;t be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.</effect>

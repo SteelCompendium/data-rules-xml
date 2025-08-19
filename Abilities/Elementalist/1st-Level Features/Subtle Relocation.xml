@@ -12,17 +12,23 @@
   <trigger>The target starts their turn, moves, or is force moved.</trigger>
   <metadata>
     <class>elementalist</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Subtle Relocation</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>You call on the void to swallow and spit out an ally.</flavor>
     <item_id>subtle-relocation</item_id>
     <item_index>02</item_index>
     <item_name>Subtle Relocation</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Void</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:subtle-relocation</scc>
     <scdc>1.1.1:13.2.9.1:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</effect>

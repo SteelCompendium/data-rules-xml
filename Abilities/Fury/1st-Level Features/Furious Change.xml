@@ -10,17 +10,21 @@
   <trigger>You lose Stamina and are not dying.</trigger>
   <metadata>
     <class>fury</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Furious Change</file_basename>
     <file_dpath>Fury/1st-Level Features</file_dpath>
+    <flavor>In your anger, you revert to a more bestial form.</flavor>
     <item_id>furious-change</item_id>
     <item_index>14</item_index>
     <item_name>Furious Change</item_name>
+    <keywords>-</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:furious-change</scc>
     <scdc>1.1.1:13.2.5.1:14</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/fury/1st-level-feature</type>
+    <target>One enemy</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.</effect>

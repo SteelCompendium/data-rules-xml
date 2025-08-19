@@ -11,17 +11,23 @@
   <target>Each enemy in the area</target>
   <metadata>
     <class>null</class>
+    <distance>1 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Dance of Blows</file_basename>
     <file_dpath>Null/1st-Level Features</file_dpath>
+    <flavor>You strike everywhere at once, tricking an enemy into moving out of position.</flavor>
     <item_id>dance-of-blows</item_id>
     <item_index>10</item_index>
     <item_name>Dance of Blows</item_name>
+    <keywords>Area</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:dance-of-blows</scc>
     <scdc>1.1.1:13.2.6.1:10</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/null/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

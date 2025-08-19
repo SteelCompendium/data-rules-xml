@@ -15,17 +15,23 @@
     <cost>5 Discipline</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Discipline</cost_resource>
+    <distance>2 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>A Squad Unto Myself</file_basename>
     <file_dpath>Null/1st-Level Features</file_dpath>
+    <flavor>You move so quickly, it seems as though an army assaulted your foes.</flavor>
     <item_id>a-squad-unto-myself-5-discipline</item_id>
     <item_index>18</item_index>
     <item_name>A Squad Unto Myself (5 Discipline)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline</scc>
     <scdc>1.1.1:13.2.6.1:18</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/null/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

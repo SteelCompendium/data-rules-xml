@@ -16,17 +16,24 @@
     <cost>11 Essence</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Unquenchable Fire</file_basename>
     <file_dpath>Elementalist/9th-Level Features</file_dpath>
+    <flavor>You let fly a fiery missile braided with pure primal energy.</flavor>
     <item_id>unquenchable-fire-11-essence</item_id>
     <item_index>04</item_index>
     <item_name>Unquenchable Fire (11 Essence)</item_name>
+    <keywords>Fire</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:unquenchable-fire-11-essence</scc>
     <scdc>1.1.1:13.2.9.7:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/9th-level-feature</type>
+    <target>One enemy or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

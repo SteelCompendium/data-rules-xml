@@ -14,17 +14,22 @@
     <cost>9 Drama</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>4 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Legendary Drum Fill</file_basename>
     <file_dpath>Troubadour/6th-Level Features</file_dpath>
+    <flavor>You start a drumroll that roars like thunder with every impact the heroes make.</flavor>
     <item_id>legendary-drum-fill-9-drama</item_id>
     <item_index>04</item_index>
     <item_name>Legendary Drum Fill (9 Drama)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:legendary-drum-fill-9-drama</scc>
     <scdc>1.1.1:13.2.3.3:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/6th-level-feature</type>
+    <target>Self and each ally in the area</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target gains 1 surge, then gains 1 surge at the start of each combat round until the end of the encounter.</effect>

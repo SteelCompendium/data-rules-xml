@@ -15,17 +15,23 @@
     <cost>5 Discipline</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Discipline</cost_resource>
+    <distance>3 cube within 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Entropic Field</file_basename>
     <file_dpath>Null/2nd-Level Features</file_dpath>
+    <flavor>You drastically increase the local entropy.</flavor>
     <item_id>entropic-field-5-discipline</item_id>
     <item_index>02</item_index>
     <item_name>Entropic Field (5 Discipline)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Weapon</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:entropic-field-5-discipline</scc>
     <scdc>1.1.1:13.2.6.4:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/null/2nd-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

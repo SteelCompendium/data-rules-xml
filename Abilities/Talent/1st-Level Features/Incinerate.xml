@@ -13,17 +13,25 @@
   <target>Each enemy in the area</target>
   <metadata>
     <class>talent</class>
+    <distance>3 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Incinerate</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>The air erupts into a column of smokeless flame.</flavor>
     <item_id>incinerate</item_id>
     <item_index>9</item_index>
     <item_name>Incinerate</item_name>
+    <keywords>Area</keywords>
+    <keywords>Fire</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Pyrokinesis</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:incinerate</scc>
     <scdc>1.1.1:13.2.1.1:09</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

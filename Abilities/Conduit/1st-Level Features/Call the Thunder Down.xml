@@ -15,17 +15,23 @@
     <cost>3 Piety</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>3 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Call the Thunder Down</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
+    <flavor>You ask your saint for thunder and your prayer is answered.</flavor>
     <item_id>call-the-thunder-down-3-piety</item_id>
     <item_index>8</item_index>
     <item_name>Call the Thunder Down (3 Piety)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:call-the-thunder-down-3-piety</scc>
     <scdc>1.1.1:13.2.8.1:08</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

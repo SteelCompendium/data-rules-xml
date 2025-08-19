@@ -13,17 +13,21 @@
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Focus</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Fog of War</file_basename>
     <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <flavor>Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.</flavor>
     <item_id>fog-of-war-5-focus</item_id>
     <item_index>05</item_index>
     <item_name>Fog of War (5 Focus)</item_name>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:fog-of-war-5-focus</scc>
     <scdc>1.1.1:13.2.4.5:05</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/2nd-level-feature</type>
+    <target>Two creatures</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target is marked by you, and must immediately make a free strike against a creature of your choice within 5 squares of them.</effect>

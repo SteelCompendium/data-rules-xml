@@ -15,17 +15,23 @@
     <cost>9 Piety</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Your Story Ends Here</file_basename>
     <file_dpath>Conduit/6th-Level Features</file_dpath>
+    <flavor>You bend the fate of a foe, willing them to die.</flavor>
     <item_id>your-story-ends-here-9-piety</item_id>
     <item_index>9</item_index>
     <item_name>Your Story Ends Here (9 Piety)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:your-story-ends-here-9-piety</scc>
     <scdc>1.1.1:13.2.8.3:09</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/6th-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

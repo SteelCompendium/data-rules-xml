@@ -10,17 +10,21 @@
   <trigger>The target makes an ability roll that has an edge, a double edge, a bane, or a double bane.</trigger>
   <metadata>
     <class>troubadour</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Turnabout Is Fair Play</file_basename>
     <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <flavor>All&apos;s fair in love and whatever.</flavor>
     <item_id>turnabout-is-fair-play</item_id>
     <item_index>19</item_index>
     <item_name>Turnabout Is Fair Play</item_name>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:turnabout-is-fair-play</scc>
     <scdc>1.1.1:13.2.3.1:19</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.</effect>

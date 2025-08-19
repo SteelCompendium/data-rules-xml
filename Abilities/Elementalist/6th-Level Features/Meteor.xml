@@ -17,17 +17,25 @@
     <cost>9 Essence</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Meteor</file_basename>
     <file_dpath>Elementalist/6th-Level Features</file_dpath>
+    <flavor>You teleport the target into the air and let the ground and the elemental force of fire do the rest.</flavor>
     <item_id>meteor-9-essence</item_id>
     <item_index>01</item_index>
     <item_name>Meteor (9 Essence)</item_name>
+    <keywords>Earth</keywords>
+    <keywords>Fire</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Void</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:meteor-9-essence</scc>
     <scdc>1.1.1:13.2.9.3:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/6th-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

@@ -11,17 +11,23 @@
   <target>Self and each ally in the area</target>
   <metadata>
     <class>troubadour</class>
+    <distance>5 aura</distance>
     <feature_type>ability</feature_type>
     <file_basename>Take Two</file_basename>
     <file_dpath>Troubadour/5th-Level Features</file_dpath>
+    <flavor>One more, and this time make it interesting.</flavor>
     <item_id>take-two</item_id>
     <item_index>04</item_index>
     <item_name>Take Two!</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Performance</keywords>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:take-two</scc>
     <scdc>1.1.1:13.2.3.4:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/5th-level-feature</type>
+    <target>Self and each ally in the area</target>
+    <type>No action</type>
   </metadata>
   <effects>
     <effect type="mundane">While this performance is active, each target who starts their turn in the area can reroll the first power roll that turn that obtains a tier 2 outcome. They must use the new roll.</effect>

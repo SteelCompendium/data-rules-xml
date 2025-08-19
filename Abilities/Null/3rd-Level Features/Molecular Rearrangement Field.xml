@@ -13,17 +13,21 @@
     <cost>7 Discipline</cost>
     <cost_amount>7</cost_amount>
     <cost_resource>Discipline</cost_resource>
+    <distance>Self</distance>
     <feature_type>ability</feature_type>
     <file_basename>Molecular Rearrangement Field</file_basename>
     <file_dpath>Null/3rd-Level Features</file_dpath>
+    <flavor>Your enemies&apos; wounds open, your allies&apos; wounds close.</flavor>
     <item_id>molecular-rearrangement-field-7-discipline</item_id>
     <item_index>03</item_index>
     <item_name>Molecular Rearrangement Field (7 Discipline)</item_name>
+    <keywords>Psionic</keywords>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:molecular-rearrangement-field-7-discipline</scc>
     <scdc>1.1.1:13.2.6.5:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/null/3rd-level-feature</type>
+    <target>Self</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I &lt; AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.</effect>

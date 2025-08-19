@@ -14,17 +14,22 @@
     <cost>9 Ferocity</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Ferocity</cost_resource>
+    <distance>3 aura</distance>
     <feature_type>ability</feature_type>
     <file_basename>Riders on the Storm</file_basename>
     <file_dpath>Fury/6th-Level Features</file_dpath>
+    <flavor>You focus your connection to the Primordial Chaos into a seething storm.</flavor>
     <item_id>riders-on-the-storm-9-ferocity</item_id>
     <item_index>05</item_index>
     <item_name>Riders on the Storm (9 Ferocity)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.6th-level-feature:riders-on-the-storm-9-ferocity</scc>
     <scdc>1.1.1:13.2.5.3:05</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/fury/6th-level-feature</type>
+    <target>Each creature in the area</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the end of the encounter or until you are dying, each enemy target takes damage of your primordial damage type equal to twice your Might score at the end of each of your turns. Additionally, you can fly while the aura is active. Each ally target who starts or ends their turn in the area can also fly until the start of their next turn or until the effect ends.</effect>

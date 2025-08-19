@@ -12,17 +12,23 @@
   <trigger>The target starts their turn or takes damage.</trigger>
   <metadata>
     <class>elementalist</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Breath of Dawn Remembered</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>The power you channel grants the ability to get back in the fight.</flavor>
     <item_id>breath-of-dawn-remembered</item_id>
     <item_index>24</item_index>
     <item_name>Breath of Dawn Remembered</item_name>
+    <keywords>Green</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:breath-of-dawn-remembered</scc>
     <scdc>1.1.1:13.2.9.1:24</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">The target can spend a Recovery.</effect>

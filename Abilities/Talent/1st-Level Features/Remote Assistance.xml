@@ -10,17 +10,22 @@
   <target>One creature or object</target>
   <metadata>
     <class>talent</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Remote Assistance</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>An ally gains the benefit of your intellect.</flavor>
     <item_id>remote-assistance</item_id>
     <item_index>21</item_index>
     <item_name>Remote Assistance</item_name>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:remote-assistance</scc>
     <scdc>1.1.1:13.2.1.1:21</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/1st-level-feature</type>
+    <target>One creature or object</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The next ability roll an ally makes against the target before the start of your next turn gains an edge.</effect>

@@ -10,17 +10,22 @@
   <target>Each enemy in the area</target>
   <metadata>
     <class>shadow</class>
+    <distance>2 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Time Bomb</file_basename>
     <file_dpath>Shadow/8th-Level Features</file_dpath>
+    <flavor>The longer it cooks, the bigger the boom.</flavor>
     <item_id>time-bomb</item_id>
     <item_index>01</item_index>
     <item_name>Time Bomb</item_name>
+    <keywords>Area</keywords>
+    <keywords>Ranged</keywords>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:time-bomb</scc>
     <scdc>1.1.1:13.2.2.2:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/8th-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Free maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.

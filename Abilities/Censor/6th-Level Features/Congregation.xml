@@ -15,17 +15,23 @@
     <cost>9 Wrath</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Wrath</cost_resource>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Congregation</file_basename>
     <file_dpath>Censor/6th-Level Features</file_dpath>
+    <flavor>You focus your allies&apos; wrath on a chosen foe.</flavor>
     <item_id>congregation-9-wrath</item_id>
     <item_index>04</item_index>
     <item_name>Congregation (9 Wrath)</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.6th-level-feature:congregation-9-wrath</scc>
     <scdc>1.1.1:13.2.7.3:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/censor/6th-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

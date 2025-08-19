@@ -11,17 +11,22 @@
   <trigger>The target deals damage to an ally.</trigger>
   <metadata>
     <class>talent</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Feedback Loop</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>Creating a brief psychic link between an enemy and their target gives that foe a taste of their own medicine.</flavor>
     <item_id>feedback-loop</item_id>
     <item_index>19</item_index>
     <item_name>Feedback Loop</item_name>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:feedback-loop</scc>
     <scdc>1.1.1:13.2.1.1:19</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">The target takes psychic damage equal to half the triggering damage.</effect>

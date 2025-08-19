@@ -17,17 +17,25 @@
     <cost>9 Essence</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Luminous Champion Aloft</file_basename>
     <file_dpath>Elementalist/6th-Level Features</file_dpath>
+    <flavor>They shine vibrantly, a beautiful diamond in the night sky.</flavor>
     <item_id>luminous-champion-aloft-9-essence</item_id>
     <item_index>04</item_index>
     <item_name>Luminous Champion Aloft (9 Essence)</item_name>
+    <keywords>Fire</keywords>
+    <keywords>Green</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Void</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:luminous-champion-aloft-9-essence</scc>
     <scdc>1.1.1:13.2.9.3:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/6th-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</effect>

@@ -15,17 +15,23 @@
     <cost>5 Clarity</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Clarity</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Flashback</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>The target is thrown several seconds back through time and gets to do it all again.</flavor>
     <item_id>flashback-5-clarity</item_id>
     <item_index>03</item_index>
     <item_name>Flashback (5 Clarity)</item_name>
+    <keywords>Chronopathy</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:flashback-5-clarity</scc>
     <scdc>1.1.1:13.2.1.1:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/1st-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The target uses an ability with a base Heroic Resource cost of 7 or lower that they&apos;ve previously used this round, without needing to spend the base cost. Augmentations to the ability can be paid for as usual.</effect>

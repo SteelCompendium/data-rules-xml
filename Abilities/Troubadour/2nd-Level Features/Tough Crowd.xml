@@ -15,17 +15,23 @@
     <cost>5 Drama</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>3 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Tough Crowd</file_basename>
     <file_dpath>Troubadour/2nd-Level Features</file_dpath>
+    <flavor>Your fans don&apos;t seem to like the opening act...</flavor>
     <item_id>tough-crowd-5-drama</item_id>
     <item_index>04</item_index>
     <item_name>Tough Crowd (5 Drama)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:tough-crowd-5-drama</scc>
     <scdc>1.1.1:13.2.3.5:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/2nd-level-feature</type>
+    <target>Special</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.</effect>

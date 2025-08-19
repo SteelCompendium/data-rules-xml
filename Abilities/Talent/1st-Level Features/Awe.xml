@@ -16,17 +16,24 @@
     <cost>3 Clarity</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Clarity</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Awe</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>You project psionic energy out to a creature and take on a new visage in their mind.</flavor>
     <item_id>awe-3-clarity</item_id>
     <item_index>16</item_index>
     <item_name>Awe (3 Clarity)</item_name>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Telepathy</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe-3-clarity</scc>
     <scdc>1.1.1:13.2.1.1:16</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>

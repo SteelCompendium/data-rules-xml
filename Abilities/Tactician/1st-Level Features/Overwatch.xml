@@ -10,17 +10,21 @@
   <trigger>The target moves.</trigger>
   <metadata>
     <class>tactician</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Overwatch</file_basename>
     <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <flavor>Under your direction, an ally waits for just the right moment to strike.</flavor>
     <item_id>overwatch</item_id>
     <item_index>13</item_index>
     <item_name>Overwatch</item_name>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:overwatch</scc>
     <scdc>1.1.1:13.2.4.1:13</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">At any time during the target&apos;s movement, one ally can make a free strike against them.</effect>

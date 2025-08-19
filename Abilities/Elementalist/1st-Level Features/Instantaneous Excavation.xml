@@ -15,17 +15,23 @@
     <cost>5 Essence</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Instantaneous Excavation</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>The surface of the world around you opens up to swallow foes.</flavor>
     <item_id>instantaneous-excavation-5-essence</item_id>
     <item_index>20</item_index>
     <item_name>Instantaneous Excavation (5 Essence)</item_name>
+    <keywords>Earth</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:instantaneous-excavation-5-essence</scc>
     <scdc>1.1.1:13.2.9.1:20</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>Special</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">You open up two holes with 1-square openings that are 4 squares deep, which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can&apos;t score a critical hit with this ability because it uses a maneuver.)</effect>

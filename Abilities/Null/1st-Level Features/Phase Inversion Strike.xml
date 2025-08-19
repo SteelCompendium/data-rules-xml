@@ -12,17 +12,24 @@
   <target>One creature or object</target>
   <metadata>
     <class>null</class>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Phase Inversion Strike</file_basename>
     <file_dpath>Null/1st-Level Features</file_dpath>
+    <flavor>You step momentarily out of phase as you pull an enemy through you.</flavor>
     <item_id>phase-inversion-strike</item_id>
     <item_index>8</item_index>
     <item_name>Phase Inversion Strike</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:phase-inversion-strike</scc>
     <scdc>1.1.1:13.2.6.1:08</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/null/1st-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

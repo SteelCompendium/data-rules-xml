@@ -11,17 +11,23 @@
   <target>Self and each ally in the area</target>
   <metadata>
     <class>troubadour</class>
+    <distance>5 aura</distance>
     <feature_type>ability</feature_type>
     <file_basename>Radical Fantasia</file_basename>
     <file_dpath>Troubadour/8th-Level Features</file_dpath>
+    <flavor>𝅘𝅥𝅮♪Viras, my Viras, will you hold their hands as they cryyy-aaaiigh?♪</flavor>
     <item_id>radical-fantasia</item_id>
     <item_index>02</item_index>
     <item_name>Radical Fantasia</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Performance</keywords>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:radical-fantasia</scc>
     <scdc>1.1.1:13.2.3.2:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/8th-level-feature</type>
+    <target>Self and each ally in the area</target>
+    <type>No action</type>
   </metadata>
   <effects>
     <effect type="mundane">While this performance is active, each target who starts their turn in the area ignores difficult terrain, and any ability they use that imposes forced movement gains a +2 bonus to the forced movement distance until the end of their turn. Additionally, once per combat round, each target can use a triggered action as a free triggered action.</effect>

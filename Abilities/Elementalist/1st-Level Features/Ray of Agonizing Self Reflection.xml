@@ -12,17 +12,24 @@
   <target>One creature or object</target>
   <metadata>
     <class>elementalist</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Ray of Agonizing Self Reflection</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>You inflict pain and doubt in equal measure.</flavor>
     <item_id>ray-of-agonizing-self-reflection</item_id>
     <item_index>01</item_index>
     <item_name>Ray of Agonizing Self-Reflection</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Void</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ray-of-agonizing-self-reflection</scc>
     <scdc>1.1.1:13.2.9.1:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

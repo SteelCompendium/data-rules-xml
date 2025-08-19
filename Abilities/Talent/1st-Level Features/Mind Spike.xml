@@ -12,17 +12,24 @@
   <target>One creature</target>
   <metadata>
     <class>talent</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Mind Spike</file_basename>
     <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>A telepathic bolt instantly zaps a creature&apos;s brain.</flavor>
     <item_id>mind-spike</item_id>
     <item_index>20</item_index>
     <item_name>Mind Spike</item_name>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Telepathy</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:mind-spike</scc>
     <scdc>1.1.1:13.2.1.1:20</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

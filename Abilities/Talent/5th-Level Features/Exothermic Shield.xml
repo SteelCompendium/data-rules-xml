@@ -15,17 +15,23 @@
     <cost>9 Clarity</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Clarity</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Exothermic Shield</file_basename>
     <file_dpath>Talent/5th-Level Features</file_dpath>
+    <flavor>You encase the target in psionic flame and allow them to flicker without fear of burning out.</flavor>
     <item_id>exothermic-shield-9-clarity</item_id>
     <item_index>02</item_index>
     <item_name>Exothermic Shield (9 Clarity)</item_name>
+    <keywords>Pyrokinesis</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.5th-level-feature:exothermic-shield-9-clarity</scc>
     <scdc>1.1.1:13.2.1.4:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/5th-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.</effect>

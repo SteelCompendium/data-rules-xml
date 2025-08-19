@@ -15,17 +15,23 @@
     <cost>11 Clarity</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Clarity</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Steel</file_basename>
     <file_dpath>Talent/8th-Level Features</file_dpath>
+    <flavor>The target&apos;s skin becomes covered in tough metal.</flavor>
     <item_id>steel-11-clarity</item_id>
     <item_index>04</item_index>
     <item_name>Steel (11 Clarity)</item_name>
+    <keywords>Metamorphosis</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.8th-level-feature:steel-11-clarity</scc>
     <scdc>1.1.1:13.2.1.2:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/8th-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The target has damage immunity 5 and can&apos;t be made slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while under this effect, the forced movement distance gains a +5 bonus.</effect>

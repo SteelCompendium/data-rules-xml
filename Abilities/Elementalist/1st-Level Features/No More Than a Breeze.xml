@@ -15,17 +15,23 @@
     <cost>5 Essence</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>No More Than a Breeze</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>The material substance of a creature shreds away at your command.</flavor>
     <item_id>no-more-than-a-breeze-5-essence</item_id>
     <item_index>07</item_index>
     <item_name>No More Than a Breeze (5 Essence)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Void</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze-5-essence</scc>
     <scdc>1.1.1:13.2.9.1:07</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the target can move through solid matter, they ignore difficult terrain, and their movement can&apos;t provoke opportunity attacks. If the target ends their turn inside solid matter, they are forced out into the space where they entered it and this effect ends.</effect>

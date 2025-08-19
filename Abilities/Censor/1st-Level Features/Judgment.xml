@@ -10,17 +10,22 @@
   <target>One enemy</target>
   <metadata>
     <class>censor</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Judgment</file_basename>
     <file_dpath>Censor/1st-Level Features</file_dpath>
+    <flavor>You utter a prayer that outlines your foe in holy energy.</flavor>
     <item_id>judgment</item_id>
     <item_index>9</item_index>
     <item_name>Judgment</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:judgment</scc>
     <scdc>1.1.1:13.2.7.1:09</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/censor/1st-level-feature</type>
+    <target>One enemy</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.

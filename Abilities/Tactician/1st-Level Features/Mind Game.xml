@@ -16,17 +16,24 @@
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Focus</cost_resource>
+    <distance>Melee 1 or ranged 5</distance>
     <feature_type>ability</feature_type>
     <file_basename>Mind Game</file_basename>
     <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <flavor>Your attack demoralizes your foe. Your allies begin to think you can win.</flavor>
     <item_id>mind-game-5-focus</item_id>
     <item_index>12</item_index>
     <item_name>Mind Game (5 Focus)</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:mind-game-5-focus</scc>
     <scdc>1.1.1:13.2.4.1:12</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/1st-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You mark the target.</effect>

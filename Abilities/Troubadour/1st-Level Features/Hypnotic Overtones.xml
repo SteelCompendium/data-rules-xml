@@ -14,17 +14,22 @@
     <cost>3 Drama</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>2 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Hypnotic Overtones</file_basename>
     <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <flavor>You produce an entrancing note that twists the senses in a spectacular fashion.</flavor>
     <item_id>hypnotic-overtones-3-drama</item_id>
     <item_index>13</item_index>
     <item_name>Hypnotic Overtones (3 Drama)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:hypnotic-overtones-3-drama</scc>
     <scdc>1.1.1:13.2.3.1:13</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

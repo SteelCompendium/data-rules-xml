@@ -16,17 +16,24 @@
     <cost>9 Insight</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Insight</cost_resource>
+    <distance>Melee 1 or ranged 5</distance>
     <feature_type>ability</feature_type>
     <file_basename>You Talk Too Much</file_basename>
     <file_dpath>Shadow/5th-Level Features</file_dpath>
+    <flavor>Silence is a virtue. A knife pinning their mouth shut is the next best thing.</flavor>
     <item_id>you-talk-too-much-9-insight</item_id>
     <item_index>03</item_index>
     <item_name>You Talk Too Much (9 Insight)</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:you-talk-too-much-9-insight</scc>
     <scdc>1.1.1:13.2.2.4:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/5th-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

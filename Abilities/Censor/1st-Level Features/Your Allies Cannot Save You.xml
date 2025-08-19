@@ -11,17 +11,23 @@
   <target>One creature or object</target>
   <metadata>
     <class>censor</class>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Your Allies Cannot Save You</file_basename>
     <file_dpath>Censor/1st-Level Features</file_dpath>
+    <flavor>Your magic strike turns your foe&apos;s guilt into a burst of holy power.</flavor>
     <item_id>your-allies-cannot-save-you</item_id>
     <item_index>04</item_index>
     <item_name>Your Allies Cannot Save You!</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:your-allies-cannot-save-you</scc>
     <scdc>1.1.1:13.2.7.1:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/censor/1st-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

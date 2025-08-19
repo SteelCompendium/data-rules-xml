@@ -16,17 +16,24 @@
     <cost>9 Insight</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Insight</cost_resource>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Black Ash Eruption</file_basename>
     <file_dpath>Shadow/6th-Level Features</file_dpath>
+    <flavor>Your attack produces a cloud of black ash that launches an enemy into the air.</flavor>
     <item_id>black-ash-eruption-9-insight</item_id>
     <item_index>01</item_index>
     <item_name>Black Ash Eruption (9 Insight)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:black-ash-eruption-9-insight</scc>
     <scdc>1.1.1:13.2.2.3:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/6th-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

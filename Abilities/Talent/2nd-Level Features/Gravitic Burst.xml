@@ -15,17 +15,23 @@
     <cost>5 Clarity</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Clarity</cost_resource>
+    <distance>1 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Gravitic Burst</file_basename>
     <file_dpath>Talent/2nd-Level Features</file_dpath>
+    <flavor>Everyone get away from me!</flavor>
     <item_id>gravitic-burst-5-clarity</item_id>
     <item_index>05</item_index>
     <item_name>Gravitic Burst (5 Clarity)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Telekinesis</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:gravitic-burst-5-clarity</scc>
     <scdc>1.1.1:13.2.1.5:05</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/talent/2nd-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

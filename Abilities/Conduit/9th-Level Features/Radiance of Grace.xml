@@ -14,17 +14,22 @@
     <cost>11 Piety</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Radiance of Grace</file_basename>
     <file_dpath>Conduit/9th-Level Features</file_dpath>
+    <flavor>Intense light is emitted from your body, healing your allies.</flavor>
     <item_id>radiance-of-grace-11-piety</item_id>
     <item_index>02</item_index>
     <item_name>Radiance of Grace (11 Piety)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:radiance-of-grace-11-piety</scc>
     <scdc>1.1.1:13.2.8.7:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/9th-level-feature</type>
+    <target>Four allies</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You can target yourself instead of one ally with this ability. Each target can spend any number of Recoveries, can end any effects on them that are ended by a saving throw or that end at the end of their turn, and can stand up if they are prone.</effect>

@@ -10,17 +10,21 @@
   <trigger>The target deals damage to another creature.</trigger>
   <metadata>
     <class>tactician</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Advanced Tactics</file_basename>
     <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <flavor>Your leadership aids an ally.</flavor>
     <item_id>advanced-tactics</item_id>
     <item_index>05</item_index>
     <item_name>Advanced Tactics</item_name>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:advanced-tactics</scc>
     <scdc>1.1.1:13.2.4.1:05</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/1st-level-feature</type>
+    <target>One ally</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">The target gains 2 surges, which they can use on the triggering damage.</effect>

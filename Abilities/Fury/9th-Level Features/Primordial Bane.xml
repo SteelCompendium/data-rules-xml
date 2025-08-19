@@ -16,17 +16,24 @@
     <cost>11 Ferocity</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Ferocity</cost_resource>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Primordial Bane</file_basename>
     <file_dpath>Fury/9th-Level Features</file_dpath>
+    <flavor>You attune the target to be weaker to a specific element.</flavor>
     <item_id>primordial-bane-11-ferocity</item_id>
     <item_index>04</item_index>
     <item_name>Primordial Bane (11 Ferocity)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.9th-level-feature:primordial-bane-11-ferocity</scc>
     <scdc>1.1.1:13.2.5.6:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/fury/9th-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

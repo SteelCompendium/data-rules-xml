@@ -15,17 +15,23 @@
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Focus</cost_resource>
+    <distance>Ranged 5</distance>
     <feature_type>ability</feature_type>
     <file_basename>Ive Got Your Back</file_basename>
     <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <flavor>Your enemy will think twice about attacking your friend.</flavor>
     <item_id>ive-got-your-back-5-focus</item_id>
     <item_index>03</item_index>
     <item_name>I&apos;ve Got Your Back (5 Focus)</item_name>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:ive-got-your-back-5-focus</scc>
     <scdc>1.1.1:13.2.4.5:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/2nd-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

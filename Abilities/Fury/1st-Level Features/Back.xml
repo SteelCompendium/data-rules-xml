@@ -15,17 +15,23 @@
     <cost>3 Ferocity</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Ferocity</cost_resource>
+    <distance>1 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Back</file_basename>
     <file_dpath>Fury/1st-Level Features</file_dpath>
+    <flavor>You hew about you with your mighty weapon, hurling enemies backward.</flavor>
     <item_id>back-3-ferocity</item_id>
     <item_index>12</item_index>
     <item_name>Back! (3 Ferocity)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back-3-ferocity</scc>
     <scdc>1.1.1:13.2.5.1:12</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/fury/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

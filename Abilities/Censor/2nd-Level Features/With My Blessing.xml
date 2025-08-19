@@ -14,17 +14,22 @@
     <cost>5 Wrath</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Wrath</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>With My Blessing</file_basename>
     <file_dpath>Censor/2nd-Level Features</file_dpath>
+    <flavor>A word in prayer, and the gods show the way.</flavor>
     <item_id>with-my-blessing-5-wrath</item_id>
     <item_index>03</item_index>
     <item_name>With My Blessing (5 Wrath)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:with-my-blessing-5-wrath</scc>
     <scdc>1.1.1:13.2.7.5:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/censor/2nd-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">The target can use a free triggered action to use a strike signature ability or a strike heroic ability, and has a double edge on that ability. If a heroic ability is chosen, reduce its Heroic Resource cost by 3 (to a minimum cost of 0).</effect>

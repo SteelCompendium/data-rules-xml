@@ -14,17 +14,22 @@
     <cost>11 Insight</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Insight</cost_resource>
+    <distance>2 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Shadowgrasp</file_basename>
     <file_dpath>Shadow/8th-Level Features</file_dpath>
+    <flavor>The shadows around you give way, allowing the shadow creature within you to grasp at your foes.</flavor>
     <item_id>shadowgrasp-11-insight</item_id>
     <item_index>05</item_index>
     <item_name>Shadowgrasp (11 Insight)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:shadowgrasp-11-insight</scc>
     <scdc>1.1.1:13.2.2.2:05</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/8th-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

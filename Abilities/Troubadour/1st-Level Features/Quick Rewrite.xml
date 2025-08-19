@@ -15,17 +15,23 @@
     <cost>3 Drama</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>3 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Quick Rewrite</file_basename>
     <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <flavor>You write something unexpected into the scene that hinders your enemy.</flavor>
     <item_id>quick-rewrite-3-drama</item_id>
     <item_index>01</item_index>
     <item_name>Quick Rewrite (3 Drama)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:quick-rewrite-3-drama</scc>
     <scdc>1.1.1:13.2.3.1:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/1st-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

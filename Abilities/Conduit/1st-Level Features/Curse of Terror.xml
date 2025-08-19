@@ -15,17 +15,23 @@
     <cost>5 Piety</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Curse of Terror</file_basename>
     <file_dpath>Conduit/1st-Level Features</file_dpath>
+    <flavor>Fear of divine judgment overwhelms your foe.</flavor>
     <item_id>curse-of-terror-5-piety</item_id>
     <item_index>07</item_index>
     <item_name>Curse of Terror (5 Piety)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:curse-of-terror-5-piety</scc>
     <scdc>1.1.1:13.2.8.1:07</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

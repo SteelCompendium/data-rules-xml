@@ -16,17 +16,24 @@
     <cost>9 Essence</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>4 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Storm of Sands</file_basename>
     <file_dpath>Elementalist/5th-Level Features</file_dpath>
+    <flavor>Dirt and debris swirl into a dark, pulsing hurricane.</flavor>
     <item_id>storm-of-sands-9-essence</item_id>
     <item_index>03</item_index>
     <item_name>Storm of Sands (9 Essence)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Earth</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>5</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:storm-of-sands-9-essence</scc>
     <scdc>1.1.1:13.2.9.4:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/5th-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

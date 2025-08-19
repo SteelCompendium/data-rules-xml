@@ -17,17 +17,25 @@
     <cost>9 Essence</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Magma Titan</file_basename>
     <file_dpath>Elementalist/6th-Level Features</file_dpath>
+    <flavor>Their body swells with lava, mud, and might, towering over their enemies.</flavor>
     <item_id>magma-titan-9-essence</item_id>
     <item_index>02</item_index>
     <item_name>Magma Titan (9 Essence)</item_name>
+    <keywords>Earth</keywords>
+    <keywords>Fire</keywords>
+    <keywords>Green</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:magma-titan-9-essence</scc>
     <scdc>1.1.1:13.2.9.3:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/6th-level-feature</type>
+    <target>Self or one ally</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the target has the following benefits:

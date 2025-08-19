@@ -10,17 +10,21 @@
   <trigger>You take damage.</trigger>
   <metadata>
     <class>null</class>
+    <distance>Self</distance>
     <feature_type>ability</feature_type>
     <file_basename>Inertial Shield</file_basename>
     <file_dpath>Null/1st-Level Features</file_dpath>
+    <flavor>You intuit the course of an incoming attack, reducing its effects.</flavor>
     <item_id>inertial-shield</item_id>
     <item_index>01</item_index>
     <item_name>Inertial Shield</item_name>
+    <keywords>Psionic</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.null.1st-level-feature:inertial-shield</scc>
     <scdc>1.1.1:13.2.6.1:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/null/1st-level-feature</type>
+    <target>Self</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">You take half the damage.</effect>

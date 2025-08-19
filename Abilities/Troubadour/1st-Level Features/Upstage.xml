@@ -15,17 +15,23 @@
     <cost>3 Drama</cost>
     <cost_amount>3</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>Self; see below</distance>
     <feature_type>ability</feature_type>
     <file_basename>Upstage</file_basename>
     <file_dpath>Troubadour/1st-Level Features</file_dpath>
+    <flavor>As you bob and weave through the crowd, you can&apos;t help but leave the audience wanting more.</flavor>
     <item_id>upstage-3-drama</item_id>
     <item_index>04</item_index>
     <item_name>Upstage (3 Drama)</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:upstage-3-drama</scc>
     <scdc>1.1.1:13.2.3.1:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/1st-level-feature</type>
+    <target>Self</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">You shift up to your speed. You make one power roll that targets each enemy you move adjacent to during this shift.</effect>

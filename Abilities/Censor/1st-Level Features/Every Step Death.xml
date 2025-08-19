@@ -11,17 +11,23 @@
   <target>One creature</target>
   <metadata>
     <class>censor</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Every Step Death</file_basename>
     <file_dpath>Abilities/Censor/1st-Level Features</file_dpath>
+    <flavor>You show your foe a glimpse of their fate after death.</flavor>
     <item_id>every-step-death</item_id>
     <item_index>15</item_index>
     <item_name>Every Step... Death!</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.censor.1st-level-feature:every-step-death</scc>
     <scdc>1.1.1:13.2.7.1:15</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/censor/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

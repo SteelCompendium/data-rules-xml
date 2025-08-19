@@ -13,17 +13,21 @@
     <cost>9 Insight</cost>
     <cost_amount>9</cost_amount>
     <cost_resource>Insight</cost_resource>
+    <distance>4 burst</distance>
     <feature_type>ability</feature_type>
     <file_basename>Cinderstorm</file_basename>
     <file_dpath>Shadow/6th-Level Features</file_dpath>
+    <flavor>You teleport your friends in a burst of ash and fire.</flavor>
     <item_id>cinderstorm-9-insight</item_id>
     <item_index>02</item_index>
     <item_name>Cinderstorm (9 Insight)</item_name>
+    <keywords>Magic</keywords>
     <level>6</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight</scc>
     <scdc>1.1.1:13.2.2.3:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/6th-level-feature</type>
+    <target>Self and each ally in the area</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target can teleport up to 5 squares. For each target in addition to you who teleports away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Agility score. Additionally, a target who ends this movement in concealment or cover can use the Hide maneuver even if they are observed.</effect>

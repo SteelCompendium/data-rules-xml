@@ -12,17 +12,24 @@
   <target>One creature</target>
   <metadata>
     <class>elementalist</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>The Green Within the Green Without</file_basename>
     <file_dpath>Elementalist/1st-Level Features</file_dpath>
+    <flavor>Whipping vines erupt from a foe&apos;s body to grasp at another close by.</flavor>
     <item_id>the-green-within-the-green-without</item_id>
     <item_index>13</item_index>
     <item_name>The Green Within, the Green Without</item_name>
+    <keywords>Green</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:the-green-within-the-green-without</scc>
     <scdc>1.1.1:13.2.9.1:13</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

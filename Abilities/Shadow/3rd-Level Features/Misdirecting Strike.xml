@@ -16,17 +16,24 @@
     <cost>7 Insight</cost>
     <cost_amount>7</cost_amount>
     <cost_resource>Insight</cost_resource>
+    <distance>Melee 1 or ranged 5</distance>
     <feature_type>ability</feature_type>
     <file_basename>Misdirecting Strike</file_basename>
     <file_dpath>Shadow/3rd-Level Features</file_dpath>
+    <flavor>&quot;Why are you looking at ME?!&quot;</flavor>
     <item_id>misdirecting-strike-7-insight</item_id>
     <item_index>03</item_index>
     <item_name>Misdirecting Strike (7 Insight)</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>3</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:misdirecting-strike-7-insight</scc>
     <scdc>1.1.1:13.2.2.6:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/3rd-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

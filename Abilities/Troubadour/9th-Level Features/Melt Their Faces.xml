@@ -16,17 +16,24 @@
     <cost>11 Drama</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Drama</cost_resource>
+    <distance>Melee 1 or ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Melt Their Faces</file_basename>
     <file_dpath>Troubadour/9th-Level Features</file_dpath>
+    <flavor>The power of music rips through the reality around the target and blows them away.</flavor>
     <item_id>melt-their-faces-11-drama</item_id>
     <item_index>04</item_index>
     <item_name>Melt Their Faces (11 Drama)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:melt-their-faces-11-drama</scc>
     <scdc>1.1.1:13.2.3.7:04</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/troubadour/9th-level-feature</type>
+    <target>One creature or object</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

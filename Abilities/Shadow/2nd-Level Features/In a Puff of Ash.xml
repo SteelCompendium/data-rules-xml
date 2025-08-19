@@ -17,17 +17,25 @@
     <cost>5 Insight</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Insight</cost_resource>
+    <distance>Melee 1 or ranged 5</distance>
     <feature_type>ability</feature_type>
     <file_basename>In a Puff of Ash</file_basename>
     <file_dpath>Shadow/2nd-Level Features</file_dpath>
+    <flavor>You enchant a strike with your teleportation magic.</flavor>
     <item_id>in-a-puff-of-ash-5-insight</item_id>
     <item_index>02</item_index>
     <item_name>In a Puff of Ash (5 Insight)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-ash-5-insight</scc>
     <scdc>1.1.1:13.2.2.5:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/2nd-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

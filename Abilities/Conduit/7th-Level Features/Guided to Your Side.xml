@@ -10,17 +10,22 @@
   <target>Self and each ally</target>
   <metadata>
     <class>conduit</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Guided to Your Side</file_basename>
     <file_dpath>Conduit/7th-Level Features</file_dpath>
+    <flavor>You concentrate on a friend and teleport to them.</flavor>
     <item_id>guided-to-your-side</item_id>
     <item_index>01</item_index>
     <item_name>Guided to Your Side</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>7</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:guided-to-your-side</scc>
     <scdc>1.1.1:13.2.8.8:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/7th-level-feature</type>
+    <target>Self and each ally</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target is teleported to unoccupied spaces within 5 squares of a willing creature who you are bonded to with your Invocation of the Heart feature. You don&apos;t need line of effect to the bonded creature but you must be on the same world.</effect>

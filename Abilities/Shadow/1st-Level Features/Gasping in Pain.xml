@@ -11,17 +11,23 @@
   <target>One creature</target>
   <metadata>
     <class>shadow</class>
+    <distance>Melee 1</distance>
     <feature_type>ability</feature_type>
     <file_basename>Gasping in Pain</file_basename>
     <file_dpath>Shadow/1st-Level Features</file_dpath>
+    <flavor>Your precise strikes let your allies take advantage of a target&apos;s agony.</flavor>
     <item_id>gasping-in-pain</item_id>
     <item_index>01</item_index>
     <item_name>Gasping in Pain</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:gasping-in-pain</scc>
     <scdc>1.1.1:13.2.2.1:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/shadow/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

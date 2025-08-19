@@ -13,17 +13,21 @@
     <cost>11 Focus</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Focus</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Floodgates Open</file_basename>
     <file_dpath>Tactician/8th-Level Features</file_dpath>
+    <flavor>You direct your squad to strike in unison and with devastating effect.</flavor>
     <item_id>floodgates-open-11-focus</item_id>
     <item_index>02</item_index>
     <item_name>Floodgates Open (11 Focus)</item_name>
+    <keywords>Ranged</keywords>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:floodgates-open-11-focus</scc>
     <scdc>1.1.1:13.2.4.2:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/8th-level-feature</type>
+    <target>Three allies</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">Each target gains 1 surge and can use a signature ability as a free triggered action. That ability gains an edge on the power roll and increases the potency of any potency effects by 1.</effect>

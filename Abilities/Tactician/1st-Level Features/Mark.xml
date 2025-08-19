@@ -9,17 +9,21 @@
   <target>One creature</target>
   <metadata>
     <class>tactician</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Mark</file_basename>
     <file_dpath>Tactician/1st-Level Features</file_dpath>
+    <flavor>You draw your allies&apos; attention to a specific foe-with devastating effect.</flavor>
     <item_id>mark</item_id>
     <item_index>11</item_index>
     <item_name>Mark</item_name>
+    <keywords>Ranged</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:mark</scc>
     <scdc>1.1.1:13.2.4.1:11</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/1st-level-feature</type>
+    <target>One creature</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another tactician marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.

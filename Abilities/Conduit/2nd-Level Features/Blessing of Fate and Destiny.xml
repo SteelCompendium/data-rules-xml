@@ -14,17 +14,22 @@
     <cost>5 Piety</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Blessing of Fate and Destiny</file_basename>
     <file_dpath>Conduit/2nd-Level Features</file_dpath>
+    <flavor>Your enemies suffer their fate; your allies embrace their destiny!</flavor>
     <item_id>blessing-of-fate-and-destiny-5-piety</item_id>
     <item_index>02</item_index>
     <item_name>Blessing of Fate and Destiny (5 Piety)</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:blessing-of-fate-and-destiny-5-piety</scc>
     <scdc>1.1.1:13.2.8.5:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/2nd-level-feature</type>
+    <target>Three creatures</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:

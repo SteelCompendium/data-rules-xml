@@ -11,17 +11,23 @@
   <target>Special</target>
   <metadata>
     <class>elementalist</class>
+    <distance>Ranged 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Summon Source of Earth</file_basename>
     <file_dpath>Elementalist/8th-Level Features</file_dpath>
+    <flavor>The ground rumbles as an elemental bursts forth, ready to serve.</flavor>
     <item_id>summon-source-of-earth</item_id>
     <item_index>03</item_index>
     <item_name>Summon Source of Earth</item_name>
+    <keywords>Earth</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>8</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:summon-source-of-earth</scc>
     <scdc>1.1.1:13.2.9.2:03</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/8th-level-feature</type>
+    <target>Special</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.

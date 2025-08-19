@@ -15,17 +15,23 @@
     <cost>5 Piety</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Piety</cost_resource>
+    <distance>3 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Saints Tempest</file_basename>
     <file_dpath>Conduit/2nd-Level Features</file_dpath>
+    <flavor>A raging storm appears, striking your foes with lightning and throwing them around with wind.</flavor>
     <item_id>saints-tempest-5-piety</item_id>
     <item_index>01</item_index>
     <item_name>Saint&apos;s Tempest (5 Piety)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:saints-tempest-5-piety</scc>
     <scdc>1.1.1:13.2.8.5:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/conduit/2nd-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

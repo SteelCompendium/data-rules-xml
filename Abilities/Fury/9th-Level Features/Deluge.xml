@@ -15,17 +15,23 @@
     <cost>11 Ferocity</cost>
     <cost_amount>11</cost_amount>
     <cost_resource>Ferocity</cost_resource>
+    <distance>5 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>Deluge</file_basename>
     <file_dpath>Fury/9th-Level Features</file_dpath>
+    <flavor>You summon your primordial storm.</flavor>
     <item_id>deluge-11-ferocity</item_id>
     <item_index>01</item_index>
     <item_name>Deluge (11 Ferocity)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.fury.9th-level-feature:deluge-11-ferocity</scc>
     <scdc>1.1.1:13.2.5.6:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/fury/9th-level-feature</type>
+    <target>Each enemy in the area</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="roll">

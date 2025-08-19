@@ -16,17 +16,23 @@
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Focus</cost_resource>
+    <distance>Ranged 5</distance>
     <feature_type>ability</feature_type>
     <file_basename>No Dying on My Watch</file_basename>
     <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <flavor>You prioritize saving an ally over your own safety.</flavor>
     <item_id>no-dying-on-my-watch-5-focus</item_id>
     <item_index>02</item_index>
     <item_name>No Dying on My Watch (5 Focus)</item_name>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:no-dying-on-my-watch-5-focus</scc>
     <scdc>1.1.1:13.2.4.5:02</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/2nd-level-feature</type>
+    <target>One enemy</target>
+    <type>Triggered</type>
   </metadata>
   <effects>
     <effect type="mundane">You move up to your speed toward the triggering ally, ending this movement adjacent to them or in the nearest square if you can&apos;t reach an adjacent square. The triggering ally can spend a Recovery and gains 5 temporary Stamina for each enemy you came adjacent to during the move. You then make a power roll against the target.</effect>

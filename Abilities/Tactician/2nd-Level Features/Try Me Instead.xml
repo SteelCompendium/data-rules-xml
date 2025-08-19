@@ -15,17 +15,23 @@
     <cost>5 Focus</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Focus</cost_resource>
+    <distance>Self; see below</distance>
     <feature_type>ability</feature_type>
     <file_basename>Try Me Instead</file_basename>
     <file_dpath>Tactician/2nd-Level Features</file_dpath>
+    <flavor>&quot;Try picking on someone my size.&quot;</flavor>
     <item_id>try-me-instead-5-focus</item_id>
     <item_index>01</item_index>
     <item_name>Try Me Instead (5 Focus)</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:try-me-instead-5-focus</scc>
     <scdc>1.1.1:13.2.4.5:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/tactician/2nd-level-feature</type>
+    <target>Self</target>
+    <type>Main action</type>
   </metadata>
   <effects>
     <effect type="mundane">You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&apos;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</effect>

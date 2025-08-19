@@ -17,17 +17,25 @@
     <cost>5 Essence</cost>
     <cost_amount>5</cost_amount>
     <cost_resource>Essence</cost_resource>
+    <distance>3 cube within 10</distance>
     <feature_type>ability</feature_type>
     <file_basename>O Flower Aid O Earth Defend</file_basename>
     <file_dpath>Elementalist/2nd-Level Features</file_dpath>
+    <flavor>Revitalizing plants and jagged stones grow, helping allies and hindering foes.</flavor>
     <item_id>o-flower-aid-o-earth-defend-5-essence</item_id>
     <item_index>01</item_index>
     <item_name>O Flower Aid, O Earth Defend (5 Essence)</item_name>
+    <keywords>Area</keywords>
+    <keywords>Earth</keywords>
+    <keywords>Green</keywords>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:o-flower-aid-o-earth-defend-5-essence</scc>
     <scdc>1.1.1:13.2.9.5:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>feature/ability/elementalist/2nd-level-feature</type>
+    <target>Special</target>
+    <type>Maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Until the start of your next turn, the area gains the following effects:
