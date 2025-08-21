@@ -43,6 +43,6 @@
       <t2>Push 5</t2>
       <t3>Push 7</t3>
     </effect>
-    <effect type="mundane">An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.</effect>
+    <effect type="mundane" name="Effect">An object you target must be your size or smaller. You gain an edge on this ability. Additionally, for each square you push the target, they take 1 psychic damage.</effect>
   </effects>
 </ability>

@@ -41,6 +41,6 @@
       <t2>3 sonic damage; push 2</t2>
       <t3>5 sonic damage; push 3</t3>
     </effect>
-    <effect type="mundane">You can push each willing ally in the area the same distance, ignoring stability.</effect>
+    <effect type="mundane" name="Effect">You can push each willing ally in the area the same distance, ignoring stability.</effect>
   </effects>
 </ability>

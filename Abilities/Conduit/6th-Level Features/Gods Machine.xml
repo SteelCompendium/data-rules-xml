@@ -33,7 +33,10 @@
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 Stamina and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its Stamina drops to 0, or if you are dying. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You conjure a size 2 rolling machine that appears in an unoccupied space within distance. The machine has 50 Stamina and immunity all to poison and psychic damage. It disappears at the end of the encounter, if its Stamina drops to 0, or if you are dying. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Intuition</roll>
       <t1>3 damage</t1>

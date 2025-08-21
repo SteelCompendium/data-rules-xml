@@ -35,6 +35,6 @@
     <type>feature/ability/fury/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.</effect>
+    <effect type="mundane" name="Effect">If the target is not a leader or solo creature, they are reduced to 0 Stamina at the end of their next turn. If the target is a leader or solo creature, you gain 3 surges and can make a melee free strike against them.</effect>
   </effects>
 </ability>

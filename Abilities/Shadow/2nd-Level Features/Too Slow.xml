@@ -32,6 +32,6 @@
     <type>feature/ability/shadow/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">You ignore any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.</effect>
   </effects>
 </ability>

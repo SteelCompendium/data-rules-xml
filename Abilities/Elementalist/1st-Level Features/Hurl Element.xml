@@ -37,6 +37,6 @@
       <t2>4 + R damage</t2>
       <t3>6 + R damage</t3>
     </effect>
-    <effect type="mundane">When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.</effect>
+    <effect type="mundane" name="Effect">When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.</effect>
   </effects>
 </ability>

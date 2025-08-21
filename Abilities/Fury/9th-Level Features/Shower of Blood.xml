@@ -41,6 +41,6 @@
       <t2>18 + M damage</t2>
       <t3>24 + M damage</t3>
     </effect>
-    <effect type="mundane">Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&apos;t take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.</effect>
+    <effect type="mundane" name="Effect">Each enemy within 5 squares of you is distracted until the end of the round. While a creature is distracted this way, they can&apos;t take triggered actions or free triggered actions, ability rolls made against them gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.</effect>
   </effects>
 </ability>

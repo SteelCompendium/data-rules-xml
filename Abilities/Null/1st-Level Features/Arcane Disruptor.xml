@@ -43,6 +43,6 @@
       <t2>12 + A psychic damage; M &lt; AVERAGE, weakened (save ends)</t2>
       <t3>16 + A psychic damage; M &lt; STRONG, weakened (save ends)</t3>
     </effect>
-    <effect type="mundane">While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.</effect>
+    <effect type="mundane" name="Effect">While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.</effect>
   </effects>
 </ability>

@@ -15,7 +15,7 @@
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.
-- **Prayer Effect:** You slide one creature within 10 squares of you up to a number of squares equal to 5 + your conduit level.</effect>
+    <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes the Aid Attack or Hide maneuver.</effect>
+    <effect type="mundane" name="Prayer Effect">You slide one creature within 10 squares of you up to a number of squares equal to 5 + your conduit level.</effect>
   </effects>
 </ability>

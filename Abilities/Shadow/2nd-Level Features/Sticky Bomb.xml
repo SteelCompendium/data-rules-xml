@@ -31,7 +31,10 @@
     <type>feature/ability/shadow/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You attach a small bomb to a creature. If you are hidden from the creature, they don&apos;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&apos;t, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You attach a small bomb to a creature. If you are hidden from the creature, they don&apos;t notice the bomb and you remain hidden. The creature otherwise notices the bomb and can disarm and remove it as a main action. If they don&apos;t, at the end of your next turn, the bomb detonates. When the bomb detonates, you make a power roll targeting each enemy within 2 squares of it.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Agility</roll>
       <t1>4 + A fire damage</t1>

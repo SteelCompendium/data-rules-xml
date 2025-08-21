@@ -28,7 +28,7 @@
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.</effect>
+    <effect type="mundane" name="Effect">You gain temporary Stamina equal to your Might score and can enter your animal form or hybrid form.</effect>
     <effect type="mundane" cost="Spend 1 Ferocity">If you are not dying, you can spend a Recovery.</effect>
   </effects>
 </ability>

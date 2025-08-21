@@ -37,6 +37,6 @@
       <t2>5 + I corruption damage</t2>
       <t3>7 + I corruption damage</t3>
     </effect>
-    <effect type="mundane">You or one ally within distance can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">You or one ally within distance can spend a Recovery.</effect>
   </effects>
 </ability>

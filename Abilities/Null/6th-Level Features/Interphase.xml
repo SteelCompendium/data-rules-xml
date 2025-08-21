@@ -31,6 +31,6 @@
     <type>feature/ability/null/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can use up to three signature abilities, each of which gains an edge.</effect>
+    <effect type="mundane" name="Effect">You can use up to three signature abilities, each of which gains an edge.</effect>
   </effects>
 </ability>

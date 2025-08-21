@@ -35,7 +35,10 @@
     <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Add your current Stamina to your target&apos;s current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>Add your current Stamina to your target&apos;s current Stamina, then you have half that total Stamina and the target has the remainder. If either of you would gain more Stamina this way than their Stamina maximum, the difference in Stamina between what that creature would gain and their maximum is gained by the other creature. Neither of you can gain more Stamina than your maximum this way. You then make a power roll.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
       <t1>You and the target can each end one effect on yourselves that is ended by a saving throw or that ends at the end of your turns.</t1>

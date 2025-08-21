@@ -30,6 +30,6 @@
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</effect>
+    <effect type="mundane" name="Effect">You can use this ability after seeing the result of the triggering roll. The target must reroll the power roll and use the new roll.</effect>
   </effects>
 </ability>

@@ -37,7 +37,10 @@
     <type>feature/ability/shadow/5th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You and the target are removed from the encounter map until the start of your next turn. You reappear in the spaces you left or the nearest unoccupied spaces. Make a power roll upon your return.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Agility</roll>
       <t1>8 + A corruption damage</t1>

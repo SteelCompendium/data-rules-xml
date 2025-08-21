@@ -33,6 +33,6 @@
     <type>feature/ability/shadow/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the start of your next turn, any ability roll made against a target gains an edge.</effect>
+    <effect type="mundane" name="Effect">Until the start of your next turn, any ability roll made against a target gains an edge.</effect>
   </effects>
 </ability>

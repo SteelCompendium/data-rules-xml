@@ -39,7 +39,10 @@
     <type>feature/ability/elementalist/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&apos;t. You then make a power roll against the target of this ability.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>The target uses their signature ability against a creature of your choice. This signature ability can target the creature even if it usually wouldn&apos;t. You then make a power roll against the target of this ability.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Reason</roll>
       <t1>5 + R poison damage</t1>

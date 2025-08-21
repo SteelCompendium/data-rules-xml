@@ -41,6 +41,6 @@
       <t2>18 + A damage</t2>
       <t3>24 + A damage</t3>
     </effect>
-    <effect type="mundane">A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.</effect>
+    <effect type="mundane" name="Effect">A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.</effect>
   </effects>
 </ability>

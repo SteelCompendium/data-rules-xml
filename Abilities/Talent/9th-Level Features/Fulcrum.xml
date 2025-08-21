@@ -35,7 +35,10 @@
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>Make a power roll to determine the area of this ability. Each target is vertical pushed 6 squares. You can target only objects of size 1L or smaller.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Reason</roll>
       <t1>2 burst</t1>

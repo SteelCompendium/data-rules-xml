@@ -43,7 +43,7 @@
       <t2>24 + R psychic damage</t2>
       <t3>28 + R psychic damage</t3>
     </effect>
-    <effect type="mundane">This ability ignores cover and concealment.</effect>
+    <effect type="mundane" name="Effect">This ability ignores cover and concealment.</effect>
     <effect type="mundane" name="Strained">The ability roll scores a critical hit on a natural 17 or higher. You take half the damage the target takes, and you can&apos;t reduce this damage in any way.</effect>
   </effects>
 </ability>

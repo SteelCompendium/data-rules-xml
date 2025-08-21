@@ -31,6 +31,6 @@
     <type>feature/ability/fury/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain 20 temporary Stamina.</effect>
+    <effect type="mundane" name="Effect">You gain 20 temporary Stamina.</effect>
   </effects>
 </ability>

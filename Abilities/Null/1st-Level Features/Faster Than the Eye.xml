@@ -39,6 +39,6 @@
       <t2>5 damage</t2>
       <t3>7 damage</t3>
     </effect>
-    <effect type="mundane">You can deal damage equal to your Agility score to one creature or object adjacent to you.</effect>
+    <effect type="mundane" name="Effect">You can deal damage equal to your Agility score to one creature or object adjacent to you.</effect>
   </effects>
 </ability>

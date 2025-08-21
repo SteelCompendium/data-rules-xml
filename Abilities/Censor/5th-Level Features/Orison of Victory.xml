@@ -37,6 +37,6 @@
       <t2>Each target gains 2 surges.</t2>
       <t3>Each target gains 3 surges.</t3>
     </effect>
-    <effect type="mundane">A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.</effect>
+    <effect type="mundane" name="Effect">A target can end one effect on them that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.</effect>
   </effects>
 </ability>

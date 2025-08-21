@@ -35,6 +35,6 @@
     <type>feature/ability/null/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall&apos;s squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M &lt; AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M &lt; AVERAGE is restrained (save ends).</effect>
+    <effect type="mundane" name="Effect">You can place this wall in occupied squares, sliding each creature in the area into the nearest unoccupied space of your choice. The wall remains until the end of the encounter or until you are dying. The wall&apos;s squares are treated as stone squares for the purpose of damage, and you and allies can move freely through the wall. Each enemy who enters a square adjacent to the wall and has M &lt; AVERAGE is slowed (save ends). Each enemy who is force moved into the wall and has M &lt; AVERAGE is restrained (save ends).</effect>
   </effects>
 </ability>

@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter, any ability roll made against a target takes a bane and each target has damage immunity 5.</effect>
   </effects>
 </ability>

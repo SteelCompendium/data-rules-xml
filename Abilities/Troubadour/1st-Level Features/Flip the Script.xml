@@ -33,6 +33,6 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.</effect>
+    <effect type="mundane" name="Effect">Each target can teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.</effect>
   </effects>
 </ability>

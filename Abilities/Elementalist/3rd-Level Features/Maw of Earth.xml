@@ -43,6 +43,6 @@
       <t2>9 damage</t2>
       <t3>12 damage</t3>
     </effect>
-    <effect type="mundane">The ground in or directly beneath the area drops 3 squares.</effect>
+    <effect type="mundane" name="Effect">The ground in or directly beneath the area drops 3 squares.</effect>
   </effects>
 </ability>

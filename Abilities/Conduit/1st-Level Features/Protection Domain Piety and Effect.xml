@@ -15,7 +15,7 @@
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy&apos;s power roll.
-- **Prayer Effect:** One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.</effect>
+    <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that you or any ally within 10 squares gains temporary Stamina, or uses a triggered action to reduce incoming damage or to impose a bane or double bane on an enemy&apos;s power roll.</effect>
+    <effect type="mundane" name="Prayer Effect">One ally within 10 squares gains temporary Stamina equal to four times your Intuition score.</effect>
   </effects>
 </ability>

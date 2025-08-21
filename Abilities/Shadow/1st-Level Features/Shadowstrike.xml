@@ -35,6 +35,6 @@
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You use a strike signature ability twice.</effect>
+    <effect type="mundane" name="Effect">You use a strike signature ability twice.</effect>
   </effects>
 </ability>

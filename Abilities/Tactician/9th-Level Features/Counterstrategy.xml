@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</effect>
+    <effect type="mundane" name="Effect">You gain 6 surges. Until the end of the encounter or until you are dying, whenever the Director spends Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*), choose yourself or one ally within 10 squares. The chosen character gains 2 of their Heroic Resource.</effect>
   </effects>
 </ability>

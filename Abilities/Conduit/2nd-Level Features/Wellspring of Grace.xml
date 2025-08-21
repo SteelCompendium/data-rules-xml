@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, whenever a target starts their turn in the area, they can spend a Recovery.</effect>
   </effects>
 </ability>

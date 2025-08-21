@@ -35,8 +35,14 @@
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.</effect>
-    <effect type="mundane" name="Strained">Make a power roll that targets you and each enemy within distance.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>Each target can use any main action available to them as a free triggered action, but they lose their main action on their next turn.</effect>
+    </effect>
+    <effect type="test">
+      <name>Strained</name>
+      <effect>Make a power roll that targets you and each enemy within distance.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
       <t1>4 corruption damage; slowed (save ends)</t1>

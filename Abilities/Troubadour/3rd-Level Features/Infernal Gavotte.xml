@@ -43,6 +43,6 @@
       <t2>7 fire damage; A &lt; AVERAGE, weakened (save ends)</t2>
       <t3>10 fire damage; A &lt; STRONG, weakened (save ends)</t3>
     </effect>
-    <effect type="mundane">Each ally in the area can shift up to 2 squares.</effect>
+    <effect type="mundane" name="Effect">Each ally in the area can shift up to 2 squares.</effect>
   </effects>
 </ability>

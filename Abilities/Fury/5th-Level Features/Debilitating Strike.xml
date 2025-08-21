@@ -41,6 +41,6 @@
       <t2>14 + M damage; M &lt; AVERAGE, slowed (save ends)</t2>
       <t3>20 + M damage; M &lt; STRONG, slowed (save ends)</t3>
     </effect>
-    <effect type="mundane">While slowed this way, the target takes 1 damage for every square they move, including from forced movement.</effect>
+    <effect type="mundane" name="Effect">While slowed this way, the target takes 1 damage for every square they move, including from forced movement.</effect>
   </effects>
 </ability>

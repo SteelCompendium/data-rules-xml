@@ -41,6 +41,6 @@
       <t2>13 + M damage</t2>
       <t3>18 + M damage</t3>
     </effect>
-    <effect type="mundane">You and each ally adjacent to the target gain 10 temporary Stamina.</effect>
+    <effect type="mundane" name="Effect">You and each ally adjacent to the target gain 10 temporary Stamina.</effect>
   </effects>
 </ability>

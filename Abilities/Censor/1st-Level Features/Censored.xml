@@ -41,6 +41,6 @@
       <t2>3 + M holy damage</t2>
       <t3>5 + M holy damage</t3>
     </effect>
-    <effect type="mundane">When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</effect>
+    <effect type="mundane" name="Effect">When a target who is not a leader or solo creature is made winded by this ability, they are reduced to 0 Stamina.</effect>
   </effects>
 </ability>

@@ -37,6 +37,6 @@
       <t2>Vertical slide 7</t2>
       <t3>Vertical slide 9</t3>
     </effect>
-    <effect type="mundane">This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature&apos;s space.</effect>
+    <effect type="mundane" name="Effect">This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement had ended, but you keep moving through that creature&apos;s space.</effect>
   </effects>
 </ability>

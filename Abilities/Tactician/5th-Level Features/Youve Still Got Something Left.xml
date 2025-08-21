@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/5th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).</effect>
+    <effect type="mundane" name="Effect">The target uses a heroic ability with the Strike keyword as a free triggered action, and deals extra damage with that ability equal to your Reason score. The ability has its Heroic Resource cost reduced by 1 + your Reason score (minimum cost 0).</effect>
   </effects>
 </ability>

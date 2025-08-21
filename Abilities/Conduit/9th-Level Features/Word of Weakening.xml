@@ -41,6 +41,6 @@
       <t2>15 + I corruption damage; A &lt; AVERAGE, weakened (save ends)</t2>
       <t3>21 + I corruption damage; A &lt; STRONG, weakened (save ends)</t3>
     </effect>
-    <effect type="mundane">While weakened this way, the target has damage weakness 10.</effect>
+    <effect type="mundane" name="Effect">While weakened this way, the target has damage weakness 10.</effect>
   </effects>
 </ability>

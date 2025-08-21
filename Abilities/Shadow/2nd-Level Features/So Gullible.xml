@@ -32,6 +32,6 @@
     <type>feature/ability/shadow/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">You use your Clever Trick ability with no insight cost against the triggering creature and strike. You can teleport to an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.</effect>
   </effects>
 </ability>

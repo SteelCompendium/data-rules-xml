@@ -32,7 +32,7 @@
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</effect>
+    <effect type="mundane" name="Effect">You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.</effect>
     <effect type="mundane" cost="Spend 1 Essence">You teleport the target up to a number of squares equal to twice your Reason score instead.</effect>
   </effects>
 </ability>

@@ -43,6 +43,6 @@
       <t2>14 + A damage; A &lt; AVERAGE, grabbed</t2>
       <t3>18 + A damage; A &lt; STRONG, grabbed</t3>
     </effect>
-    <effect type="mundane">While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</effect>
+    <effect type="mundane" name="Effect">While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</effect>
   </effects>
 </ability>

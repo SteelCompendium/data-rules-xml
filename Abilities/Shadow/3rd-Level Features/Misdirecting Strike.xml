@@ -43,6 +43,6 @@
       <t2>13 + A damage</t2>
       <t3>18 + A damage</t3>
     </effect>
-    <effect type="mundane">The target is taunted by a willing ally within 5 squares of you until the end of the target&apos;s next turn.</effect>
+    <effect type="mundane" name="Effect">The target is taunted by a willing ally within 5 squares of you until the end of the target&apos;s next turn.</effect>
   </effects>
 </ability>

@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target is invisible until the start of your next turn.</effect>
+    <effect type="mundane" name="Effect">Each target is invisible until the start of your next turn.</effect>
   </effects>
 </ability>

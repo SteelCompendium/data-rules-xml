@@ -35,7 +35,7 @@
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target&apos;s stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.</effect>
+    <effect type="mundane" name="Effect">The target&apos;s stability increases by an amount equal to your Reason score, and they gain 10 temporary Stamina and 2 surges. This stability increase lasts until the target no longer has temporary Stamina from this ability.</effect>
     <effect type="mundane" name="Strained">You can&apos;t use maneuvers (save ends).</effect>
   </effects>
 </ability>

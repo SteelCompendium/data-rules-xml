@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is frightened of the creature who dealt the damage (save ends).</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, whenever you or any ally deals damage to a target marked by you who has R &lt; AVERAGE, the target is frightened of the creature who dealt the damage (save ends).</effect>
   </effects>
 </ability>

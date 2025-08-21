@@ -37,7 +37,10 @@
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
       <t1>3 + P psychic damage; I &lt; WEAK, frightened (save ends)</t1>

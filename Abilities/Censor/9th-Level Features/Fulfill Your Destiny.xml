@@ -34,6 +34,6 @@
     <type>feature/ability/censor/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.</effect>
+    <effect type="mundane" name="Effect">The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.</effect>
   </effects>
 </ability>

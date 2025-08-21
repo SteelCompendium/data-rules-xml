@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter, whenever one target takes damage, the other target can use a free triggered action to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free triggered action to spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter, whenever one target takes damage, the other target can use a free triggered action to take the damage instead. The original target suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other target can use a free triggered action to spend a Recovery.</effect>
   </effects>
 </ability>

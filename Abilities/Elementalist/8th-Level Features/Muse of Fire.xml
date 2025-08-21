@@ -43,6 +43,6 @@
       <t2>10 fire damage; the Director loses 3 Malice</t2>
       <t3>15 fire damage; the Director loses 4 Malice</t3>
     </effect>
-    <effect type="mundane">The Director&apos;s Malice can become negative as a result of this ability.</effect>
+    <effect type="mundane" name="Effect">The Director&apos;s Malice can become negative as a result of this ability.</effect>
   </effects>
 </ability>

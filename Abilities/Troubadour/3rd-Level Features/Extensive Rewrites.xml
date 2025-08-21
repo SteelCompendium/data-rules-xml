@@ -39,6 +39,6 @@
       <t2>Slide 5; P &lt; AVERAGE, this slide ignores the target&apos;s stability</t2>
       <t3>Slide 7; P &lt; STRONG, this slide ignores the target&apos;s stability</t3>
     </effect>
-    <effect type="mundane">Instead of sliding a target, you can swap their location with another target as long as each can fit into the other&apos;s space. You can&apos;t slide targets into other creatures or objects using this ability.</effect>
+    <effect type="mundane" name="Effect">Instead of sliding a target, you can swap their location with another target as long as each can fit into the other&apos;s space. You can&apos;t slide targets into other creatures or objects using this ability.</effect>
   </effects>
 </ability>

@@ -31,6 +31,6 @@
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.</effect>
+    <effect type="mundane" name="Effect">You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.</effect>
   </effects>
 </ability>

@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until the target is dying, at the start of each of the target&apos;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until the target is dying, at the start of each of the target&apos;s turns, they gain a bonus to speed and a bonus to rolled damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.</effect>
   </effects>
 </ability>

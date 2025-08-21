@@ -35,6 +35,6 @@
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.</effect>
+    <effect type="mundane" name="Effect">You can target yourself instead of one creature with this ability. Each target has damage immunity 5 until the start of your next turn.</effect>
   </effects>
 </ability>

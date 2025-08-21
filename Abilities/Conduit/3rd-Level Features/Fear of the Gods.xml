@@ -41,6 +41,6 @@
       <t2>9 psychic damage; I &lt; AVERAGE, frightened (save ends)</t2>
       <t3>13 psychic damage; I &lt; STRONG, frightened (save ends)</t3>
     </effect>
-    <effect type="mundane">Each target is frightened of you or a creature you choose within distance.</effect>
+    <effect type="mundane" name="Effect">Each target is frightened of you or a creature you choose within distance.</effect>
   </effects>
 </ability>

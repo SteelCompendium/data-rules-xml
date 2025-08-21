@@ -33,7 +33,10 @@
     <type>feature/ability/troubadour/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">A prone target ignores this ability.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>A prone target ignores this ability.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
       <t1>7 sonic damage; P &lt; WEAK, prone</t1>

@@ -30,7 +30,7 @@
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The power roll gains an edge.</effect>
+    <effect type="mundane" name="Effect">The power roll gains an edge.</effect>
     <effect type="mundane" cost="Spend 1 Piety">The power roll has a double edge.</effect>
   </effects>
 </ability>

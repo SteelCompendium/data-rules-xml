@@ -33,6 +33,6 @@
     <type>feature/ability/censor/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, whenever any target takes a triggered action or a free triggered action, that action is negated and the target takes holy damage equal to your Presence score.</effect>
   </effects>
 </ability>

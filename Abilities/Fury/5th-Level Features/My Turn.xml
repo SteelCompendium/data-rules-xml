@@ -42,6 +42,6 @@
       <t2>9 + M damage</t2>
       <t3>13 + M damage</t3>
     </effect>
-    <effect type="mundane">You can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">You can spend a Recovery.</effect>
   </effects>
 </ability>

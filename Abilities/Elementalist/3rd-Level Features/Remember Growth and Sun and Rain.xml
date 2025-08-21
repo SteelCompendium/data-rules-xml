@@ -31,6 +31,6 @@
     <type>feature/ability/elementalist/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&apos;s location as if you were there.</effect>
+    <effect type="mundane" name="Effect">You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object&apos;s location as if you were there.</effect>
   </effects>
 </ability>

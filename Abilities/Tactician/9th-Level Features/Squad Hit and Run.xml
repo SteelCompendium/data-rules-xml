@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</effect>
+    <effect type="mundane" name="Effect">Each target gains 2 surges, and can use a free triggered action to use a signature ability that gains an edge. After resolving their ability, each target can shift up to 2 squares and become hidden even if they have no cover or concealment, or if they are observed.</effect>
   </effects>
 </ability>

@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.</effect>
+    <effect type="mundane" name="Effect">Each target can choose another creature in the area, then swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.</effect>
   </effects>
 </ability>

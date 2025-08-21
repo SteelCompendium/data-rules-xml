@@ -37,6 +37,6 @@
       <t2>6 + I holy damage</t2>
       <t3>9 + I holy damage</t3>
     </effect>
-    <effect type="mundane">You or one ally within distance gains temporary Stamina equal to your Intuition score.</effect>
+    <effect type="mundane" name="Effect">You or one ally within distance gains temporary Stamina equal to your Intuition score.</effect>
   </effects>
 </ability>

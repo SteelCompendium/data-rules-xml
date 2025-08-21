@@ -30,6 +30,6 @@
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target takes psychic damage equal to half the triggering damage.</effect>
+    <effect type="mundane" name="Effect">The target takes psychic damage equal to half the triggering damage.</effect>
   </effects>
 </ability>

@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target gains 20 temporary Stamina and 3 surges.</effect>
+    <effect type="mundane" name="Effect">The target gains 20 temporary Stamina and 3 surges.</effect>
   </effects>
 </ability>

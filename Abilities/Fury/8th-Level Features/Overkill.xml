@@ -43,6 +43,6 @@
       <t2>10 + M damage</t2>
       <t3>14 + M damage</t3>
     </effect>
-    <effect type="mundane">If the target is a minion or is winded but isn&apos;t a leader or solo creature, they are reduced to 0 Stamina before this ability&apos;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.</effect>
+    <effect type="mundane" name="Effect">If the target is a minion or is winded but isn&apos;t a leader or solo creature, they are reduced to 0 Stamina before this ability&apos;s damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.</effect>
   </effects>
 </ability>

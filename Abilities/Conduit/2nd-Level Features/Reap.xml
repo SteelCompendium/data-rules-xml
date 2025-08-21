@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.</effect>
+    <effect type="mundane" name="Effect">Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.</effect>
   </effects>
 </ability>

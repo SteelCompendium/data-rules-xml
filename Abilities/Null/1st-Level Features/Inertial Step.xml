@@ -39,6 +39,6 @@
       <t2>7 + A damage</t2>
       <t3>10 + A damage</t3>
     </effect>
-    <effect type="mundane">You can shift up to half your speed before or after you make this strike.</effect>
+    <effect type="mundane" name="Effect">You can shift up to half your speed before or after you make this strike.</effect>
   </effects>
 </ability>

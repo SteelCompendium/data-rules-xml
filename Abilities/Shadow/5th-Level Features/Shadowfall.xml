@@ -41,6 +41,6 @@
       <t2>14 damage</t2>
       <t3>20 damage</t3>
     </effect>
-    <effect type="mundane">You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.</effect>
+    <effect type="mundane" name="Effect">You disappear before making the power roll. After the power roll is resolved, you appear in the first unoccupied space at the far end of the line.</effect>
   </effects>
 </ability>

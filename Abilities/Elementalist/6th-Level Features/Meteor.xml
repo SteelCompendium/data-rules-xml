@@ -45,6 +45,6 @@
       <t2>You teleport the target up to 6 squares.</t2>
       <t3>You teleport the target up to 8 squares.</t3>
     </effect>
-    <effect type="mundane">If the target is teleported to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.</effect>
+    <effect type="mundane" name="Effect">If the target is teleported to a space where they would fall, they immediately do so, treating the fall as if their Agility score were 0. The target takes fire damage from the fall, and each enemy within 3 squares of where they land takes the same amount of fire damage. The ground within 3 squares of where the target lands is difficult terrain.</effect>
   </effects>
 </ability>

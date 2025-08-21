@@ -39,6 +39,6 @@
       <t2>6 + A damage</t2>
       <t3>9 + A damage</t3>
     </effect>
-    <effect type="mundane">If any ally is adjacent to the target, you gain 1 surge before making the power roll.</effect>
+    <effect type="mundane" name="Effect">If any ally is adjacent to the target, you gain 1 surge before making the power roll.</effect>
   </effects>
 </ability>

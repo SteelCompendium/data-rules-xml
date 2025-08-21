@@ -37,7 +37,10 @@
     <type>feature/ability/fury/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You shift up to your speed. Each enemy you move adjacent to during this movement takes damage equal to twice your Might score. Then make one power roll that targets each enemy you move adjacent to during this shift. You gain 1 ferocity for each target who dies as a result of this ability (maximum 11 ferocity).</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>Any target whose Stamina is equal to or less than 8 dies.</t1>

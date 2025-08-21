@@ -33,7 +33,10 @@
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can target yourself instead of one ally with this ability.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You can target yourself instead of one ally with this ability.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Intuition</roll>
       <t1>The target gains 5 temporary Stamina.</t1>

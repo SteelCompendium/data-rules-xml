@@ -39,6 +39,6 @@
       <t2>11 sonic damage</t2>
       <t3>15 sonic damage</t3>
     </effect>
-    <effect type="mundane">Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.</effect>
+    <effect type="mundane" name="Effect">Each creature within distance gains a +5 bonus to speed until the end of their next turn. While under this effect, each target must use their full movement during their turn.</effect>
   </effects>
 </ability>

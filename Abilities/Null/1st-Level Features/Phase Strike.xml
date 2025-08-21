@@ -43,6 +43,6 @@
       <t2>4 + A psychic damage; I &lt; AVERAGE, the target goes out of phase (save ends)</t2>
       <t3>6 + A psychic damage; I &lt; STRONG, the target goes out of phase (save ends)</t3>
     </effect>
-    <effect type="mundane">A target who goes out of phase is slowed, has their stability reduced by 2, and can&apos;t obtain a tier 3 outcome on ability rolls.</effect>
+    <effect type="mundane" name="Effect">A target who goes out of phase is slowed, has their stability reduced by 2, and can&apos;t obtain a tier 3 outcome on ability rolls.</effect>
   </effects>
 </ability>

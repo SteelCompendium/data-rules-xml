@@ -41,6 +41,6 @@
       <t2>5 + M damage; M &lt; AVERAGE, bleeding (save ends)</t2>
       <t3>8 + M damage; M &lt; STRONG, bleeding (save ends)</t3>
     </effect>
-    <effect type="mundane">While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.</effect>
+    <effect type="mundane" name="Effect">While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.</effect>
   </effects>
 </ability>

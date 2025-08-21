@@ -43,6 +43,6 @@
       <t2>9 + P damage; P &lt; AVERAGE, restrained (save ends)</t2>
       <t3>12 + P damage; P &lt; STRONG, restrained (save ends)</t3>
     </effect>
-    <effect type="mundane">While the target is restrained this way, your abilities that impose forced movement can still move them.</effect>
+    <effect type="mundane" name="Effect">While the target is restrained this way, your abilities that impose forced movement can still move them.</effect>
   </effects>
 </ability>

@@ -28,7 +28,7 @@
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.</effect>
+    <effect type="mundane" name="Effect">You take half the damage, then can teleport up to 4 squares after the triggering effect resolves.</effect>
     <effect type="mundane" cost="Spend 1+ Insight">You teleport 1 additional square for each insight spent.</effect>
   </effects>
 </ability>

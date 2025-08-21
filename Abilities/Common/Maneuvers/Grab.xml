@@ -24,7 +24,7 @@
       <t2>You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.</t2>
       <t3>The target is grabbed by you.</t3>
     </effect>
-    <effect type="mundane">You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+    <effect type="mundane" name="Effect">You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
 Unless otherwise indicated, a creature can grab only one creature at a time.
 See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the grabbed condition.</effect>
   </effects>

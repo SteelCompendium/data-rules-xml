@@ -34,6 +34,6 @@
     <type>feature/ability/censor/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target is unaffected by the strike and you become the target instead, even if you aren&apos;t a valid target for it. You take half the damage from the strike, and the target gains 3 surges.</effect>
+    <effect type="mundane" name="Effect">The target is unaffected by the strike and you become the target instead, even if you aren&apos;t a valid target for it. You take half the damage from the strike, and the target gains 3 surges.</effect>
   </effects>
 </ability>

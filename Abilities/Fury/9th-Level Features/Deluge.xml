@@ -41,6 +41,6 @@
       <t2>10 damage</t2>
       <t3>15 damage</t3>
     </effect>
-    <effect type="mundane">This ability deals your primordial damage type and ignores damage immunity.</effect>
+    <effect type="mundane" name="Effect">This ability deals your primordial damage type and ignores damage immunity.</effect>
   </effects>
 </ability>

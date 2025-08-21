@@ -34,6 +34,6 @@
     <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a Heroic Resource or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&apos;s allies and enemies, and you decide who the ability targets.</effect>
+    <effect type="mundane" name="Effect">Before the target dies, you can look at their stat block and force them to use one ability that is a main action or a maneuver. If the ability costs a Heroic Resource or Malice, the creature can use it without any cost. For the purpose of using this ability, your allies and enemies are the target&apos;s allies and enemies, and you decide who the ability targets.</effect>
   </effects>
 </ability>

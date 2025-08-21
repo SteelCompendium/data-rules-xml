@@ -41,6 +41,6 @@
       <t2>10 + P psychic damage; P &lt; AVERAGE, frightened (save ends)</t2>
       <t3>13 + P psychic damage; P &lt; STRONG, frightened (save ends)</t3>
     </effect>
-    <effect type="mundane">While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</effect>
+    <effect type="mundane" name="Effect">While frightened this way, if a target who is a leader or solo creature is winded, they take an extra 25 psychic damage. If a target frightened this way is not a leader or solo creature and is winded, they are reduced to 0 Stamina.</effect>
   </effects>
 </ability>

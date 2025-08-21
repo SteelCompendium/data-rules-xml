@@ -30,6 +30,6 @@
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.</effect>
+    <effect type="mundane" name="Effect">The target takes half the triggering damage, or the distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target took damage and was force moved, you choose the effect. If the forced movement is reduced to 0 squares, the target can push the source of the forced movement a number of squares equal to your Reason score.</effect>
   </effects>
 </ability>

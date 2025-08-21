@@ -35,13 +35,16 @@
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You shift up to your speed.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You shift up to your speed.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>4 + M damage; P &lt; WEAK, frightened (save ends)</t1>
       <t2>6 + M damage; P &lt; AVERAGE, frightened (save ends)</t2>
       <t3>10 + M damage; P &lt; STRONG, frightened (save ends)</t3>
     </effect>
-    <effect type="mundane">If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are frightened of you (save ends).</effect>
+    <effect type="mundane" name="Effect">If a target who is not a leader or solo creature is winded by this strike, they are reduced to 0 Stamina and you choose an enemy within 5 squares of you. If that enemy has P &lt; AVERAGE, they are frightened of you (save ends).</effect>
   </effects>
 </ability>

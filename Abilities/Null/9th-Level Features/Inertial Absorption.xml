@@ -32,6 +32,6 @@
     <type>feature/ability/null/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.</effect>
+    <effect type="mundane" name="Effect">You take half the damage, negate any effects associated with the damage for you, and gain 3 surges.</effect>
   </effects>
 </ability>

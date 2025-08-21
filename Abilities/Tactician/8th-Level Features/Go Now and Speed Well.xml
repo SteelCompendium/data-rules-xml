@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.</effect>
+    <effect type="mundane" name="Effect">The target gains 2 surges and can use a signature or heroic ability as a free triggered action. The ability has a double edge on the power roll, ignores damage immunity, and increases the potency of any potency effects by 1.</effect>
   </effects>
 </ability>

@@ -28,7 +28,7 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.</effect>
+    <effect type="mundane" name="Effect">An edge on the triggering roll becomes a bane, or a double edge becomes an edge. A bane becomes an edge, or a double bane becomes a bane.</effect>
     <effect type="mundane" cost="Spend 3 Drama">An edge on the triggering roll becomes a double bane, or a double edge is negated. A bane becomes a double edge, or a double bane is negated.</effect>
   </effects>
 </ability>

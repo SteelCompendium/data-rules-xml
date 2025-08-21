@@ -31,6 +31,6 @@
     <type>feature/ability/troubadour/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.</effect>
+    <effect type="mundane" name="Effect">While this performance is active, each target who starts their turn dying while in the area gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.</effect>
   </effects>
 </ability>

@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, each enemy in the area takes a bane on power rolls, and you and each ally in the area gain 1 surge at the end of each of your turns.</effect>
   </effects>
 </ability>

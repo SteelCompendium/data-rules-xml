@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target gains 3 of their Heroic Resource.</effect>
+    <effect type="mundane" name="Effect">Each target gains 3 of their Heroic Resource.</effect>
   </effects>
 </ability>

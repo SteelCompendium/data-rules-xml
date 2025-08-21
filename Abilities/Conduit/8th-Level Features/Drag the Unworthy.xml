@@ -41,6 +41,6 @@
       <t2>13 + I holy damage; slide 4</t2>
       <t3>18 + I holy damage; slide 6</t3>
     </effect>
-    <effect type="mundane">Each ally the target comes adjacent to during the forced movement can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">Each ally the target comes adjacent to during the forced movement can spend a Recovery.</effect>
   </effects>
 </ability>

@@ -34,6 +34,6 @@
     <type>feature/ability/censor/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.</effect>
+    <effect type="mundane" name="Effect">You can spend a Recovery to allow the target to regain Stamina equal to your recovery value. The target can then take their turn immediately before the triggering enemy.</effect>
   </effects>
 </ability>

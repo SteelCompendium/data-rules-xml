@@ -41,6 +41,6 @@
       <t2>6 + I lightning damage</t2>
       <t3>9 + I lightning damage</t3>
     </effect>
-    <effect type="mundane">The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).</effect>
+    <effect type="mundane" name="Effect">The first time on a turn that the target deals damage to another creature, the target of this ability takes 1d10 lightning damage (save ends).</effect>
   </effects>
 </ability>

@@ -32,6 +32,6 @@
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take your turn after the triggering hero.</effect>
+    <effect type="mundane" name="Effect">You take your turn after the triggering hero.</effect>
   </effects>
 </ability>

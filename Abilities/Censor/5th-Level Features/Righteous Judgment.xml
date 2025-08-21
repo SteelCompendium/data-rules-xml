@@ -41,6 +41,6 @@
       <t2>14 + M damage</t2>
       <t3>20 + M damage</t3>
     </effect>
-    <effect type="mundane">Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter, whenever any ally deals damage to a target judged by you, that ally gains 1 surge.</effect>
   </effects>
 </ability>

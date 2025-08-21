@@ -37,6 +37,6 @@
       <t2>You gain 15 temporary Stamina.</t2>
       <t3>You gain 20 temporary Stamina.</t3>
     </effect>
-    <effect type="mundane">While you have temporary Stamina from this ability, you can&apos;t be made bleeding even while dying.</effect>
+    <effect type="mundane" name="Effect">While you have temporary Stamina from this ability, you can&apos;t be made bleeding even while dying.</effect>
   </effects>
 </ability>

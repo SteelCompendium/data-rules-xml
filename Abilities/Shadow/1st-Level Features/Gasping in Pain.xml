@@ -37,6 +37,6 @@
       <t2>5 + A damage</t2>
       <t3>8 + A damage; I &lt; STRONG, prone</t3>
     </effect>
-    <effect type="mundane">One ally within 5 squares of the target gains 1 surge.</effect>
+    <effect type="mundane" name="Effect">One ally within 5 squares of the target gains 1 surge.</effect>
   </effects>
 </ability>

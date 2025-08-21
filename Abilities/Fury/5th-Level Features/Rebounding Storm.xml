@@ -41,6 +41,6 @@
       <t2>14 damage; push 5</t2>
       <t3>19 damage; push 7</t3>
     </effect>
-    <effect type="mundane">When a target would end this forced movement by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as forced movement remains, this effect continues if the target collides with another creature or object.</effect>
+    <effect type="mundane" name="Effect">When a target would end this forced movement by colliding with a creature or object, they take damage as usual, then are pushed the remaining distance away from the creature or object in the direction they came from. As long as forced movement remains, this effect continues if the target collides with another creature or object.</effect>
   </effects>
 </ability>

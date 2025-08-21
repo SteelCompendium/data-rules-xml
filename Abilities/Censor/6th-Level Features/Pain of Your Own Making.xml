@@ -34,6 +34,6 @@
     <type>feature/ability/censor/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.</effect>
+    <effect type="mundane" name="Effect">The effect ends on the target and is applied to the creature who imposed the effect on them. That creature also takes damage equal to three times your Presence score.</effect>
   </effects>
 </ability>

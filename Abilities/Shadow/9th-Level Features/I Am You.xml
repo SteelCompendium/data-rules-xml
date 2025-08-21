@@ -33,6 +33,6 @@
     <type>feature/ability/shadow/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter, you gain the target&apos;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&apos;s signature ability, using their bonus for the power roll.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter, you gain the target&apos;s damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target&apos;s signature ability, using their bonus for the power roll.</effect>
   </effects>
 </ability>

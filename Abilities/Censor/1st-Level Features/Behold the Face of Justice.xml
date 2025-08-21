@@ -45,6 +45,6 @@
       <t2>5 + M holy damage; if the target has P &lt; AVERAGE, each enemy within 2 squares of them is frightened of you (save ends)</t2>
       <t3>8 + M holy damage; if the target has P &lt; STRONG, each enemy within 2 squares of them is frightened of you (save ends)</t3>
     </effect>
-    <effect type="mundane">Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</effect>
+    <effect type="mundane" name="Effect">Each enemy frightened this way is pushed up to 2 squares away from the target and takes psychic damage equal to your Presence score.</effect>
   </effects>
 </ability>

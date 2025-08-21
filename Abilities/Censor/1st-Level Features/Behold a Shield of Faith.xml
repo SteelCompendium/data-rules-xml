@@ -41,6 +41,6 @@
       <t2>6 + M holy damage</t2>
       <t3>9 + M holy damage</t3>
     </effect>
-    <effect type="mundane">Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.</effect>
+    <effect type="mundane" name="Effect">Until the start of your next turn, enemies take a bane on ability rolls made against you or any ally adjacent to you.</effect>
   </effects>
 </ability>

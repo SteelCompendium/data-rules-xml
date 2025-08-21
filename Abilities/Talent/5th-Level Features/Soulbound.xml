@@ -43,7 +43,7 @@
       <t2>13 damage; A &lt; AVERAGE, the target is stitched to the other target (save ends)</t2>
       <t3>17 damage; A &lt; STRONG, the target is stitched to the other target (save ends)</t3>
     </effect>
-    <effect type="mundane">If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a bane on power rolls while not adjacent to a creature they&apos;re stitched to. Whenever a stitched target takes damage that wasn&apos;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</effect>
+    <effect type="mundane" name="Effect">If any target becomes stitched to the other, both targets are stitched together. While stitched together, a target takes a bane on power rolls while not adjacent to a creature they&apos;re stitched to. Whenever a stitched target takes damage that wasn&apos;t dealt by or also taken by another stitched target, each other stitched target takes half the damage the initial target took.</effect>
     <effect type="mundane" name="Strained">You target yourself and three enemies instead.</effect>
   </effects>
 </ability>

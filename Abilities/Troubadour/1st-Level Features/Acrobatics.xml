@@ -31,6 +31,6 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.</effect>
+    <effect type="mundane" name="Effect">While this performance is active, each target who starts their turn in the area can automatically obtain a tier 3 outcome on one test made to jump, tumble, or climb as part of their movement before the end of their turn.</effect>
   </effects>
 </ability>

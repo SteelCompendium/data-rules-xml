@@ -41,6 +41,6 @@
       <t2>4 + R corruption damage</t2>
       <t3>6 + R corruption damage</t3>
     </effect>
-    <effect type="mundane">Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</effect>
+    <effect type="mundane" name="Effect">Choose yourself or one ally within distance. That character can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</effect>
   </effects>
 </ability>

@@ -35,6 +35,6 @@
     <type>feature/ability/talent/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The targets share 6 of their Heroic Resource among themselves, as you determine. A target can&apos;t gain more than 3 of their Heroic Resource this way. After using this ability, you can&apos;t gain any clarity until the end of the next combat round.</effect>
+    <effect type="mundane" name="Effect">The targets share 6 of their Heroic Resource among themselves, as you determine. A target can&apos;t gain more than 3 of their Heroic Resource this way. After using this ability, you can&apos;t gain any clarity until the end of the next combat round.</effect>
   </effects>
 </ability>

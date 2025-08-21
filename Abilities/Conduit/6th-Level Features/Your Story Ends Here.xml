@@ -41,6 +41,6 @@
       <t2>14 + I corruption damage; R &lt; AVERAGE, weakened (save ends)</t2>
       <t3>19 + I corruption damage; R &lt; STRONG, weakened (save ends)</t3>
     </effect>
-    <effect type="mundane">If this damage kills the target, you and each ally within distance can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">If this damage kills the target, you and each ally within distance can spend a Recovery.</effect>
   </effects>
 </ability>

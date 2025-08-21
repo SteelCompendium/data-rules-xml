@@ -37,6 +37,6 @@
       <t2>6 + P damage</t2>
       <t3>9 + P damage</t3>
     </effect>
-    <effect type="mundane">The target is taunted by you or a willing ally adjacent to you until the end of the target&apos;s next turn.</effect>
+    <effect type="mundane" name="Effect">The target is taunted by you or a willing ally adjacent to you until the end of the target&apos;s next turn.</effect>
   </effects>
 </ability>

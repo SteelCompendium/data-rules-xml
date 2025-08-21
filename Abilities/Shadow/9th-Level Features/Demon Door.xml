@@ -43,6 +43,6 @@
       <t2>18 + A corruption damage; push 5</t2>
       <t3>25 + A corruption damage; push 7</t3>
     </effect>
-    <effect type="mundane">On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.</effect>
+    <effect type="mundane" name="Effect">On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.</effect>
   </effects>
 </ability>

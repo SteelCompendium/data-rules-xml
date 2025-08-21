@@ -15,7 +15,7 @@
     <type>feature/trait/conduit/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.
-- **Prayer Effect:** Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.</effect>
+    <effect type="mundane" name="Piety">You gain 2 piety the first time in an encounter that an enemy within 10 squares is force moved.</effect>
+    <effect type="mundane" name="Prayer Effect">Each enemy in a 3 cube within 10 squares takes lightning damage equal to twice your Intuition score.</effect>
   </effects>
 </ability>

@@ -39,6 +39,6 @@
       <t2>5 holy damage</t2>
       <t3>7 holy damage</t3>
     </effect>
-    <effect type="mundane">Each ally in the area can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">Each ally in the area can spend a Recovery.</effect>
   </effects>
 </ability>

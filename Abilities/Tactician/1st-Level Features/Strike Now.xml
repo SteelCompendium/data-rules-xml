@@ -27,7 +27,7 @@
     <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target can use a signature ability as a free triggered action.</effect>
+    <effect type="mundane" name="Effect">The target can use a signature ability as a free triggered action.</effect>
     <effect type="mundane" cost="Spend 5 Focus">You target two allies instead of one.</effect>
   </effects>
 </ability>

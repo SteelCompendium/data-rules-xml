@@ -37,7 +37,10 @@
     <type>feature/ability/talent/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You target a number of creatures with this ability determined by the outcome of your power roll. You and your allies are invisible to each target until the start of your next turn.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You target a number of creatures with this ability determined by the outcome of your power roll. You and your allies are invisible to each target until the start of your next turn.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Reason</roll>
       <t1>Two creatures</t1>

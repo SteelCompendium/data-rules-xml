@@ -43,6 +43,6 @@
       <t2>16 + M damage</t2>
       <t3>21 + M damage</t3>
     </effect>
-    <effect type="mundane">Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).</effect>
+    <effect type="mundane" name="Effect">Choose acid, cold, corruption, fire, lightning, poison, or sonic damage. The target loses any damage immunity to the chosen type and gains weakness 10 to the chosen type (save ends).</effect>
   </effects>
 </ability>

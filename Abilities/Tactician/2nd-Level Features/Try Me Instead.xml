@@ -35,7 +35,10 @@
     <type>feature/ability/tactician/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&apos;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You shift up to your speed directly toward an ally, ending adjacent to them, then swapping locations with that ally as long as you can fit into each other&apos;s spaces. The ally can spend a Recovery, and you can make the following weapon strike with a distance of melee 1 against a creature.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Reason</roll>
       <t1>2 + R damage; R &lt; WEAK, frightened (save ends)</t1>

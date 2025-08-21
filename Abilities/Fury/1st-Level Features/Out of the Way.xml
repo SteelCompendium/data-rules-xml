@@ -41,6 +41,6 @@
       <t2>5 + M damage; slide 3</t2>
       <t3>8 + M damage; slide 5</t3>
     </effect>
-    <effect type="mundane">When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.</effect>
+    <effect type="mundane" name="Effect">When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.</effect>
   </effects>
 </ability>

@@ -34,7 +34,10 @@
     <type>feature/ability/tactician/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target takes half the damage. You then make a power roll against the triggering creature.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>The target takes half the damage. You then make a power roll against the triggering creature.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>A &lt; WEAK, dazed (save ends)</t1>

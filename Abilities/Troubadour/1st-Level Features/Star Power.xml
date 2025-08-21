@@ -31,7 +31,7 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can&apos;t have an outcome lower than tier 2.</effect>
+    <effect type="mundane" name="Effect">You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can&apos;t have an outcome lower than tier 2.</effect>
     <effect type="mundane" cost="Spend 1 Drama">You gain a +4 bonus to speed instead.</effect>
   </effects>
 </ability>

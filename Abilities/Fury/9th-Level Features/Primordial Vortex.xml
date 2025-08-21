@@ -43,6 +43,6 @@
       <t2>5 damage; vertical pull 5</t2>
       <t3>8 damage; vertical pull 7</t3>
     </effect>
-    <effect type="mundane">If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</effect>
+    <effect type="mundane" name="Effect">If this forced movement causes a target to slam into you, you take no damage from the collision and the target takes the damage you would have taken.</effect>
   </effects>
 </ability>

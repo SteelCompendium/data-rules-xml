@@ -43,7 +43,7 @@
       <t2>9 damage; vertical pull 7 toward the center of the area</t2>
       <t3>13 damage; vertical pull 10 toward the center of the area</t3>
     </effect>
-    <effect type="mundane">Targets closest to the center of the area are pulled first.</effect>
+    <effect type="mundane" name="Effect">Targets closest to the center of the area are pulled first.</effect>
     <effect type="mundane" name="Strained">The size of the area increases by 2. You also target yourself and each ally within distance.</effect>
   </effects>
 </ability>

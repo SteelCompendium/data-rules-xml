@@ -41,6 +41,6 @@
       <t2>11 + M damage; push 5</t2>
       <t3>16 + M damage; push 7</t3>
     </effect>
-    <effect type="mundane">When the target ends this forced movement, each creature within 2 squares of the target is pushed 3 squares.</effect>
+    <effect type="mundane" name="Effect">When the target ends this forced movement, each creature within 2 squares of the target is pushed 3 squares.</effect>
   </effects>
 </ability>

@@ -43,6 +43,6 @@
       <t2>10 damage; push 5</t2>
       <t3>15 damage; push 7</t3>
     </effect>
-    <effect type="mundane">If this forced movement causes a target to be hurled through an object, that target takes an extra 10 damage.</effect>
+    <effect type="mundane" name="Effect">If this forced movement causes a target to be hurled through an object, that target takes an extra 10 damage.</effect>
   </effects>
 </ability>

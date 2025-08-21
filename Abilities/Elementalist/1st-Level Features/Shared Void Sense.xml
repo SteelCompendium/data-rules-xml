@@ -31,6 +31,6 @@
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn&apos;t gain the use of the Shared Void Sense ability.</effect>
+    <effect type="mundane" name="Effect">For each Victory you have, you can target one creature. Each target gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn&apos;t gain the use of the Shared Void Sense ability.</effect>
   </effects>
 </ability>

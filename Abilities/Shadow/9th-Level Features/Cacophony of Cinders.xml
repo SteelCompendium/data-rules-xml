@@ -35,7 +35,10 @@
     <type>feature/ability/shadow/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Agility</roll>
       <t1>An enemy takes 6 damage; an ally can teleport up to 3 squares.</t1>

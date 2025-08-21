@@ -39,6 +39,6 @@
       <t2>6 + R corruption damage</t2>
       <t3>9 + R corruption damage</t3>
     </effect>
-    <effect type="mundane">You can teleport up to a number of squares equal to your Reason score.</effect>
+    <effect type="mundane" name="Effect">You can teleport up to a number of squares equal to your Reason score.</effect>
   </effects>
 </ability>

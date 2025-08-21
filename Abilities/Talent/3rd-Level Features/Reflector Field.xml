@@ -35,7 +35,7 @@
     <type>feature/ability/talent/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</effect>
+    <effect type="mundane" name="Effect">The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the area with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally and loses any additional effects.</effect>
     <effect type="mundane" name="Strained">The size of the aura increases by 1. Whenever your aura reflects an ability, you take 2d6 damage and forget a memory, as determined by you and the Director.</effect>
   </effects>
 </ability>

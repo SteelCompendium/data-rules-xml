@@ -32,6 +32,6 @@
     <type>feature/ability/null/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.</effect>
+    <effect type="mundane" name="Effect">You take a bonus turn immediately after the triggering creature. This ability can be used only once per combat round.</effect>
   </effects>
 </ability>

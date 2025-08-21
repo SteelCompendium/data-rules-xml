@@ -43,7 +43,7 @@
       <t2>17 + R damage; R &lt; AVERAGE, the target takes a bane on power rolls (save ends)</t2>
       <t3>23 + R damage; R &lt; STRONG, the target has a double bane on power rolls (save ends)</t3>
     </effect>
-    <effect type="mundane">The target can&apos;t communicate with anyone until the end of the encounter.</effect>
+    <effect type="mundane" name="Effect">The target can&apos;t communicate with anyone until the end of the encounter.</effect>
     <effect type="mundane" name="Strained">You take 3d6 damage.</effect>
   </effects>
 </ability>

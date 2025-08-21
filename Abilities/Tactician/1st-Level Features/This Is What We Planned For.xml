@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target who hasn&apos;t acted yet this combat round can take their turn in any order immediately after yours.</effect>
+    <effect type="mundane" name="Effect">Each target who hasn&apos;t acted yet this combat round can take their turn in any order immediately after yours.</effect>
   </effects>
 </ability>

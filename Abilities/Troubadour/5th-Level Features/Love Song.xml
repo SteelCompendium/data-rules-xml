@@ -33,6 +33,6 @@
     <type>feature/ability/troubadour/5th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&apos;re within distance, you can choose to take the damage instead of the target.</effect>
+    <effect type="mundane" name="Effect">The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you&apos;re within distance, you can choose to take the damage instead of the target.</effect>
   </effects>
 </ability>

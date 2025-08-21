@@ -33,6 +33,6 @@
     <type>feature/ability/null/4th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.</effect>
+    <effect type="mundane" name="Effect">Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.</effect>
   </effects>
 </ability>

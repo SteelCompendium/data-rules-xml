@@ -31,6 +31,6 @@
     <type>feature/ability/null/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.</effect>
+    <effect type="mundane" name="Effect">You gain 20 temporary Stamina. Additionally, until the end of the encounter, your stability gains a bonus equal to your Intuition score.</effect>
   </effects>
 </ability>

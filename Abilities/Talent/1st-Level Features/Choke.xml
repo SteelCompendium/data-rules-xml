@@ -43,6 +43,6 @@
       <t2>5 + R damage; M &lt; AVERAGE, slowed (save ends)</t2>
       <t3>8 + R damage; M &lt; STRONG, restrained (save ends)</t3>
     </effect>
-    <effect type="mundane">You can vertical pull the target up to 2 squares. If the target is made restrained by this ability, this forced movement ignores their stability.</effect>
+    <effect type="mundane" name="Effect">You can vertical pull the target up to 2 squares. If the target is made restrained by this ability, this forced movement ignores their stability.</effect>
   </effects>
 </ability>

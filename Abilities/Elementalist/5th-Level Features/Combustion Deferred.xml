@@ -43,6 +43,6 @@
       <t2>13 + R fire damage</t2>
       <t3>17 + R fire damage</t3>
     </effect>
-    <effect type="mundane">When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</effect>
+    <effect type="mundane" name="Effect">When the target ends their next turn, or if they drop to 0 Stamina before then, each enemy adjacent to them takes fire damage equal to twice your Reason score. Each affected enemy then gains this same effect.</effect>
   </effects>
 </ability>

@@ -37,6 +37,6 @@
       <t2>6 + M damage</t2>
       <t3>9 + M damage</t3>
     </effect>
-    <effect type="mundane">You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.</effect>
+    <effect type="mundane" name="Effect">You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.</effect>
   </effects>
 </ability>

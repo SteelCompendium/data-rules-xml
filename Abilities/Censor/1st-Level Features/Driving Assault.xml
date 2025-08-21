@@ -41,6 +41,6 @@
       <t2>6 + M damage; push 3</t2>
       <t3>9 + M damage; push 5</t3>
     </effect>
-    <effect type="mundane">You can shift up to your speed in a straight line toward the target after pushing them.</effect>
+    <effect type="mundane" name="Effect">You can shift up to your speed in a straight line toward the target after pushing them.</effect>
   </effects>
 </ability>

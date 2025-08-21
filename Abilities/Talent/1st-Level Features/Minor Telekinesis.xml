@@ -29,7 +29,7 @@
     <type>feature/ability/talent/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You slide the target up to a number of squares equal to your Reason score.</effect>
+    <effect type="mundane" name="Effect">You slide the target up to a number of squares equal to your Reason score.</effect>
     <effect type="mundane" cost="Spend 2+ Clarity">The size of the creature or object you can target increases by 1 for every 2 clarity spent.</effect>
     <effect type="mundane" cost="Spend 3 Clarity">You can vertical slide the target.</effect>
   </effects>

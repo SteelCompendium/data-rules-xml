@@ -41,6 +41,6 @@
       <t2>6 + A damage; slide 3</t2>
       <t3>10 + A damage; slide 5</t3>
     </effect>
-    <effect type="mundane">You can shift into any square the target leaves when you slide them.</effect>
+    <effect type="mundane" name="Effect">You can shift into any square the target leaves when you slide them.</effect>
   </effects>
 </ability>

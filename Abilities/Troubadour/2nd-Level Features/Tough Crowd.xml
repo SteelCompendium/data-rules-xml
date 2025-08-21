@@ -35,7 +35,10 @@
     <type>feature/ability/troubadour/2nd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>The area is haunted by a swirling horde of phantoms until the end of the encounter. Allies can enter any square of the area without spending movement. At the end of each of your turns, you can make one power roll that targets each enemy in the area.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
       <t1>5 corruption damage; M &lt; WEAK, pull 1 toward the center of the area</t1>

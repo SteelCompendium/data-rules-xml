@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/5th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</effect>
+    <effect type="mundane" name="Effect">The first time the target is dying or winded before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.</effect>
   </effects>
 </ability>

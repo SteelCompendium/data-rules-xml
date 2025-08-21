@@ -45,6 +45,6 @@
       <t2>9 + M holy damage; M &lt; AVERAGE, the target has fire weakness 5 (save ends)</t2>
       <t3>12 + M holy damage; M &lt; STRONG, the target has fire weakness 7 (save ends)</t3>
     </effect>
-    <effect type="mundane">While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.</effect>
+    <effect type="mundane" name="Effect">While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.</effect>
   </effects>
 </ability>

@@ -31,7 +31,10 @@
     <type>feature/ability/fury/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You jump up to your maximum jump distance and make one power roll that targets each creature adjacent to the space where you land.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>4 damage; push 1</t1>

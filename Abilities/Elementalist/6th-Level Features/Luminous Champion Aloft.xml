@@ -39,7 +39,7 @@
     <type>feature/ability/elementalist/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</effect>
+    <effect type="mundane" name="Effect">The target has a +3 bonus to speed, they can fly, and their abilities ignore concealment. Additionally, whenever the target gains their Heroic Resource, they gain 1 additional Heroic Resource. This effect lasts until the start of your next turn.</effect>
     <effect type="mundane" name="Persistent 1">The effect lasts until the start of your next turn.</effect>
   </effects>
 </ability>

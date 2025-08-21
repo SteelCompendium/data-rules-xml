@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.</effect>
+    <effect type="mundane" name="Effect">Each target can spend a Recovery. Additionally, each target can use a free triggered action to end one effect on them that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.</effect>
   </effects>
 </ability>

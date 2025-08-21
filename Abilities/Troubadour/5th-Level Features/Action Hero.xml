@@ -41,6 +41,6 @@
       <t2>14 damage</t2>
       <t3>20 damage</t3>
     </effect>
-    <effect type="mundane">Unless you score a critical hit, this ability can&apos;t reduce a non-minion target below 1 Stamina.</effect>
+    <effect type="mundane" name="Effect">Unless you score a critical hit, this ability can&apos;t reduce a non-minion target below 1 Stamina.</effect>
   </effects>
 </ability>

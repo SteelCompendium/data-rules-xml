@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.</effect>
+    <effect type="mundane" name="Effect">The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.</effect>
   </effects>
 </ability>

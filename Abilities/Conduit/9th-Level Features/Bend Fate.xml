@@ -33,6 +33,6 @@
     <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, each of the target&apos;s power rolls has its outcome improved by one tier.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, each of the target&apos;s power rolls has its outcome improved by one tier.</effect>
   </effects>
 </ability>

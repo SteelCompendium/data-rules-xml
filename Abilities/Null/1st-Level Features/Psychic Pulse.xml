@@ -33,6 +33,6 @@
     <type>feature/ability/null/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.</effect>
+    <effect type="mundane" name="Effect">Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the size of your Null Field ability increases by 1. At the end of your current turn, each enemy in the area of your Null Field ability takes psychic damage equal to your Intuition score.</effect>
   </effects>
 </ability>

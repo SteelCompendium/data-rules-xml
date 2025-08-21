@@ -32,6 +32,6 @@
     <type>feature/ability/tactician/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">The target is killed. Additionally, the creature who caused the target to be winded can spend a Recovery.</effect>
   </effects>
 </ability>

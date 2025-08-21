@@ -37,7 +37,7 @@
       <t2>5 damage</t2>
       <t3>7 damage</t3>
     </effect>
-    <effect type="mundane">You can shift up to 3 squares.</effect>
+    <effect type="mundane" name="Effect">You can shift up to 3 squares.</effect>
     <effect type="mundane" cost="Spend 2+ Drama">You can target one additional creature or object for every 2 drama spent.</effect>
   </effects>
 </ability>

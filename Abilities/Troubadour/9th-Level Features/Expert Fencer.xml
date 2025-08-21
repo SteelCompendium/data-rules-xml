@@ -43,6 +43,6 @@
       <t2>21 + A damage</t2>
       <t3>28 + A damage; M &lt; STRONG, bleeding (save ends)</t3>
     </effect>
-    <effect type="mundane">This ability can&apos;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.</effect>
+    <effect type="mundane" name="Effect">This ability can&apos;t obtain better than a tier 2 outcome unless the target is at maximum distance. If you obtain a tier 3 outcome with a natural 17 or higher, you gain 3 surges that you can use immediately.</effect>
   </effects>
 </ability>

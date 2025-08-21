@@ -39,7 +39,7 @@
       <t2>3 + P corruption damage; P &lt; AVERAGE, slowed (save ends)</t2>
       <t3>5 + P corruption damage; P &lt; STRONG, slowed (save ends)</t3>
     </effect>
-    <effect type="mundane">The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.</effect>
+    <effect type="mundane" name="Effect">The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.</effect>
     <effect type="mundane" name="Strained">You gain 1 clarity when you obtain a tier 2 or tier 3 outcome on the power roll.</effect>
   </effects>
 </ability>

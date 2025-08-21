@@ -43,6 +43,6 @@
       <t2>10 + P sonic damage</t2>
       <t3>13 + P sonic damage</t3>
     </effect>
-    <effect type="mundane">The first time the target uses an ability before the start of your next turn, any effects from the ability&apos;s tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.</effect>
+    <effect type="mundane" name="Effect">The first time the target uses an ability before the start of your next turn, any effects from the ability&apos;s tier outcomes other than damage are negated for all targets. Ability effects that always happen regardless of the power roll work as usual.</effect>
   </effects>
 </ability>

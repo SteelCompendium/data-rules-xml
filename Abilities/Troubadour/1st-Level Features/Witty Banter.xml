@@ -39,7 +39,7 @@
       <t2>5 + P psychic damage</t2>
       <t3>7 + P psychic damage</t3>
     </effect>
-    <effect type="mundane">One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</effect>
+    <effect type="mundane" name="Effect">One ally within 10 squares of you can end one effect on them that is ended by a saving throw or that ends at the end of their turn.</effect>
     <effect type="mundane" cost="Spend 1 Drama">The chosen ally can spend a Recovery.</effect>
   </effects>
 </ability>

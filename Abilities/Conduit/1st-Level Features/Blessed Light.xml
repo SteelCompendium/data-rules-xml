@@ -37,6 +37,6 @@
       <t2>5 + I holy damage</t2>
       <t3>8 + I holy damage</t3>
     </effect>
-    <effect type="mundane">One ally within distance gains a number of surges equal to the tier outcome of your power roll.</effect>
+    <effect type="mundane" name="Effect">One ally within distance gains a number of surges equal to the tier outcome of your power roll.</effect>
   </effects>
 </ability>

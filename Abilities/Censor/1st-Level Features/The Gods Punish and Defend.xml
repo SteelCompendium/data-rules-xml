@@ -43,6 +43,6 @@
       <t2>8 + M holy damage</t2>
       <t3>11 + M holy damage</t3>
     </effect>
-    <effect type="mundane">You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.</effect>
+    <effect type="mundane" name="Effect">You can spend a Recovery to allow yourself or one ally within 10 squares to regain Stamina equal to your recovery value.</effect>
   </effects>
 </ability>

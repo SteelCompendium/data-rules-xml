@@ -43,6 +43,6 @@
       <t2>9 + M damage; slide 3</t2>
       <t3>13 + M damage; slide 5</t3>
     </effect>
-    <effect type="mundane">If a target is force moved into another creature, they must make a free strike against that creature.</effect>
+    <effect type="mundane" name="Effect">If a target is force moved into another creature, they must make a free strike against that creature.</effect>
   </effects>
 </ability>

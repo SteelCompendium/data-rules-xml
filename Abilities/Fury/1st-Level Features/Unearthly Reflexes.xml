@@ -28,7 +28,7 @@
     <type>feature/ability/fury/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.</effect>
+    <effect type="mundane" name="Effect">You take half the damage from the triggering effect and can shift up to a number of squares equal to your Agility score.</effect>
     <effect type="mundane" cost="Spend 1 Ferocity">If the damage has any potency effects associated with it, the potency is reduced by 1 for you.</effect>
   </effects>
 </ability>

@@ -43,6 +43,6 @@
       <t2>8 + A damage</t2>
       <t3>12 + A damage</t3>
     </effect>
-    <effect type="mundane">Until the start of your next turn, whenever the target moves or is force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.</effect>
+    <effect type="mundane" name="Effect">Until the start of your next turn, whenever the target moves or is force moved, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.</effect>
   </effects>
 </ability>

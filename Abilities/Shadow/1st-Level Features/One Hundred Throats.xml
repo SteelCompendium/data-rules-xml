@@ -33,7 +33,10 @@
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You shift up to your speed and make one power roll that targets up to three enemies who came adjacent to you during the move.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Agility</roll>
       <t1>3 damage</t1>

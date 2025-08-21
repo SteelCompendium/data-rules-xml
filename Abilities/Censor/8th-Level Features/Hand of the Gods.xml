@@ -41,6 +41,6 @@
       <t2>15 + M damage</t2>
       <t3>21 + M damage</t3>
     </effect>
-    <effect type="mundane">Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter, while the target is judged by you, you can choose to make them the source of any of your abilities. Additionally, the target counts as an ally for the purpose of flanking.</effect>
   </effects>
 </ability>

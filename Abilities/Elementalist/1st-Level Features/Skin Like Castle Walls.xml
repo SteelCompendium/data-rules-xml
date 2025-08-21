@@ -32,7 +32,7 @@
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target takes half the damage.</effect>
+    <effect type="mundane" name="Effect">The target takes half the damage.</effect>
     <effect type="mundane" cost="Spend 1 Essence">If the damage has any potency effects associated with it, the potency is reduced by 1 for the target.</effect>
   </effects>
 </ability>

@@ -43,6 +43,6 @@
       <t2>15 + A damage; P &lt; AVERAGE, dazed (save ends)</t2>
       <t3>21 + A damage; P &lt; STRONG, dazed (save ends)</t3>
     </effect>
-    <effect type="mundane">The target can&apos;t communicate with anyone until the end of the encounter.</effect>
+    <effect type="mundane" name="Effect">The target can&apos;t communicate with anyone until the end of the encounter.</effect>
   </effects>
 </ability>

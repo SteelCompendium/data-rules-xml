@@ -43,6 +43,6 @@
       <t2>6 + A damage; vertical push 10</t2>
       <t3>9 + A damage; vertical push 15</t3>
     </effect>
-    <effect type="mundane">A creature force moved by this ability must be moved straight upward.</effect>
+    <effect type="mundane" name="Effect">A creature force moved by this ability must be moved straight upward.</effect>
   </effects>
 </ability>

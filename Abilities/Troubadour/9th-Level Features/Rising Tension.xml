@@ -33,6 +33,6 @@
     <type>feature/ability/troubadour/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</effect>
+    <effect type="mundane" name="Effect">The target gains 3 of their Heroic Resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already this round.</effect>
   </effects>
 </ability>

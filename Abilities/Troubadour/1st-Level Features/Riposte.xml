@@ -28,6 +28,6 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target makes a free strike against the creature who made the triggering strike.</effect>
+    <effect type="mundane" name="Effect">The target makes a free strike against the creature who made the triggering strike.</effect>
   </effects>
 </ability>

@@ -41,6 +41,6 @@
       <t2>10 + A damage; P &lt; AVERAGE, weakened (save ends)</t2>
       <t3>14 + A damage; P &lt; STRONG, weakened (save ends)</t3>
     </effect>
-    <effect type="mundane">You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</effect>
+    <effect type="mundane" name="Effect">You can become bleeding (save ends) to deal an extra 5 corruption damage to the target.</effect>
   </effects>
 </ability>

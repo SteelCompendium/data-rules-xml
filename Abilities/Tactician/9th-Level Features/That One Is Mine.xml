@@ -37,13 +37,16 @@
     <type>feature/ability/tactician/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target is marked by you.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>The target is marked by you.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>8 + M damage</t1>
       <t2>13 + M damage</t2>
       <t3>17 + M damage</t3>
     </effect>
-    <effect type="mundane">Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, you can use a signature or heroic ability instead of a free strike against any target marked by you.</effect>
   </effects>
 </ability>

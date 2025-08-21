@@ -34,6 +34,6 @@
     <type>feature/ability/censor/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.</effect>
+    <effect type="mundane" name="Effect">The target obtains a tier 1 or tier 3 outcome on their power roll (your choice). You can then choose another target within distance, who obtains the opposite outcome on their next power roll.</effect>
   </effects>
 </ability>

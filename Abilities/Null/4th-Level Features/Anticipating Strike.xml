@@ -44,6 +44,6 @@
       <t2>10 + A damage; I &lt; AVERAGE, restrained (save ends)</t2>
       <t3>13 + A damage; I &lt; STRONG, restrained (save ends)</t3>
     </effect>
-    <effect type="mundane">This strike resolves before the triggering movement or main action.</effect>
+    <effect type="mundane" name="Effect">This strike resolves before the triggering movement or main action.</effect>
   </effects>
 </ability>

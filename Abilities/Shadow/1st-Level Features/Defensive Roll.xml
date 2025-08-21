@@ -28,7 +28,7 @@
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.</effect>
+    <effect type="mundane" name="Effect">You take half the triggering damage, then can shift up to 2 squares after the triggering effect resolves. If you end this shift with concealment or cover, you can use the Hide maneuver even if you are observed.</effect>
     <effect type="mundane" cost="Spend 1 Insight">The potency of any effects associated with the damage are reduced by 1 for you.</effect>
   </effects>
 </ability>

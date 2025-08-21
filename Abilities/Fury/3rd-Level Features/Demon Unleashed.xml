@@ -31,6 +31,6 @@
     <type>feature/ability/fury/3rd-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P &lt; STRONG is frightened until the end of their turn.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P &lt; STRONG is frightened until the end of their turn.</effect>
   </effects>
 </ability>

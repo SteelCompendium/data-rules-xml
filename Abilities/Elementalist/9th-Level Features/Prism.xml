@@ -33,6 +33,6 @@
     <type>feature/ability/elementalist/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.</effect>
+    <effect type="mundane" name="Effect">You use up to three heroic abilities whose essence costs total 11 or less, spending no additional essence beyond the cost of this ability. You can shift up to 2 squares between your use of each ability.</effect>
   </effects>
 </ability>

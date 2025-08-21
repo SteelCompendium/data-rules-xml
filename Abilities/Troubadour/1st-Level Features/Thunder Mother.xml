@@ -33,7 +33,10 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can&apos;t target the same creature twice with this effect.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>At the end of each combat round while this performance is active, you can make a power roll against the target that ignores cover. You can&apos;t target the same creature twice with this effect.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Presence</roll>
       <t1>Lightning damage equal to your level</t1>

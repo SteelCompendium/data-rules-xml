@@ -39,6 +39,6 @@
       <t2>Vertical slide 8</t2>
       <t3>Vertical slide 10</t3>
     </effect>
-    <effect type="mundane">The pillars vanish as soon as the effects of the forced movement are resolved.</effect>
+    <effect type="mundane" name="Effect">The pillars vanish as soon as the effects of the forced movement are resolved.</effect>
   </effects>
 </ability>

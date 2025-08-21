@@ -41,6 +41,6 @@
       <t2>13 + I holy damage</t2>
       <t3>17 + I holy damage</t3>
     </effect>
-    <effect type="mundane">Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free triggered action to move this effect to another creature within distance.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter, whenever you or any ally damages the target using an ability, that creature can spend a Recovery. If the target is reduced to 0 Stamina before the end of the encounter, you can use a free triggered action to move this effect to another creature within distance.</effect>
   </effects>
 </ability>

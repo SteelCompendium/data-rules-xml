@@ -31,6 +31,6 @@
     <type>feature/ability/troubadour/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.</effect>
+    <effect type="mundane" name="Effect">While this performance is active, each target who starts their turn in the area gains a +2 bonus to speed until the end of their turn.</effect>
   </effects>
 </ability>

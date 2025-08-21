@@ -37,7 +37,10 @@
     <type>feature/ability/talent/5th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You teleport to a square on the opposite side of the area before making the power roll.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>You teleport to a square on the opposite side of the area before making the power roll.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Reason</roll>
       <t1>12 sonic damage</t1>

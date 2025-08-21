@@ -39,7 +39,7 @@
     <type>feature/ability/elementalist/6th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.</effect>
+    <effect type="mundane" name="Effect">The area becomes dark and verdant, with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The area is difficult terrain for enemies, and any ally who ends their turn in the area has cover.</effect>
     <effect type="mundane" name="Persistent 2">The area remains until the start of your next turn. Additionally, at the start of your turn, each ally in the area can spend a Recovery.</effect>
   </effects>
 </ability>

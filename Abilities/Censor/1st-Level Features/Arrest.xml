@@ -43,6 +43,6 @@
       <t2>9 + M holy damage; grabbed</t2>
       <t3>13 + M holy damage; grabbed</t3>
     </effect>
-    <effect type="mundane">If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&apos;s distance.</effect>
+    <effect type="mundane" name="Effect">If the target makes a strike against a creature while grabbed this way, you can spend 3 wrath to deal holy damage to them equal to your Presence score, then change the target of the strike to another target within the strike&apos;s distance.</effect>
   </effects>
 </ability>

@@ -28,7 +28,7 @@
     <type>feature/ability/null/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You take half the damage.</effect>
+    <effect type="mundane" name="Effect">You take half the damage.</effect>
     <effect type="mundane" cost="Spend 1 Discipline">The potency of one effect associated with the damage is reduced by 1 for you.</effect>
   </effects>
 </ability>

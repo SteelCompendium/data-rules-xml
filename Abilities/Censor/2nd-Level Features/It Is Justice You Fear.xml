@@ -41,6 +41,6 @@
       <t2>12 + M holy damage; P &lt; AVERAGE, frightened (save ends)</t2>
       <t3>15 + M holy damage; P &lt; STRONG, frightened (save ends)</t3>
     </effect>
-    <effect type="mundane">If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.</effect>
+    <effect type="mundane" name="Effect">If the target is already frightened of you or another creature and this ability would frighten them again, they instead take psychic damage equal to twice your Presence score.</effect>
   </effects>
 </ability>

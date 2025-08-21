@@ -39,6 +39,6 @@
       <t2>6 fire damage</t2>
       <t3>10 fire damage</t3>
     </effect>
-    <effect type="mundane">Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.</effect>
+    <effect type="mundane" name="Effect">Each ally in the area deals fire damage equal to your Intuition score with their next strike made before the end of their next turn.</effect>
   </effects>
 </ability>

@@ -41,6 +41,6 @@
       <t2>Slide 5</t2>
       <t3>Slide 7</t3>
     </effect>
-    <effect type="mundane">This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target&apos;s Intuition score.</effect>
+    <effect type="mundane" name="Effect">This forced movement ignores stability. Instead, the forced movement is reduced by a number equal to the target&apos;s Intuition score.</effect>
   </effects>
 </ability>

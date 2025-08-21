@@ -43,6 +43,6 @@
       <t2>18 + R fire damage; I &lt; AVERAGE, dazed (save ends)</t2>
       <t3>25 + R fire damage; I &lt; STRONG, dazed (save ends)</t3>
     </effect>
-    <effect type="mundane">This damage ignores immunity.</effect>
+    <effect type="mundane" name="Effect">This damage ignores immunity.</effect>
   </effects>
 </ability>

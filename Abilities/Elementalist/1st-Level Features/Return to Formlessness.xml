@@ -31,6 +31,6 @@
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.</effect>
+    <effect type="mundane" name="Effect">You heat the target and cause it to melt or combust, destroying it. If the object is larger than 1 square, then only the square of the object you touch is destroyed.</effect>
   </effects>
 </ability>

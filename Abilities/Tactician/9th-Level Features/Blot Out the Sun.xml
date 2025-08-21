@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.</effect>
+    <effect type="mundane" name="Effect">Each target can make a ranged free strike that gains an edge against any enemy marked by you within distance of their ranged free strike. A target ignores banes and double banes when making this strike.</effect>
   </effects>
 </ability>

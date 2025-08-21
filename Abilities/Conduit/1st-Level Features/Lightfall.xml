@@ -35,6 +35,6 @@
       <t2>3 holy damage</t2>
       <t3>5 holy damage</t3>
     </effect>
-    <effect type="mundane">You can teleport yourself and each ally in the area to unoccupied spaces in the area.</effect>
+    <effect type="mundane" name="Effect">You can teleport yourself and each ally in the area to unoccupied spaces in the area.</effect>
   </effects>
 </ability>

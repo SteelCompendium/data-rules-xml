@@ -34,7 +34,7 @@
     <type>feature/ability/talent/8th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm&apos;s way.</effect>
+    <effect type="mundane" name="Effect">The target is teleported to an unoccupied space adjacent to you, taking no damage and suffering no additional effects if this movement would get them out of harm&apos;s way.</effect>
     <effect type="mundane" name="Strained">You can&apos;t target yourself, and you take the damage and any additional effects instead of the target.</effect>
   </effects>
 </ability>

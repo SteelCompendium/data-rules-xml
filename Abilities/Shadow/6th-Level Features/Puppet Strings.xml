@@ -43,6 +43,6 @@
       <t2>5 damage; if the target has R &lt; AVERAGE, before the damage is resolved, they use a main action ability of your choice.</t2>
       <t3>7 damage; if the target has R &lt; STRONG, before the damage is resolved, they can shift up to their speed and use a main action ability of your choice.</t3>
     </effect>
-    <effect type="mundane">You choose the new targets for the original target&apos;s free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn&apos;t cause you to be revealed.</effect>
+    <effect type="mundane" name="Effect">You choose the new targets for the original target&apos;s free strike or ability. Additionally, if you are hidden or disguised, using this ability doesn&apos;t cause you to be revealed.</effect>
   </effects>
 </ability>

@@ -43,7 +43,7 @@
       <t2>14 + P damage; P &lt; AVERAGE, weakened (save ends)</t2>
       <t3>20 + P damage; P &lt; STRONG, weakened and slowed (save ends)</t3>
     </effect>
-    <effect type="mundane">This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.</effect>
+    <effect type="mundane" name="Effect">This ability gains an edge against a target with a soul (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). After you make the power roll, you or one ally within distance have a double edge on the next power roll you make before the end of the encounter.</effect>
     <effect type="mundane" name="Strained">You feel dispirited until you finish a respite. If you obtain a tier 3 outcome on the power roll, you and the target each have damage weakness 5 (save ends).</effect>
   </effects>
 </ability>

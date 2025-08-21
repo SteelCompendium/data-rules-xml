@@ -32,6 +32,6 @@
     <type>feature/ability/shadow/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</effect>
+    <effect type="mundane" name="Effect">Choose an enemy within distance of the triggering strike, including the enemy who targeted you. The strike targets that enemy instead.</effect>
   </effects>
 </ability>

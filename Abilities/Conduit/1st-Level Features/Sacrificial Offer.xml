@@ -37,6 +37,6 @@
       <t2>4 + I corruption damage</t2>
       <t3>6 + I corruption damage</t3>
     </effect>
-    <effect type="mundane">Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.</effect>
+    <effect type="mundane" name="Effect">Choose yourself or one ally within distance. That character can impose a bane on one power roll made against them before the end of their next turn.</effect>
   </effects>
 </ability>

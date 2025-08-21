@@ -35,6 +35,6 @@
     <type>feature/ability/conduit/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can&apos;t see through, but you and your allies can.</effect>
+    <effect type="mundane" name="Effect">Until the end of the encounter or until you are dying, the area is filled with magic darkness that your enemies can&apos;t see through, but you and your allies can.</effect>
   </effects>
 </ability>

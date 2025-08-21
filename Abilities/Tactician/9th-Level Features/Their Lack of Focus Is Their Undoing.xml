@@ -35,7 +35,10 @@
     <type>feature/ability/tactician/9th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets&apos; abilities, you make a power roll against each original target.</effect>
+    <effect type="test">
+      <name>Effect</name>
+      <effect>Each target uses a signature ability against one or more targets of your choosing, with each ability automatically obtaining a tier 3 outcome on the power roll. After resolving the targets&apos; abilities, you make a power roll against each original target.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>R &lt; WEAK, dazed (save ends)</t1>

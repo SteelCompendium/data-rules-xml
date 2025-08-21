@@ -32,7 +32,7 @@
     <type>feature/ability/elementalist/1st-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">The target can spend a Recovery.</effect>
+    <effect type="mundane" name="Effect">The target can spend a Recovery.</effect>
     <effect type="mundane" cost="Spend 1+ Essence">The target can spend an additional Recovery for each essence spent.</effect>
   </effects>
 </ability>

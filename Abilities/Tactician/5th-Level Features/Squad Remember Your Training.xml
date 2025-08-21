@@ -31,6 +31,6 @@
     <type>feature/ability/tactician/5th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each target gains 1 surge and can use a signature ability that has a double edge.</effect>
+    <effect type="mundane" name="Effect">Each target gains 1 surge and can use a signature ability that has a double edge.</effect>
   </effects>
 </ability>
