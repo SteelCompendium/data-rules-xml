@@ -564,12 +564,12 @@
       <keyword>Melee</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>Ranged 10</distance>
+    <distance>Melee 1</distance>
     <target>Special</target>
     <metadata>
       <action_type>Main action</action_type>
       <class>elementalist</class>
-      <distance>Ranged 10</distance>
+      <distance>Melee 1</distance>
       <feature_type>ability</feature_type>
       <file_basename>Motivate Earth</file_basename>
       <file_dpath>Elementalist/1st-Level Features</file_dpath>
@@ -24009,7 +24009,7 @@
       <keyword>Weapon</keyword>
     </keywords>
     <type>Main action</type>
-    <distance>Melee 1</distance>
+    <distance>Melee 1 or ranged 5</distance>
     <target>Two creatures or objects</target>
     <metadata>
       <action_type>Main action</action_type>
@@ -24017,7 +24017,7 @@
       <cost>3 Insight</cost>
       <cost_amount>3</cost_amount>
       <cost_resource>Insight</cost_resource>
-      <distance>Melee 1</distance>
+      <distance>Melee 1 or ranged 5</distance>
       <feature_type>ability</feature_type>
       <file_basename>Two Throats at Once</file_basename>
       <file_dpath>Shadow/1st-Level Features</file_dpath>
