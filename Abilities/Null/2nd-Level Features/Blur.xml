@@ -25,7 +25,7 @@
     <keywords>Psionic</keywords>
     <level>2</level>
     <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:blur-5-discipline</scc>
-    <scdc>1.1.1:13.2.6.4:01</scdc>
+    <scdc>1.1.1:13.2.6.5:01</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
     <type>feature/ability/null/2nd-level-feature</type>

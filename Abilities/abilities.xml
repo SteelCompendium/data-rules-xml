@@ -8151,6 +8151,7 @@
     <name>Blessing of Secrets</name>
     <flavor>You project an illusory aura that makes you and allies harder to notice.</flavor>
     <keywords>
+      <keyword>Area</keyword>
       <keyword>Magic</keyword>
     </keywords>
     <type>Maneuver</type>
@@ -8167,6 +8168,7 @@
       <item_id>blessing-of-secrets</item_id>
       <item_index>01</item_index>
       <item_name>Blessing of Secrets</item_name>
+      <keywords>Area</keywords>
       <keywords>Magic</keywords>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.ability.conduit.4th-level-feature:blessing-of-secrets</scc>
@@ -11560,8 +11562,7 @@
       <type>feature/trait/censor/7th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&apos;t use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.
-  ing the st</effect>
+      <effect type="mundane">Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&apos;t use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.</effect>
     </effects>
   </ability>
   <ability>
@@ -11588,6 +11589,7 @@
     <name>Blessing of Secrets</name>
     <flavor>You project an illusory aura that makes you and allies harder to notice.</flavor>
     <keywords>
+      <keyword>Area</keyword>
       <keyword>Magic</keyword>
     </keywords>
     <type>Maneuver</type>
@@ -11604,6 +11606,7 @@
       <item_id>blessing-of-secrets</item_id>
       <item_index>01</item_index>
       <item_name>Blessing of Secrets</item_name>
+      <keywords>Area</keywords>
       <keywords>Magic</keywords>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.ability.censor.4th-level-feature:blessing-of-secrets</scc>
@@ -12957,7 +12960,7 @@
       <type>feature/ability/null/8th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane" name="Effect">The target takes half the damage, and if the triggering crea ture has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</effect>
+      <effect type="mundane" name="Effect">The target takes half the damage, and if the triggering creature has I &lt; AVERAGE, they are dazed (save ends). While the triggering creature is dazed this way, they take psychic damage equal to your Intuition score whenever they use a main action.</effect>
     </effects>
   </ability>
   <ability>
@@ -13539,6 +13542,237 @@
     </effects>
   </ability>
   <ability>
+    <name>Chilling Readiness</name>
+    <metadata>
+      <class>null</class>
+      <feature_type>trait</feature_type>
+      <file_basename>Chilling Readiness</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <item_id>chilling-readiness</item_id>
+      <item_index>01</item_index>
+      <item_name>Chilling Readiness</item_name>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.trait.null.5th-level-feature:chilling-readiness</scc>
+      <scdc>1.1.1:13.1.6.5:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/trait/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">You steel yourself for imminent danger by tapping into your body&apos;s cold energy. At the start of any combat, you gain a number of surges equal to your Victories.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Inertial Fulcrum</name>
+    <metadata>
+      <class>null</class>
+      <feature_type>trait</feature_type>
+      <file_basename>Inertial Fulcrum</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <item_id>inertial-fulcrum</item_id>
+      <item_index>02</item_index>
+      <item_name>Inertial Fulcrum</item_name>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.trait.null.5th-level-feature:inertial-fulcrum</scc>
+      <scdc>1.1.1:13.1.6.5:02</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/trait/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your Null Field ability equal to your Intuition score.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Synaptic Reset</name>
+    <cost>9 Discipline</cost>
+    <flavor>You expand your nullifying power to mitigate harmful effects.</flavor>
+    <keywords>
+      <keyword>Area</keyword>
+      <keyword>Psionic</keyword>
+    </keywords>
+    <type>Maneuver</type>
+    <distance>3 burst</distance>
+    <target>Self and each ally in the area</target>
+    <metadata>
+      <action_type>Maneuver</action_type>
+      <class>null</class>
+      <cost>9 Discipline</cost>
+      <cost_amount>9</cost_amount>
+      <cost_resource>Discipline</cost_resource>
+      <distance>3 burst</distance>
+      <feature_type>ability</feature_type>
+      <file_basename>Synaptic Reset</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <flavor>You expand your nullifying power to mitigate harmful effects.</flavor>
+      <item_id>synaptic-reset-9-discipline</item_id>
+      <item_index>02</item_index>
+      <item_name>Synaptic Reset (9 Discipline)</item_name>
+      <keywords>Area</keywords>
+      <keywords>Psionic</keywords>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.ability.null.5th-level-feature:synaptic-reset-9-discipline</scc>
+      <scdc>1.1.1:13.2.6.4:02</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>Self and each ally in the area</target>
+      <type>feature/ability/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane" name="Effect">Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Phase Leap</name>
+    <cost>9 Discipline</cost>
+    <flavor>You leap beyond reality, leaving an afterimage of yourself.</flavor>
+    <keywords>
+      <keyword>Psionic</keyword>
+    </keywords>
+    <type>Move</type>
+    <distance>Self</distance>
+    <target>Self</target>
+    <metadata>
+      <action_type>Move</action_type>
+      <class>null</class>
+      <cost>9 Discipline</cost>
+      <cost_amount>9</cost_amount>
+      <cost_resource>Discipline</cost_resource>
+      <distance>Self</distance>
+      <feature_type>ability</feature_type>
+      <file_basename>Phase Leap</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <flavor>You leap beyond reality, leaving an afterimage of yourself.</flavor>
+      <item_id>phase-leap-9-discipline</item_id>
+      <item_index>04</item_index>
+      <item_name>Phase Leap (9 Discipline)</item_name>
+      <keywords>Psionic</keywords>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.ability.null.5th-level-feature:phase-leap-9-discipline</scc>
+      <scdc>1.1.1:13.2.6.4:04</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>Self</target>
+      <type>feature/ability/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane" name="Effect">You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&apos;s space.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Iron Grip</name>
+    <cost>9 Discipline</cost>
+    <flavor>You grab the target with supernatural force.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Psionic</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>null</class>
+      <cost>9 Discipline</cost>
+      <cost_amount>9</cost_amount>
+      <cost_resource>Discipline</cost_resource>
+      <distance>Melee 1</distance>
+      <feature_type>ability</feature_type>
+      <file_basename>Iron Grip</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <flavor>You grab the target with supernatural force.</flavor>
+      <item_id>iron-grip-9-discipline</item_id>
+      <item_index>03</item_index>
+      <item_name>Iron Grip (9 Discipline)</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Psionic</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.ability.null.5th-level-feature:iron-grip-9-discipline</scc>
+      <scdc>1.1.1:13.2.6.4:03</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>feature/ability/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Agility</roll>
+        <t1>10 + A damage; A &lt; WEAK, grabbed</t1>
+        <t2>14 + A damage; A &lt; AVERAGE, grabbed</t2>
+        <t3>18 + A damage; A &lt; STRONG, grabbed</t3>
+      </effect>
+      <effect type="mundane" name="Effect">While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Anticipating Strike</name>
+    <cost>9 Discipline</cost>
+    <flavor>You suddenly strike an enemy, then grab them in a psionically enhanced grip.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Psionic</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Free triggered</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <trigger>The target moves or uses a main action.</trigger>
+    <metadata>
+      <action_type>Free triggered</action_type>
+      <class>null</class>
+      <cost>9 Discipline</cost>
+      <cost_amount>9</cost_amount>
+      <cost_resource>Discipline</cost_resource>
+      <distance>Melee 1</distance>
+      <feature_type>ability</feature_type>
+      <file_basename>Anticipating Strike</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <flavor>You suddenly strike an enemy, then grab them in a psionically enhanced grip.</flavor>
+      <item_id>anticipating-strike-9-discipline</item_id>
+      <item_index>01</item_index>
+      <item_name>Anticipating Strike (9 Discipline)</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Psionic</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.ability.null.5th-level-feature:anticipating-strike-9-discipline</scc>
+      <scdc>1.1.1:13.2.6.4:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>feature/ability/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Agility</roll>
+        <t1>7 + A damage; I &lt; WEAK, restrained (save ends)</t1>
+        <t2>10 + A damage; I &lt; AVERAGE, restrained (save ends)</t2>
+        <t3>13 + A damage; I &lt; STRONG, restrained (save ends)</t3>
+      </effect>
+      <effect type="mundane" name="Effect">This strike resolves before the triggering movement or main action.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Instant Action</name>
+    <metadata>
+      <class>null</class>
+      <feature_type>trait</feature_type>
+      <file_basename>Instant Action</file_basename>
+      <file_dpath>Null/5th-Level Features</file_dpath>
+      <item_id>instant-action</item_id>
+      <item_index>03</item_index>
+      <item_name>Instant Action</item_name>
+      <level>5</level>
+      <scc>mcdm.heroes.v1:feature.trait.null.5th-level-feature:instant-action</scc>
+      <scdc>1.1.1:13.1.6.5:03</scdc>
+      <source>mcdm.heroes.v1</source>
+      <type>feature/trait/null/5th-level-feature</type>
+    </metadata>
+    <effects>
+      <effect type="mundane">If you&apos;re not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.</effect>
+    </effects>
+  </ability>
+  <ability>
     <name>Force Redirected</name>
     <cost>5 Discipline</cost>
     <flavor>The force of your strike moves your target in a surprising direction.</flavor>
@@ -13571,7 +13805,7 @@
       <keywords>Weapon</keywords>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:force-redirected-5-discipline</scc>
-      <scdc>1.1.1:13.2.6.4:06</scdc>
+      <scdc>1.1.1:13.2.6.5:06</scdc>
       <source>mcdm.heroes.v1</source>
       <target>One creature</target>
       <type>feature/ability/null/2nd-level-feature</type>
@@ -13618,7 +13852,7 @@
       <keywords>Weapon</keywords>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:gravitic-strike-5-discipline</scc>
-      <scdc>1.1.1:13.2.6.4:03</scdc>
+      <scdc>1.1.1:13.2.6.5:03</scdc>
       <source>mcdm.heroes.v1</source>
       <target>One creature</target>
       <type>feature/ability/null/2nd-level-feature</type>
@@ -13644,7 +13878,7 @@
       <item_name>Entropic Adaptability</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability</scc>
-      <scdc>1.1.1:13.1.6.5:03</scdc>
+      <scdc>1.1.1:13.1.6.6:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/2nd-level-feature</type>
     </metadata>
@@ -13683,7 +13917,7 @@
       <keywords>Weapon</keywords>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:entropic-field-5-discipline</scc>
-      <scdc>1.1.1:13.2.6.4:02</scdc>
+      <scdc>1.1.1:13.2.6.5:02</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Each enemy in the area</target>
       <type>feature/ability/null/2nd-level-feature</type>
@@ -13724,7 +13958,7 @@
       <keywords>Psionic</keywords>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:heat-sink-5-discipline</scc>
-      <scdc>1.1.1:13.2.6.4:04</scdc>
+      <scdc>1.1.1:13.2.6.5:04</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/2nd-level-feature</type>
@@ -13745,7 +13979,7 @@
       <item_name>Perk</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.trait.null.2nd-level-feature:perk</scc>
-      <scdc>1.1.1:13.1.6.5:02</scdc>
+      <scdc>1.1.1:13.1.6.6:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/2nd-level-feature</type>
     </metadata>
@@ -13765,7 +13999,7 @@
       <item_name>Inertial Sink</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink</scc>
-      <scdc>1.1.1:13.1.6.5:04</scdc>
+      <scdc>1.1.1:13.1.6.6:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/2nd-level-feature</type>
     </metadata>
@@ -13786,7 +14020,7 @@
       <item_name>Rapid Processing</item_name>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.trait.null.2nd-level-feature:rapid-processing</scc>
-      <scdc>1.1.1:13.1.6.5:01</scdc>
+      <scdc>1.1.1:13.1.6.6:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/2nd-level-feature</type>
     </metadata>
@@ -13821,7 +14055,7 @@
       <keywords>Psionic</keywords>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:blur-5-discipline</scc>
-      <scdc>1.1.1:13.2.6.4:01</scdc>
+      <scdc>1.1.1:13.2.6.5:01</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/2nd-level-feature</type>
@@ -13857,7 +14091,7 @@
       <keywords>Psionic</keywords>
       <level>2</level>
       <scc>mcdm.heroes.v1:feature.ability.null.2nd-level-feature:kinetic-shield-5-discipline</scc>
-      <scdc>1.1.1:13.2.6.4:05</scdc>
+      <scdc>1.1.1:13.2.6.5:05</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/2nd-level-feature</type>
@@ -13884,7 +14118,7 @@
       <item_name>Psionic Leap</item_name>
       <level>3</level>
       <scc>mcdm.heroes.v1:feature.trait.null.3rd-level-feature:psionic-leap</scc>
-      <scdc>1.1.1:13.1.6.6:01</scdc>
+      <scdc>1.1.1:13.1.6.7:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/3rd-level-feature</type>
     </metadata>
@@ -13919,7 +14153,7 @@
       <keywords>Psionic</keywords>
       <level>3</level>
       <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:molecular-rearrangement-field-7-discipline</scc>
-      <scdc>1.1.1:13.2.6.5:03</scdc>
+      <scdc>1.1.1:13.2.6.6:03</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/3rd-level-feature</type>
@@ -13955,7 +14189,7 @@
       <keywords>Psionic</keywords>
       <level>3</level>
       <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:absorption-field-7-discipline</scc>
-      <scdc>1.1.1:13.2.6.5:01</scdc>
+      <scdc>1.1.1:13.2.6.6:01</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/3rd-level-feature</type>
@@ -13976,7 +14210,7 @@
       <item_name>Reorder</item_name>
       <level>3</level>
       <scc>mcdm.heroes.v1:feature.trait.null.3rd-level-feature:reorder</scc>
-      <scdc>1.1.1:13.1.6.6:02</scdc>
+      <scdc>1.1.1:13.1.6.7:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/3rd-level-feature</type>
     </metadata>
@@ -14011,7 +14245,7 @@
       <keywords>Psionic</keywords>
       <level>3</level>
       <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:stabilizing-field-7-discipline</scc>
-      <scdc>1.1.1:13.2.6.5:04</scdc>
+      <scdc>1.1.1:13.2.6.6:04</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/3rd-level-feature</type>
@@ -14047,7 +14281,7 @@
       <keywords>Psionic</keywords>
       <level>3</level>
       <scc>mcdm.heroes.v1:feature.ability.null.3rd-level-feature:synapse-field-7-discipline</scc>
-      <scdc>1.1.1:13.2.6.5:02</scdc>
+      <scdc>1.1.1:13.2.6.6:02</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/3rd-level-feature</type>
@@ -14084,7 +14318,7 @@
       <keywords>Psionic</keywords>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:time-loop-11-discipline</scc>
-      <scdc>1.1.1:13.2.6.6:04</scdc>
+      <scdc>1.1.1:13.2.6.7:04</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/9th-level-feature</type>
@@ -14126,7 +14360,7 @@
       <keywords>Weapon</keywords>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas-11-discipline</scc>
-      <scdc>1.1.1:13.2.6.6:06</scdc>
+      <scdc>1.1.1:13.2.6.7:06</scdc>
       <source>mcdm.heroes.v1</source>
       <target>One creature</target>
       <type>feature/ability/null/9th-level-feature</type>
@@ -14153,7 +14387,7 @@
       <item_name>I Am the Weapon</item_name>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.trait.null.9th-level-feature:i-am-the-weapon</scc>
-      <scdc>1.1.1:13.1.6.7:01</scdc>
+      <scdc>1.1.1:13.1.6.8:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/9th-level-feature</type>
     </metadata>
@@ -14191,7 +14425,7 @@
       <keywords>Ranged</keywords>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:arrestor-cycle-11-discipline</scc>
-      <scdc>1.1.1:13.2.6.6:03</scdc>
+      <scdc>1.1.1:13.2.6.7:03</scdc>
       <source>mcdm.heroes.v1</source>
       <target>One creature</target>
       <type>feature/ability/null/9th-level-feature</type>
@@ -14237,7 +14471,7 @@
       <keywords>Strike</keywords>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:heat-drain-11-discipline</scc>
-      <scdc>1.1.1:13.2.6.6:05</scdc>
+      <scdc>1.1.1:13.2.6.7:05</scdc>
       <source>mcdm.heroes.v1</source>
       <target>One creature</target>
       <type>feature/ability/null/9th-level-feature</type>
@@ -14280,7 +14514,7 @@
       <keywords>Psionic</keywords>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:inertial-absorption-11-discipline</scc>
-      <scdc>1.1.1:13.2.6.6:02</scdc>
+      <scdc>1.1.1:13.2.6.7:02</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/9th-level-feature</type>
@@ -14316,7 +14550,7 @@
       <keywords>Psionic</keywords>
       <level>9</level>
       <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:absolute-zero-11-discipline</scc>
-      <scdc>1.1.1:13.2.6.6:01</scdc>
+      <scdc>1.1.1:13.2.6.7:01</scdc>
       <source>mcdm.heroes.v1</source>
       <target>Self</target>
       <type>feature/ability/null/9th-level-feature</type>
@@ -14343,7 +14577,7 @@
       <item_name>Discipline Mastery Improvement</item_name>
       <level>7</level>
       <scc>mcdm.heroes.v1:feature.trait.null.7th-level-feature:discipline-mastery-improvement</scc>
-      <scdc>1.1.1:13.1.6.8:03</scdc>
+      <scdc>1.1.1:13.1.6.9:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
@@ -14363,7 +14597,7 @@
       <item_name>Skill</item_name>
       <level>7</level>
       <scc>mcdm.heroes.v1:feature.trait.null.7th-level-feature:skill</scc>
-      <scdc>1.1.1:13.1.6.8:01</scdc>
+      <scdc>1.1.1:13.1.6.9:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
@@ -14383,7 +14617,7 @@
       <item_name>Improved Body</item_name>
       <level>7</level>
       <scc>mcdm.heroes.v1:feature.trait.null.7th-level-feature:improved-body</scc>
-      <scdc>1.1.1:13.1.6.8:05</scdc>
+      <scdc>1.1.1:13.1.6.9:05</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
@@ -14403,7 +14637,7 @@
       <item_name>Characteristic Increase</item_name>
       <level>7</level>
       <scc>mcdm.heroes.v1:feature.trait.null.7th-level-feature:characteristic-increase</scc>
-      <scdc>1.1.1:13.1.6.8:02</scdc>
+      <scdc>1.1.1:13.1.6.9:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
@@ -14423,7 +14657,7 @@
       <item_name>Psi Boost</item_name>
       <level>7</level>
       <scc>mcdm.heroes.v1:feature.trait.null.7th-level-feature:psi-boost</scc>
-      <scdc>1.1.1:13.1.6.8:04</scdc>
+      <scdc>1.1.1:13.1.6.9:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/7th-level-feature</type>
     </metadata>
@@ -14453,11 +14687,11 @@
       <file_basename>Discipline Mastery Improvement</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>discipline-mastery-improvement</item_id>
-      <item_index>06</item_index>
+      <item_index>04</item_index>
       <item_name>Discipline Mastery Improvement</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:discipline-mastery-improvement</scc>
-      <scdc>1.1.1:13.1.6.9:06</scdc>
+      <scdc>1.1.1:13.1.6.10:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -14473,247 +14707,16 @@
       <file_basename>Enhanced Null Field</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>enhanced-null-field</item_id>
-      <item_index>9</item_index>
+      <item_index>06</item_index>
       <item_name>Enhanced Null Field</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:enhanced-null-field</scc>
-      <scdc>1.1.1:13.1.6.9:09</scdc>
+      <scdc>1.1.1:13.1.6.10:06</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
     <effects>
       <effect type="mundane">While using your Null Field ability, you disrupt magic and psionic power suffusing the area around you. During combat, any temporary supernatural terrain effects of your level or lower are removed when your aura partially or fully overlaps with their location. Permanent supernatural terrain effects of your level or lower are temporarily negated while your aura overlaps with their location, but return when the aura no longer overlaps with them.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Chilling Readiness</name>
-    <metadata>
-      <class>null</class>
-      <feature_type>trait</feature_type>
-      <file_basename>Chilling Readiness</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <item_id>chilling-readiness</item_id>
-      <item_index>01</item_index>
-      <item_name>Chilling Readiness</item_name>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:chilling-readiness</scc>
-      <scdc>1.1.1:13.1.6.9:01</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">You steel yourself for imminent danger by tapping into your body&apos;s cold energy. At the start of any combat, you gain a number of surges equal to your Victories.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Inertial Fulcrum</name>
-    <metadata>
-      <class>null</class>
-      <feature_type>trait</feature_type>
-      <file_basename>Inertial Fulcrum</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <item_id>inertial-fulcrum</item_id>
-      <item_index>02</item_index>
-      <item_name>Inertial Fulcrum</item_name>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:inertial-fulcrum</scc>
-      <scdc>1.1.1:13.1.6.9:02</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">Whenever you use an ability to reduce damage dealt to you or to reduce the distance of forced movement imposed upon you, you can deal damage to one enemy in the area of your Null Field ability equal to your Intuition score.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Synaptic Reset</name>
-    <cost>9 Discipline</cost>
-    <flavor>You expand your nullifying power to mitigate harmful effects.</flavor>
-    <keywords>
-      <keyword>Area</keyword>
-      <keyword>Psionic</keyword>
-    </keywords>
-    <type>Maneuver</type>
-    <distance>3 burst</distance>
-    <target>Self and each ally in the area</target>
-    <metadata>
-      <action_type>Maneuver</action_type>
-      <class>null</class>
-      <cost>9 Discipline</cost>
-      <cost_amount>9</cost_amount>
-      <cost_resource>Discipline</cost_resource>
-      <distance>3 burst</distance>
-      <feature_type>ability</feature_type>
-      <file_basename>Synaptic Reset</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <flavor>You expand your nullifying power to mitigate harmful effects.</flavor>
-      <item_id>synaptic-reset-9-discipline</item_id>
-      <item_index>02</item_index>
-      <item_name>Synaptic Reset (9 Discipline)</item_name>
-      <keywords>Area</keywords>
-      <keywords>Psionic</keywords>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:synaptic-reset-9-discipline</scc>
-      <scdc>1.1.1:13.2.6.7:02</scdc>
-      <source>mcdm.heroes.v1</source>
-      <target>Self and each ally in the area</target>
-      <type>feature/ability/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane" name="Effect">Each target can end any conditions or effects on themself, and gains 5 temporary Stamina for each condition or effect removed.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Phase Leap</name>
-    <cost>9 Discipline</cost>
-    <flavor>You leap beyond reality, leaving an afterimage of yourself.</flavor>
-    <keywords>
-      <keyword>Psionic</keyword>
-    </keywords>
-    <type>Move</type>
-    <distance>Self</distance>
-    <target>Self</target>
-    <metadata>
-      <action_type>Move</action_type>
-      <class>null</class>
-      <cost>9 Discipline</cost>
-      <cost_amount>9</cost_amount>
-      <cost_resource>Discipline</cost_resource>
-      <distance>Self</distance>
-      <feature_type>ability</feature_type>
-      <file_basename>Phase Leap</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <flavor>You leap beyond reality, leaving an afterimage of yourself.</flavor>
-      <item_id>phase-leap-9-discipline</item_id>
-      <item_index>04</item_index>
-      <item_name>Phase Leap (9 Discipline)</item_name>
-      <keywords>Psionic</keywords>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:phase-leap-9-discipline</scc>
-      <scdc>1.1.1:13.2.6.7:04</scdc>
-      <source>mcdm.heroes.v1</source>
-      <target>Self</target>
-      <type>feature/ability/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane" name="Effect">You jump up to your speed without provoking opportunity attacks. Until the end of your next turn, a static afterimage of you remains in the space you left, and any enemy adjacent to your afterimage takes a bane on ability rolls. You can use your abilities from your own space or from the space of your afterimage as if you were still there. Additionally, if your Null Field ability is active, your afterimage also projects the aura from that ability, which you control as if you were in the afterimage&apos;s space.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Iron Grip</name>
-    <cost>9 Discipline</cost>
-    <flavor>You grab the target with supernatural force.</flavor>
-    <keywords>
-      <keyword>Melee</keyword>
-      <keyword>Psionic</keyword>
-      <keyword>Strike</keyword>
-      <keyword>Weapon</keyword>
-    </keywords>
-    <type>Main action</type>
-    <distance>Melee 1</distance>
-    <target>One creature</target>
-    <metadata>
-      <action_type>Main action</action_type>
-      <class>null</class>
-      <cost>9 Discipline</cost>
-      <cost_amount>9</cost_amount>
-      <cost_resource>Discipline</cost_resource>
-      <distance>Melee 1</distance>
-      <feature_type>ability</feature_type>
-      <file_basename>Iron Grip</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <flavor>You grab the target with supernatural force.</flavor>
-      <item_id>iron-grip-9-discipline</item_id>
-      <item_index>03</item_index>
-      <item_name>Iron Grip (9 Discipline)</item_name>
-      <keywords>Melee</keywords>
-      <keywords>Psionic</keywords>
-      <keywords>Strike</keywords>
-      <keywords>Weapon</keywords>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:iron-grip-9-discipline</scc>
-      <scdc>1.1.1:13.2.6.7:03</scdc>
-      <source>mcdm.heroes.v1</source>
-      <target>One creature</target>
-      <type>feature/ability/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="roll">
-        <roll>Power Roll + Agility</roll>
-        <t1>10 + A damage; A &lt; WEAK, grabbed</t1>
-        <t2>14 + A damage; A &lt; AVERAGE, grabbed</t2>
-        <t3>18 + A damage; A &lt; STRONG, grabbed</t3>
-      </effect>
-      <effect type="mundane" name="Effect">While grabbed this way, the target takes a bane on the Escape Grab maneuver. Each time they use that maneuver, they take damage equal to twice your Agility score.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Anticipating Strike</name>
-    <cost>9 Discipline</cost>
-    <flavor>You suddenly strike an enemy, then grab them in a psionically enhanced grip.</flavor>
-    <keywords>
-      <keyword>Melee</keyword>
-      <keyword>Psionic</keyword>
-      <keyword>Strike</keyword>
-      <keyword>Weapon</keyword>
-    </keywords>
-    <type>Free triggered</type>
-    <distance>Melee 1</distance>
-    <target>One creature</target>
-    <trigger>The target moves or uses a main action.</trigger>
-    <metadata>
-      <action_type>Free triggered</action_type>
-      <class>null</class>
-      <cost>9 Discipline</cost>
-      <cost_amount>9</cost_amount>
-      <cost_resource>Discipline</cost_resource>
-      <distance>Melee 1</distance>
-      <feature_type>ability</feature_type>
-      <file_basename>Anticipating Strike</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <flavor>You suddenly strike an enemy, then grab them in a psionically enhanced grip.</flavor>
-      <item_id>anticipating-strike-9-discipline</item_id>
-      <item_index>01</item_index>
-      <item_name>Anticipating Strike (9 Discipline)</item_name>
-      <keywords>Melee</keywords>
-      <keywords>Psionic</keywords>
-      <keywords>Strike</keywords>
-      <keywords>Weapon</keywords>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.ability.null.4th-level-feature:anticipating-strike-9-discipline</scc>
-      <scdc>1.1.1:13.2.6.7:01</scdc>
-      <source>mcdm.heroes.v1</source>
-      <target>One creature</target>
-      <type>feature/ability/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="roll">
-        <roll>Power Roll + Agility</roll>
-        <t1>7 + A damage; I &lt; WEAK, restrained (save ends)</t1>
-        <t2>10 + A damage; I &lt; AVERAGE, restrained (save ends)</t2>
-        <t3>13 + A damage; I &lt; STRONG, restrained (save ends)</t3>
-      </effect>
-      <effect type="mundane" name="Effect">This strike resolves before the triggering movement or main action.</effect>
-    </effects>
-  </ability>
-  <ability>
-    <name>Instant Action</name>
-    <metadata>
-      <class>null</class>
-      <feature_type>trait</feature_type>
-      <file_basename>Instant Action</file_basename>
-      <file_dpath>Null/4th-Level Features</file_dpath>
-      <item_id>instant-action</item_id>
-      <item_index>07</item_index>
-      <item_name>Instant Action</item_name>
-      <level>4</level>
-      <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:instant-action</scc>
-      <scdc>1.1.1:13.1.6.9:07</scdc>
-      <source>mcdm.heroes.v1</source>
-      <type>feature/trait/null/4th-level-feature</type>
-    </metadata>
-    <effects>
-      <effect type="mundane">If you&apos;re not surprised at the start of your first turn in combat, you gain an edge on ability rolls and gain 2 surges. If you are surprised, you can spend 3 discipline to no longer be surprised and gain the benefits of this feature.</effect>
     </effects>
   </ability>
   <ability>
@@ -14724,17 +14727,16 @@
       <file_basename>Skill</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>skill</item_id>
-      <item_index>04</item_index>
+      <item_index>02</item_index>
       <item_name>Skill</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:skill</scc>
-      <scdc>1.1.1:13.1.6.9:04</scdc>
+      <scdc>1.1.1:13.1.6.10:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.
-  As a 5th-level null, you gain the following features.</effect>
+      <effect type="mundane">You gain one skill of your choice. See Skills in Chapter 9: Tests.</effect>
     </effects>
   </ability>
   <ability>
@@ -14745,11 +14747,11 @@
       <file_basename>Perk</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>perk</item_id>
-      <item_index>03</item_index>
+      <item_index>01</item_index>
       <item_name>Perk</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:perk</scc>
-      <scdc>1.1.1:13.1.6.9:03</scdc>
+      <scdc>1.1.1:13.1.6.10:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -14765,11 +14767,11 @@
       <file_basename>Characteristic Increase</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>characteristic-increase</item_id>
-      <item_index>05</item_index>
+      <item_index>03</item_index>
       <item_name>Characteristic Increase</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:characteristic-increase</scc>
-      <scdc>1.1.1:13.1.6.9:05</scdc>
+      <scdc>1.1.1:13.1.6.10:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -14785,11 +14787,11 @@
       <file_basename>Regenerative Field</file_basename>
       <file_dpath>Null/4th-Level Features</file_dpath>
       <item_id>regenerative-field</item_id>
-      <item_index>8</item_index>
+      <item_index>05</item_index>
       <item_name>Regenerative Field</item_name>
       <level>4</level>
       <scc>mcdm.heroes.v1:feature.trait.null.4th-level-feature:regenerative-field</scc>
-      <scdc>1.1.1:13.1.6.9:08</scdc>
+      <scdc>1.1.1:13.1.6.10:05</scdc>
       <source>mcdm.heroes.v1</source>
       <type>feature/trait/null/4th-level-feature</type>
     </metadata>
@@ -15318,6 +15320,12 @@
       <type>feature/ability/fury/1st-level-feature</type>
     </metadata>
     <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might</roll>
+        <t1>6 damage; push 2</t1>
+        <t2>9 damage; push 4</t2>
+        <t3>13 damage; push 6</t3>
+      </effect>
       <effect type="mundane" name="Effect">The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.</effect>
     </effects>
   </ability>
@@ -15464,13 +15472,13 @@
       <keyword>-</keyword>
     </keywords>
     <type>Triggered</type>
-    <distance>Ranged 10</distance>
-    <target>One enemy</target>
+    <distance>Self</distance>
+    <target>Self</target>
     <trigger>You lose Stamina and are not dying.</trigger>
     <metadata>
       <action_type>Triggered</action_type>
       <class>fury</class>
-      <distance>Ranged 10</distance>
+      <distance>Self</distance>
       <feature_type>ability</feature_type>
       <file_basename>Furious Change</file_basename>
       <file_dpath>Fury/1st-Level Features</file_dpath>
@@ -15483,7 +15491,7 @@
       <scc>mcdm.heroes.v1:feature.ability.fury.1st-level-feature:furious-change</scc>
       <scdc>1.1.1:13.2.5.1:14</scdc>
       <source>mcdm.heroes.v1</source>
-      <target>One enemy</target>
+      <target>Self</target>
       <type>feature/ability/fury/1st-level-feature</type>
     </metadata>
     <effects>
@@ -16640,7 +16648,7 @@
       <type>feature/trait/fury/2nd-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link)</effect>
+      <effect type="mundane">You gain one crafting, exploration, or intrigue perk of your choice. See [Chapter 7: Perks](#dead-link).</effect>
     </effects>
   </ability>
   <ability>
@@ -28100,7 +28108,7 @@
       <type>feature/trait/talent/6th-level-feature</type>
     </metadata>
     <effects>
-      <effect type="mundane">Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional clarity to apply a psi boost to it and enhance its effects. A psi boost&apos;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
+      <effect type="mundane">Whenever you use an ability that is a main action or a maneuver with the Psionic keyword, you can spend additional discipline to apply a psi boost to it and enhance its effects. A psi boost&apos;s effects only last until the end of the turn which the ability is first used. You can apply multiple psi boosts to an ability, but only one instance of each specific boost. You can use the following psi boosts.
   ##### Dynamic Power (1 Clarity)
   If the ability force moves a target, the forced movement distance gains a bonus equal to your Reason score.
   ##### Expanded Power (3 Clarity)

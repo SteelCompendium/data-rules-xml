@@ -26,7 +26,7 @@
     <keywords>Psionic</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:time-loop-11-discipline</scc>
-    <scdc>1.1.1:13.2.6.6:04</scdc>
+    <scdc>1.1.1:13.2.6.7:04</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self</target>
     <type>feature/ability/null/9th-level-feature</type>

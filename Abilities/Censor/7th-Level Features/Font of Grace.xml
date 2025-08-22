@@ -15,7 +15,6 @@
     <type>feature/trait/censor/7th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&apos;t use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.
-ing the st</effect>
+    <effect type="mundane">Each time you use your My Life for Yours ability, you gain 1 wrath that can be spent only on that ability during the same turn. If you don&apos;t use this wrath, it is lost. Additionally, the target of My Life for Yours gains 10 temporary Stamina.</effect>
   </effects>
 </ability>

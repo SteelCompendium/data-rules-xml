@@ -31,7 +31,7 @@
     <keywords>Weapon</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.null.9th-level-feature:realitas-11-discipline</scc>
-    <scdc>1.1.1:13.2.6.6:06</scdc>
+    <scdc>1.1.1:13.2.6.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
     <type>feature/ability/null/9th-level-feature</type>
