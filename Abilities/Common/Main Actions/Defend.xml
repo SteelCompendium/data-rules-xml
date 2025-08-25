@@ -7,10 +7,10 @@
     <item_id>defend</item_id>
     <item_index>01</item_index>
     <item_name>Defend</item_name>
-    <scc>mcdm.heroes.v1:common\_ability.main\_action:defend</scc>
+    <scc>mcdm.heroes.v1:common-ability.main-action:defend</scc>
     <scdc>1.1.1:14.1:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>common\_ability/main\_action</type>
+    <type>common-ability/main-action</type>
   </metadata>
   <effects>
     <effect type="mundane">When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature&apos;s traits or abilities. A creature gains no benefit from this action while another creature is taunted by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).</effect>

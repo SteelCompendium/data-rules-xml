@@ -7,10 +7,10 @@
     <item_id>escape-grab</item_id>
     <item_index>8</item_index>
     <item_name>Escape Grab</item_name>
-    <scc>mcdm.heroes.v1:common\_ability.maneuver:escape-grab</scc>
+    <scc>mcdm.heroes.v1:common-ability.maneuver:escape-grab</scc>
     <scdc>1.1.1:14.3:08</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>common\_ability/maneuver</type>
+    <type>common-ability/maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">A creature who is grabbed by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.

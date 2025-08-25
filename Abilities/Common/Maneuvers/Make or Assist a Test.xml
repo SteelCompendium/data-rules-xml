@@ -7,10 +7,10 @@
     <item_id>make-or-assist-a-test</item_id>
     <item_index>01</item_index>
     <item_name>Make or Assist a Test</item_name>
-    <scc>mcdm.heroes.v1:common\_ability.maneuver:make-or-assist-a-test</scc>
+    <scc>mcdm.heroes.v1:common-ability.maneuver:make-or-assist-a-test</scc>
     <scdc>1.1.1:14.3:01</scdc>
     <source>mcdm.heroes.v1</source>
-    <type>common\_ability/maneuver</type>
+    <type>common-ability/maneuver</type>
   </metadata>
   <effects>
     <effect type="mundane">Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door&apos;s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: Tests).

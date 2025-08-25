@@ -8,10 +8,10 @@
       <item_id>heal</item_id>
       <item_index>02</item_index>
       <item_name>Heal</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.main\_action:heal</scc>
+      <scc>mcdm.heroes.v1:common-ability.main-action:heal</scc>
       <scdc>1.1.1:14.1:02</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/main\_action</type>
+      <type>common-ability/main-action</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.</effect>
@@ -26,10 +26,10 @@
       <item_id>free-strike</item_id>
       <item_index>04</item_index>
       <item_name>Free Strike</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.main\_action:free-strike</scc>
+      <scc>mcdm.heroes.v1:common-ability.main-action:free-strike</scc>
       <scdc>1.1.1:14.1:04</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/main\_action</type>
+      <type>common-ability/main-action</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you&apos;ll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature&apos;s stat block, but free strikes are available for when all else fails. For instance, a fury who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a flying foe.</effect>
@@ -44,10 +44,10 @@
       <item_id>defend</item_id>
       <item_index>01</item_index>
       <item_name>Defend</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.main\_action:defend</scc>
+      <scc>mcdm.heroes.v1:common-ability.main-action:defend</scc>
       <scdc>1.1.1:14.1:01</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/main\_action</type>
+      <type>common-ability/main-action</type>
     </metadata>
     <effects>
       <effect type="mundane">When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature&apos;s traits or abilities. A creature gains no benefit from this action while another creature is taunted by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).</effect>
@@ -62,10 +62,10 @@
       <item_id>charge</item_id>
       <item_index>03</item_index>
       <item_name>Charge</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.main\_action:charge</scc>
+      <scc>mcdm.heroes.v1:common-ability.main-action:charge</scc>
       <scdc>1.1.1:14.1:03</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/main\_action</type>
+      <type>common-ability/main-action</type>
     </metadata>
     <effects>
       <effect type="mundane">When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
@@ -81,10 +81,10 @@
       <item_id>ride</item_id>
       <item_index>03</item_index>
       <item_name>Ride</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.move\_action:ride</scc>
+      <scc>mcdm.heroes.v1:common-ability.move-action:ride</scc>
       <scdc>1.1.1:14.2:03</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/move\_action</type>
+      <type>common-ability/move-action</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature can take the Ride move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the Ride move action, they cause their mount to move up to the mount&apos;s speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the Disengage move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider&apos;s maneuver and main action however they wish.</effect>
@@ -99,10 +99,10 @@
       <item_id>disengage</item_id>
       <item_index>01</item_index>
       <item_name>Disengage</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.move\_action:disengage</scc>
+      <scc>mcdm.heroes.v1:common-ability.move-action:disengage</scc>
       <scdc>1.1.1:14.2:01</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/move\_action</type>
+      <type>common-ability/move-action</type>
     </metadata>
     <effects>
       <effect type="mundane">When a creature takes the Disengage move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they disengage. A creature who does so can break up their shift with their maneuver and main action however they wish.</effect>
@@ -117,10 +117,10 @@
       <item_id>advance</item_id>
       <item_index>02</item_index>
       <item_name>Advance</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.move\_action:advance</scc>
+      <scc>mcdm.heroes.v1:common-ability.move-action:advance</scc>
       <scdc>1.1.1:14.2:02</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/move\_action</type>
+      <type>common-ability/move-action</type>
     </metadata>
     <effects>
       <effect type="mundane">When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.</effect>
@@ -135,10 +135,10 @@
       <item_id>stand-up</item_id>
       <item_index>03</item_index>
       <item_name>Stand Up</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:stand-up</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:stand-up</scc>
       <scdc>1.1.1:14.3:03</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature can use the Stand Up maneuver to stand up if they are prone, ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.</effect>
@@ -153,10 +153,10 @@
       <item_id>escape-grab</item_id>
       <item_index>8</item_index>
       <item_name>Escape Grab</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:escape-grab</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:escape-grab</scc>
       <scdc>1.1.1:14.3:08</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature who is grabbed by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
@@ -183,10 +183,10 @@
       <item_id>search-for-hidden-creatures</item_id>
       <item_index>04</item_index>
       <item_name>Search for Hidden Creatures</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:search-for-hidden-creatures</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:search-for-hidden-creatures</scc>
       <scdc>1.1.1:14.3:04</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: Tests).</effect>
@@ -201,10 +201,10 @@
       <item_id>aid-attack</item_id>
       <item_index>06</item_index>
       <item_name>Aid Attack</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:aid-attack</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:aid-attack</scc>
       <scdc>1.1.1:14.3:06</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature who uses the Aid Attack maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature&apos;s next turn gains an edge.</effect>
@@ -219,10 +219,10 @@
       <item_id>hide</item_id>
       <item_index>9</item_index>
       <item_name>Hide</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:hide</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:hide</scc>
       <scdc>1.1.1:14.3:09</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">Using the Hide maneuver, a creature attempts to hide from other creatures who aren&apos;t observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.</effect>
@@ -237,10 +237,10 @@
       <item_id>grab</item_id>
       <item_index>10</item_index>
       <item_name>Grab</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:grab</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:grab</scc>
       <scdc>1.1.1:14.3:10</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
@@ -268,10 +268,10 @@
       <item_id>catch-breath</item_id>
       <item_index>02</item_index>
       <item_name>Catch Breath</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:catch-breath</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:catch-breath</scc>
       <scdc>1.1.1:14.3:02</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature who uses the Catch Breath maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
@@ -287,10 +287,10 @@
       <item_id>make-or-assist-a-test</item_id>
       <item_index>01</item_index>
       <item_name>Make or Assist a Test</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:make-or-assist-a-test</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:make-or-assist-a-test</scc>
       <scdc>1.1.1:14.3:01</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door&apos;s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: Tests).
@@ -306,10 +306,10 @@
       <item_id>knockback</item_id>
       <item_index>05</item_index>
       <item_name>Knockback</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:knockback</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:knockback</scc>
       <scdc>1.1.1:14.3:05</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
@@ -335,10 +335,10 @@
       <item_id>use-consumable</item_id>
       <item_index>07</item_index>
       <item_name>Use Consumable</item_name>
-      <scc>mcdm.heroes.v1:common\_ability.maneuver:use-consumable</scc>
+      <scc>mcdm.heroes.v1:common-ability.maneuver:use-consumable</scc>
       <scdc>1.1.1:14.3:07</scdc>
       <source>mcdm.heroes.v1</source>
-      <type>common\_ability/maneuver</type>
+      <type>common-ability/maneuver</type>
     </metadata>
     <effects>
       <effect type="mundane">Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the Use Consumable maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See [Consumables](#page-328-0) in [Chapter 13: Rewards](#page-327-1).</effect>
