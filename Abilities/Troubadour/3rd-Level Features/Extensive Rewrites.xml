@@ -6,11 +6,11 @@
     <keyword>Area</keyword>
     <keyword>Magic</keyword>
   </keywords>
-  <type>No action</type>
+  <type>Maneuver</type>
   <distance>4 burst</distance>
   <target>Each enemy in the area</target>
   <metadata>
-    <action_type>No action</action_type>
+    <action_type>Maneuver</action_type>
     <class>troubadour</class>
     <cost>7 Drama</cost>
     <cost_amount>7</cost_amount>
