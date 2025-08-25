@@ -1,0 +1,45 @@
+<ability>
+  <name>Materialize</name>
+  <flavor>You picture an object in your mind and give it form-directly above your opponent&apos;s head.</flavor>
+  <keywords>
+    <keyword>Psionic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Resopathy</keyword>
+    <keyword>Strike</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 10</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>talent</class>
+    <distance>Ranged 10</distance>
+    <feature_type>ability</feature_type>
+    <file_basename>Materialize</file_basename>
+    <file_dpath>Talent/1st-Level Features</file_dpath>
+    <flavor>You picture an object in your mind and give it form-directly above your opponent&apos;s head.</flavor>
+    <item_id>materialize</item_id>
+    <item_index>03</item_index>
+    <item_name>Materialize</item_name>
+    <keywords>Psionic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Resopathy</keywords>
+    <keywords>Strike</keywords>
+    <level>1</level>
+    <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:materialize</scc>
+    <scdc>1.1.1:13.2.1.1:03</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature or object</target>
+    <type>feature/ability/talent/1st-level-feature</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Reason</roll>
+      <t1>3 + R damage</t1>
+      <t2>5 + R damage</t2>
+      <t3>8 + R damage</t3>
+    </effect>
+    <effect type="mundane" name="Effect">A worthless size 1M object drops onto the target to deal the damage, then rolls into an adjacent unoccupied space of your choice. The object is made of wood, stone, or metal (your choice).</effect>
+    <effect type="mundane" name="Strained">The object explodes after the damage is dealt, and each creature adjacent to the target takes damage equal to your Reason score. You also take damage equal to your Reason score that can&apos;t be reduced in any way.</effect>
+  </effects>
+</ability>

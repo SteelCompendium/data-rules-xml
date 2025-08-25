@@ -23,7 +23,7 @@
     <file_dpath>Talent/1st-Level Features</file_dpath>
     <flavor>Smoke flows from your enemy like tears as their skin begins to blacken and flake.</flavor>
     <item_id>smolder-3-clarity</item_id>
-    <item_index>8</item_index>
+    <item_index>9</item_index>
     <item_name>Smolder (3 Clarity)</item_name>
     <keywords>Psionic</keywords>
     <keywords>Pyrokinesis</keywords>
@@ -31,7 +31,7 @@
     <keywords>Strike</keywords>
     <level>1</level>
     <scc>mcdm.heroes.v1:feature.ability.talent.1st-level-feature:smolder-3-clarity</scc>
-    <scdc>1.1.1:13.2.1.1:08</scdc>
+    <scdc>1.1.1:13.2.1.1:09</scdc>
     <source>mcdm.heroes.v1</source>
     <target>One creature</target>
     <type>feature/ability/talent/1st-level-feature</type>
