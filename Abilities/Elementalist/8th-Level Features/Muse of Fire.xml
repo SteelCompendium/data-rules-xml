@@ -1,6 +1,5 @@
 <ability>
-  <name>Muse of Fire</name>
-  <cost>11 Essence</cost>
+  <name></name>
   <flavor>The fire burns hot enough to sear the face of any god watching.</flavor>
   <keywords>
     <keyword>Area</keyword>
@@ -39,7 +38,7 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Reason</roll>
-      <t1>7 fire damage; the Director loses 2 Malice (see [Draw Steel: Monsters](https://mcdm.gg/DS-Monsters))</t1>
+      <t1>7 fire damage; the Director loses 2 Malice (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*)</t1>
       <t2>10 fire damage; the Director loses 3 Malice</t2>
       <t3>15 fire damage; the Director loses 4 Malice</t3>
     </effect>

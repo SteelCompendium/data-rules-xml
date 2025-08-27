@@ -1,5 +1,5 @@
 <ability>
-  <name>Psion</name>
+  <name></name>
   <metadata>
     <class>talent</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">At the start of each of your turns during combat, you gain 1d3 + 2 clarity instead of 1d3 + 1.
+
 Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on any ability&apos;s strained effect even if you&apos;re not strained.</effect>
   </effects>
 </ability>

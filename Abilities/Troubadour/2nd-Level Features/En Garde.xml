@@ -1,6 +1,5 @@
 <ability>
-  <name>En Garde!</name>
-  <cost>5 Drama</cost>
+  <name></name>
   <flavor>Wait, it&apos;s... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!</flavor>
   <keywords>
     <keyword>Melee</keyword>
@@ -37,9 +36,9 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Agility</roll>
-      <t1>7 + A damage</t1>
-      <t2>11 + A damage</t2>
-      <t3>16 + A damage</t3>
+      <t1>7 + **A** damage</t1>
+      <t2>11 + **A** damage</t2>
+      <t3>16 + **A** damage</t3>
     </effect>
     <effect type="mundane" name="Effect">The target can make a melee free strike against you. If they do, you can make a melee free strike against the target.</effect>
   </effects>

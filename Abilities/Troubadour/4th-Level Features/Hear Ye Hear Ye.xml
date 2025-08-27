@@ -1,5 +1,5 @@
 <ability>
-  <name>Hear Ye, Hear Ye!</name>
+  <name></name>
   <metadata>
     <class>troubadour</class>
     <feature_type>trait</feature_type>
@@ -15,9 +15,11 @@
     <type>feature/trait/troubadour/4th-level-feature</type>
   </metadata>
   <effects>
-    <effect type="mundane">By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:
-- **≤11:** Your information reaches no one.
-- **12-16:** Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a Recovery.
-- **17+:** Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.</effect>
+    <effect type="test">
+      <effect>By bragging, intimidating, leading, or lying, you attempt to spread one piece of information into the local area. Make a Presence test:</effect>
+      <t1>Your information reaches no one.</t1>
+      <t2>Your information reaches the nearest populated area of town size or larger. You and each ally present when you make the test gain an edge on Presence tests in that area until one of you spends a Recovery.</t2>
+      <t3>Your information reaches the nearest populated area of town size or larger, plus the next closest such population. You and allies present for your test gain an edge on Presence tests made in those areas until you start your next respite.</t3>
+    </effect>
   </effects>
 </ability>

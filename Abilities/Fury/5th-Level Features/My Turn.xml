@@ -1,6 +1,5 @@
 <ability>
-  <name>My Turn!</name>
-  <cost>9 Ferocity</cost>
+  <name></name>
   <flavor>You quickly strike back at a foe.</flavor>
   <keywords>
     <keyword>Melee</keyword>

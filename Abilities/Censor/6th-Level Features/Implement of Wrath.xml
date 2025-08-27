@@ -1,5 +1,5 @@
 <ability>
-  <name>Implement of Wrath</name>
+  <name></name>
   <metadata>
     <class>censor</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">Each time you finish a respite, you can choose one hero&apos;s weapon, including your own, to channel supernatural power as an implement of your god&apos;s wrath. The weapon becomes magic and gains the following benefits until your next respite:
+
 - Strikes with the weapon deal extra holy damage equal to the wielder&apos;s highest characteristic score.
 - Any creature struck by the weapon who has holy weakness and has P &lt; STRONG is frightened and weakened (save ends).
 - Any minion targeted by a strike using the weapon dies. That minion&apos;s Stamina maximum is removed from the minion Stamina pool before any damage is applied to the rest of the squad.

@@ -1,5 +1,5 @@
 <ability>
-  <name>Masterwork</name>
+  <name></name>
   <metadata>
     <class>troubadour</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">Choose one of your signature abilities and name it after yourself. You always have this ability available, even if it is sourced from a kit you switch out. Whenever you use this ability, you gain an edge and 1 surge that you can use only on this ability.
+
 Additionally, when your named signature ability is the last ability you use in an encounter, you can immediately use the Hear Ye, Hear Ye! effect of your Zeitgeist feature to tell tales of your exploits after the encounter ends.</effect>
   </effects>
 </ability>

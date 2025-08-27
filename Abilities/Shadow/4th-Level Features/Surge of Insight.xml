@@ -1,5 +1,5 @@
 <ability>
-  <name>Surge of Insight</name>
+  <name></name>
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">The first time each combat round that you deal damage incorporating 1 or more surges, you gain 2 insight instead of 1.
+
 As a 5th-level shadow, you gain the following features.</effect>
   </effects>
 </ability>

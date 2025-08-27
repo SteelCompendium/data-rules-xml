@@ -1,5 +1,5 @@
 <ability>
-  <name>Umbral Form</name>
+  <name></name>
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">As a maneuver, you lose control of yourself, becoming a shadow creature dripping with ash. This transformation lasts until the end of the encounter, until you are dying, or after 1 uninterrupted hour of quiet focus outside of combat. You gain the following effects while in this form:
+
 - You can automatically climb at full speed while moving.
 - Enemies&apos; spaces don&apos;t count as difficult terrain for you. An enemy takes corruption damage equal to your Agility score the first time you pass through their space on a turn.
 - If you end your turn with cover or concealment from another creature, you are automatically hidden from that creature.

@@ -1,5 +1,5 @@
 <ability>
-  <name>Suspensor Field</name>
+  <name></name>
   <metadata>
     <class>talent</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">You can fly. While flying, your stability is reduced to 0 and can&apos;t be increased. If you can already fly, you have a +2 bonus to speed while flying instead.
+
 If you are strained while flying and are force moved, the forced movement distance gains a +2 bonus.</effect>
   </effects>
 </ability>

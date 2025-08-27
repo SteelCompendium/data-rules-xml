@@ -1,6 +1,5 @@
 <ability>
-  <name>Assassinate</name>
-  <cost>11 Insight</cost>
+  <name></name>
   <flavor>A practiced attack will instantly kill an already weakened foe.</flavor>
   <keywords>
     <keyword>Melee</keyword>

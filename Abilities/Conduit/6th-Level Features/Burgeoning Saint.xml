@@ -1,5 +1,5 @@
 <ability>
-  <name>Burgeoning Saint</name>
+  <name></name>
   <metadata>
     <class>conduit</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">You are infused with the power your deity reserves for their most worthy instruments. You have the following benefits:
+
 - You gain an edge on Presence tests made to interact with other creatures.
 - Whenever you deal damage to an enemy, you can spend a Recovery.
 - You have corruption immunity 10 or holy immunity 10 (your choice).

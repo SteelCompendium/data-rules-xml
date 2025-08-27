@@ -1,5 +1,5 @@
 <ability>
-  <name>Volatile Reagents</name>
+  <name></name>
   <metadata>
     <class>shadow</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
+
 Additionally, your Defensive Roll ability now allows you to shift up to 5 squares, including shifting vertically. If you don&apos;t end this shift on solid ground and are not flying, you fall.</effect>
   </effects>
 </ability>

@@ -1,6 +1,5 @@
 <ability>
-  <name>Battle Cry</name>
-  <cost>3 Focus</cost>
+  <name></name>
   <flavor>You shout a phrase that galvanizes your team.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

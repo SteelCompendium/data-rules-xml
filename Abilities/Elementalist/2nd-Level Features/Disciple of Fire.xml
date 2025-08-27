@@ -1,5 +1,5 @@
 <ability>
-  <name>Disciple of Fire</name>
+  <name></name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level. Additionally, fire damage you deal ignores a target&apos;s fire immunity.
+
 At the start of a combat encounter, you gain a number of surges equal to your Victories. Whenever you spend a surge to deal extra damage, you can make that damage fire damage.</effect>
   </effects>
 </ability>

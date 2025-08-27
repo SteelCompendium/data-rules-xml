@@ -1,6 +1,5 @@
 <ability>
-  <name>Divine Dragon</name>
-  <cost>11 Piety</cost>
+  <name></name>
   <flavor>From nothing but divine will, you create a powerful ally.</flavor>
   <keywords>
     <keyword>Magic</keyword>
@@ -44,7 +43,9 @@ On subsequent turns, you can use a main action to command the dragon to breathe 
       <t2>9 fire damage</t2>
       <t3>12 fire damage</t3>
     </effect>
-    <effect type="mundane">Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a free strike.</effect>
+    <effect type="test">
+      <effect>Additionally, you can use a maneuver to move the dragon up to their speed, or to make a melee weapon strike with their claw against an adjacent creature or object. The dragon can also make this strike as a free strike.</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Intuition</roll>
       <t1>3 + I damage</t1>

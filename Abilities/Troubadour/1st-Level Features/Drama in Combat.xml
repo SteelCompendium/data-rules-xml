@@ -1,5 +1,5 @@
 <ability>
-  <name>Drama in Combat</name>
+  <name></name>
   <metadata>
     <class>troubadour</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
+
 Additionally, you gain drama when certain events occur during a combat encounter:
 - The first time three or more heroes use an ability on the same turn, you gain 2 drama.
 - The first time any hero is made winded during the encounter, you gain 2 drama.

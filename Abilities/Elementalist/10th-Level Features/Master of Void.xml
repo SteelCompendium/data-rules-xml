@@ -1,5 +1,5 @@
 <ability>
-  <name>Master of Void</name>
+  <name></name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">Whenever you willingly move, you can teleport.
+
 Additionally, your mind is connected to the mystery and helps you find the answers you seek. You no longer require project sources for research projects. Whenever you use a respite activity to make a project roll for a research project, you automatically complete the project.</effect>
   </effects>
 </ability>

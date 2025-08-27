@@ -1,5 +1,5 @@
 <ability>
-  <name>Use Consumable</name>
+  <name></name>
   <metadata>
     <class>combat</class>
     <file_basename>Use Consumable</file_basename>

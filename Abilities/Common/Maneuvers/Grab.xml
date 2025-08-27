@@ -1,5 +1,5 @@
 <ability>
-  <name>Grab</name>
+  <name></name>
   <metadata>
     <class>combat</class>
     <file_basename>Grab</file_basename>
@@ -13,11 +13,14 @@
     <type>common-ability/maneuver</type>
   </metadata>
   <effects>
-    <effect type="mundane">A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
+    <effect type="test">
+      <effect>A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
+
 ###### Grab
 | **Melee, Weapon** |        **Maneuver** |
 | ----------------- | ------------------: |
 | **📏 Melee 1**    | **🎯 One creature** |</effect>
+    </effect>
     <effect type="roll">
       <roll>Power Roll + Might</roll>
       <t1>No effect.</t1>

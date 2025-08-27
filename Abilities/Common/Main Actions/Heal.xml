@@ -1,5 +1,5 @@
 <ability>
-  <name>Heal</name>
+  <name></name>
   <metadata>
     <class>combat</class>
     <file_basename>Heal</file_basename>

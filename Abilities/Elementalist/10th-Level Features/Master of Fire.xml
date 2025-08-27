@@ -1,5 +1,5 @@
 <ability>
-  <name>Master of Fire</name>
+  <name></name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">The damage bonus of your Acolyte of Fire feature increases to +5 and applies to all your magic abilities.
+
 Additionally, your Return to Formlessness ability can be used on supernatural objects (but not on artifacts). When you melt a treasure (see Chapter 13: Rewards), you gain breath equal to its echelon.</effect>
   </effects>
 </ability>

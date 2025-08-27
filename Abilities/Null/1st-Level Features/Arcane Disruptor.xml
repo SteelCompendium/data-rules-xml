@@ -1,6 +1,5 @@
 <ability>
-  <name>Arcane Disruptor</name>
-  <cost>5 Discipline</cost>
+  <name></name>
   <flavor>Your blow reorders a foe&apos;s body, causing pain if they attempt to channel sorcery.</flavor>
   <keywords>
     <keyword>Melee</keyword>
@@ -39,9 +38,9 @@
   <effects>
     <effect type="roll">
       <roll>Power Roll + Agility</roll>
-      <t1>8 + A psychic damage; M &lt; WEAK, weakened (save ends)</t1>
-      <t2>12 + A psychic damage; M &lt; AVERAGE, weakened (save ends)</t2>
-      <t3>16 + A psychic damage; M &lt; STRONG, weakened (save ends)</t3>
+      <t1>8 + **A** psychic damage; M &lt; WEAK, weakened (save ends)</t1>
+      <t2>12 + **A** psychic damage; M &lt; AVERAGE, weakened (save ends)</t2>
+      <t3>16 + **A** psychic damage; M &lt; STRONG, weakened (save ends)</t3>
     </effect>
     <effect type="mundane" name="Effect">While weakened this way, the target takes damage equal to your Intuition score whenever they use a supernatural ability that costs Malice.</effect>
   </effects>

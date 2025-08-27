@@ -1,5 +1,5 @@
 <ability>
-  <name>Wyrding</name>
+  <name></name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>
@@ -16,6 +16,7 @@
   </metadata>
   <effects>
     <effect type="mundane">You can spend 10 uninterrupted minutes to create a freeform magic spell for a variety of situations. Choose one of the following magical effects:
+
 - You create a mundane object of a size equal to your Reason score or smaller.
 - You construct a place of shelter suitable for twenty creatures that lasts for 24 hours and can&apos;t be detected by enemies.
 - You restore all Stamina to a mundane object of a size equal to your Reason score or smaller.
