@@ -37,7 +37,7 @@
       <roll>Power Roll + Presence</roll>
       <t1>2 psychic damage; P &lt; WEAK, frightened (save ends)</t1>
       <t2>5 psychic damage; P &lt; AVERAGE, frightened (save ends)</t2>
-      <t3>7 damage; P &lt; STRONG, frightened (save ends)</t3>
+      <t3>7 psychic damage; P &lt; STRONG, frightened (save ends)</t3>
     </effect>
   </effects>
 </ability>

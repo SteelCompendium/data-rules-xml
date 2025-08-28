@@ -20,12 +20,12 @@
     <file_dpath>Tactician/9th-Level Features</file_dpath>
     <flavor>I had to pry this secret from the shadow colleges.</flavor>
     <item_id>squad-hit-and-run-11-focus</item_id>
-    <item_index>05</item_index>
+    <item_index>06</item_index>
     <item_name>Squad! Hit and Run! (11 Focus)</item_name>
     <keywords>Ranged</keywords>
     <level>9</level>
     <scc>mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad-hit-and-run-11-focus</scc>
-    <scdc>1.1.1:13.2.4.7:05</scdc>
+    <scdc>1.1.1:13.2.4.7:06</scdc>
     <source>mcdm.heroes.v1</source>
     <target>Self and two allies</target>
     <type>feature/ability/tactician/9th-level-feature</type>
