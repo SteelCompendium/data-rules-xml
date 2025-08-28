@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>It Was Me All Along</name>
+  <cost>11 Insight</cost>
   <flavor>After everything you&apos;ve been through together, you twist the blade and make the pain extra personal.</flavor>
   <keywords>
     <keyword>Melee</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Exothermic Shield</name>
+  <cost>9 Clarity</cost>
   <flavor>You encase the target in psionic flame and allow them to flicker without fear of burning out.</flavor>
   <keywords>
     <keyword>Pyrokinesis</keyword>

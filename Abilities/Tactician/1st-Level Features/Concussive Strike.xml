@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Concussive Strike</name>
+  <cost>3 Focus</cost>
   <flavor>Your precise strike leaves your foe struggling to respond.</flavor>
   <keywords>
     <keyword>Melee</keyword>

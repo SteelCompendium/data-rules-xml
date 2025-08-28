@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Gravitic Burst</name>
+  <cost>5 Clarity</cost>
   <flavor>Everyone get away from me!</flavor>
   <keywords>
     <keyword>Area</keyword>

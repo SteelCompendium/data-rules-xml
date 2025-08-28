@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Hammer and Anvil</name>
+  <cost>5 Focus</cost>
   <flavor>&quot;Let&apos;s not argue about who&apos;s the hammer and who&apos;s the anvil!&quot;</flavor>
   <keywords>
     <keyword>Melee</keyword>

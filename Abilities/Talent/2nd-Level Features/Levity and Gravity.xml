@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Levity and Gravity</name>
+  <cost>5 Clarity</cost>
   <flavor>You raise the target slightly into the air, then smother them against the ground.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

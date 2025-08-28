@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Staggering Blow</name>
+  <cost>7 Insight</cost>
   <flavor>There&apos;s no recovering from this.</flavor>
   <keywords>
     <keyword>Melee</keyword>

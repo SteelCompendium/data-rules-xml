@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Method Acting</name>
+  <cost>5 Drama</cost>
   <flavor>They&apos;re so hurt by your performance, you start to believe it yourself.</flavor>
   <keywords>
     <keyword>Melee</keyword>

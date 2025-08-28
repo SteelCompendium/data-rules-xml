@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Elemental Ferocity</name>
+  <cost>11 Ferocity</cost>
   <flavor>Your primordial energy makes for instant retribution.</flavor>
   <keywords>
     <keyword>Magic</keyword>

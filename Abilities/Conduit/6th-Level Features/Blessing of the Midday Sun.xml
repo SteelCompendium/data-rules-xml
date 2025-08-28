@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Blessing of the Midday Sun</name>
+  <cost>9 Piety</cost>
   <flavor>Your body emits a heat that bakes your enemies and inspires your allies.</flavor>
   <keywords>
     <keyword>Area</keyword>

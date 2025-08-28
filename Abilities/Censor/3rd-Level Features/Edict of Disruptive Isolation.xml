@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Edict of Disruptive Isolation</name>
+  <cost>7 Wrath</cost>
   <flavor>The evil within your foes detonates with holy fire that burns only the guilty.</flavor>
   <keywords>
     <keyword>Area</keyword>

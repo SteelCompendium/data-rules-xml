@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Stay Strong and Focus!</name>
+  <cost>7 Focus</cost>
   <flavor>&quot;We can do this! Keep faith and hold fast!&quot;</flavor>
   <keywords>
     <keyword>-</keyword>

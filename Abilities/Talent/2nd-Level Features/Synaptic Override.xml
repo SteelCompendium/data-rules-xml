@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Synaptic Override</name>
+  <cost>5 Clarity</cost>
   <flavor>You control an enemy&apos;s nervous system. How pleasant for them.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

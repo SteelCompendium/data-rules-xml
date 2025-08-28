@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Relentless Death</name>
+  <cost>11 Ferocity</cost>
   <flavor>You won&apos;t escape your fate.</flavor>
   <keywords>
     <keyword>Magic</keyword>

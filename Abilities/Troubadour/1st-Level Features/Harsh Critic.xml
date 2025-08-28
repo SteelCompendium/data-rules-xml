@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Harsh Critic</name>
+  <cost>3 Drama</cost>
   <flavor>Just one bad review will ruin their day.</flavor>
   <keywords>
     <keyword>Magic</keyword>

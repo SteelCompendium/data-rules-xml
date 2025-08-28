@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Banish</name>
+  <cost>11 Wrath</cost>
   <flavor>You sever the target&apos;s tenuous connection to the world.</flavor>
   <keywords>
     <keyword>Melee</keyword>

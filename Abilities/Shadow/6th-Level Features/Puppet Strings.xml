@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Puppet Strings</name>
+  <cost>9 Insight</cost>
   <flavor>You prick little needles on the tips of your fingers into the nerves of your enemies and cause them to lose control.</flavor>
   <keywords>
     <keyword>Magic</keyword>

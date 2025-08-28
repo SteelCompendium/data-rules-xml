@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Battle Augmentation</name>
   <metadata>
     <class>talent</class>
     <feature_type>trait</feature_type>

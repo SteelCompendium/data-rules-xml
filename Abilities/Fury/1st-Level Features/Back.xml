@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Back!</name>
+  <cost>3 Ferocity</cost>
   <flavor>You hew about you with your mighty weapon, hurling enemies backward.</flavor>
   <keywords>
     <keyword>Area</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Sentenced</name>
+  <cost>5 Wrath</cost>
   <flavor>The shock of your condemnation freezes your enemy in their boots.</flavor>
   <keywords>
     <keyword>Magic</keyword>

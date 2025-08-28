@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Cinderstorm</name>
+  <cost>9 Insight</cost>
   <flavor>You teleport your friends in a burst of ash and fire.</flavor>
   <keywords>
     <keyword>Magic</keyword>

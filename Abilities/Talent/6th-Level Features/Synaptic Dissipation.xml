@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Synaptic Dissipation</name>
+  <cost>9 Clarity</cost>
   <flavor>You manipulate your enemies&apos; minds and make them wonder if you were ever really there in the first place.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

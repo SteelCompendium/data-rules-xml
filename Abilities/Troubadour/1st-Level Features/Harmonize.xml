@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Harmonize</name>
+  <cost>3 Drama</cost>
   <flavor>Give the chorus a little punch.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

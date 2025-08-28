@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Fog of War</name>
+  <cost>5 Focus</cost>
   <flavor>Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

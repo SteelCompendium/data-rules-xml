@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Words of Wrath and Grace</name>
+  <cost>7 Piety</cost>
   <flavor>Your saint grants your enemies a vision of pain and fills your allies with healing energy.</flavor>
   <keywords>
     <keyword>Area</keyword>

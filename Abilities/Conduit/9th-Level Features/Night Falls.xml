@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Night Falls</name>
+  <cost>11 Piety</cost>
   <flavor>You summon darkness that thwarts only your foes.</flavor>
   <keywords>
     <keyword>Area</keyword>

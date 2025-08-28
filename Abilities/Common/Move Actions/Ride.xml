@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Ride</name>
   <metadata>
     <class>combat</class>
     <file_basename>Ride</file_basename>

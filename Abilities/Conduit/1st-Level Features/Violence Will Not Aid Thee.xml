@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Violence Will Not Aid Thee</name>
+  <cost>3 Piety</cost>
   <flavor>After some holy lightning, your enemy will think twice about their next attack.</flavor>
   <keywords>
     <keyword>Magic</keyword>

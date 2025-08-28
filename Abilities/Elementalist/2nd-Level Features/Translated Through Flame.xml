@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Translated Through Flame</name>
+  <cost>5 Essence</cost>
   <flavor>Your ally disappears, then reappears in a burst of fire.</flavor>
   <keywords>
     <keyword>Fire</keyword>

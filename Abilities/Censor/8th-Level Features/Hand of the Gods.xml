@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Hand of the Gods</name>
+  <cost>11 Wrath</cost>
   <flavor>You use your foe as a tool against your enemies.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

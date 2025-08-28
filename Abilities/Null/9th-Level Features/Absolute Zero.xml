@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Absolute Zero</name>
+  <cost>11 Discipline</cost>
   <flavor>You become the coldest thing in the timescape.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

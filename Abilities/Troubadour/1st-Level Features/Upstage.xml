@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Upstage</name>
+  <cost>3 Drama</cost>
   <flavor>As you bob and weave through the crowd, you can&apos;t help but leave the audience wanting more.</flavor>
   <keywords>
     <keyword>Melee</keyword>

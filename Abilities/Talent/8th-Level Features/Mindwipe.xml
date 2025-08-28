@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Mindwipe</name>
+  <cost>11 Clarity</cost>
   <flavor>You attempt to make them forget all their training.</flavor>
   <keywords>
     <keyword>Melee</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Faith Is Our Armor</name>
+  <cost>5 Piety</cost>
   <flavor>The heroes&apos; armor glows with golden light, granting divine protection.</flavor>
   <keywords>
     <keyword>Magic</keyword>

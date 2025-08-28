@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Maw of Earth</name>
+  <cost>7 Essence</cost>
   <flavor>You open up the ground, spewing out shrapnel of stone and debris.</flavor>
   <keywords>
     <keyword>Area</keyword>

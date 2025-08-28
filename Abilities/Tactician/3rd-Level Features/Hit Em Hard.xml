@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Hit &apos;Em Hard!</name>
+  <cost>7 Focus</cost>
   <flavor>Your allies see the advantages in attacking the targets you select.</flavor>
   <keywords>
     <keyword>-</keyword>

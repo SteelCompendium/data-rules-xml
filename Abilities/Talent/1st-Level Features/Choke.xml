@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Choke</name>
+  <cost>3 Clarity</cost>
   <flavor>You crush a foe in a telekinetic grip.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

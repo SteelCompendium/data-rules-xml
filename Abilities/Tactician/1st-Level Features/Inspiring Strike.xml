@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Inspiring Strike</name>
+  <cost>3 Focus</cost>
   <flavor>Your attack gives an ally hope.</flavor>
   <keywords>
     <keyword>Melee</keyword>

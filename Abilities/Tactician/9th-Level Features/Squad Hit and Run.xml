@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Squad! Hit and Run!</name>
+  <cost>11 Focus</cost>
   <flavor>I had to pry this secret from the shadow colleges.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

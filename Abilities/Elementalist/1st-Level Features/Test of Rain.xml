@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Test of Rain</name>
+  <cost>5 Essence</cost>
   <flavor>You call down a rain that burns your enemies and restores your allies.</flavor>
   <keywords>
     <keyword>Area</keyword>

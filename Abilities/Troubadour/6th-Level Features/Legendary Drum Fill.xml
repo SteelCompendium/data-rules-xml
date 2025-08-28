@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Legendary Drum Fill</name>
+  <cost>9 Drama</cost>
   <flavor>You start a drumroll that roars like thunder with every impact the heroes make.</flavor>
   <keywords>
     <keyword>Area</keyword>

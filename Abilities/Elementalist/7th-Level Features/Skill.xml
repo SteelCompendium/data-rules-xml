@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Skill</name>
   <metadata>
     <class>elementalist</class>
     <feature_type>trait</feature_type>

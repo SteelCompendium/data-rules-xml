@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Hypnotic Overtones</name>
+  <cost>3 Drama</cost>
   <flavor>You produce an entrancing note that twists the senses in a spectacular fashion.</flavor>
   <keywords>
     <keyword>Area</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Rejuvenate</name>
+  <cost>11 Clarity</cost>
   <flavor>You reshape the flow of time in the target&apos;s body to return it to an earlier state.</flavor>
   <keywords>
     <keyword>Chronopathy</keyword>

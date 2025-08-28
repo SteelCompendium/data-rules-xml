@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Instantaneous Excavation</name>
+  <cost>5 Essence</cost>
   <flavor>The surface of the world around you opens up to swallow foes.</flavor>
   <keywords>
     <keyword>Earth</keyword>

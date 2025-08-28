@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Death Rattle</name>
+  <cost>11 Ferocity</cost>
   <flavor>You unleash an otherworldly cry that rips through your enemies, killing the weakest of them.</flavor>
   <keywords>
     <keyword>Area</keyword>

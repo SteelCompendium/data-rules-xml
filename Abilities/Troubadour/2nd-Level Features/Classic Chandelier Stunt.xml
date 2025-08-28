@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Classic Chandelier Stunt</name>
+  <cost>5 Drama</cost>
   <flavor>Audiences love this bit.</flavor>
   <keywords>
     <keyword>Melee</keyword>

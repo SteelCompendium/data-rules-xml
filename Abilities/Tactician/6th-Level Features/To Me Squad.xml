@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>To Me Squad!</name>
+  <cost>9 Focus</cost>
   <flavor>You lead your allies in a charge.</flavor>
   <keywords>
     <keyword>Charge</keyword>

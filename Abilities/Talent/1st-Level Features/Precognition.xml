@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Precognition</name>
+  <cost>3 Clarity</cost>
   <flavor>You give a target a glimpse into the future so that they&apos;re ready for what comes next.</flavor>
   <keywords>
     <keyword>Chronopathy</keyword>

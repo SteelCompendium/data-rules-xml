@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Cacophony of Cinders</name>
+  <cost>11 Insight</cost>
   <flavor>You tumble through the battle, stabbing foes and teleporting allies.</flavor>
   <keywords>
     <keyword>Magic</keyword>

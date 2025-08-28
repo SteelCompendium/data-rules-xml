@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Spirit Stampede</name>
+  <cost>9 Piety</cost>
   <flavor>Animal spirits run through the battlefield, trampling your foes.</flavor>
   <keywords>
     <keyword>Area</keyword>

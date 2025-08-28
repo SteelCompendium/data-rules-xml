@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Black Ash Eruption</name>
+  <cost>9 Insight</cost>
   <flavor>Your attack produces a cloud of black ash that launches an enemy into the air.</flavor>
   <keywords>
     <keyword>Magic</keyword>

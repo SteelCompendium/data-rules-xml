@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Borrow From the Future</name>
+  <cost>11 Clarity</cost>
   <flavor>You lean on future heroism to assist you in the now.</flavor>
   <keywords>
     <keyword>Area</keyword>

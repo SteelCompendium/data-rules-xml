@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Radiance of Grace</name>
+  <cost>11 Piety</cost>
   <flavor>Intense light is emitted from your body, healing your allies.</flavor>
   <keywords>
     <keyword>Magic</keyword>

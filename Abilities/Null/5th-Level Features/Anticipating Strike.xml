@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Anticipating Strike</name>
+  <cost>9 Discipline</cost>
   <flavor>You suddenly strike an enemy, then grab them in a psionically enhanced grip.</flavor>
   <keywords>
     <keyword>Melee</keyword>

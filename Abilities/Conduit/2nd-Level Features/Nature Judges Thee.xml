@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Nature Judges Thee</name>
+  <cost>5 Piety</cost>
   <flavor>Mystical thorned vines appear at your bidding and bind your foes.</flavor>
   <keywords>
     <keyword>Area</keyword>

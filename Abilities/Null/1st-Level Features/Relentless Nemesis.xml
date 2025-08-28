@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Relentless Nemesis</name>
+  <cost>3 Discipline</cost>
   <flavor>You strike, and for the next few moments, your enemy can&apos;t escape you.</flavor>
   <keywords>
     <keyword>Melee</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Apostate</name>
+  <cost>11 Wrath</cost>
   <flavor>You channel holy energy to seal an enemy&apos;s fate.</flavor>
   <keywords>
     <keyword>Melee</keyword>

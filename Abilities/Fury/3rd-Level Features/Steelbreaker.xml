@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Steelbreaker</name>
+  <cost>7 Ferocity</cost>
   <flavor>See how useless their weapons are!</flavor>
   <keywords>
     <keyword>Magic</keyword>

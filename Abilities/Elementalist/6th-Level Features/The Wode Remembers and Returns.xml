@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>The Wode Remembers and Returns</name>
+  <cost>9 Essence</cost>
   <flavor>You create a terrarium that spans from canopy above to underbrush below.</flavor>
   <keywords>
     <keyword>Area</keyword>

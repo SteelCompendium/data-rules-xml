@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Absorption Field</name>
+  <cost>7 Discipline</cost>
   <flavor>Your null field absorbs kinetic energy.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

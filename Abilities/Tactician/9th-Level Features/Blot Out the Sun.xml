@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Blot Out the Sun!</name>
+  <cost>11 Focus</cost>
   <flavor>What makes a good soldier? The ability to fire four shots a minute in any weather.</flavor>
   <keywords>
     <keyword>Area</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Reap</name>
+  <cost>5 Piety</cost>
   <flavor>The gods reward those who smite their foes.</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Synaptic Reset</name>
+  <cost>9 Discipline</cost>
   <flavor>You expand your nullifying power to mitigate harmful effects.</flavor>
   <keywords>
     <keyword>Area</keyword>

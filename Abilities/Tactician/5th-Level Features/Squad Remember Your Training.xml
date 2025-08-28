@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Squad! Remember Your Training!</name>
+  <cost>9 Focus</cost>
   <flavor>You remind your allies how to best use their gear.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

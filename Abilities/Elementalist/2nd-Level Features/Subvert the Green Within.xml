@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Subvert the Green Within</name>
+  <cost>5 Essence</cost>
   <flavor>Fungal spores sprout inside your enemy&apos;s brain, allowing you to control their actions.</flavor>
   <keywords>
     <keyword>Green</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Alacrity of the Heart</name>
+  <cost>11 Piety</cost>
   <flavor>You speak inspiring words to a friend and spur them to incredible feats.</flavor>
   <keywords>
     <keyword>Magic</keyword>

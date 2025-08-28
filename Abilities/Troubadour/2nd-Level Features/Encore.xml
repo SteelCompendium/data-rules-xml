@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Encore</name>
+  <cost>5 Drama</cost>
   <flavor>Again! Again!</flavor>
   <keywords>
     <keyword>Magic</keyword>

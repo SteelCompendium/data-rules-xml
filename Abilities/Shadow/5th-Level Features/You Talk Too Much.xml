@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>You Talk Too Much</name>
+  <cost>9 Insight</cost>
   <flavor>Silence is a virtue. A knife pinning their mouth shut is the next best thing.</flavor>
   <keywords>
     <keyword>Melee</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Lauded by God</name>
+  <cost>9 Piety</cost>
   <flavor>You beseech the gods to give your allies what they need to win the day, and the gods answer.</flavor>
   <keywords>
     <keyword>Magic</keyword>

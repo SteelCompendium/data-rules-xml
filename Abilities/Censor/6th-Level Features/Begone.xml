@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Begone!</name>
+  <cost>9 Wrath</cost>
   <flavor>You terrify your enemies into retreating, creating chaos in their ranks.</flavor>
   <keywords>
     <keyword>Area</keyword>

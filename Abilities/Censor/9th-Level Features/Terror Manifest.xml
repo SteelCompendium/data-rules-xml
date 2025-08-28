@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Terror Manifest</name>
+  <cost>11 Wrath</cost>
   <flavor>&quot;I know what you fear.&quot;</flavor>
   <keywords>
     <keyword>Magic</keyword>

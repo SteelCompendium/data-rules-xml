@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Shadowfall</name>
+  <cost>9 Insight</cost>
   <flavor>You vanish. They fall. You reappear.</flavor>
   <keywords>
     <keyword>Area</keyword>

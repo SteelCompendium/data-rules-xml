@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Impart Force</name>
+  <cost>5 Discipline</cost>
   <flavor>A single touch from you, and your enemy flies backward.</flavor>
   <keywords>
     <keyword>Melee</keyword>

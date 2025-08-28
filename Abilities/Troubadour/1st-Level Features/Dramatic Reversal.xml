@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Dramatic Reversal</name>
+  <cost>5 Drama</cost>
   <flavor>Give the audience a surprise.</flavor>
   <keywords>
     <keyword>Area</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Sermon of Grace</name>
+  <cost>5 Piety</cost>
   <flavor>You inspire your allies with tales of your saint&apos;s great deeds.</flavor>
   <keywords>
     <keyword>Area</keyword>

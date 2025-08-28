@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Time Loop</name>
+  <cost>11 Discipline</cost>
   <flavor>You show shadows what true speed is.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

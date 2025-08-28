@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>O Flower Aid, O Earth Defend</name>
+  <cost>5 Essence</cost>
   <flavor>Revitalizing plants and jagged stones grow, helping allies and hindering foes.</flavor>
   <keywords>
     <keyword>Area</keyword>

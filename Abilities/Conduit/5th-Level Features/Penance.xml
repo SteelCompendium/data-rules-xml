@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Penance</name>
+  <cost>9 Piety</cost>
   <flavor>&quot;If you won&apos;t kneel, the gods will make you.&quot;</flavor>
   <keywords>
     <keyword>Area</keyword>

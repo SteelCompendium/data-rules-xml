@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Fate</name>
+  <cost>9 Clarity</cost>
   <flavor>Your foe gets a glimpse of how it will end for them.</flavor>
   <keywords>
     <keyword>Chronopathy</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Saint&apos;s Raiment</name>
+  <cost>7 Piety</cost>
   <flavor>An ally becomes the wearer of an empowered golden cloak.</flavor>
   <keywords>
     <keyword>Magic</keyword>

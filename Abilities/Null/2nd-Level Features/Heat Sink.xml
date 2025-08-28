@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Heat Sink</name>
+  <cost>5 Discipline</cost>
   <flavor>You absorb ambient heat, coating the ground in frost and precipitating snow from the air.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

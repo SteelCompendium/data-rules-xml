@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Go Now and Speed Well</name>
+  <cost>11 Focus</cost>
   <flavor>You direct an attack to strike true.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Make or Assist a Test</name>
   <metadata>
     <class>combat</class>
     <file_basename>Make or Assist a Test</file_basename>

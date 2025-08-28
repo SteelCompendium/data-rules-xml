@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>No More Than a Breeze</name>
+  <cost>5 Essence</cost>
   <flavor>The material substance of a creature shreds away at your command.</flavor>
   <keywords>
     <keyword>Magic</keyword>

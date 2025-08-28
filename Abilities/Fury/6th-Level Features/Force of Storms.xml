@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Force of Storms</name>
+  <cost>9 Ferocity</cost>
   <flavor>You strike an enemy hard enough to be a projectile that knocks a crowd of creatures around.</flavor>
   <keywords>
     <keyword>Melee</keyword>

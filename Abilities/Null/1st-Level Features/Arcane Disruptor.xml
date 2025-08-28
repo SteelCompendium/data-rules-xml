@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Arcane Disruptor</name>
+  <cost>5 Discipline</cost>
   <flavor>Your blow reorders a foe&apos;s body, causing pain if they attempt to channel sorcery.</flavor>
   <keywords>
     <keyword>Melee</keyword>

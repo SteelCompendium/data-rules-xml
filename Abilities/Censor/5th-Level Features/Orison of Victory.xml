@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Orison of Victory</name>
+  <cost>9 Wrath</cost>
   <flavor>You channel your god&apos;s will to overcome hardship and inflict pain.</flavor>
   <keywords>
     <keyword>Area</keyword>

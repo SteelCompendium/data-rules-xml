@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Erase</name>
+  <cost>7 Essence</cost>
   <flavor>With a flick of the wrist, you phase creatures out of existence.</flavor>
   <keywords>
     <keyword>Magic</keyword>

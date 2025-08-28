@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Thunder Roar</name>
+  <cost>5 Ferocity</cost>
   <flavor>You unleash a howl that hurls your enemies back.</flavor>
   <keywords>
     <keyword>Area</keyword>

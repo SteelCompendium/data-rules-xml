@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Gods Grant Thee Strength</name>
+  <cost>9 Wrath</cost>
   <flavor>You channel divine force for movement that cannot be stopped.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

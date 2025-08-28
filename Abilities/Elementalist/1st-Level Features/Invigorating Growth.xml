@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Invigorating Growth</name>
+  <cost>3 Essence</cost>
   <flavor>Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.</flavor>
   <keywords>
     <keyword>Green</keyword>

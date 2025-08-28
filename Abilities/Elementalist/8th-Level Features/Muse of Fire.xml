@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Muse of Fire</name>
+  <cost>11 Essence</cost>
   <flavor>The fire burns hot enough to sear the face of any god watching.</flavor>
   <keywords>
     <keyword>Area</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Get In Get Out</name>
+  <cost>3 Insight</cost>
   <flavor>Move unexpectedly, strike fast, and be gone!</flavor>
   <keywords>
     <keyword>Melee</keyword>

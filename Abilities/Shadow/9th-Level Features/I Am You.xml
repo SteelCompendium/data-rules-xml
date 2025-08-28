@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>I Am You</name>
+  <cost>11 Insight</cost>
   <flavor>Your mask reflects your foe&apos;s face. Surely they won&apos;t need it much longer.</flavor>
   <keywords>
     <keyword>Magic</keyword>

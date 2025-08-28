@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Conflagration</name>
+  <cost>5 Essence</cost>
   <flavor>A storm of fire descends upon your enemies.</flavor>
   <keywords>
     <keyword>Area</keyword>

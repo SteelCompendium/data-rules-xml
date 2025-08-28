@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Congregation</name>
+  <cost>9 Wrath</cost>
   <flavor>You focus your allies&apos; wrath on a chosen foe.</flavor>
   <keywords>
     <keyword>Melee</keyword>

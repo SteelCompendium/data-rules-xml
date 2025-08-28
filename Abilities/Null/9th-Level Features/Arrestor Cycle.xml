@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Arrestor Cycle</name>
+  <cost>11 Discipline</cost>
   <flavor>You trap your foe in a looping cycle of time, where they relive the last few seconds over and over again.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

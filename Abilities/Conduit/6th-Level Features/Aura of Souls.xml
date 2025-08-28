@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Aura of Souls</name>
+  <cost>9 Piety</cost>
   <flavor>A whirlwind of souls of the dead flies around you at your command.</flavor>
   <keywords>
     <keyword>Area</keyword>

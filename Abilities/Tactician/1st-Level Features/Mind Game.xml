@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Mind Game</name>
+  <cost>5 Focus</cost>
   <flavor>Your attack demoralizes your foe. Your allies begin to think you can win.</flavor>
   <keywords>
     <keyword>Melee</keyword>

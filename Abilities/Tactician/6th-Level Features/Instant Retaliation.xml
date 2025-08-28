@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Instant Retaliation</name>
+  <cost>9 Focus</cost>
   <flavor>You parry with almost supernatural speed.</flavor>
   <keywords>
     <keyword>Melee</keyword>

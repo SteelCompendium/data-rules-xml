@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>I&apos;ll Open and You&apos;ll Close</name>
+  <cost>11 Focus</cost>
   <flavor>You create an opening for an ally.</flavor>
   <keywords>
     <keyword>Melee</keyword>

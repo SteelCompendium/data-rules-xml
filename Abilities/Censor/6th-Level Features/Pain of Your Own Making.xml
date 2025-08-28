@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Pain of Your Own Making</name>
+  <cost>9 Wrath</cost>
   <flavor>You reverse the effects from an evildoer.</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Primordial Rage</name>
+  <cost>11 Ferocity</cost>
   <flavor>Your ferocity manifests into primordial power.</flavor>
   <keywords>
     <keyword>Magic</keyword>

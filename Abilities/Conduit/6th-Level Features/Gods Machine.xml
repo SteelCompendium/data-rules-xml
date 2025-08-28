@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Gods&apos; Machine</name>
+  <cost>9 Piety</cost>
   <flavor>You conjure a whirring tank made of blades and metal.</flavor>
   <keywords>
     <keyword>Magic</keyword>

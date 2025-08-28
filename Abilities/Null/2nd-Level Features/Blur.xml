@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Blur</name>
+  <cost>5 Discipline</cost>
   <flavor>You release stored time, allowing you to act twice.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

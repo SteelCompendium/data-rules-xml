@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Realitas</name>
+  <cost>11 Discipline</cost>
   <flavor>Your essential hyperreality disrupts your enemy&apos;s connection to existence.</flavor>
   <keywords>
     <keyword>Melee</keyword>

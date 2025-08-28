@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>The Gods Punish and Defend</name>
+  <cost>3 Wrath</cost>
   <flavor>You channel holy energy to smite a foe and heal an ally.</flavor>
   <keywords>
     <keyword>Magic</keyword>

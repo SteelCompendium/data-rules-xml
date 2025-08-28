@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Too Slow</name>
+  <cost>5 Insight</cost>
   <flavor>Your foe made a big mistake.</flavor>
   <keywords>
     <keyword>-</keyword>

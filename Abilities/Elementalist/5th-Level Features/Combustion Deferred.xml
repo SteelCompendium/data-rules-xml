@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Combustion Deferred</name>
+  <cost>9 Essence</cost>
   <flavor>Your flames dance from kindling to kindling to kindling.</flavor>
   <keywords>
     <keyword>Fire</keyword>

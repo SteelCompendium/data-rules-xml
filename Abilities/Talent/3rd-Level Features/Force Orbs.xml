@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Force Orbs</name>
+  <cost>7 Clarity</cost>
   <flavor>Spheres of solid psionic energy float around you.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

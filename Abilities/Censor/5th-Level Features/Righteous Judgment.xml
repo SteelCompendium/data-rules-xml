@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Righteous Judgment</name>
+  <cost>9 Wrath</cost>
   <flavor>You amplify the power of your judgment.</flavor>
   <keywords>
     <keyword>Melee</keyword>

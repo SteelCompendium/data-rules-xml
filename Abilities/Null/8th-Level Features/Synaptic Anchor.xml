@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Synaptic Anchor</name>
+  <cost>11 Discipline</cost>
   <flavor>You disrupt an enemy&apos;s strike and create a feedback loop in their mind, preventing them from focusing on future attacks.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Arcane Purge</name>
+  <cost>11 Discipline</cost>
   <flavor>You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.</flavor>
   <keywords>
     <keyword>Melee</keyword>

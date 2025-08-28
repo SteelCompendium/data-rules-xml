@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Iron Grip</name>
+  <cost>9 Discipline</cost>
   <flavor>You grab the target with supernatural force.</flavor>
   <keywords>
     <keyword>Melee</keyword>

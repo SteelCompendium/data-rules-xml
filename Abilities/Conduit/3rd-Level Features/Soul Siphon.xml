@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Soul Siphon</name>
+  <cost>7 Piety</cost>
   <flavor>A beam of energy connects a foe to a friend, draining life from one to heal the other.</flavor>
   <keywords>
     <keyword>Magic</keyword>

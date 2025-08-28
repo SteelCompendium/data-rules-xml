@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Shower of Blood</name>
+  <cost>11 Ferocity</cost>
   <flavor>You shock your foes with the brutality of your strike, resetting the balance of combat.</flavor>
   <keywords>
     <keyword>Melee</keyword>

@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Inertial Dampener</name>
   <metadata>
     <class>null</class>
     <feature_type>trait</feature_type>

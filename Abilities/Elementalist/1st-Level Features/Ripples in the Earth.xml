@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Ripples in the Earth</name>
+  <cost>3 Essence</cost>
   <flavor>Like a stone was dropped into a pond, waves in the earth radiate from you.</flavor>
   <keywords>
     <keyword>Area</keyword>

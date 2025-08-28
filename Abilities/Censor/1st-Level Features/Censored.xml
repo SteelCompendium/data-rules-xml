@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Censored</name>
+  <cost>5 Wrath</cost>
   <flavor>Judged and sentenced.</flavor>
   <keywords>
     <keyword>Melee</keyword>

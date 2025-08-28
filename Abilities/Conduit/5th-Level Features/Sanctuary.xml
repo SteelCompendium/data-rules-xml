@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Sanctuary</name>
+  <cost>9 Piety</cost>
   <flavor>You send yourself or an ally to a divine manifold to instantaneously regain health.</flavor>
   <keywords>
     <keyword>Magic</keyword>

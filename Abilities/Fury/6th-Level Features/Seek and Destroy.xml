@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Seek and Destroy</name>
+  <cost>9 Ferocity</cost>
   <flavor>You break through the enemy lines to make an example.</flavor>
   <keywords>
     <keyword>Melee</keyword>

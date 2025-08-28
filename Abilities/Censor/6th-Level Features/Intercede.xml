@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Intercede</name>
+  <cost>9 Wrath</cost>
   <flavor>You take your ally&apos;s place.</flavor>
   <keywords>
     <keyword>Magic</keyword>

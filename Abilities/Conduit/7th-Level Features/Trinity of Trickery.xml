@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Trinity of Trickery</name>
+  <cost>9 Piety</cost>
   <flavor>Hey! I&apos;m over here. No, here, numbskull.</flavor>
   <keywords>
     <keyword>Magic</keyword>

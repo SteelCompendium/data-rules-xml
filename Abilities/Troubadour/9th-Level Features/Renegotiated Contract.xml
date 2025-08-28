@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Renegotiated Contract</name>
+  <cost>11 Drama</cost>
   <flavor>No, no. You don&apos;t die until the sequel.</flavor>
   <keywords>
     <keyword>Melee</keyword>

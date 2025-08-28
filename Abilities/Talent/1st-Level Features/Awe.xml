@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Awe</name>
+  <cost>3 Clarity</cost>
   <flavor>You project psionic energy out to a creature and take on a new visage in their mind.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Out of the Way!</name>
+  <cost>3 Ferocity</cost>
   <flavor>Your enemies will clear your path-whether they want to or not.</flavor>
   <keywords>
     <keyword>Melee</keyword>

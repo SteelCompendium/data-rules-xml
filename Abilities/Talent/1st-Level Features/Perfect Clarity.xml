@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Perfect Clarity</name>
+  <cost>5 Clarity</cost>
   <flavor>You clear the mind of nothing but the goal.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

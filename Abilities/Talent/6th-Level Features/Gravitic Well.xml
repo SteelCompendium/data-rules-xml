@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Gravitic Well</name>
+  <cost>9 Clarity</cost>
   <flavor>You bend gravity into a fine point and pull your foes toward it.</flavor>
   <keywords>
     <keyword>Area</keyword>

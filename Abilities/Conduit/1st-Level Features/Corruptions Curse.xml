@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Corruption&apos;s Curse</name>
+  <cost>5 Piety</cost>
   <flavor>Cursed by you, your enemy takes more damage from your allies.</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Fight Choreography</name>
+  <cost>9 Drama</cost>
   <flavor>You and your partner make a flashy show of derring-do, then get back to your corners.</flavor>
   <keywords>
     <keyword>Melee</keyword>

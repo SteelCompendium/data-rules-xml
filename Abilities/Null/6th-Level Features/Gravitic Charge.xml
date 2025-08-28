@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Gravitic Charge</name>
+  <cost>9 Discipline</cost>
   <flavor>You channel your discipline into momentum that defies gravity.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

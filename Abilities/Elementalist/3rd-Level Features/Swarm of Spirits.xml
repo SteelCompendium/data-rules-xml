@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Swarm of Spirits</name>
+  <cost>7 Essence</cost>
   <flavor>Guardian animal spirits surround you to harry your foes and bolster your allies.</flavor>
   <keywords>
     <keyword>Area</keyword>

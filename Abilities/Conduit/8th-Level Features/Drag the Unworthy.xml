@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Drag the Unworthy</name>
+  <cost>11 Piety</cost>
   <flavor>You conjure an angel who moves a foe and heals your allies.</flavor>
   <keywords>
     <keyword>Magic</keyword>

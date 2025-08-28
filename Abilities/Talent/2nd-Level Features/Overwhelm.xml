@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Overwhelm</name>
+  <cost>5 Clarity</cost>
   <flavor>You overload their senses, turning all their subconscious thoughts into conscious ones.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

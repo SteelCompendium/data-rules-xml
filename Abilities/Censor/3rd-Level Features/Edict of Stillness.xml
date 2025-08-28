@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Edict of Stillness</name>
+  <cost>7 Wrath</cost>
   <flavor>The holy aura you project makes it painful for evil-doers to leave your reach.</flavor>
   <keywords>
     <keyword>Area</keyword>

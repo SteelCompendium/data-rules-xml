@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>It Is Justice You Fear</name>
+  <cost>5 Wrath</cost>
   <flavor>I am but a vessel. Your own deeds weigh upon you.</flavor>
   <keywords>
     <keyword>Magic</keyword>

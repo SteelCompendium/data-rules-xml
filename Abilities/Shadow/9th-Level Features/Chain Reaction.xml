@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Chain Reaction</name>
+  <cost>11 Insight</cost>
   <flavor>One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Squad! On Me!</name>
+  <cost>5 Focus</cost>
   <flavor>Together we are invincible!</flavor>
   <keywords>
     <keyword>Area</keyword>

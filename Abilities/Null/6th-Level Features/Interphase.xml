@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Interphase</name>
+  <cost>9 Discipline</cost>
   <flavor>You slip into a faster timestream to act more quickly.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

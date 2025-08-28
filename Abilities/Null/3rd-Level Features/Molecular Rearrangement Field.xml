@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Molecular Rearrangement Field</name>
+  <cost>7 Discipline</cost>
   <flavor>Your enemies&apos; wounds open, your allies&apos; wounds close.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

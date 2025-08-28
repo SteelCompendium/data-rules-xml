@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Epic</name>
+  <cost>11 Drama</cost>
   <flavor>Your story tells a tale of the villain&apos;s waning power and how the heroes rose to the occasion to stop them.</flavor>
   <keywords>
     <keyword>Magic</keyword>

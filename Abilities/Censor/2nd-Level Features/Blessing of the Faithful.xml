@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Blessing of the Faithful</name>
+  <cost>5 Wrath</cost>
   <flavor>The gods reward your faith.</flavor>
   <keywords>
     <keyword>Area</keyword>

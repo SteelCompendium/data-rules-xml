@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Heat Drain</name>
+  <cost>11 Discipline</cost>
   <flavor>You drain all the heat from the target.</flavor>
   <keywords>
     <keyword>Melee</keyword>

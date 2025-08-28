@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Blessing of Fate and Destiny</name>
+  <cost>5 Piety</cost>
   <flavor>Your enemies suffer their fate; your allies embrace their destiny!</flavor>
   <keywords>
     <keyword>Magic</keyword>

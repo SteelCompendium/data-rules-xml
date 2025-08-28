@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Stasis Field</name>
+  <cost>9 Clarity</cost>
   <flavor>Keep everything as it was. Ignore everything that will be.</flavor>
   <keywords>
     <keyword>Area</keyword>

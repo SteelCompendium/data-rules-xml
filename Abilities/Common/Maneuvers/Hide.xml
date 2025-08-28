@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Hide</name>
   <metadata>
     <class>combat</class>
     <file_basename>Hide</file_basename>

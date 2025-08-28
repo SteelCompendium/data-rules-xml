@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Feedback</name>
+  <cost>9 Drama</cost>
   <flavor>Your music pounds the crowd to the beat until their hearts can&apos;t stand it anymore.</flavor>
   <keywords>
     <keyword>Area</keyword>

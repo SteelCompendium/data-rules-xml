@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Impervious Touch</name>
   <metadata>
     <class>conduit</class>
     <feature_type>trait</feature_type>

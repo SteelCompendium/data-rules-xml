@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Arise!</name>
+  <cost>11 Piety</cost>
   <flavor>Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Clever Trick</name>
+  <cost>1 Insight</cost>
   <flavor>You sow a moment of confusion in combat, to your enemy&apos;s peril.</flavor>
   <keywords>
     <keyword>Magic</keyword>

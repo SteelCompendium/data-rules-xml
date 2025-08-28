@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Grand Strategy</name>
   <metadata>
     <class>tactician</class>
     <feature_type>trait</feature_type>

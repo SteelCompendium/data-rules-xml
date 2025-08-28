@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Steel</name>
+  <cost>11 Clarity</cost>
   <flavor>The target&apos;s skin becomes covered in tough metal.</flavor>
   <keywords>
     <keyword>Metamorphosis</keyword>

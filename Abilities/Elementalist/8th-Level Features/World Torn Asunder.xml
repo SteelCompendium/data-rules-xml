@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>World Torn Asunder</name>
+  <cost>11 Essence</cost>
   <flavor>You stomp your foot and quake the whole world over.</flavor>
   <keywords>
     <keyword>Area</keyword>

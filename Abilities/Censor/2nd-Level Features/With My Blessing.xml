@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>With My Blessing</name>
+  <cost>5 Wrath</cost>
   <flavor>A word in prayer, and the gods show the way.</flavor>
   <keywords>
     <keyword>Magic</keyword>

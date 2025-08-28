@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Rebounding Storm</name>
+  <cost>9 Ferocity</cost>
   <flavor>You knock around enemies like playthings.</flavor>
   <keywords>
     <keyword>Melee</keyword>

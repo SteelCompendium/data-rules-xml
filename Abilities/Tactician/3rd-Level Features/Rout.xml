@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Rout</name>
+  <cost>7 Focus</cost>
   <flavor>The tide begins to turn.</flavor>
   <keywords>
     <keyword>-</keyword>

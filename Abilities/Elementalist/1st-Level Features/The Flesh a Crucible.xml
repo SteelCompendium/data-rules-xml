@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>The Flesh, a Crucible</name>
+  <cost>3 Essence</cost>
   <flavor>Fire engulfs your target and continues to churn.</flavor>
   <keywords>
     <keyword>Fire</keyword>

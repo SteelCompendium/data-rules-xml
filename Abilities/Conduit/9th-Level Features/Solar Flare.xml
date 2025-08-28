@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Solar Flare</name>
+  <cost>11 Piety</cost>
   <flavor>You call down a sphere of fire that burns your foes to ash.</flavor>
   <keywords>
     <keyword>Area</keyword>

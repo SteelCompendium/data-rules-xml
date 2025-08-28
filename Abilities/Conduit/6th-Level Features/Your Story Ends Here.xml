@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Your Story Ends Here</name>
+  <cost>9 Piety</cost>
   <flavor>You bend the fate of a foe, willing them to die.</flavor>
   <keywords>
     <keyword>Magic</keyword>

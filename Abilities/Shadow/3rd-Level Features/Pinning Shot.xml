@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Pinning Shot</name>
+  <cost>7 Insight</cost>
   <flavor>One missile-placed well and placed hard.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>This Is What We Planned For</name>
+  <cost>5 Focus</cost>
   <flavor>All those coordination drills you made them do finally pay off.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

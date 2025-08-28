@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Statue of Power</name>
+  <cost>5 Piety</cost>
   <flavor>A marble statue of your deity rises from the earth.</flavor>
   <keywords>
     <keyword>Magic</keyword>

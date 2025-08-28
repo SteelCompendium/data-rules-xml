@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Avalanche Impact</name>
+  <cost>9 Ferocity</cost>
   <flavor>You leap and crash down, causing a shockwave that devastates foes.</flavor>
   <keywords>
     <keyword>Magic</keyword>

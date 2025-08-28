@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Guest Star</name>
+  <cost>5 Drama</cost>
   <flavor>We offered them a percentage of the gross. So they&apos;re working for free!</flavor>
   <keywords>
     <keyword>Magic</keyword>

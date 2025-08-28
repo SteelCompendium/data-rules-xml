@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Sacred Bond</name>
+  <cost>5 Piety</cost>
   <flavor>You forge a divine connection between two creatures.</flavor>
   <keywords>
     <keyword>Magic</keyword>

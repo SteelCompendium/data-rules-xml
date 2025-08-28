@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Edict of Perfect Order</name>
+  <cost>7 Wrath</cost>
   <flavor>Within the area of your divine presence, your enemies will regret using their fell abilities.</flavor>
   <keywords>
     <keyword>Area</keyword>

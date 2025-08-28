@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Phase Leap</name>
+  <cost>9 Discipline</cost>
   <flavor>You leap beyond reality, leaving an afterimage of yourself.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

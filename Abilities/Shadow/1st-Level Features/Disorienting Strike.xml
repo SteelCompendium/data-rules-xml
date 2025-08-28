@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Disorienting Strike</name>
+  <cost>3 Insight</cost>
   <flavor>Your attack leaves them reeling, allowing you to follow up.</flavor>
   <keywords>
     <keyword>Melee</keyword>

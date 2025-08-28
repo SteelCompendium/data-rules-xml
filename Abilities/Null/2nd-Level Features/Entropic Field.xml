@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Entropic Field</name>
+  <cost>5 Discipline</cost>
   <flavor>You drastically increase the local entropy.</flavor>
   <keywords>
     <keyword>Area</keyword>

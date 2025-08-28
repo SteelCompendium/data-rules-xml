@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Characteristic Increase</name>
   <metadata>
     <class>talent</class>
     <feature_type>trait</feature_type>

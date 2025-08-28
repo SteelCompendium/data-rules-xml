@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Here&apos;s How Your Story Ends</name>
+  <cost>9 Drama</cost>
   <flavor>You give away the ending of this battle, and it&apos;s not great for them.</flavor>
   <keywords>
     <keyword>Area</keyword>

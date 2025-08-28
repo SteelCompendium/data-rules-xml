@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Battle Plan</name>
+  <cost>9 Focus</cost>
   <flavor>With new understanding of your foes, you create the perfect plan to win the battle.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

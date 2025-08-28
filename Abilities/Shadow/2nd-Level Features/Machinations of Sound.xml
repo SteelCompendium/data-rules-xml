@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Machinations of Sound</name>
+  <cost>5 Insight</cost>
   <flavor>Illusory sounds make your foes reposition themselves as they cower or investigate the disturbance.</flavor>
   <keywords>
     <keyword>Area</keyword>

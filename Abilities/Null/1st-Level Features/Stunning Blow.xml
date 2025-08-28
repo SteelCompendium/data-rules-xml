@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Stunning Blow</name>
+  <cost>3 Discipline</cost>
   <flavor>You focus your psionic technique into a concussive punch.</flavor>
   <keywords>
     <keyword>Melee</keyword>

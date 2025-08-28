@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Wall of Fire</name>
+  <cost>7 Essence</cost>
   <flavor>A blazing, beautifully organized inferno erupts at your command.</flavor>
   <keywords>
     <keyword>Area</keyword>

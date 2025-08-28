@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>In a Puff of Ash</name>
+  <cost>5 Insight</cost>
   <flavor>You enchant a strike with your teleportation magic.</flavor>
   <keywords>
     <keyword>Magic</keyword>

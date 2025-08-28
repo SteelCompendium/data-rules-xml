@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Expert Fencer</name>
+  <cost>11 Drama</cost>
   <flavor>If you can land the strike, the crowd goes wild.</flavor>
   <keywords>
     <keyword>Charge</keyword>

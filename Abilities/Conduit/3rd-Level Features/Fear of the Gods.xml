@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Fear of the Gods</name>
+  <cost>7 Piety</cost>
   <flavor>Your divine magic makes a creature appear as what your enemies fear most.</flavor>
   <keywords>
     <keyword>Area</keyword>

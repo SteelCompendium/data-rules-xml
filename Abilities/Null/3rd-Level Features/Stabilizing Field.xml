@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Stabilizing Field</name>
+  <cost>7 Discipline</cost>
   <flavor>You project order, making it harder for your enemies to interfere with you and your allies.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

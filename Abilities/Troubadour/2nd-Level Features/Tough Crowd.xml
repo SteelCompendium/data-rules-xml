@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Tough Crowd</name>
+  <cost>5 Drama</cost>
   <flavor>Your fans don&apos;t seem to like the opening act...</flavor>
   <keywords>
     <keyword>Area</keyword>

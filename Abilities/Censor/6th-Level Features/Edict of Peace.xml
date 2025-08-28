@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Edict of Peace</name>
+  <cost>9 Wrath</cost>
   <flavor>You anticipate your foes&apos; moves and deny them.</flavor>
   <keywords>
     <keyword>Area</keyword>

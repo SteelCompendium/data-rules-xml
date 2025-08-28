@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Driving Assault</name>
+  <cost>3 Wrath</cost>
   <flavor>As you force your enemy back with your weapon, you use your faith to stay close.</flavor>
   <keywords>
     <keyword>Melee</keyword>

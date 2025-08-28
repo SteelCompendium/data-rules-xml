@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Invocation of Undoing</name>
+  <cost>9 Piety</cost>
   <flavor>You utter a secret word of destruction known only to deities.</flavor>
   <keywords>
     <keyword>Area</keyword>

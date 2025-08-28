@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Scalar Assault</name>
+  <cost>11 Discipline</cost>
   <flavor>You warp reality to grow a limb for just a moment and make a single devastating attack.</flavor>
   <keywords>
     <keyword>Area</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Death Comes for You All!</name>
+  <cost>11 Ferocity</cost>
   <flavor>You use your weapon to create a destructive shockwave.</flavor>
   <keywords>
     <keyword>Area</keyword>

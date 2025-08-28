@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Panic in Their Lines</name>
+  <cost>9 Focus</cost>
   <flavor>You confuse your foes, causing them to turn on each other.</flavor>
   <keywords>
     <keyword>Melee</keyword>

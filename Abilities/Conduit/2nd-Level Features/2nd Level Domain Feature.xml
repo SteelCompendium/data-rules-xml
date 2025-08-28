@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>2nd-Level Domain Feature</name>
   <metadata>
     <class>conduit</class>
     <feature_type>trait</feature_type>

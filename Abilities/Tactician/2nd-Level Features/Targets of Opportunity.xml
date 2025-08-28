@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Targets of Opportunity</name>
+  <cost>5 Focus</cost>
   <flavor>You point out easy targets to your friends, allowing them to include more enemies in their attacks.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

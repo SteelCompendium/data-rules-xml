@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Two Throats at Once</name>
+  <cost>3 Insight</cost>
   <flavor>A bargain.</flavor>
   <keywords>
     <keyword>Melee</keyword>

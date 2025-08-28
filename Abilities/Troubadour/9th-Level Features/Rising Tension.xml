@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Rising Tension</name>
+  <cost>11 Drama</cost>
   <flavor>You narrate the tension of the scene and put all hope into your protagonist to turn things around.</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Tide of Death</name>
+  <cost>3 Ferocity</cost>
   <flavor>Teach them the folly of lining up for you.</flavor>
   <keywords>
     <keyword>Melee</keyword>

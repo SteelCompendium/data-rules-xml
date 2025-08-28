@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Hypersonic</name>
+  <cost>9 Clarity</cost>
   <flavor>You move fast enough to turn around and watch your foes feel the aftermath.</flavor>
   <keywords>
     <keyword>Area</keyword>

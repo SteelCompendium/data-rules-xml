@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>One Hundred Throats</name>
+  <cost>5 Insight</cost>
   <flavor>As you move across the battlefield, every foe within reach feels your wrath.</flavor>
   <keywords>
     <keyword>Melee</keyword>

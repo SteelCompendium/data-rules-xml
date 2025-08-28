@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Squad! Gear Check!</name>
+  <cost>9 Focus</cost>
   <flavor>You distract a foe while your allies secure their defensive gear.</flavor>
   <keywords>
     <keyword>Melee</keyword>

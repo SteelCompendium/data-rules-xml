@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Greater Kinetic Grip</name>
+  <cost>9 Clarity</cost>
   <flavor>You raise the target into the air without breaking a sweat.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Word of Weakening</name>
+  <cost>11 Piety</cost>
   <flavor>You utter a divine word that makes a foe brittle.</flavor>
   <keywords>
     <keyword>Magic</keyword>

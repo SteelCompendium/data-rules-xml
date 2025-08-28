@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Unquenchable Fire</name>
+  <cost>11 Essence</cost>
   <flavor>You let fly a fiery missile braided with pure primal energy.</flavor>
   <keywords>
     <keyword>Fire</keyword>

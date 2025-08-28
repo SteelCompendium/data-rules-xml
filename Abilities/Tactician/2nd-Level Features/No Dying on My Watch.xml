@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>No Dying on My Watch</name>
+  <cost>5 Focus</cost>
   <flavor>You prioritize saving an ally over your own safety.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

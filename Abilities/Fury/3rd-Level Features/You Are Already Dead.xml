@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>You Are Already Dead</name>
+  <cost>7 Ferocity</cost>
   <flavor>Slash. Walk away.</flavor>
   <keywords>
     <keyword>Melee</keyword>

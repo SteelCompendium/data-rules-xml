@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Revelator</name>
+  <cost>5 Wrath</cost>
   <flavor>You channel holy energy to harm unbelievers and reveal those hidden from your judgment.</flavor>
   <keywords>
     <keyword>Area</keyword>

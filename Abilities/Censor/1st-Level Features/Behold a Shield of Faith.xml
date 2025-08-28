@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Behold a Shield of Faith!</name>
+  <cost>3 Wrath</cost>
   <flavor>A mighty blow turns your foe&apos;s vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.</flavor>
   <keywords>
     <keyword>Melee</keyword>

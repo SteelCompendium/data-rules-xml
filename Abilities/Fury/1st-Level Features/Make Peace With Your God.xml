@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Make Peace With Your God!</name>
+  <cost>5 Ferocity</cost>
   <flavor>Anger is your energy.</flavor>
   <keywords>
     <keyword>-</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Blessing and a Curse</name>
+  <cost>11 Wrath</cost>
   <flavor>The gods bless and damn in equal measure.</flavor>
   <keywords>
     <keyword>Magic</keyword>

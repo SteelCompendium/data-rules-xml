@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Fake Your Death</name>
+  <cost>5 Drama</cost>
   <flavor>O happy dagger, this is thy sheath!</flavor>
   <keywords>
     <keyword>Magic</keyword>

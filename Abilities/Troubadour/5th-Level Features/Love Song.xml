@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Love Song</name>
+  <cost>9 Drama</cost>
   <flavor>You play a small ditty that plants you inside your target&apos;s heart.</flavor>
   <keywords>
     <keyword>Magic</keyword>

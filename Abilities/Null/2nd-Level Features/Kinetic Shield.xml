@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Kinetic Shield</name>
+  <cost>5 Discipline</cost>
   <flavor>You manifest a force barrier that absorbs incoming kinetic energy.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

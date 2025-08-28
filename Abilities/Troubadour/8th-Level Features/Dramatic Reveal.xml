@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Dramatic Reveal</name>
+  <cost>11 Drama</cost>
   <flavor>A little stage trickery, and where once stood a foe, now stands a friend!</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Behold the Face of Justice!</name>
+  <cost>5 Wrath</cost>
   <flavor>You attack a foe and your enemies behold a vision of the true nature of your resolve.</flavor>
   <keywords>
     <keyword>Magic</keyword>

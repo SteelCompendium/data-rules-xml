@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Bend Fate</name>
+  <cost>11 Piety</cost>
   <flavor>The gods know you must prevail, and they bless your fate.</flavor>
   <keywords>
     <keyword>Magic</keyword>

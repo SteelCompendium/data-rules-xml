@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Font of Wrath</name>
+  <cost>3 Piety</cost>
   <flavor>A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.</flavor>
   <keywords>
     <keyword>Magic</keyword>

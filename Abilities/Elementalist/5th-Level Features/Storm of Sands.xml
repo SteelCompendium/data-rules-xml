@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Storm of Sands</name>
+  <cost>9 Essence</cost>
   <flavor>Dirt and debris swirl into a dark, pulsing hurricane.</flavor>
   <keywords>
     <keyword>Area</keyword>

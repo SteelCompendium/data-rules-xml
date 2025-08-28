@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Stasis Shield</name>
+  <cost>3 Clarity</cost>
   <flavor>You freeze time just long enough to bring the victim to safety!</flavor>
   <keywords>
     <keyword>Psionic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Shadowstrike</name>
+  <cost>5 Insight</cost>
   <flavor>They have no idea what the college taught you.</flavor>
   <keywords>
     <keyword>Magic</keyword>

@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Beacon of Grace</name>
+  <cost>9 Piety</cost>
   <flavor>You ignite a foe with holy radiance, rewarding allies who attack them.</flavor>
   <keywords>
     <keyword>Magic</keyword>

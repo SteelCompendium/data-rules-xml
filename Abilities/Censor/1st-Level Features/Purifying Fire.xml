@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Purifying Fire</name>
+  <cost>5 Wrath</cost>
   <flavor>The gods judge, fire cleanses.</flavor>
   <keywords>
     <keyword>Magic</keyword>

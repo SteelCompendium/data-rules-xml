@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Setup</name>
+  <cost>5 Insight</cost>
   <flavor>Your friends will thank you.</flavor>
   <keywords>
     <keyword>Ranged</keyword>

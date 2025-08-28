@@ -1,5 +1,6 @@
 <ability>
-  <name></name>
+  <name>Inertial Absorption</name>
+  <cost>11 Discipline</cost>
   <flavor>You absorb an attack to empower your body.</flavor>
   <keywords>
     <keyword>Psionic</keyword>

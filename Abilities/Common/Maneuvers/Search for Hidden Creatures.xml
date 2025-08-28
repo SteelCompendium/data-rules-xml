@@ -1,5 +1,5 @@
 <ability>
-  <name></name>
+  <name>Search for Hidden Creatures</name>
   <metadata>
     <class>combat</class>
     <file_basename>Search for Hidden Creatures</file_basename>
