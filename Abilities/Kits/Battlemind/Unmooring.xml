@@ -24,6 +24,7 @@
     <keywords>Psionic</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Battlemind</kit>
     <scc>mcdm.heroes.v1:kit-ability.battlemind:unmooring</scc>
     <scdc>1.1.1:14.3:01</scdc>
     <source>mcdm.heroes.v1</source>

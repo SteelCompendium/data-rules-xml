@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Panther</kit>
     <scc>mcdm.heroes.v1:kit-ability.panther:devastating-rush</scc>
     <scdc>1.1.1:14.14:01</scdc>
     <source>mcdm.heroes.v1</source>

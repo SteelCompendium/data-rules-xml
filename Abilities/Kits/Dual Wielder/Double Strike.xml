@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Dual Wielder</kit>
     <scc>mcdm.heroes.v1:kit-ability.dual-wielder:double-strike</scc>
     <scdc>1.1.1:14.19:01</scdc>
     <source>mcdm.heroes.v1</source>

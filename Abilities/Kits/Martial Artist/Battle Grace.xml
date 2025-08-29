@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Martial Artist</kit>
     <scc>mcdm.heroes.v1:kit-ability.martial-artist:battle-grace</scc>
     <scdc>1.1.1:14.16:01</scdc>
     <source>mcdm.heroes.v1</source>

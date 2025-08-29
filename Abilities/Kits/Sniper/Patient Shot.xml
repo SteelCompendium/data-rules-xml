@@ -22,6 +22,7 @@
     <keywords>Ranged</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Sniper</kit>
     <scc>mcdm.heroes.v1:kit-ability.sniper:patient-shot</scc>
     <scdc>1.1.1:14.10:01</scdc>
     <source>mcdm.heroes.v1</source>

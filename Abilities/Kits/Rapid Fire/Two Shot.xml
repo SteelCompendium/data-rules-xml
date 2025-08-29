@@ -22,6 +22,7 @@
     <keywords>Ranged</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Rapid Fire</kit>
     <scc>mcdm.heroes.v1:kit-ability.rapid-fire:two-shot</scc>
     <scdc>1.1.1:14.13:01</scdc>
     <source>mcdm.heroes.v1</source>

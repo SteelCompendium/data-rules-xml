@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Pugilist</kit>
     <scc>mcdm.heroes.v1:kit-ability.pugilist:lets-dance</scc>
     <scdc>1.1.1:14.15:01</scdc>
     <source>mcdm.heroes.v1</source>

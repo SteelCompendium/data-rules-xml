@@ -24,6 +24,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Spellsword</kit>
     <scc>mcdm.heroes.v1:kit-ability.spellsword:leaping-lightning</scc>
     <scdc>1.1.1:14.20:01</scdc>
     <source>mcdm.heroes.v1</source>

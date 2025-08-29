@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Whirlwind</kit>
     <scc>mcdm.heroes.v1:kit-ability.whirlwind:extension-of-my-arm</scc>
     <scdc>1.1.1:14.9:01</scdc>
     <source>mcdm.heroes.v1</source>

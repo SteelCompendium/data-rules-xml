@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Shining Armor</kit>
     <scc>mcdm.heroes.v1:kit-ability.shining-armor:protective-attack</scc>
     <scdc>1.1.1:14.17:01</scdc>
     <source>mcdm.heroes.v1</source>

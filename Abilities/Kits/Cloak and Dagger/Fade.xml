@@ -24,6 +24,7 @@
     <keywords>Ranged</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Cloak and Dagger</kit>
     <scc>mcdm.heroes.v1:kit-ability.cloak-and-dagger:fade</scc>
     <scdc>1.1.1:14.6:01</scdc>
     <source>mcdm.heroes.v1</source>

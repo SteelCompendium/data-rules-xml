@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Retiarius</kit>
     <scc>mcdm.heroes.v1:kit-ability.retiarius:net-and-stab</scc>
     <scdc>1.1.1:14.2:01</scdc>
     <source>mcdm.heroes.v1</source>

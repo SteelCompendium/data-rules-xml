@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Sword and Board</kit>
     <scc>mcdm.heroes.v1:kit-ability.sword-and-board:shield-bash</scc>
     <scdc>1.1.1:14.4:01</scdc>
     <source>mcdm.heroes.v1</source>

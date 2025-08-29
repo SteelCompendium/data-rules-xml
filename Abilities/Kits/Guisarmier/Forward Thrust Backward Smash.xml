@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Guisarmier</kit>
     <scc>mcdm.heroes.v1:kit-ability.guisarmier:forward-thrust-backward-smash</scc>
     <scdc>1.1.1:14.7:01</scdc>
     <source>mcdm.heroes.v1</source>

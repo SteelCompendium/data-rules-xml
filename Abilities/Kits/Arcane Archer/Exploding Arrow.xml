@@ -24,6 +24,7 @@
     <keywords>Ranged</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Arcane Archer</kit>
     <scc>mcdm.heroes.v1:kit-ability.arcane-archer:exploding-arrow</scc>
     <scdc>1.1.1:14.1:01</scdc>
     <source>mcdm.heroes.v1</source>

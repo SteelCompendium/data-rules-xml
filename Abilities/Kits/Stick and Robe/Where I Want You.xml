@@ -22,6 +22,7 @@
     <keywords>Melee</keywords>
     <keywords>Strike</keywords>
     <keywords>Weapon</keywords>
+    <kit>Stick and Robe</kit>
     <scc>mcdm.heroes.v1:kit-ability.stick-and-robe:where-i-want-you</scc>
     <scdc>1.1.1:14.21:01</scdc>
     <source>mcdm.heroes.v1</source>
