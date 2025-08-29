@@ -8,7 +8,7 @@
     <item_index>01</item_index>
     <item_name>Defend</item_name>
     <scc>mcdm.heroes.v1:common-ability.main-action:defend</scc>
-    <scdc>1.1.1:14.1:01</scdc>
+    <scdc>1.1.1:15.1:01</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common-ability/main-action</type>
   </metadata>

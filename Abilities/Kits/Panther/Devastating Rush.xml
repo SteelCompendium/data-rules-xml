@@ -1,0 +1,40 @@
+<ability>
+  <name>Devastating Rush</name>
+  <flavor>The faster you move, the harder you hit.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 1</distance>
+    <file_basename>Devastating Rush</file_basename>
+    <file_dpath>Abilities/Kits/Panther</file_dpath>
+    <flavor>The faster you move, the harder you hit.</flavor>
+    <item_id>devastating-rush</item_id>
+    <item_index>01</item_index>
+    <item_name>Devastating Rush</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.panther:devastating-rush</scc>
+    <scdc>1.1.1:14.14:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature or object</target>
+    <type>kit-ability/panther</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might or Agility</roll>
+      <t1>3 + M or A damage</t1>
+      <t2>6 + M or A damage</t2>
+      <t3>13 + M or A damage</t3>
+    </effect>
+    <effect type="mundane" name="Effect">You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.</effect>
+  </effects>
+</ability>

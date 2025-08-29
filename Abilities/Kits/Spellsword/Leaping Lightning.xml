@@ -1,0 +1,42 @@
+<ability>
+  <name>Leaping Lightning</name>
+  <flavor>Lightning jumps from your weapon as you strike to harm a nearby foe.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 1</distance>
+    <file_basename>Leaping Lightning</file_basename>
+    <file_dpath>Abilities/Kits/Spellsword</file_dpath>
+    <flavor>Lightning jumps from your weapon as you strike to harm a nearby foe.</flavor>
+    <item_id>leaping-lightning</item_id>
+    <item_index>01</item_index>
+    <item_name>Leaping Lightning</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.spellsword:leaping-lightning</scc>
+    <scdc>1.1.1:14.20:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature or object</target>
+    <type>kit-ability/spellsword</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might, Reason, Intuition, or Presence</roll>
+      <t1>5 + M, R, I, or P lightning damage</t1>
+      <t2>8 + M, R, I, or P lightning damage</t2>
+      <t3>11 + M, R, I, or P lightning damage</t3>
+    </effect>
+    <effect type="mundane" name="Effect">A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability&apos;s power roll.</effect>
+  </effects>
+</ability>

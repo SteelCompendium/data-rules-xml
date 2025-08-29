@@ -8,7 +8,7 @@
     <item_index>04</item_index>
     <item_name>Search for Hidden Creatures</item_name>
     <scc>mcdm.heroes.v1:common-ability.maneuver:search-for-hidden-creatures</scc>
-    <scdc>1.1.1:14.3:04</scdc>
+    <scdc>1.1.1:15.3:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common-ability/maneuver</type>
   </metadata>

@@ -8,7 +8,7 @@
     <item_index>02</item_index>
     <item_name>Catch Breath</item_name>
     <scc>mcdm.heroes.v1:common-ability.maneuver:catch-breath</scc>
-    <scdc>1.1.1:14.3:02</scdc>
+    <scdc>1.1.1:15.3:02</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common-ability/maneuver</type>
   </metadata>

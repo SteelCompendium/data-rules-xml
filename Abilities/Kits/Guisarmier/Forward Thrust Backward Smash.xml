@@ -1,0 +1,39 @@
+<ability>
+  <name>Forward Thrust, Backward Smash</name>
+  <flavor>In your hands, the haft is as good as the head.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 2</distance>
+  <target>Two creatures or objects</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 2</distance>
+    <file_basename>Forward Thrust Backward Smash</file_basename>
+    <file_dpath>Abilities/Kits/Guisarmier</file_dpath>
+    <flavor>In your hands, the haft is as good as the head.</flavor>
+    <item_id>forward-thrust-backward-smash</item_id>
+    <item_index>01</item_index>
+    <item_name>Forward Thrust, Backward Smash</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.guisarmier:forward-thrust-backward-smash</scc>
+    <scdc>1.1.1:14.7:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>Two creatures or objects</target>
+    <type>kit-ability/guisarmier</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might or Agility</roll>
+      <t1>4 damage</t1>
+      <t2>7 damage</t2>
+      <t3>9 damage</t3>
+    </effect>
+  </effects>
+</ability>

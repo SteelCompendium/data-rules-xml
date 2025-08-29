@@ -1,0 +1,40 @@
+<ability>
+  <name>Battle Grace</name>
+  <flavor>You feint to move your enemies into perfect position.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 1</distance>
+    <file_basename>Battle Grace</file_basename>
+    <file_dpath>Abilities/Kits/Martial Artist</file_dpath>
+    <flavor>You feint to move your enemies into perfect position.</flavor>
+    <item_id>battle-grace</item_id>
+    <item_index>01</item_index>
+    <item_name>Battle Grace</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.martial-artist:battle-grace</scc>
+    <scdc>1.1.1:14.16:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature</target>
+    <type>kit-ability/martial-artist</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might or Agility</roll>
+      <t1>5 + M or A damage</t1>
+      <t2>8 + M or A damage; you can swap places with the target</t2>
+      <t3>11 + M or A damage; you can swap places with the target</t3>
+    </effect>
+    <effect type="mundane" name="Effect">If you obtain a tier 2 or tier 3 outcome and can&apos;t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.</effect>
+  </effects>
+</ability>

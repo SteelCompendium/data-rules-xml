@@ -8,7 +8,7 @@
     <item_index>10</item_index>
     <item_name>Grab</item_name>
     <scc>mcdm.heroes.v1:common-ability.maneuver:grab</scc>
-    <scdc>1.1.1:14.3:10</scdc>
+    <scdc>1.1.1:15.3:10</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common-ability/maneuver</type>
   </metadata>

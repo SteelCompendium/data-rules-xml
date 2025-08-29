@@ -1,0 +1,42 @@
+<ability>
+  <name>Unmooring</name>
+  <flavor>Your weapon unleashes psionic energy that reduces your target&apos;s weight.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Psionic</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 1</distance>
+    <file_basename>Unmooring</file_basename>
+    <file_dpath>Abilities/Kits/Battlemind</file_dpath>
+    <flavor>Your weapon unleashes psionic energy that reduces your target&apos;s weight.</flavor>
+    <item_id>unmooring</item_id>
+    <item_index>01</item_index>
+    <item_name>Unmooring</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Psionic</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.battlemind:unmooring</scc>
+    <scdc>1.1.1:14.3:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature</target>
+    <type>kit-ability/battlemind</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might, Reason, Intuition, or Presence</roll>
+      <t1>5 + M, R, I, or P damage</t1>
+      <t2>8 + M, R, I, or P damage</t2>
+      <t3>11 + M, R, I, or P damage</t3>
+    </effect>
+    <effect type="mundane" name="Effect">Until the end of the target&apos;s next turn, any forced movement that affects the target has its distance increased by 2.</effect>
+  </effects>
+</ability>

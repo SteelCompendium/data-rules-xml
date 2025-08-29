@@ -1,0 +1,42 @@
+<ability>
+  <name>Weakening Brand</name>
+  <flavor>The impact of your weapon brands your target for destruction.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 1</distance>
+    <file_basename>Weakening Brand</file_basename>
+    <file_dpath>Abilities/Kits/Warrior Priest</file_dpath>
+    <flavor>The impact of your weapon brands your target for destruction.</flavor>
+    <item_id>weakening-brand</item_id>
+    <item_index>01</item_index>
+    <item_name>Weakening Brand</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.warrior-priest:weakening-brand</scc>
+    <scdc>1.1.1:14.11:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature or object</target>
+    <type>kit-ability/warrior-priest</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might, Reason, Intuition, or Presence</roll>
+      <t1>3 + M, R, I, or P holy damage</t1>
+      <t2>5 + M, R, I, or P holy damage</t2>
+      <t3>8 + M, R, I, or P holy damage</t3>
+    </effect>
+    <effect type="mundane" name="Effect">Until the end of the target&apos;s next turn, they have damage weakness equal to the characteristic score used for this ability&apos;s power roll.</effect>
+  </effects>
+</ability>

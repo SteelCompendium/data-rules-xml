@@ -1,0 +1,42 @@
+<ability>
+  <name>Exploding Arrow</name>
+  <flavor>Your ammunition explodes with magical energy.</flavor>
+  <keywords>
+    <keyword>Magic</keyword>
+    <keyword>Ranged</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Ranged 15</distance>
+  <target>One creature or object</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Ranged 15</distance>
+    <file_basename>Exploding Arrow</file_basename>
+    <file_dpath>Abilities/Kits/Arcane Archer</file_dpath>
+    <flavor>Your ammunition explodes with magical energy.</flavor>
+    <item_id>exploding-arrow</item_id>
+    <item_index>01</item_index>
+    <item_name>Exploding Arrow</item_name>
+    <keywords>Magic</keywords>
+    <keywords>Ranged</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.arcane-archer:exploding-arrow</scc>
+    <scdc>1.1.1:14.1:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature or object</target>
+    <type>kit-ability/arcane-archer</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Agility, Reason, Intuition, or Presence</roll>
+      <t1>5 + A, R, I, or P fire damage</t1>
+      <t2>7 + A, R, I, or P fire damage</t2>
+      <t3>10 + A, R, I, or P fire damage</t3>
+    </effect>
+    <effect type="mundane" name="Effect">One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability&apos;s power roll.</effect>
+  </effects>
+</ability>

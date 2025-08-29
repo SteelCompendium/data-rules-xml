@@ -8,7 +8,7 @@
     <item_index>04</item_index>
     <item_name>Free Strike</item_name>
     <scc>mcdm.heroes.v1:common-ability.main-action:free-strike</scc>
-    <scdc>1.1.1:14.1:04</scdc>
+    <scdc>1.1.1:15.1:04</scdc>
     <source>mcdm.heroes.v1</source>
     <type>common-ability/main-action</type>
   </metadata>

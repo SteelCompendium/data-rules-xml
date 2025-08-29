@@ -1,0 +1,40 @@
+<ability>
+  <name>Let&apos;s Dance</name>
+  <flavor>Keeping your enemies stumbling around the battlefield is second nature to you.</flavor>
+  <keywords>
+    <keyword>Melee</keyword>
+    <keyword>Strike</keyword>
+    <keyword>Weapon</keyword>
+  </keywords>
+  <type>Main action</type>
+  <distance>Melee 1</distance>
+  <target>One creature</target>
+  <metadata>
+    <action_type>Main action</action_type>
+    <class>ignored</class>
+    <distance>Melee 1</distance>
+    <file_basename>Lets Dance</file_basename>
+    <file_dpath>Abilities/Kits/Pugilist</file_dpath>
+    <flavor>Keeping your enemies stumbling around the battlefield is second nature to you.</flavor>
+    <item_id>lets-dance</item_id>
+    <item_index>01</item_index>
+    <item_name>Let&apos;s Dance</item_name>
+    <keywords>Melee</keywords>
+    <keywords>Strike</keywords>
+    <keywords>Weapon</keywords>
+    <scc>mcdm.heroes.v1:kit-ability.pugilist:lets-dance</scc>
+    <scdc>1.1.1:14.15:01</scdc>
+    <source>mcdm.heroes.v1</source>
+    <target>One creature</target>
+    <type>kit-ability/pugilist</type>
+  </metadata>
+  <effects>
+    <effect type="roll">
+      <roll>Power Roll + Might or Agility</roll>
+      <t1>3 + M or A damage</t1>
+      <t2>6 + M or A damage; slide 1</t2>
+      <t3>8 + M or A damage; slide 2</t3>
+    </effect>
+    <effect type="mundane" name="Effect">You can shift into any square the target leaves after you slide them.</effect>
+  </effects>
+</ability>

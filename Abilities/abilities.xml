@@ -9,7 +9,7 @@
       <item_index>02</item_index>
       <item_name>Heal</item_name>
       <scc>mcdm.heroes.v1:common-ability.main-action:heal</scc>
-      <scdc>1.1.1:14.1:02</scdc>
+      <scdc>1.1.1:15.1:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/main-action</type>
     </metadata>
@@ -27,7 +27,7 @@
       <item_index>04</item_index>
       <item_name>Free Strike</item_name>
       <scc>mcdm.heroes.v1:common-ability.main-action:free-strike</scc>
-      <scdc>1.1.1:14.1:04</scdc>
+      <scdc>1.1.1:15.1:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/main-action</type>
     </metadata>
@@ -45,7 +45,7 @@
       <item_index>01</item_index>
       <item_name>Defend</item_name>
       <scc>mcdm.heroes.v1:common-ability.main-action:defend</scc>
-      <scdc>1.1.1:14.1:01</scdc>
+      <scdc>1.1.1:15.1:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/main-action</type>
     </metadata>
@@ -63,7 +63,7 @@
       <item_index>03</item_index>
       <item_name>Charge</item_name>
       <scc>mcdm.heroes.v1:common-ability.main-action:charge</scc>
-      <scdc>1.1.1:14.1:03</scdc>
+      <scdc>1.1.1:15.1:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/main-action</type>
     </metadata>
@@ -83,7 +83,7 @@
       <item_index>03</item_index>
       <item_name>Ride</item_name>
       <scc>mcdm.heroes.v1:common-ability.move-action:ride</scc>
-      <scdc>1.1.1:14.2:03</scdc>
+      <scdc>1.1.1:15.2:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/move-action</type>
     </metadata>
@@ -101,7 +101,7 @@
       <item_index>01</item_index>
       <item_name>Disengage</item_name>
       <scc>mcdm.heroes.v1:common-ability.move-action:disengage</scc>
-      <scdc>1.1.1:14.2:01</scdc>
+      <scdc>1.1.1:15.2:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/move-action</type>
     </metadata>
@@ -119,7 +119,7 @@
       <item_index>02</item_index>
       <item_name>Advance</item_name>
       <scc>mcdm.heroes.v1:common-ability.move-action:advance</scc>
-      <scdc>1.1.1:14.2:02</scdc>
+      <scdc>1.1.1:15.2:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/move-action</type>
     </metadata>
@@ -137,7 +137,7 @@
       <item_index>03</item_index>
       <item_name>Stand Up</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:stand-up</scc>
-      <scdc>1.1.1:14.3:03</scdc>
+      <scdc>1.1.1:15.3:03</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -155,7 +155,7 @@
       <item_index>8</item_index>
       <item_name>Escape Grab</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:escape-grab</scc>
-      <scdc>1.1.1:14.3:08</scdc>
+      <scdc>1.1.1:15.3:08</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -188,7 +188,7 @@
       <item_index>04</item_index>
       <item_name>Search for Hidden Creatures</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:search-for-hidden-creatures</scc>
-      <scdc>1.1.1:14.3:04</scdc>
+      <scdc>1.1.1:15.3:04</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -206,7 +206,7 @@
       <item_index>06</item_index>
       <item_name>Aid Attack</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:aid-attack</scc>
-      <scdc>1.1.1:14.3:06</scdc>
+      <scdc>1.1.1:15.3:06</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -224,7 +224,7 @@
       <item_index>9</item_index>
       <item_name>Hide</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:hide</scc>
-      <scdc>1.1.1:14.3:09</scdc>
+      <scdc>1.1.1:15.3:09</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -242,7 +242,7 @@
       <item_index>10</item_index>
       <item_name>Grab</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:grab</scc>
-      <scdc>1.1.1:14.3:10</scdc>
+      <scdc>1.1.1:15.3:10</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -276,7 +276,7 @@
       <item_index>02</item_index>
       <item_name>Catch Breath</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:catch-breath</scc>
-      <scdc>1.1.1:14.3:02</scdc>
+      <scdc>1.1.1:15.3:02</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -296,7 +296,7 @@
       <item_index>01</item_index>
       <item_name>Make or Assist a Test</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:make-or-assist-a-test</scc>
-      <scdc>1.1.1:14.3:01</scdc>
+      <scdc>1.1.1:15.3:01</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -316,7 +316,7 @@
       <item_index>05</item_index>
       <item_name>Knockback</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:knockback</scc>
-      <scdc>1.1.1:14.3:05</scdc>
+      <scdc>1.1.1:15.3:05</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -348,7 +348,7 @@
       <item_index>07</item_index>
       <item_name>Use Consumable</item_name>
       <scc>mcdm.heroes.v1:common-ability.maneuver:use-consumable</scc>
-      <scdc>1.1.1:14.3:07</scdc>
+      <scdc>1.1.1:15.3:07</scdc>
       <source>mcdm.heroes.v1</source>
       <type>common-ability/maneuver</type>
     </metadata>
@@ -26379,6 +26379,850 @@
     </metadata>
     <effects>
       <effect type="mundane">Your Agility score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Exploding Arrow</name>
+    <flavor>Your ammunition explodes with magical energy.</flavor>
+    <keywords>
+      <keyword>Magic</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 15</distance>
+    <target>One creature or object</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Ranged 15</distance>
+      <file_basename>Exploding Arrow</file_basename>
+      <file_dpath>Abilities/Kits/Arcane Archer</file_dpath>
+      <flavor>Your ammunition explodes with magical energy.</flavor>
+      <item_id>exploding-arrow</item_id>
+      <item_index>01</item_index>
+      <item_name>Exploding Arrow</item_name>
+      <keywords>Magic</keywords>
+      <keywords>Ranged</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.arcane-archer:exploding-arrow</scc>
+      <scdc>1.1.1:14.1:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature or object</target>
+      <type>kit-ability/arcane-archer</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Agility, Reason, Intuition, or Presence</roll>
+        <t1>5 + A, R, I, or P fire damage</t1>
+        <t2>7 + A, R, I, or P fire damage</t2>
+        <t3>10 + A, R, I, or P fire damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability&apos;s power roll.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Net and Stab</name>
+    <flavor>The well-thrown net that follows your main attack leaves your foes right where you want them.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 2</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 2</distance>
+      <file_basename>Net and Stab</file_basename>
+      <file_dpath>Abilities/Kits/Retiarius</file_dpath>
+      <flavor>The well-thrown net that follows your main attack leaves your foes right where you want them.</flavor>
+      <item_id>net-and-stab</item_id>
+      <item_index>01</item_index>
+      <item_name>Net and Stab</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.retiarius:net-and-stab</scc>
+      <scdc>1.1.1:14.2:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/retiarius</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 + M or A damage; A &lt; WEAK, slowed (EoT)</t1>
+        <t2>6 + M or A damage; A &lt; AVERAGE, slowed (EoT)</t2>
+        <t3>8 + M or A damage; A &lt; STRONG, restrained (EoT)</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Unmooring</name>
+    <flavor>Your weapon unleashes psionic energy that reduces your target&apos;s weight.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Psionic</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Unmooring</file_basename>
+      <file_dpath>Abilities/Kits/Battlemind</file_dpath>
+      <flavor>Your weapon unleashes psionic energy that reduces your target&apos;s weight.</flavor>
+      <item_id>unmooring</item_id>
+      <item_index>01</item_index>
+      <item_name>Unmooring</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Psionic</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.battlemind:unmooring</scc>
+      <scdc>1.1.1:14.3:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/battlemind</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might, Reason, Intuition, or Presence</roll>
+        <t1>5 + M, R, I, or P damage</t1>
+        <t2>8 + M, R, I, or P damage</t2>
+        <t3>11 + M, R, I, or P damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">Until the end of the target&apos;s next turn, any forced movement that affects the target has its distance increased by 2.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Shield Bash</name>
+    <flavor>In your hands, a shield isn&apos;t just for protection.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Shield Bash</file_basename>
+      <file_dpath>Abilities/Kits/Sword and Board</file_dpath>
+      <flavor>In your hands, a shield isn&apos;t just for protection.</flavor>
+      <item_id>shield-bash</item_id>
+      <item_index>01</item_index>
+      <item_name>Shield Bash</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.sword-and-board:shield-bash</scc>
+      <scdc>1.1.1:14.4:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/sword-and-board</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 + M or A damage; push 1</t1>
+        <t2>7 + M or A damage; push 2</t2>
+        <t3>9 + M or A damage; push 3; M &lt; STRONG, prone</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Raider&apos;s Awe</name>
+    <flavor>You execute a brutal strike that leaves your foe reeling. (Previously known as &quot;Shock and Awe&quot;)</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1 or ranged 10</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1 or ranged 10</distance>
+      <file_basename>Raiders Awe</file_basename>
+      <file_dpath>Abilities/Kits/Raider</file_dpath>
+      <flavor>You execute a brutal strike that leaves your foe reeling. (Previously known as &quot;Shock and Awe&quot;)</flavor>
+      <item_id>raiders-awe</item_id>
+      <item_index>01</item_index>
+      <item_name>Raider&apos;s Awe</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Ranged</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.raider:raiders-awe</scc>
+      <scdc>1.1.1:14.5:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/raider</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage</t1>
+        <t2>6 + M or A damage</t2>
+        <t3>8 + M or A damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">The target takes a bane on their next power roll made before the end of their next turn.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Fade</name>
+    <flavor>A stab, and a few quick, careful steps back.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1 or ranged 10</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1 or ranged 10</distance>
+      <file_basename>Fade</file_basename>
+      <file_dpath>Abilities/Kits/Cloak and Dagger</file_dpath>
+      <flavor>A stab, and a few quick, careful steps back.</flavor>
+      <item_id>fade</item_id>
+      <item_index>01</item_index>
+      <item_name>Fade</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Ranged</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.cloak-and-dagger:fade</scc>
+      <scdc>1.1.1:14.6:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/cloak-and-dagger</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage; you can shift 1 square</t1>
+        <t2>6 + M or A damage; you can shift up to 2 squares</t2>
+        <t3>8 + M or A damage; you can shift up to 3 squares</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Forward Thrust, Backward Smash</name>
+    <flavor>In your hands, the haft is as good as the head.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 2</distance>
+    <target>Two creatures or objects</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 2</distance>
+      <file_basename>Forward Thrust Backward Smash</file_basename>
+      <file_dpath>Abilities/Kits/Guisarmier</file_dpath>
+      <flavor>In your hands, the haft is as good as the head.</flavor>
+      <item_id>forward-thrust-backward-smash</item_id>
+      <item_index>01</item_index>
+      <item_name>Forward Thrust, Backward Smash</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.guisarmier:forward-thrust-backward-smash</scc>
+      <scdc>1.1.1:14.7:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>Two creatures or objects</target>
+      <type>kit-ability/guisarmier</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 damage</t1>
+        <t2>7 damage</t2>
+        <t3>9 damage</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Fancy Footwork</name>
+    <flavor>All combat is a dance-and you&apos;ll be the one leading.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Fancy Footwork</file_basename>
+      <file_dpath>Abilities/Kits/Swashbuckler</file_dpath>
+      <flavor>All combat is a dance-and you&apos;ll be the one leading.</flavor>
+      <item_id>fancy-footwork</item_id>
+      <item_index>01</item_index>
+      <item_name>Fancy Footwork</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.swashbuckler:fancy-footwork</scc>
+      <scdc>1.1.1:14.8:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/swashbuckler</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>5 + M or A damage</t1>
+        <t2>7 + M or A damage; push 1</t2>
+        <t3>10 + M or A damage; push 2</t3>
+      </effect>
+      <effect type="mundane" name="Effect">You can shift into any square the target leaves after you push them.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Extension of My Arm</name>
+    <flavor>When you draw your whip back after an attack, your enemy is drawn ever closer.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 3</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 3</distance>
+      <file_basename>Extension of My Arm</file_basename>
+      <file_dpath>Abilities/Kits/Whirlwind</file_dpath>
+      <flavor>When you draw your whip back after an attack, your enemy is drawn ever closer.</flavor>
+      <item_id>extension-of-my-arm</item_id>
+      <item_index>01</item_index>
+      <item_name>Extension of My Arm</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.whirlwind:extension-of-my-arm</scc>
+      <scdc>1.1.1:14.9:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/whirlwind</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 + M or A damage; vertical pull 1</t1>
+        <t2>7 + M or A damage; vertical pull 2</t2>
+        <t3>10 + M or A damage; vertical pull 3</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Patient Shot</name>
+    <flavor>Breathe... aim... wait... then strike!</flavor>
+    <keywords>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 15</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Ranged 15</distance>
+      <file_basename>Patient Shot</file_basename>
+      <file_dpath>Abilities/Kits/Sniper</file_dpath>
+      <flavor>Breathe... aim... wait... then strike!</flavor>
+      <item_id>patient-shot</item_id>
+      <item_index>01</item_index>
+      <item_name>Patient Shot</item_name>
+      <keywords>Ranged</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.sniper:patient-shot</scc>
+      <scdc>1.1.1:14.10:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/sniper</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage</t1>
+        <t2>6 + M or A damage</t2>
+        <t3>13 + M or A damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">If you don&apos;t take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Weakening Brand</name>
+    <flavor>The impact of your weapon brands your target for destruction.</flavor>
+    <keywords>
+      <keyword>Magic</keyword>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature or object</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Weakening Brand</file_basename>
+      <file_dpath>Abilities/Kits/Warrior Priest</file_dpath>
+      <flavor>The impact of your weapon brands your target for destruction.</flavor>
+      <item_id>weakening-brand</item_id>
+      <item_index>01</item_index>
+      <item_name>Weakening Brand</item_name>
+      <keywords>Magic</keywords>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.warrior-priest:weakening-brand</scc>
+      <scdc>1.1.1:14.11:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature or object</target>
+      <type>kit-ability/warrior-priest</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might, Reason, Intuition, or Presence</roll>
+        <t1>3 + M, R, I, or P holy damage</t1>
+        <t2>5 + M, R, I, or P holy damage</t2>
+        <t3>8 + M, R, I, or P holy damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">Until the end of the target&apos;s next turn, they have damage weakness equal to the characteristic score used for this ability&apos;s power roll.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Hamstring Shot</name>
+    <flavor>A well-placed shot leaves your enemy struggling to move.</flavor>
+    <keywords>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 10</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Ranged 10</distance>
+      <file_basename>Hamstring Shot</file_basename>
+      <file_dpath>Abilities/Kits/Ranger</file_dpath>
+      <flavor>A well-placed shot leaves your enemy struggling to move.</flavor>
+      <item_id>hamstring-shot</item_id>
+      <item_index>01</item_index>
+      <item_name>Hamstring Shot</item_name>
+      <keywords>Ranged</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.ranger:hamstring-shot</scc>
+      <scdc>1.1.1:14.12:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/ranger</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage; A &lt; WEAK, slowed (save ends)</t1>
+        <t2>5 + M or A damage; A &lt; AVERAGE, slowed (save ends)</t2>
+        <t3>7 + M or A damage; A &lt; STRONG, slowed (save ends)</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Two Shot</name>
+    <flavor>When you fire two arrows back-to-back, both hit their mark.</flavor>
+    <keywords>
+      <keyword>Ranged</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Ranged 12</distance>
+    <target>Two creatures or objects</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Ranged 12</distance>
+      <file_basename>Two Shot</file_basename>
+      <file_dpath>Abilities/Kits/Rapid Fire</file_dpath>
+      <flavor>When you fire two arrows back-to-back, both hit their mark.</flavor>
+      <item_id>two-shot</item_id>
+      <item_index>01</item_index>
+      <item_name>Two Shot</item_name>
+      <keywords>Ranged</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.rapid-fire:two-shot</scc>
+      <scdc>1.1.1:14.13:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>Two creatures or objects</target>
+      <type>kit-ability/rapid-fire</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 damage</t1>
+        <t2>6 damage</t2>
+        <t3>8 damage</t3>
+      </effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Devastating Rush</name>
+    <flavor>The faster you move, the harder you hit.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature or object</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Devastating Rush</file_basename>
+      <file_dpath>Abilities/Kits/Panther</file_dpath>
+      <flavor>The faster you move, the harder you hit.</flavor>
+      <item_id>devastating-rush</item_id>
+      <item_index>01</item_index>
+      <item_name>Devastating Rush</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.panther:devastating-rush</scc>
+      <scdc>1.1.1:14.14:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature or object</target>
+      <type>kit-ability/panther</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage</t1>
+        <t2>6 + M or A damage</t2>
+        <t3>13 + M or A damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Let&apos;s Dance</name>
+    <flavor>Keeping your enemies stumbling around the battlefield is second nature to you.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Lets Dance</file_basename>
+      <file_dpath>Abilities/Kits/Pugilist</file_dpath>
+      <flavor>Keeping your enemies stumbling around the battlefield is second nature to you.</flavor>
+      <item_id>lets-dance</item_id>
+      <item_index>01</item_index>
+      <item_name>Let&apos;s Dance</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.pugilist:lets-dance</scc>
+      <scdc>1.1.1:14.15:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/pugilist</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage</t1>
+        <t2>6 + M or A damage; slide 1</t2>
+        <t3>8 + M or A damage; slide 2</t3>
+      </effect>
+      <effect type="mundane" name="Effect">You can shift into any square the target leaves after you slide them.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Battle Grace</name>
+    <flavor>You feint to move your enemies into perfect position.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Battle Grace</file_basename>
+      <file_dpath>Abilities/Kits/Martial Artist</file_dpath>
+      <flavor>You feint to move your enemies into perfect position.</flavor>
+      <item_id>battle-grace</item_id>
+      <item_index>01</item_index>
+      <item_name>Battle Grace</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.martial-artist:battle-grace</scc>
+      <scdc>1.1.1:14.16:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/martial-artist</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>5 + M or A damage</t1>
+        <t2>8 + M or A damage; you can swap places with the target</t2>
+        <t3>11 + M or A damage; you can swap places with the target</t3>
+      </effect>
+      <effect type="mundane" name="Effect">If you obtain a tier 2 or tier 3 outcome and can&apos;t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Protective Attack</name>
+    <flavor>The strength of your assault makes it impossible for your foe to ignore you.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Protective Attack</file_basename>
+      <file_dpath>Abilities/Kits/Shining Armor</file_dpath>
+      <flavor>The strength of your assault makes it impossible for your foe to ignore you.</flavor>
+      <item_id>protective-attack</item_id>
+      <item_index>01</item_index>
+      <item_name>Protective Attack</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.shining-armor:protective-attack</scc>
+      <scdc>1.1.1:14.17:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/shining-armor</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>5 + M or A damage</t1>
+        <t2>8 + M or A damage</t2>
+        <t3>11 + M or A damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">The target is taunted until the end of their next turn.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Pain for Pain</name>
+    <flavor>An enemy who tagged you will pay for that.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Pain for Pain</file_basename>
+      <file_dpath>Abilities/Kits/Mountain</file_dpath>
+      <flavor>An enemy who tagged you will pay for that.</flavor>
+      <item_id>pain-for-pain</item_id>
+      <item_index>01</item_index>
+      <item_name>Pain for Pain</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.mountain:pain-for-pain</scc>
+      <scdc>1.1.1:14.18:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/mountain</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>3 + M or A damage</t1>
+        <t2>5 + M or A damage</t2>
+        <t3>13 + M or A damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Double Strike</name>
+    <flavor>Why strike once when you could do it twice?</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>Two creatures or objects</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Double Strike</file_basename>
+      <file_dpath>Abilities/Kits/Dual Wielder</file_dpath>
+      <flavor>Why strike once when you could do it twice?</flavor>
+      <item_id>double-strike</item_id>
+      <item_index>01</item_index>
+      <item_name>Double Strike</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.dual-wielder:double-strike</scc>
+      <scdc>1.1.1:14.19:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>Two creatures or objects</target>
+      <type>kit-ability/dual-wielder</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 damage</t1>
+        <t2>6 damage</t2>
+        <t3>8 damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Leaping Lightning</name>
+    <flavor>Lightning jumps from your weapon as you strike to harm a nearby foe.</flavor>
+    <keywords>
+      <keyword>Magic</keyword>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 1</distance>
+    <target>One creature or object</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 1</distance>
+      <file_basename>Leaping Lightning</file_basename>
+      <file_dpath>Abilities/Kits/Spellsword</file_dpath>
+      <flavor>Lightning jumps from your weapon as you strike to harm a nearby foe.</flavor>
+      <item_id>leaping-lightning</item_id>
+      <item_index>01</item_index>
+      <item_name>Leaping Lightning</item_name>
+      <keywords>Magic</keywords>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.spellsword:leaping-lightning</scc>
+      <scdc>1.1.1:14.20:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature or object</target>
+      <type>kit-ability/spellsword</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might, Reason, Intuition, or Presence</roll>
+        <t1>5 + M, R, I, or P lightning damage</t1>
+        <t2>8 + M, R, I, or P lightning damage</t2>
+        <t3>11 + M, R, I, or P lightning damage</t3>
+      </effect>
+      <effect type="mundane" name="Effect">A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability&apos;s power roll.</effect>
+    </effects>
+  </ability>
+  <ability>
+    <name>Where I Want You</name>
+    <flavor>When your stick speaks, your enemy moves.</flavor>
+    <keywords>
+      <keyword>Melee</keyword>
+      <keyword>Strike</keyword>
+      <keyword>Weapon</keyword>
+    </keywords>
+    <type>Main action</type>
+    <distance>Melee 2</distance>
+    <target>One creature</target>
+    <metadata>
+      <action_type>Main action</action_type>
+      <class>ignored</class>
+      <distance>Melee 2</distance>
+      <file_basename>Where I Want You</file_basename>
+      <file_dpath>Abilities/Kits/Stick and Robe</file_dpath>
+      <flavor>When your stick speaks, your enemy moves.</flavor>
+      <item_id>where-i-want-you</item_id>
+      <item_index>01</item_index>
+      <item_name>Where I Want You</item_name>
+      <keywords>Melee</keywords>
+      <keywords>Strike</keywords>
+      <keywords>Weapon</keywords>
+      <scc>mcdm.heroes.v1:kit-ability.stick-and-robe:where-i-want-you</scc>
+      <scdc>1.1.1:14.21:01</scdc>
+      <source>mcdm.heroes.v1</source>
+      <target>One creature</target>
+      <type>kit-ability/stick-and-robe</type>
+    </metadata>
+    <effects>
+      <effect type="roll">
+        <roll>Power Roll + Might or Agility</roll>
+        <t1>4 + M or A damage</t1>
+        <t2>7 + M or A damage; slide 1</t2>
+        <t3>10 + M or A damage; slide 3</t3>
+      </effect>
     </effects>
   </ability>
   <ability>
